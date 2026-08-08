@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Data cut-off for initialization: **2026-08-07**
+Updated through: **2026-08-09**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -20,6 +20,11 @@ Data cut-off for initialization: **2026-08-07**
 | C-TC260-DEPLOY | C1 | 全国网络安全标准化技术委员会 | 智能体部署使用安全指引 | https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b8219733 |
 | C-CAC-FILING-2026 | C0 | 国家网信办 | 生成式人工智能服务备案进展 | https://www.cac.gov.cn/2026-05/13/c_1780413225190669.htm |
 | C-SAMR-GOV-FRAME | C0 | 国家标准计划 | 智能体模型治理框架 | https://std.samr.gov.cn/gb/search/gbDetailedCNF?id=5130AE68D4E318C5E06397BE0A0A65C3 |
+| C-CAICT-ASL | C1 | 中国信息通信研究院 | 智能体安全可信互连协议 ASL | https://gma.caict.ac.cn/plat/cttl-t/caict-jointly-release-ai-agent-secure-trusted-interconnection-protocol |
+| C-AIIA | C2 | 中国人工智能产业发展联盟 | 多智能体协同、智能体网关与评测规范活动 | https://www.aiiaorg.cn/ |
+| C-MIIT-2026-TASKS | C0 | 工业和信息化部等七部门 | 2026 工业和信息化领域创新任务揭榜挂帅 | https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_286751ceaf944364b5c282cacd71cb09.html |
+| C-ITU-F74893 | C1 | ITU-T SG21 | Framework and Requirements for AI Agent Interoperability | https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23620 |
+| C-ITU-Q5-21 | C1 | ITU-T SG21 Q5/21 | Agent interoperability, benchmarks, and AI platform work programme | https://www.itu.int/ITU-T/workprog/wp_search.aspx?q=5%2F21&sp=18 |
 
 ## Project-source rule / 项目信源规则
 
