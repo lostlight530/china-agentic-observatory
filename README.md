@@ -8,7 +8,7 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 一个每日运行的中英双语中国人工智能研究观察站，独立研究历史、政策、标准、科研、开源、产业、基础设施、应用与治理
 
-**[每日研究](./reports/daily/) · [中国 AI 历史](./history/CHINA_AI_FROM_ZERO_TO_2026-08.md) · [研究方法](./METHODOLOGY.md) · [权威信源](./SOURCE_REGISTRY.md) · [观察清单](./watchlist/ACTIVE.md) · [分任务](./workstreams/README.md)**
+**[每日研究](./reports/daily/) · [每周综合](./reports/weekly/) · [中国 AI 历史](./history/CHINA_AI_FROM_ZERO_TO_2026-08.md) · [研究方法](./METHODOLOGY.md) · [权威信源](./SOURCE_REGISTRY.md) · [观察清单](./watchlist/ACTIVE.md) · [分任务](./workstreams/README.md)**
 
 **Twin Observatory / 双仓联动：** [Agentic Frontier Observatory](https://github.com/lostlight530/agentic-frontier-observatory)
 
@@ -16,27 +16,36 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-08 — **The Second Horizon / 第二地平线**
+### 2026-08-09 — **The Standards Bridge / 标准之桥**
 
-> **From Scale to Structure in China AI**  
-> **中国人工智能：从规模走向结构**
+> **Domestic Structure · Trusted Interconnection · Global Participation**  
+> **国内结构 · 可信互联 · 全球参与**
 
-Today’s observation is delivered as a **10-file research pack**
+Today’s observation is delivered as a **10-file research pack**, with the first weekly synthesis published alongside it
 
-今天的观察由 **10 份研究文件**共同组成
+今天的观察由 **10 份研究文件**共同组成，并同步形成建仓首周周报
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-08.md`](./reports/daily/2026/08/2026-08-08.md) | 每日完整总判断 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-08/README.md) | 今日研究包索引 |
-| C1 | [`History & Policy`](./reports/daily/2026/08/2026-08-08/C1-history-policy.md) | 历史、国家战略与政策 |
-| C2 | [`Standards & Protocols`](./reports/daily/2026/08/2026-08-08/C2-standards-protocols.md) | 标准、协议、身份与互联 |
-| C3 | [`Research & Models`](./reports/daily/2026/08/2026-08-08/C3-research-models.md) | 科研、模型、算法与评测 |
-| C4 | [`Agents & Open Source`](./reports/daily/2026/08/2026-08-08/C4-agents-open-source.md) | 智能体、平台、开源与工程 |
-| C5 | [`Infrastructure & Industry`](./reports/daily/2026/08/2026-08-08/C5-infrastructure-industry.md) | 芯片、算力、数据、终端与产业基础设施 |
-| C6 | [`Applications & Governance`](./reports/daily/2026/08/2026-08-08/C6-applications-governance.md) | 应用、安全治理与社会影响 |
-| C7 | [`China–Global`](./reports/daily/2026/08/2026-08-08/C7-china-global.md) | 中国与全球路线关系 |
-| C8 | [`Synthesis`](./reports/daily/2026/08/2026-08-08/C8-synthesis.md) | 跨任务综合与判断修正 |
+| Integrated report | [`2026-08-09.md`](./reports/daily/2026/08/2026-08-09.md) | 每日完整总判断 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-09/README.md) | 今日研究包索引 |
+| C1 | [`History & Policy`](./reports/daily/2026/08/2026-08-09/C1-history-policy.md) | 政策连续性与状态纪律 |
+| C2 | [`Standards & Protocols`](./reports/daily/2026/08/2026-08-09/C2-standards-protocols.md) | GB/Z 185 · ASL · AIIA · ITU-T |
+| C3 | [`Research & Models`](./reports/daily/2026/08/2026-08-09/C3-research-models.md) | 科研、模型与评测基础设施 |
+| C4 | [`Agents & Open Source`](./reports/daily/2026/08/2026-08-09/C4-agents-open-source.md) | Agent 工程与实现缺口 |
+| C5 | [`Infrastructure & Industry`](./reports/daily/2026/08/2026-08-09/C5-infrastructure-industry.md) | 算力、具身、产业任务 |
+| C6 | [`Applications & Governance`](./reports/daily/2026/08/2026-08-09/C6-applications-governance.md) | 授权、安全、生命周期 |
+| C7 | [`China–Global`](./reports/daily/2026/08/2026-08-09/C7-china-global.md) | 国内外标准之桥 |
+| C8 | [`Synthesis`](./reports/daily/2026/08/2026-08-09/C8-synthesis.md) | 三日综合与判断修正 |
+
+### First Weekly Synthesis / 首份周报
+
+**2026-W32 · Founding Week / 创始周**  
+[`From Scale to Standards`](./reports/weekly/2026/2026-W32.md)
+
+The first week covers the repository’s real lifetime — **7–9 August 2026** — rather than inventing a seven-day history
+
+首周只覆盖仓库真实存在的 **8 月 7 日至 9 日**，不补写不存在的周一至周四记录
 
 ### Current Lens / 当前观察框架
 
@@ -44,14 +53,14 @@ Today’s observation is delivered as a **10-file research pack**
 国家战略
 → 智能体治理政策
 → 国家互联标准
-→ 产业任务
-→ 多智能体协同与网关
-→ 评测方法
-→ 行业部署与生命周期安全
-→ 全球合作架构
+→ 可信身份 / 意图 / 授权
+→ 产业级多智能体协同与网关
+→ 国际 Agent 互操作标准参与
+→ 评测与行业部署
+→ 生命周期安全与治理
 ```
 
-当前重要变化不是简单地从“小模型走向大模型”，而是人工智能从规模扩张进一步进入政策、标准、身份、互联、工程、行业和治理共同塑造的结构化阶段
+当前重要变化已经从“规模走向结构”继续推进到“国内多层标准与国际参与并行”
 
 ---
 
@@ -67,6 +76,8 @@ Today’s observation is delivered as a **10-file research pack**
 中国内部 + 中外路线综合
       ↓
 每日一份完整研究报告
+      ↓
+每周综合
       ↓
 事件账本 · 观察清单 · 对象卡 · 关系地图
 ```
@@ -99,7 +110,7 @@ Today’s observation is delivered as a **10-file research pack**
 - **C0–C4 权威来源优先 / Authoritative sources first**
 - **事件日期、发布日期、生效日期、观察日期严格区分**
 - **政策目标 ≠ 已完成能力**
-- **标准计划 ≠ 正式标准 · 研讨会 ≠ 已发布规范**
+- **国家标准 ≠ 产业研讨 ≠ 国际 consent 状态**
 - **企业路线 ≠ 国家路线 · 单个项目 ≠ 全国性事实**
 - **事实、外部声明、本仓分析与不确定项严格区分**
 - **不为了日报制造趋势**
