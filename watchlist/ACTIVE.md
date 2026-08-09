@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-09
+Updated: 2026-08-10
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -12,3 +12,6 @@ Updated: 2026-08-09
 | C-W06 | Which applications provide verifiable long-term deployment evidence? | OPEN | Official case studies, evaluation methods, public outcomes |
 | C-W07 | How does agent lifecycle security translate into procurement and operations? | OPEN | TC260 follow-up, sector guidance, institutional practice |
 | C-W08 | Does ITU-T F.748.93 progress from Consented status to final approved Recommendation, and how does its text relate to Chinese domestic standards? | OPEN | ITU-T AAP status, final Recommendation, formal crosswalks |
+| C-W09 | What does “IPv6-based agent identification” become technically, and how does it map to GB/Z 185 identity codes and enterprise credentials? | OPEN | Standards projects, pilots, operator docs, technical specifications |
+| C-W10 | What formal text emerges from the policy task to build autonomous agent communication protocols in information and communications networks? | OPEN | MIIT follow-up, standards plans, operator/platform implementations |
+| C-W11 | Can network agents expose auditable authority, revocation, routing, and human takeover across cloud-network-edge environments? | OPEN | Carrier deployments, gateway specs, security guidance, operational cases |
