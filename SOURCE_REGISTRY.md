@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-09**
+Updated through: **2026-08-10**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -23,6 +23,9 @@ Updated through: **2026-08-09**
 | C-CAICT-ASL | C1 | 中国信息通信研究院 | 智能体安全可信互连协议 ASL | https://gma.caict.ac.cn/plat/cttl-t/caict-jointly-release-ai-agent-secure-trusted-interconnection-protocol |
 | C-AIIA | C2 | 中国人工智能产业发展联盟 | 多智能体协同、智能体网关与评测规范活动 | https://www.aiiaorg.cn/ |
 | C-MIIT-2026-TASKS | C0 | 工业和信息化部等七部门 | 2026 工业和信息化领域创新任务揭榜挂帅 | https://wap.miit.gov.cn/zwgk/zcwj/wjfb/tz/art/2026/art_286751ceaf944364b5c282cacd71cb09.html |
+| C-MIIT-AI-ICT-2026 | C0 | 工业和信息化部 | “人工智能+信息通信”创新发展实施意见（2026—2028年） | https://fjca.miit.gov.cn/xwdt/bsyw/art/2026/art_f325d5fe373141a28b31a6fa43377a5a.html |
+| C-CAC-IPV6-2026 | C0 | 中央网信办等 | IPv6 技术创新和融合应用实施方案（2026—2030年） | https://www.cac.gov.cn/2026-07/21/c_1786380789858394.htm |
+| C-CAC-AGENT-GLOBAL | C0 | 国家网信办 | 智能体互信互联互操作全球合作倡议 | https://www.cac.gov.cn/2026-07/17/c_1786032877362241.htm |
 | C-ITU-F74893 | C1 | ITU-T SG21 | Framework and Requirements for AI Agent Interoperability | https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23620 |
 | C-ITU-Q5-21 | C1 | ITU-T SG21 Q5/21 | Agent interoperability, benchmarks, and AI platform work programme | https://www.itu.int/ITU-T/workprog/wp_search.aspx?q=5%2F21&sp=18 |
 
