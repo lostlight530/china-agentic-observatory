@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-12
+Updated: 2026-08-13
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -10,7 +10,7 @@ Updated: 2026-08-12
 | C-W04 | Which domestic open-source projects show architecture-level change? | OPEN | Repositories and architecture docs |
 | C-W05 | How are identity, authorization, gateway, audit and revocation implemented? | OPEN | Standards and pilots |
 | C-W06 | Which applications provide verifiable long-term deployment evidence? | OPEN | Cases and outcomes |
-| C-W07 | How does agent lifecycle security translate into procurement and operations? | OPEN | Sector guidance |
+| C-W07 | How does agent lifecycle security translate into operations? | OPEN | Sector guidance |
 | C-W08 | Does ITU-T F.748.93 progress to final Recommendation? | OPEN | AAP status |
 | C-W09 | What does IPv6-based agent identification become technically? | OPEN | Standards projects and pilots |
 | C-W10 | What formal text emerges from autonomous agent communication protocol tasks? | OPEN | MIIT follow-up |
@@ -18,8 +18,13 @@ Updated: 2026-08-12
 | C-W12 | When will GB/T 47507 portal status align with its 2026-08-01 implementation date? | STATUS_CONFLICT | SAMR update |
 | C-W13 | How do horizontal trustworthiness standards map onto agent lifecycle governance? | **STRENGTHENED / open** | Formal crosswalks |
 | C-W14 | What practical effect will edge deployment standards have on terminal agents? | OPEN | Vendor/toolchain adoption |
-| C-W15 | How does 20255554-Z-469 embodied-agent application framework map to GB/Z 185 identity, discovery and interaction? | OPEN | Draft/review text and formal crosswalk |
-| C-W16 | What technical boundaries emerge between embodied OS, cloud protocol, simulation and network-agent infrastructure? | OPEN | Drafts and implementations |
-| C-W17 | Will software-agent identity models extend directly to robots and embodied agents, or require physical-system identity semantics? | OPEN | Standards, pilots, platform docs |
-| C-W18 | How will embodied trustworthiness and ethical-governance projects connect to physical safety and human takeover? | OPEN | Consultation drafts and test methods |
+| C-W15 | How does the embodied-agent application framework map to GB/Z 185 identity, discovery and interaction? | OPEN | Draft/review text |
+| C-W16 | What boundaries emerge between embodied OS, cloud protocol, simulation and network-agent infrastructure? | OPEN | Drafts and implementations |
+| C-W17 | Do robots require identity/authority semantics beyond software agents? | OPEN | Standards and pilots |
+| C-W18 | How do embodied trustworthiness and ethics connect to physical safety and human takeover? | OPEN | Test methods and consultation drafts |
 | C-W19 | Which embodied projects move from review/approval into publication first? | OPEN | SAMR status transitions |
+| C-W20 | How do TC609 embodied dataset standards map to TC28 embodied-system standards? | OPEN | Formal crosswalks and joint pilots |
+| C-W21 | How will embodied dataset quality measure coverage, provenance, failure cases and representativeness? | OPEN | Draft technical indicators |
+| C-W22 | How will simulated synthetic data be validated for sim-to-real transfer? | OPEN | Evaluation methods and validation pilots |
+| C-W23 | Does the training-base standard create reproducible data-production infrastructure across regions and vendors? | OPEN | Pilot sites, tooling and implementation evidence |
+| C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | National Data Administration / TC609 pilot results |

@@ -16,87 +16,53 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-12 — **Agency Enters the Physical World / 行动力进入物理世界**
+### 2026-08-13 — **Embodied Intelligence Gets a Data Plane / 具身智能长出数据平面**
 
-> **Embodied Agents · OS · Cloud Protocol · Evaluation · Trust**  
-> **具身智能体 · 操作系统 · 云协议 · 评测 · 可信赖**
+> **High-Quality Data · Simulation · Training Bases · Data Flywheel**  
+> **高质量数据 · 仿真 · 训练基地 · 数据飞轮**
 
-Today's observation is delivered as a **10-file research pack**, with W33 updated through its second progress check
+Today's observation is delivered as a **10-file research pack**, with W33 updated through its third progress check
 
-今天的观察由 **10 份研究文件**共同组成，并同步更新 W33 第二次周内进展检查
+今天的观察由 **10 份研究文件**共同组成，并同步更新 W33 第三次周内进展检查
 
 | Layer | File | Focus |
 |---|---|---|
-| Integrated report | [`2026-08-12.md`](./reports/daily/2026/08/2026-08-12.md) | 具身智能标准矩阵 |
-| Task index | [`README.md`](./reports/daily/2026/08/2026-08-12/README.md) | 今日研究包索引 |
-| C1 | [`History & Policy`](./reports/daily/2026/08/2026-08-12/C1-history-policy.md) | 从数字 Agent 到物理 Agent |
-| C2 | [`Standards & Protocols`](./reports/daily/2026/08/2026-08-12/C2-standards-protocols.md) | 三维标准矩阵与状态校准 |
-| C3 | [`Research & Models`](./reports/daily/2026/08/2026-08-12/C3-research-models.md) | 具身大模型、分级与评测 |
-| C4 | [`Agents & Open Source`](./reports/daily/2026/08/2026-08-12/C4-agents-open-source.md) | Agent 工程进入 OS / interface / simulation |
-| C5 | [`Infrastructure & Industry`](./reports/daily/2026/08/2026-08-12/C5-infrastructure-industry.md) | 云协议 · 数据 · 仿真 · 机器人基础设施 |
-| C6 | [`Applications & Governance`](./reports/daily/2026/08/2026-08-12/C6-applications-governance.md) | 物理风险 · 可信赖 · 伦理治理 |
-| C7 | [`China–Global`](./reports/daily/2026/08/2026-08-12/C7-china-global.md) | 物理 Agent 的分层比较 |
-| C8 | [`Synthesis`](./reports/daily/2026/08/2026-08-12/C8-synthesis.md) | 从二维标准图到三平面模型 |
+| Integrated report | [`2026-08-13.md`](./reports/daily/2026/08/2026-08-13.md) | 具身智能独立数据平面 |
+| Task index | [`README.md`](./reports/daily/2026/08/2026-08-13/README.md) | 今日研究包索引 |
+| C1 | [`History & Policy`](./reports/daily/2026/08/2026-08-13/C1-history-policy.md) | AI+ 向数据基础设施延伸 |
+| C2 | [`Standards & Protocols`](./reports/daily/2026/08/2026-08-13/C2-standards-protocols.md) | TC609 × TC28 跨标委会结构 |
+| C3 | [`Research & Models`](./reports/daily/2026/08/2026-08-13/C3-research-models.md) | 真实 / 合成数据与泛化 |
+| C4 | [`Agents & Open Source`](./reports/daily/2026/08/2026-08-13/C4-agents-open-source.md) | Data schema · trajectory · simulation |
+| C5 | [`Infrastructure & Industry`](./reports/daily/2026/08/2026-08-13/C5-infrastructure-industry.md) | 训练基地成为数据基础设施 |
+| C6 | [`Applications & Governance`](./reports/daily/2026/08/2026-08-13/C6-applications-governance.md) | 数据治理连接物理安全 |
+| C7 | [`China–Global`](./reports/daily/2026/08/2026-08-13/C7-china-global.md) | 数据层国际比较纪律 |
+| C8 | [`Synthesis`](./reports/daily/2026/08/2026-08-13/C8-synthesis.md) | 具身行动 → 数据平面 |
 
 ### Weekly Research / 本周研究
 
 **2026-W33 · First Full Week / 第一个完整周**  
-[`From Standards to Network Infrastructure — 12 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
+[`From Standards to Network Infrastructure — 13 Aug Progress Check`](./reports/weekly/2026/2026-W33.md)
 
-W33 H4 is strengthened and refined, while H5 is introduced: **physical agency becomes a distinct standards plane**
+W33 H5 is strengthened today, while H6 is introduced: **embodied-intelligence data infrastructure becomes an independent standardization plane**
 
-W33 今天强化并修正 H4，同时新增 H5：**物理行动能力形成独立标准平面**
+今天 H5 被强化，同时新增 H6：**具身智能数据基础设施形成独立标准化平面**
 
 ### Current Lens / 当前观察框架
 
 ```text
-PLANE 1 — AGENT INTERCONNECTION / 智能体互联
+PLANE 1 — AGENT INTERCONNECTION
 身份 → 发现 → 交互 → 工具 → 网关 → 网络
 
-PLANE 2 — AI ASSURANCE / 横向可信赖保障
+PLANE 2 — AI ASSURANCE
 可信赖 → 安全 → 社会影响 → 合规 → 评价 → 生命周期
 
-PLANE 3 — EMBODIED AGENCY / 具身行动
-应用框架 / 接口 → OS → 云协议 → 数据 / 仿真
-→ 智能化分级 → 性能 / 评测 → 可信赖 → 伦理治理
+PLANE 3 — EMBODIED AGENCY
+应用框架 / 接口 → OS → 云协议 → 仿真 → 评测 → 伦理
+
+PLANE 4 — EMBODIED DATA
+数据来源 → 仿真合成 → 训练基地采集 / 训练
+→ 质量控制 → 数据飞轮
 ```
-
-中国 AI 标准版图开始从二维结构变成同时覆盖数字空间、网络空间和物理世界的三平面系统
-
----
-
-## Research System / 研究系统
-
-```text
-中国权威公开来源
-      ↓
-8 个独立研究分任务
-      ↓
-政策 · 标准 · 项目 · 日期状态校准
-      ↓
-中国内部 + 中外路线综合
-      ↓
-每日一份完整研究报告
-      ↓
-每周研究层
-      ↓
-事件账本 · 观察清单 · 对象卡 · 关系地图
-```
-
----
-
-## Research Coverage / 研究覆盖
-
-| Layer | Coverage |
-|---|---|
-| 历史与战略 | 中国人工智能史 · 国家战略 · 政策 · 法规 · 备案 |
-| 标准与协议 | 身份 · 发现 · 交互 · 工具调用 · 网关 · 可信赖 · 具身接口 |
-| 科研与模型 | 大模型 · 多模态 · 推理 · 科学智能 · 具身智能 · 评测 |
-| Agent 工程 | Runtime · Harness · MCP/A2A · Memory · Tools · OS · Simulation |
-| 基础设施 | 芯片 · 算力 · 数据 · 云 · 边缘 · 终端 · IPv6 · 通信网络 · 机器人 |
-| 治理保障 | 数据安全 · 服务安全 · 社会影响 · 合规 · 生命周期 · 伦理治理 |
-| 产业生态 | 大厂 · 高校 · 科研院所 · 开源社区 · 产业联盟 |
-| 全球关系 | 中国方案与全球模型、协议、标准和治理体系 |
 
 ---
 
@@ -105,10 +71,9 @@ PLANE 3 — EMBODIED AGENCY / 具身行动
 - **C0–C4 权威来源优先**
 - **起草 ≠ 审查 ≠ 批准 ≠ 发布**
 - **标准计划 ≠ 已生效标准**
-- **事件日期、发布日期、实施日期、门户状态、观察日期严格区分**
+- **跨标委会相近项目 ≠ 官方 crosswalk**
+- **数据规模 ≠ 数据质量 · 仿真数据 ≠ 真实世界覆盖**
 - **政策目标 ≠ 已完成能力**
-- **标准矩阵关系 ≠ 已存在正式 crosswalk**
-- **企业路线 ≠ 国家路线**
 - **不为了日报制造趋势**
 - **不运行、部署或验证外部项目能力**
 
@@ -125,12 +90,6 @@ PLANE 3 — EMBODIED AGENCY / 具身行动
 > **From scale to structure**
 
 → [`ORIGIN.md`](./ORIGIN.md) · [`China AI from Zero to August 2026`](./history/CHINA_AI_FROM_ZERO_TO_2026-08.md) · [`Ten-Repository Context`](./TEN_REPOSITORY_CONTEXT.md)
-
----
-
-## Boundary / 边界
-
-本仓库研究中国人工智能现实，但不把政策目标等同于现实能力，不把标准计划等同于发布标准，也不以任何单一国际框架替代中国自身语境
 
 ## License
 
