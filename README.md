@@ -16,49 +16,47 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-15 — **The Loop Gets an Architecture / 闭环开始获得架构**
+### 2026-08-16 — **The Lifecycle Becomes Legible / 生命周期开始可读**
 
-> **Collection · Training · Inference · Validation Gap**  
-> **采集 · 训练 · 推理 · 验证缺口**
+> **Interconnection · Assurance · Embodied Systems · Data · Collection–Training–Inference · Validation**  
+> **互联 · 可信赖 · 具身系统 · 数据 · 采训推 · 验证**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-15.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-15/) · [`W33 Saturday Checkpoint`](./reports/weekly/2026/2026-W33-2026-08-15-progress.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-16.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-16/) · [`W33 Final`](./reports/weekly/2026/2026-W33.md)
 
-Today's strongest official signal is `20262628-Z-469`, a drafting national-standardization project for an embodied-intelligence collection–training–inference system architecture
+W33 closes with a stricter lifecycle judgment: the standards landscape is increasingly legible across interconnection, assurance, embodied systems, data, collection–training–inference, and validation, but the final validation-to-data feedback loop is not yet formally closed
 
-今天最强的官方结构证据是 `20262628-Z-469《人工智能 具身智能采训推系统架构及技术要求》`，当前仍处于**正在起草**状态
+W33 正式收官：互联、可信赖、具身系统、数据、采训推与验证已经形成越来越清晰的标准化生命周期，但“验证 → 新数据 → 再训练”的最终反馈仍不能提前写成正式闭环
 
 ```text
-DATA SOURCES / GENERATION
-        ↓
-COLLECTION
-        ↓
-TRAINING
-        ↓
-MODEL / SYSTEM
-        ↓
-INFERENCE / PHYSICAL ACTION
-        ↓
-VALIDATION / EVALUATION   ← still separately evidenced
-        ↓
-DATA FEEDBACK             ← still open as a traceable loop
+DATA / SIMULATION
+→ COLLECTION
+→ TRAINING
+→ MODEL / SYSTEM
+→ INFERENCE / PHYSICAL ACTION
+→ VALIDATION / EVALUATION
+→ DATA FEEDBACK   ← still open
 ```
 
-### W33 update
+### W33 final settlement
 
-H7 is strengthened and partially grounded, while **H8 — collection–training–inference becomes an explicit architecture unit** is introduced
-
-`采训推` does not by itself prove a complete validation → evidence → data-feedback loop
+- **DURABLE:** H1, H4, H5
+- **DURABLE AS PROJECT-LEVEL STRUCTURE:** H8
+- **STRENGTHENED BUT OPEN:** H6, H7
+- **OPEN:** H2, H3
+- **REFUTED:** none
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **C0–C4 权威来源优先**
+- **政策任务 ≠ 已完成能力**
+- **标准计划 ≠ 已发布标准**
 - **起草 ≠ 审查 ≠ 批准 ≠ 发布**
-- **标准计划 ≠ 已生效标准**
+- **相近标准 ≠ 正式 crosswalk**
 - **采训推 ≠ 完整训练—验证—反馈闭环**
 - **推理 ≠ 物理验证**
-- **相近标准 ≠ 正式 crosswalk**
+- **系统架构 ≠ 已部署产业能力**
 - **不为了日报制造趋势**
 - **不运行、部署或验证外部项目能力**
 
