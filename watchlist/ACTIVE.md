@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-13
+Updated: 2026-08-17
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -28,3 +28,9 @@ Updated: 2026-08-13
 | C-W22 | How will simulated synthetic data be validated for sim-to-real transfer? | OPEN | Evaluation methods and validation pilots |
 | C-W23 | Does the training-base standard create reproducible data-production infrastructure across regions and vendors? | OPEN | Pilot sites, tooling and implementation evidence |
 | C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | National Data Administration / TC609 pilot results |
+| C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | OPEN | Dataset standards, pilot schemas, technical guidance |
+| C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | OPEN | Training-ground / pilot-validation implementations |
+| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | OPEN | National standards and evaluation methods |
+| C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | OPEN | Joint standards text, shared metrics, implementation pilots |
+| C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | OPEN | Governance guidance and production practice |
+| C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | OPEN | Reproducible application-validation and retraining evidence |
