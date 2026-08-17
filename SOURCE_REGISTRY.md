@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-13**
+Updated through: **2026-08-17**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -23,7 +23,8 @@ Updated through: **2026-08-13**
 | C-SAMR-EMBODIED-TRUST | C0 | 国家标准信息平台 | 20255545-Z-469 具身智能可信赖通用要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=41A934A216733FDBE06397BE0A0AC9DA |
 | C-SAMR-EMBODIED-TRUST-EVAL | C0 | 国家标准信息平台 | 20263055-Z-469 具身智能可信赖测评指标与方法；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF1D7A4A84D870E06397BE0A0AB2DE |
 | C-SAMR-EMBODIED-ETHICS | C0 | 国家标准信息平台 | 20263039-Z-469 具身智能伦理治理指南；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF0B1CABE9D2DEE06397BE0A0AD734 |
-| C-NDA-HQ-DATASET-2026 | C0 | 国家数据局 | 行业高质量数据集建设行动方案；具身智能为重点创新领域 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0608/20260608172117399715004_pc.html |
+| C-NDA-HQ-DATASET-2026 | C0 | 国家数据局 | 行业高质量数据集建设行动方案；数据飞轮、模型应用反馈与具身数据 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0608/20260608172117399715004_pc.html |
+| C-NDA-RESEARCH-FEEDBACK-2026 | C0 | 国家数据局 | 模数共振、模型应用反馈数据回流、数据飞轮与具身多模态数据研究任务 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0409/20260409092900412958913_pc.html |
 | C-TC609-EMBODIED-DATA-SOURCES | C0 | 全国数据标准化技术委员会 | 20262582-Z-907 具身智能数据来源与构成要素；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9962800CE06397BE0A0AEDC1 |
 | C-TC609-EMBODIED-SYNTHETIC | C0 | 全国数据标准化技术委员会 | 20262583-Z-907 仿真合成数据生成与处理规范；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E762CE9128008E06397BE0A0A41AF |
 | C-TC609-EMBODIED-TRAINING-BASE | C0 | 全国数据标准化技术委员会 | 20262584-Z-907 面向训练基地的数据采集与模型训练规范；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E762CE9138008E06397BE0A0A41AF |
@@ -31,4 +32,4 @@ Updated through: **2026-08-13**
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both. Drafting, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. High-quality dataset scale must not be treated as equivalent to quality, coverage or real-world generalization.
+When an official implementation date and portal label conflict, preserve both. Drafting, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy or commissioned-research language about a data flywheel must not be treated as a deployed feedback interface or completed standards loop.
