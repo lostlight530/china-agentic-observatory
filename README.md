@@ -16,51 +16,55 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-17 — **Feedback Gets a Policy Anchor / 反馈获得政策锚点**
+### 2026-08-18 — **Feedback Gets a Quality Gate / 反馈获得质量闸门**
 
-> **Application Feedback · Dynamic Interaction Data · Dataset Revision · Data Flywheel**  
-> **应用反馈 · 动态交互数据 · 数据集修订 · 数据飞轮**
+> **Feedback Data · Provenance · Quality Evaluation · Admission · Dataset Revision**  
+> **反馈数据 · 来源追踪 · 质量评测 · 准入 · 数据集修订**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-17.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-17/) · [`W34 Opening`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-18.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-18/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-W33 ended with one deliberately open arrow: validation back to data
+Yesterday W34 established that feedback return is a policy and research object
 
-W34 opens with a more precise evidence level: the National Data Administration has explicitly made model-application feedback, feedback-data return, and the data flywheel policy / research objects, but no unified technical feedback loop is claimed
+Today the model adds a necessary gate: feedback cannot become training data merely because it exists; provenance and quality evaluation must determine what is admitted, rejected, reweighted or recollected
 
-W33 最后刻意留下 `验证 → 数据反馈` 这一个 open arrow
+昨天 W34 确认“反馈回流”已经成为政策与研究对象
 
-W34 开周后，这个缺口已经获得国家数据局政策与研究层的明确锚点，但仍不能提前写成统一技术闭环
+今天进一步补上真正的工程问题：反馈不能因为存在就直接进入训练，必须经过来源识别、质量评测和准入决策
 
 ```text
 APPLICATION / VALIDATION SIGNAL
 → FEEDBACK DATA
+→ PROVENANCE
+→ QUALITY EVALUATION
+→ ADMISSION DECISION
 → DATASET UPDATE
 → MODEL ITERATION
-→ APPLICATION
 ↺
 ```
 
-### W34 opening hypotheses
+### W34 progress
 
-- H1 — feedback-to-data becomes an explicit infrastructure problem
-- H2 — model-application feedback becomes a dataset quality gate
-- H3 — embodied feedback requires source-aware provenance
-- H4 — cross-committee lifecycle mappings become necessary
-- H5 — application validation becomes backpressure on data construction
-- H6 — feedback governance becomes as important as feedback volume
+- H1 — **STRENGTHENED**
+- H2 — **STRENGTHENED**
+- H3 — **STRENGTHENED**
+- H4 — **SUPPORTED / unchanged**
+- H5 — **OPEN**
+- H6 — **STRENGTHENED**
+- H7 — **NEW: quality evaluation becomes an explicit feedback gate**
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **C0–C4 权威来源优先**
-- **课题征集 ≠ 研究成果**
-- **政策实施方案 ≠ 技术接口**
+- **国家标准计划 ≠ 已发布标准**
+- **正在起草 ≠ 已实施评测系统**
+- **反馈数据 ≠ 高质量数据**
+- **质量评测 ≠ 单一分数**
+- **质量准入 ≠ 治理准入**
+- **模型应用反馈 ≠ 唯一质量指标**
 - **数据飞轮 ≠ 已闭环系统**
-- **模型应用反馈 ≠ 自动高质量数据**
-- **动态交互数据 ≠ 可直接再训练数据**
 - **相近标准 ≠ 正式 crosswalk**
-- **feedback volume ≠ feedback quality**
 - **不为了日报制造趋势**
 - **不运行、部署或验证外部项目能力**
 
