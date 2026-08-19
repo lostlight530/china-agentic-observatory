@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-18
+Updated: 2026-08-19
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -30,13 +30,19 @@ Updated: 2026-08-18
 | C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | National Data Administration / TC609 pilot results |
 | C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | **STRENGTHENED / open** | Dataset standards, pilot schemas, technical guidance |
 | C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | OPEN | Training-ground / pilot-validation implementations |
-| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` technical indicators and consultation text |
+| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` consultation text and later revisions |
 | C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | OPEN | Joint standards text, shared metrics, implementation pilots |
 | C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | OPEN | Governance guidance and production practice |
 | C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | OPEN | Reproducible application-validation and retraining evidence |
-| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | OPEN | Draft / consultation text |
+| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **STATUS ADVANCED / open** | Consultation draft revisions and final technical content |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | OPEN | Evaluation-system schemas and pilot evidence |
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | OPEN | Dataset lifecycle specifications and tooling |
 | C-W35 | Can quality evaluation and governance approval remain separate but composable? | OPEN | Privacy/security rules plus quality-evaluation implementations |
 | C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | OPEN | Shared metrics across TC609 / TC28 / TC591 |
+| C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | OPEN | Result schema, certificate, report package or API |
+| C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | OPEN | NDA / TC609 implementation documents and pilots |
+| C-W39 | How are standard version, tool version, dataset version and model/application context preserved in reusable results? | OPEN | Metadata schemas and evaluation reports |
+| C-W40 | Do mutual-recognition results have expiry, revocation or mandatory re-evaluation conditions? | OPEN | Governance rules and pilot procedures |
+| C-W41 | Can one quality result remain valid across industries and model families without contextual re-evaluation? | OPEN | Cross-industry pilots and exception rules |
+| C-W42 | Are embodied-intelligence datasets included in publicly inspectable mutual-recognition pilots? | OPEN | Pilot datasets, evaluation packages and published results |
