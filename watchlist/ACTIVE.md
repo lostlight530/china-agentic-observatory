@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-20
+Updated: 2026-08-21
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -27,7 +27,7 @@ Updated: 2026-08-20
 | C-W21 | How will embodied dataset quality measure coverage, provenance, failure cases and representativeness? | **STRENGTHENED / open** | Draft technical indicators and evaluation text |
 | C-W22 | How will simulated synthetic data be validated for sim-to-real transfer? | OPEN | Evaluation methods and validation pilots |
 | C-W23 | Does the training-base standard create reproducible data-production infrastructure across regions and vendors? | OPEN | Pilot sites, tooling and implementation evidence |
-| C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | National Data Administration / TC609 pilot results |
+| C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | NDA / TC609 pilot results |
 | C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | **STRENGTHENED / open** | Dataset standards, pilot schemas, technical guidance |
 | C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | OPEN | Training-ground / pilot-validation implementations |
 | C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` consultation text and later revisions |
@@ -52,3 +52,9 @@ Updated: 2026-08-20
 | C-W46 | Do evaluation results or credentials have expiry, revocation, supersession and re-evaluation semantics in the national platform? | OPEN | Lifecycle rules and platform documentation |
 | C-W47 | Can data exchanges consume national-platform evidence without repeating full evaluation? | OPEN | Interconnection pilots, transaction rules and accepted evidence packages |
 | C-W48 | Do embodied-intelligence datasets obtain public platform credentials, quality reports and circulation examples? | OPEN | Inspectable platform records and exchange cases |
+| C-W49 | Can national-platform dataset credentials and quality reports be referenced directly inside trusted-data-space digital contracts? | OPEN | Formal schema / API crosswalk and pilot contracts |
+| C-W50 | Does a trusted-data-space usage-control policy preserve dataset version, quality-result version and model/task scope? | OPEN | Policy templates, technical examples and implementations |
+| C-W51 | Can connector-generated performance evidence be consumed across different trusted data spaces without reinterpretation? | OPEN | Evidence schemas and interoperability pilots |
+| C-W52 | Do usage-control violations trigger revocation or re-evaluation of dataset access, credentials or quality evidence? | OPEN | Incident workflows and lifecycle rules |
+| C-W53 | Are AI training / Agent tasks given dedicated machine-readable usage-control policy profiles? | OPEN | Technical files, platform docs and pilots |
+| C-W54 | Do derived datasets or trained model outputs inherit enforceable restrictions from source-data digital contracts? | OPEN | Derivative-use rules, technical profiles and dispute cases |
