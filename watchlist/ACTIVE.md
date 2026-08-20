@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-19
+Updated: 2026-08-20
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -40,9 +40,15 @@ Updated: 2026-08-19
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | OPEN | Dataset lifecycle specifications and tooling |
 | C-W35 | Can quality evaluation and governance approval remain separate but composable? | OPEN | Privacy/security rules plus quality-evaluation implementations |
 | C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | OPEN | Shared metrics across TC609 / TC28 / TC591 |
-| C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | OPEN | Result schema, certificate, report package or API |
+| C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | **STRENGTHENED / open** | Platform report packages, result schema or API |
 | C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | OPEN | NDA / TC609 implementation documents and pilots |
 | C-W39 | How are standard version, tool version, dataset version and model/application context preserved in reusable results? | OPEN | Metadata schemas and evaluation reports |
 | C-W40 | Do mutual-recognition results have expiry, revocation or mandatory re-evaluation conditions? | OPEN | Governance rules and pilot procedures |
 | C-W41 | Can one quality result remain valid across industries and model families without contextual re-evaluation? | OPEN | Cross-industry pilots and exception rules |
 | C-W42 | Are embodied-intelligence datasets included in publicly inspectable mutual-recognition pilots? | OPEN | Pilot datasets, evaluation packages and published results |
+| C-W43 | What exact metadata is carried by the National Dataset Management Service Platform's identifier credential? | OPEN | Platform technical documentation and sample credential |
+| C-W44 | Can platform quality-evaluation reports be linked machine-readably to dataset identifier credentials without conflating identity and quality? | OPEN | Report schema, credential references and APIs |
+| C-W45 | How are compliance status, rights statements and quality evidence composed before listing or exchange? | OPEN | Platform / exchange integration rules and sample workflows |
+| C-W46 | Do evaluation results or credentials have expiry, revocation, supersession and re-evaluation semantics in the national platform? | OPEN | Lifecycle rules and platform documentation |
+| C-W47 | Can data exchanges consume national-platform evidence without repeating full evaluation? | OPEN | Interconnection pilots, transaction rules and accepted evidence packages |
+| C-W48 | Do embodied-intelligence datasets obtain public platform credentials, quality reports and circulation examples? | OPEN | Inspectable platform records and exchange cases |
