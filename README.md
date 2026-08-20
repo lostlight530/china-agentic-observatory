@@ -16,40 +16,43 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-19 — **Quality Evidence Becomes Portable / 质量证据开始可携带**
+### 2026-08-20 — **Evidence Enters Circulation / 证据进入流通层**
 
-> **Evaluation · Evidence Package · Consultation · Mutual Recognition · Scope**  
-> **评测 · 证据包 · 征求意见 · 结果互认 · 适用范围**
+> **Quality Evidence · Dataset Identity · Credential · Compliance · Publishing · Exchange**  
+> **质量证据 · 数据集身份 · 凭证 · 合规 · 发布 · 流通**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-19.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-19/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-20.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-20/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday W34 established that feedback needs a quality gate before entering dataset/model iteration
+Yesterday W34 established that quality evidence should remain portable across organizations
 
-Today the model moves one step further: the quality result itself begins to matter as a reusable evidence object. `20256913-T-907` is now in public consultation, while the National Data Administration explicitly calls for unified evaluation schemes/tools and the goal of “one evaluation, nationwide mutual recognition”
+Today the model adds the next operational layer: dataset identity, quality evidence, compliance material and service-platform workflows begin to connect evaluation with publishing, procurement, listing and exchange
 
-昨天确认反馈需要质量闸门
+昨天确认质量证据需要可携带
 
-今天继续追问：评测结果能否带着方法、范围和版本跨机构复用，而不是每到一个组织就重新从零解释
+今天继续追问：这些证据怎样进入真实发布、供需、采购和流通基础设施，而不是停留在一份评测报告里
 
 ```text
-FEEDBACK DATA
-→ PROVENANCE
+FEEDBACK / DATA SOURCE
 → QUALITY EVALUATION
-→ EVALUATION RESULT / PACKAGE
-→ MUTUAL-RECOGNITION DECISION
-→ DATASET / APPLICATION USE
+→ PORTABLE RESULT
+→ DATASET IDENTITY / CREDENTIAL
+→ COMPLIANCE REVIEW
+→ PUBLISH / DISCOVER
+→ PROCUREMENT / LISTING / EXCHANGE
+→ APPLICATION FEEDBACK
 ```
 
 ### W34 progress
 
-- H1 — **STRENGTHENED / unchanged direction**
-- H2 — **STRENGTHENED AGAIN**
-- H3 — **SUPPORTED / unchanged**
-- H4 — **STRENGTHENED**
+- H1 — **STRENGTHENED AGAIN**
+- H2 — **SUPPORTED / unchanged**
+- H3 — **STRENGTHENED**
+- H4 — **STRENGTHENED / REFINED**
 - H5 — **OPEN**
-- H6 — **STRENGTHENED**
-- H7 — **STRENGTHENED / STATUS ADVANCED**
-- H8 — **NEW: quality evidence becomes a portability object**
+- H6 — **STRENGTHENED AGAIN**
+- H7 — **STRENGTHENED / OPERATIONAL SERVICE EVIDENCE**
+- H8 — **STRENGTHENED / REFINED**
+- H9 — **NEW: quality evidence becomes a circulation input**
 
 ---
 
@@ -58,10 +61,11 @@ FEEDBACK DATA
 - **C0–C4 权威来源优先**
 - **征求意见 ≠ 已发布标准**
 - **质量评测 ≠ 结果互认**
-- **结果互认 ≠ 全场景通用适用**
-- **统一测评方案 ≠ 所有应用上下文完全等价**
-- **质量准入 ≠ 治理准入**
-- **模型应用反馈 ≠ 唯一质量指标**
+- **标识凭证 ≠ 质量证书**
+- **质量报告 ≠ 流通批准**
+- **结果互认 ≠ 强制接受**
+- **挂牌 / 上架 / 交易 ≠ 政府背书或全场景适用**
+- **平台试运行 ≠ 成熟全国市场机制**
 - **数据飞轮 ≠ 已闭环系统**
 - **不为了日报制造趋势**
 - **不运行、部署或验证外部项目能力**
