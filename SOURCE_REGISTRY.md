@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-19**
+Updated through: **2026-08-20**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -23,8 +23,11 @@ Updated through: **2026-08-19**
 | C-SAMR-EMBODIED-TRUST | C0 | 国家标准信息平台 | 20255545-Z-469 具身智能可信赖通用要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=41A934A216733FDBE06397BE0A0AC9DA |
 | C-SAMR-EMBODIED-TRUST-EVAL | C0 | 国家标准信息平台 | 20263055-Z-469 具身智能可信赖测评指标与方法；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF1D7A4A84D870E06397BE0A0AB2DE |
 | C-SAMR-EMBODIED-ETHICS | C0 | 国家标准信息平台 | 20263039-Z-469 具身智能伦理治理指南；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF0B1CABE9D2DEE06397BE0A0AD734 |
-| C-NDA-HQ-DATASET-2026 | C0 | 国家数据局 | 行业高质量数据集建设行动方案；数据飞轮、统一测评方案/工具与“一次测评、全国互认”方向 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0608/20260608172117399715004_pc.html |
+| C-NDA-HQ-DATASET-2026 | C0 | 国家数据局 | 行业高质量数据集建设行动方案；数据飞轮、统一测评与互认方向 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0608/20260608172117399715004_pc.html |
 | C-NDA-RESEARCH-FEEDBACK-2026 | C0 | 国家数据局 | 模数共振、模型应用反馈数据回流、数据飞轮与具身多模态数据研究任务 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0409/20260409092900412958913_pc.html |
+| C-NDA-DATASET-PLATFORM-2026 | C0 | 国家数据局 | 国家数据集管理服务平台正式发布并启动试运行；发布、凭证申领、质量测评、检索与供需服务 | https://www.nda.gov.cn/sjj/swdt/xwfb/0429/20260429223349173144038_pc.html |
+| C-NDA-PLATFORM-LIFECYCLE | C1 | 国家数据局 / 国家数据发展研究院 | 平台一期、凭证、质量评测、标识凭证数据集流通与交易衔接 | https://www.nda.gov.cn/sjj/zwgk/zjjd/0605/20260605122430764908996_pc.html |
+| C-NDA-PLATFORM-LOCAL-GOV | C1 | 国家数据局 / 苏州市数据局 | 数据来源与合规声明、准入检测、多级审核、质量评测报告与供需服务 | https://www.nda.gov.cn/sjj/zwgk/zjjd/0608/20260608175330176864409_pc.html |
 | C-TC609-HQ-QUALITY-EVAL | C0 | 全国数据标准化技术委员会 | 20256913-T-907 高质量数据集 质量评测规范；当前正在征求意见 | https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E |
 | C-TC609-HQ-QUALITY-SYSTEM | C0 | 全国数据标准化技术委员会 | 20262581-Z-907 高质量数据集 质量评测系统技术要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 |
 | C-TC609-EMBODIED-DATA-SOURCES | C0 | 全国数据标准化技术委员会 | 20262582-Z-907 具身智能数据来源与构成要素；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9962800CE06397BE0A0AEDC1 |
@@ -34,4 +37,4 @@ Updated through: **2026-08-19**
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide result recognition is already operational. Evaluation results must preserve scope and context before portability can be inferred.
+When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status and circulation approval are distinct evidence objects and must not be collapsed into one certification concept.
