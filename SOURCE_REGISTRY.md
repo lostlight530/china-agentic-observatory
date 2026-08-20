@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-20**
+Updated through: **2026-08-21**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -34,7 +34,12 @@ Updated through: **2026-08-20**
 | C-TC609-EMBODIED-SYNTHETIC | C0 | 全国数据标准化技术委员会 | 20262583-Z-907 仿真合成数据生成与处理规范；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E762CE9128008E06397BE0A0A41AF |
 | C-TC609-EMBODIED-TRAINING-BASE | C0 | 全国数据标准化技术委员会 | 20262584-Z-907 面向训练基地的数据采集与模型训练规范；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=511E762CE9138008E06397BE0A0A41AF |
 | C-NDA-DATA-STANDARDS-2026 | C1 | 国家数据局 / 全国数标委 | 2026 数据标准工作方向，布局智能体互联与具身智能数据标准 | https://www.nda.gov.cn/sjj/jgsz/jld/xb/xbldhd/0107/20260107164851565600126_pc.html |
+| C-NDA-TDS-ARCH | C0 | 国家数据局 / 全国数标委 | 《可信数据空间 技术架构》正式发布；连接器、数字合约、使用控制与关键业务流程 | https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/0430/20250430181352183912672_pc.html |
+| C-NDA-TDS-CONTRACT | C0 | 全国数标委技术文件 | 《可信数据空间 数字合约技术要求》；结构、流程、接口和数据字典 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0812/ff808081-96b466bd-0198-9da8198d-12f3.pdf |
+| C-NDA-TDS-USAGE-CONTROL | C0 | 全国数标委技术文件 | 《可信数据空间 使用控制技术要求》；策略解析、行为校验、操作执行、记录与存证 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0812/ff808081-96b465bf-0198-9da82d76-1388.pdf |
+| C-NDA-TDS-RELEASE-2025 | C0 | 国家数据局 | 数字合约、使用控制、技术能力评价等可信数据空间技术文件正式发布及验证试点 | https://www.nda.gov.cn/sjj/ywpd/sjzg/0922/20250903171136230874443_pc.html |
+| C-NDA-TDS-VALIDATION-2026 | C0 | 国家数据局 / 全国数标委 | 2026 数据基础设施、高质量数据集等方向标准与技术文件验证试点征集 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0402/20260402185936591334673_pc.html |
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status and circulation approval are distinct evidence objects and must not be collapsed into one certification concept.
+When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation.

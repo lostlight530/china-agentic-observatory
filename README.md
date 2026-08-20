@@ -16,57 +16,57 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-20 — **Evidence Enters Circulation / 证据进入流通层**
+### 2026-08-21 — **Circulation Gets a Contract / 流通获得合约约束**
 
-> **Quality Evidence · Dataset Identity · Credential · Compliance · Publishing · Exchange**  
-> **质量证据 · 数据集身份 · 凭证 · 合规 · 发布 · 流通**
+> **Digital Contract · Usage Control · Connector · Behavior Evidence · Compliance**  
+> **数字合约 · 使用控制 · 连接器 · 行为证据 · 履约治理**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-20.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-20/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-21.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-21/) · [`W34 Progress`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday W34 established that quality evidence should remain portable across organizations
+Yesterday W34 connected quality evidence, credentials and compliance material to real dataset circulation
 
-Today the model adds the next operational layer: dataset identity, quality evidence, compliance material and service-platform workflows begin to connect evaluation with publishing, procurement, listing and exchange
+Today the lifecycle continues after circulation begins: digital contracts and usage-control policies constrain what may happen after access is granted and create evidence about execution
 
-昨天确认质量证据需要可携带
+昨天解决“证据如何进入发布和流通”
 
-今天继续追问：这些证据怎样进入真实发布、供需、采购和流通基础设施，而不是停留在一份评测报告里
+今天继续追问：数据已经被使用之后，能不能仍然按照约定限制用途、记录行为并证明履约
 
 ```text
-FEEDBACK / DATA SOURCE
-→ QUALITY EVALUATION
-→ PORTABLE RESULT
-→ DATASET IDENTITY / CREDENTIAL
-→ COMPLIANCE REVIEW
-→ PUBLISH / DISCOVER
-→ PROCUREMENT / LISTING / EXCHANGE
-→ APPLICATION FEEDBACK
+DATASET / DATA PRODUCT
+→ CIRCULATION
+→ DIGITAL CONTRACT
+→ USAGE-CONTROL POLICY
+→ BEHAVIOR VALIDATION
+→ CONTROLLED OPERATION
+→ EVIDENCE RETURN
 ```
 
 ### W34 progress
 
 - H1 — **STRENGTHENED AGAIN**
 - H2 — **SUPPORTED / unchanged**
-- H3 — **STRENGTHENED**
-- H4 — **STRENGTHENED / REFINED**
+- H3 — **STRENGTHENED AGAIN**
+- H4 — **STRENGTHENED AGAIN**
 - H5 — **OPEN**
 - H6 — **STRENGTHENED AGAIN**
-- H7 — **STRENGTHENED / OPERATIONAL SERVICE EVIDENCE**
-- H8 — **STRENGTHENED / REFINED**
-- H9 — **NEW: quality evidence becomes a circulation input**
+- H7 — **SUPPORTED / unchanged**
+- H8 — **STRENGTHENED**
+- H9 — **STRENGTHENED / REFINED**
+- H10 — **NEW: digital contract and usage control become a post-circulation governance layer**
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **C0–C4 权威来源优先**
-- **征求意见 ≠ 已发布标准**
-- **质量评测 ≠ 结果互认**
-- **标识凭证 ≠ 质量证书**
-- **质量报告 ≠ 流通批准**
-- **结果互认 ≠ 强制接受**
-- **挂牌 / 上架 / 交易 ≠ 政府背书或全场景适用**
-- **平台试运行 ≠ 成熟全国市场机制**
-- **数据飞轮 ≠ 已闭环系统**
+- **流通批准 ≠ 不受限制使用**
+- **标识凭证 ≠ 使用授权**
+- **数字合约 ≠ 自动履约**
+- **策略下发 ≠ 策略执行**
+- **行为日志 ≠ 正确使用证明**
+- **已发布技术文件 ≠ GB/T 国家标准**
+- **可信数据空间 ≠ 国家数据集管理服务平台**
+- **相邻基础设施 ≠ 已完成系统级打通**
 - **不为了日报制造趋势**
 - **不运行、部署或验证外部项目能力**
 
