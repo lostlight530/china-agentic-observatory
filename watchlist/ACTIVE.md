@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-21
+Updated: 2026-08-23 · W34 final settlement applied
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -23,38 +23,38 @@ Updated: 2026-08-21
 | C-W17 | Do robots require identity/authority semantics beyond software agents? | OPEN | Standards and pilots |
 | C-W18 | How do embodied trustworthiness and ethics connect to physical safety and human takeover? | OPEN | Test methods and consultation drafts |
 | C-W19 | Which embodied projects move from review/approval into publication first? | OPEN | SAMR status transitions |
-| C-W20 | How do TC609 embodied dataset standards map to TC28 embodied-system standards? | OPEN | Formal crosswalks and joint pilots |
+| C-W20 | How do TC609 embodied dataset standards map to TC28 embodied-system standards? | **OPEN / W35 PRIORITY** | Formal crosswalks and joint pilots |
 | C-W21 | How will embodied dataset quality measure coverage, provenance, failure cases and representativeness? | **STRENGTHENED / open** | Draft technical indicators and evaluation text |
 | C-W22 | How will simulated synthetic data be validated for sim-to-real transfer? | OPEN | Evaluation methods and validation pilots |
 | C-W23 | Does the training-base standard create reproducible data-production infrastructure across regions and vendors? | OPEN | Pilot sites, tooling and implementation evidence |
 | C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | NDA / TC609 pilot results |
 | C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | **STRENGTHENED / open** | Dataset standards, pilot schemas, technical guidance |
-| C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | OPEN | Training-ground / pilot-validation implementations |
-| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` consultation text and later revisions |
-| C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | OPEN | Joint standards text, shared metrics, implementation pilots |
-| C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | OPEN | Governance guidance and production practice |
-| C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | OPEN | Reproducible application-validation and retraining evidence |
+| C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | **OPEN / W35 PRIORITY** | Training-ground / pilot-validation implementations |
+| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` revisions and later final text |
+| C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | **OPEN / W35 PRIORITY** | Joint standards text, shared metrics, implementation pilots |
+| C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | **STRENGTHENED / open** | Governance guidance and production practice |
+| C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | **OPEN / W35 PRIORITY** | Reproducible application-validation and retraining evidence |
 | C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **STATUS ADVANCED / open** | Consultation draft revisions and final technical content |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | OPEN | Evaluation-system schemas and pilot evidence |
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | OPEN | Dataset lifecycle specifications and tooling |
-| C-W35 | Can quality evaluation and governance approval remain separate but composable? | OPEN | Privacy/security rules plus quality-evaluation implementations |
-| C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | OPEN | Shared metrics across TC609 / TC28 / TC591 |
+| C-W35 | Can quality evaluation and governance approval remain separate but composable? | **STRENGTHENED / open** | Privacy/security rules plus quality-evaluation implementations |
+| C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | **OPEN / W35 PRIORITY** | Shared metrics across TC609 / TC28 / TC591 |
 | C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | **STRENGTHENED / open** | Platform report packages, result schema or API |
-| C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | OPEN | NDA / TC609 implementation documents and pilots |
+| C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | **OPEN / W35 PRIORITY** | NDA / TC609 implementation documents and pilots |
 | C-W39 | How are standard version, tool version, dataset version and model/application context preserved in reusable results? | OPEN | Metadata schemas and evaluation reports |
-| C-W40 | Do mutual-recognition results have expiry, revocation or mandatory re-evaluation conditions? | OPEN | Governance rules and pilot procedures |
+| C-W40 | Do mutual-recognition results have expiry, revocation or mandatory re-evaluation conditions? | **OPEN / W35 PRIORITY** | Governance rules and pilot procedures |
 | C-W41 | Can one quality result remain valid across industries and model families without contextual re-evaluation? | OPEN | Cross-industry pilots and exception rules |
 | C-W42 | Are embodied-intelligence datasets included in publicly inspectable mutual-recognition pilots? | OPEN | Pilot datasets, evaluation packages and published results |
 | C-W43 | What exact metadata is carried by the National Dataset Management Service Platform's identifier credential? | OPEN | Platform technical documentation and sample credential |
-| C-W44 | Can platform quality-evaluation reports be linked machine-readably to dataset identifier credentials without conflating identity and quality? | OPEN | Report schema, credential references and APIs |
-| C-W45 | How are compliance status, rights statements and quality evidence composed before listing or exchange? | OPEN | Platform / exchange integration rules and sample workflows |
-| C-W46 | Do evaluation results or credentials have expiry, revocation, supersession and re-evaluation semantics in the national platform? | OPEN | Lifecycle rules and platform documentation |
+| C-W44 | Can platform quality-evaluation reports be linked machine-readably to dataset identifier credentials without conflating identity and quality? | **OPEN / W35 PRIORITY** | Report schema, credential references and APIs |
+| C-W45 | How are compliance status, rights statements and quality evidence composed before listing or exchange? | **STRENGTHENED / open** | Platform / exchange integration rules and sample workflows |
+| C-W46 | Do evaluation results or credentials have expiry, revocation, supersession and re-evaluation semantics in the national platform? | **OPEN / W35 PRIORITY** | Lifecycle rules and platform documentation |
 | C-W47 | Can data exchanges consume national-platform evidence without repeating full evaluation? | OPEN | Interconnection pilots, transaction rules and accepted evidence packages |
 | C-W48 | Do embodied-intelligence datasets obtain public platform credentials, quality reports and circulation examples? | OPEN | Inspectable platform records and exchange cases |
-| C-W49 | Can national-platform dataset credentials and quality reports be referenced directly inside trusted-data-space digital contracts? | OPEN | Formal schema / API crosswalk and pilot contracts |
-| C-W50 | Does a trusted-data-space usage-control policy preserve dataset version, quality-result version and model/task scope? | OPEN | Policy templates, technical examples and implementations |
-| C-W51 | Can connector-generated performance evidence be consumed across different trusted data spaces without reinterpretation? | OPEN | Evidence schemas and interoperability pilots |
-| C-W52 | Do usage-control violations trigger revocation or re-evaluation of dataset access, credentials or quality evidence? | OPEN | Incident workflows and lifecycle rules |
-| C-W53 | Are AI training / Agent tasks given dedicated machine-readable usage-control policy profiles? | OPEN | Technical files, platform docs and pilots |
-| C-W54 | Do derived datasets or trained model outputs inherit enforceable restrictions from source-data digital contracts? | OPEN | Derivative-use rules, technical profiles and dispute cases |
+| C-W49 | Can national-platform dataset credentials and quality reports be referenced directly inside trusted-data-space digital contracts? | **OPEN / W35 PRIORITY** | Formal schema / API crosswalk and pilot contracts |
+| C-W50 | Does a trusted-data-space usage-control policy preserve dataset version, quality-result version and model/task scope? | **OPEN / W35 PRIORITY** | Policy templates, technical examples and implementations |
+| C-W51 | Can connector-generated fulfillment evidence be consumed across different trusted data spaces without reinterpretation? | **STRENGTHENED / open** | Evidence schemas and interoperability pilots |
+| C-W52 | Do usage-control violations or termination trigger revocation or re-evaluation of dataset access, credentials or quality evidence? | **OPEN / W35 PRIORITY** | Incident workflows and lifecycle rules |
+| C-W53 | Are AI training / Agent tasks given dedicated machine-readable usage-control policy profiles? | **OPEN / W35 PRIORITY** | Technical files, platform docs and pilots |
+| C-W54 | Do derived datasets or trained model outputs inherit enforceable restrictions from source-data digital contracts? | **OPEN / W35 PRIORITY** | Derivative-use rules, technical profiles and dispute cases |
