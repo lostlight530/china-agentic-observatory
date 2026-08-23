@@ -16,55 +16,48 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-23 — **Feedback Becomes Governable / 反馈开始可治理**
+### 2026-08-24 — **Post-Use Evidence Must Return / 使用后证据必须回流**
 
-> **Feedback · Quality · Credential · Circulation · Contract · Usage Control · Fulfillment Evidence**  
-> **反馈 · 质量 · 凭证 · 流通 · 合约 · 使用控制 · 履约证据**
+> **Application Feedback · Quality · Fulfillment Evidence · Lifecycle Action**  
+> **应用反馈 · 质量 · 履约证据 · 生命周期动作**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-23.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-23/) · [`W34 Final`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-24.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-24/) · [`W35 Opening`](./reports/weekly/2026/2026-W35.md)
 
-W34 closes with a durable judgment: feedback is increasingly governed as evidence across quality evaluation, circulation, digital contracts, usage control and fulfillment proof
+W34 made feedback increasingly governable
 
-W34 正式收官：反馈已经不再只是“重新喂给模型的数据”，而开始经过质量评测、凭证与流通、数字合约、使用控制以及履约证据等独立治理边界
+W35 asks whether post-use evidence can actually change the next dataset, access, credential or model state
 
 ```text
-APPLICATION / VALIDATION
-→ FEEDBACK DATA
-→ QUALITY GATE
-→ PORTABLE RESULT / CREDENTIAL
-→ CIRCULATION
-→ DIGITAL CONTRACT
-→ USAGE CONTROL
-→ EXECUTION
-→ FULFILLMENT EVIDENCE
-→ ? DATASET / MODEL REVISION
+POST-USE EVIDENCE
+→ TRACE / CLASSIFY
+→ QUALITY + GOVERNANCE REVIEW
+→ LIFECYCLE DECISION
+→ RECOLLECT / RELABEL / REWEIGHT / RESTRICT / REVOKE
+→ DATASET / MODEL / ACCESS STATE CHANGE
+↺
 ```
 
-The hard open edge remains the final return from post-use evidence into data construction and model iteration
+### W35 opening hypotheses
 
-最关键的开放边界仍然是：履约 / 违规 / 使用结果能否正式回流到质量重评、credential/access lifecycle 和下一轮数据建设
-
-### W34 final settlement
-
-- **DURABLE:** H1, H2, H6, H7, H9
-- **DURABLE AS TECHNICAL-ARCHITECTURE STRUCTURE:** H10
-- **DURABLE AS PUBLISHED TECHNICAL-FILE STRUCTURE:** H11
-- **STRENGTHENED BUT OPEN:** H3, H4, H8
-- **OPEN:** H5
-- **REFUTED:** none
+- H1 — post-use evidence becomes a formal feedback input
+- H2 — application evidence triggers explicit data work
+- H3 — feedback reuse requires provenance and quality gating
+- H4 — quality evidence ↔ usage-control evidence crosswalk
+- H5 — termination / violation affects credential or access state
+- H6 — derived outputs inherit governance questions
+- H7 — cross-system lifecycle mapping becomes necessary
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **feedback data ≠ high-quality data**
-- **quality evaluation ≠ mutual recognition**
-- **identifier credential ≠ quality certificate**
-- **circulation approval ≠ unrestricted usage**
-- **digital contract ≠ policy execution**
-- **policy execution ≠ correct use**
-- **fulfillment proof ≠ semantic compliance**
-- **termination signal ≠ downstream revocation propagation**
+- **post-use evidence ≠ automatic lifecycle correction**
+- **model feedback ≠ safe training data**
+- **one case ≠ national interface**
+- **termination ≠ automatic revocation**
+- **fulfillment proof ≠ quality evidence**
+- **quality approval ≠ governance approval**
+- **related systems ≠ formal crosswalk**
 - **published technical file ≠ universal nationwide implementation**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
