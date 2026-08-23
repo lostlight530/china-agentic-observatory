@@ -16,43 +16,56 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-22 — **Contract Produces a Proof / 合约开始产生履约证明**
+### 2026-08-23 — **Feedback Becomes Governable / 反馈开始可治理**
 
-> **Digital Contract · Usage Control · Termination · Fulfillment Proof · Log Hash · Signature**  
-> **数字合约 · 使用控制 · 中止 · 履约证明 · 日志摘要 · 签名**
+> **Feedback · Quality · Credential · Circulation · Contract · Usage Control · Fulfillment Evidence**  
+> **反馈 · 质量 · 凭证 · 流通 · 合约 · 使用控制 · 履约证据**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-22.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-22/) · [`W34 Saturday Checkpoint`](./reports/weekly/2026/2026-W34.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-23.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-23/) · [`W34 Final`](./reports/weekly/2026/2026-W34.md)
 
-Yesterday circulation gained digital-contract and usage-control governance
+W34 closes with a durable judgment: feedback is increasingly governed as evidence across quality evaluation, circulation, digital contracts, usage control and fulfillment proof
 
-Today the execution layer becomes more explicit: contract and strategy identifiers can be carried into termination requests and signed fulfillment proofs linked to execution-log hashes
+W34 正式收官：反馈已经不再只是“重新喂给模型的数据”，而开始经过质量评测、凭证与流通、数字合约、使用控制以及履约证据等独立治理边界
 
 ```text
-DIGITAL CONTRACT
-→ USAGE POLICY
+APPLICATION / VALIDATION
+→ FEEDBACK DATA
+→ QUALITY GATE
+→ PORTABLE RESULT / CREDENTIAL
+→ CIRCULATION
+→ DIGITAL CONTRACT
+→ USAGE CONTROL
 → EXECUTION
-→ TERMINATE OR COMPLETE
-→ FULFILLMENT PROOF
-→ COMPLIANCE / FEEDBACK
+→ FULFILLMENT EVIDENCE
+→ ? DATASET / MODEL REVISION
 ```
 
-### W34 progress
+The hard open edge remains the final return from post-use evidence into data construction and model iteration
 
-- H1/H2/H3/H4/H6/H7/H8/H9/H10 — **STRONGLY STRENGTHENED**
-- H5 — **OPEN**
-- H11 — **NEW: fulfillment evidence becomes a post-circulation governance object**
+最关键的开放边界仍然是：履约 / 违规 / 使用结果能否正式回流到质量重评、credential/access lifecycle 和下一轮数据建设
+
+### W34 final settlement
+
+- **DURABLE:** H1, H2, H6, H7, H9
+- **DURABLE AS TECHNICAL-ARCHITECTURE STRUCTURE:** H10
+- **DURABLE AS PUBLISHED TECHNICAL-FILE STRUCTURE:** H11
+- **STRENGTHENED BUT OPEN:** H3, H4, H8
+- **OPEN:** H5
+- **REFUTED:** none
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Digital contract ≠ policy execution**
-- **Policy execution ≠ correct use**
-- **Fulfillment proof ≠ semantic compliance**
-- **Log hash ≠ complete audit context**
-- **Termination signal ≠ downstream revocation propagation**
-- **Trusted environment ≠ trusted outcome**
-- **Released technical file ≠ universal nationwide implementation**
+- **feedback data ≠ high-quality data**
+- **quality evaluation ≠ mutual recognition**
+- **identifier credential ≠ quality certificate**
+- **circulation approval ≠ unrestricted usage**
+- **digital contract ≠ policy execution**
+- **policy execution ≠ correct use**
+- **fulfillment proof ≠ semantic compliance**
+- **termination signal ≠ downstream revocation propagation**
+- **published technical file ≠ universal nationwide implementation**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
