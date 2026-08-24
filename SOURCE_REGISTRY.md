@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-24**
+Updated through: **2026-08-25**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -27,6 +27,7 @@ Updated through: **2026-08-24**
 | C-NDA-RESEARCH-FEEDBACK-2026 | C0 | 国家数据局 | 模数共振、模型应用反馈数据回流、数据飞轮与具身多模态数据研究任务 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0409/20260409092900412958913_pc.html |
 | C-NDA-HQ-FEEDBACK-EXPLAIN | C1 | 国家数据局专家解读 | 数据质量验证 + 模型应用反馈、数据飞轮与应用闭环 | https://www.nda.gov.cn/sjj/zwgk/zjjd/0609/20260609212055771982317_pc.html |
 | C-NDA-HQ-POWER-CASE | C1 | 国家数据局典型案例 | 电力安全数据集的采集—标注—训练—应用飞轮、自动数据回流和季度反馈更新 | https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1024/20251024164916741278916_pc.html |
+| C-NDA-HQ-CHINA-MOBILE-CASE | C1 | 国家数据局典型案例 | 中国移动数据平台矩阵的十项核心功能，包括评测、管理、供给与回流；数据飞轮运营机制 | https://www.nda.gov.cn/sjj/ywpd/szkjyjcss/1118/20251118145454027357483_pc.html |
 | C-NDA-DATASET-PLATFORM-2026 | C0 | 国家数据局 | 国家数据集管理服务平台正式发布并启动试运行；发布、凭证申领、质量测评、检索与供需服务 | https://www.nda.gov.cn/sjj/swdt/xwfb/0429/20260429223349173144038_pc.html |
 | C-NDA-PLATFORM-LIFECYCLE | C1 | 国家数据局 / 国家数据发展研究院 | 平台一期、凭证、质量评测、标识凭证数据集流通与交易衔接 | https://www.nda.gov.cn/sjj/zwgk/zjjd/0605/20260605122430764908996_pc.html |
 | C-NDA-PLATFORM-LOCAL-GOV | C1 | 国家数据局 / 苏州市数据局 | 数据来源与合规声明、准入检测、多级审核、质量评测报告与供需服务 | https://www.nda.gov.cn/sjj/zwgk/zjjd/0608/20260608175330176864409_pc.html |
@@ -44,4 +45,4 @@ Updated through: **2026-08-24**
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface.
+When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism.
