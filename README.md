@@ -16,49 +16,54 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-24 — **Post-Use Evidence Must Return / 使用后证据必须回流**
+### 2026-08-25 — **Feedback Becomes an Operating Function / 反馈成为运行功能**
 
-> **Application Feedback · Quality · Fulfillment Evidence · Lifecycle Action**  
-> **应用反馈 · 质量 · 履约证据 · 生命周期动作**
+> **Automatic Return · Data Shortfall · Targeted Supplement · Dataset Update**  
+> **自动回流 · 数据短板 · 定向补充 · 数据集更新**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-24.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-24/) · [`W35 Opening`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-25.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-25/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W34 made feedback increasingly governable
+W35 opened by asking whether post-use evidence can change later lifecycle state
 
-W35 asks whether post-use evidence can actually change the next dataset, access, credential or model state
+Today multiple public cases strengthen the data side of the loop: one documents automatic return, rare-scenario supplementation and periodic updates based on model feedback; another makes `回流` an explicit dataset-platform capability
 
 ```text
-POST-USE EVIDENCE
-→ TRACE / CLASSIFY
-→ QUALITY + GOVERNANCE REVIEW
-→ LIFECYCLE DECISION
-→ RECOLLECT / RELABEL / REWEIGHT / RESTRICT / REVOKE
-→ DATASET / MODEL / ACCESS STATE CHANGE
-↺
+APPLICATION / OPERATION
+→ FEEDBACK / OPERATING DATA
+→ RETURN
+→ EVALUATION / MANAGEMENT
+→ DATA-CONSTRUCTION ACTION
+→ DATASET VERSION CHANGE
+→ MODEL ITERATION
 ```
 
-### W35 opening hypotheses
+The open boundary is no longer simply whether data can return
 
-- H1 — post-use evidence becomes a formal feedback input
-- H2 — application evidence triggers explicit data work
-- H3 — feedback reuse requires provenance and quality gating
-- H4 — quality evidence ↔ usage-control evidence crosswalk
-- H5 — termination / violation affects credential or access state
-- H6 — derived outputs inherit governance questions
-- H7 — cross-system lifecycle mapping becomes necessary
+> **Return function ≠ standardized feedback semantics ≠ automatic lifecycle correction**
+
+### W35 progress
+
+- H1 — post-use evidence as feedback input: **STRONGLY STRENGTHENED**
+- H2 — application evidence triggers data work: **STRONGLY STRENGTHENED**
+- H3 — provenance + quality gating: **STRENGTHENED**
+- H4 — quality ↔ usage-control crosswalk: **OPEN**
+- H5 — violation affects credential/access state: **OPEN**
+- H6 — derivative restriction inheritance: **OPEN**
+- H7 — cross-system lifecycle mapping: **STRENGTHENED**
+- H8 — feedback return becomes an explicit operating function: **NEW / MULTI-CASE IMPLEMENTATION SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
 - **post-use evidence ≠ automatic lifecycle correction**
-- **model feedback ≠ safe training data**
-- **one case ≠ national interface**
-- **termination ≠ automatic revocation**
-- **fulfillment proof ≠ quality evidence**
-- **quality approval ≠ governance approval**
-- **related systems ≠ formal crosswalk**
-- **published technical file ≠ universal nationwide implementation**
+- **feedback evidence ≠ lifecycle action**
+- **return function ≠ feedback semantics**
+- **automatic data return ≠ automatic training admission**
+- **targeted supplementation ≠ auditable work-item schema**
+- **quarterly update ≠ continuous automated loop**
+- **platform function ≠ national standard interface**
+- **two public cases ≠ nationwide interoperable system**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
