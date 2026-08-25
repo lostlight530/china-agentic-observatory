@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-25 · multi-case feedback operations applied
+Updated: 2026-08-26 · evaluation-diagnosis backpressure applied
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -30,19 +30,19 @@ Updated: 2026-08-25 · multi-case feedback operations applied
 | C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | NDA / TC609 pilot results |
 | C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | **STRENGTHENED / open** | Dataset standards, pilot schemas, technical guidance |
 | C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | **OPEN / W35 PRIORITY** | Training-ground / pilot-validation implementations |
-| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRENGTHENED / open** | `20256913-T-907` revisions and later final text |
+| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRONGLY STRENGTHENED / open** | `20256913-T-907` revisions and 模数共振 implementation evidence |
 | C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | **OPEN / W35 PRIORITY** | Joint standards text, shared metrics, implementation pilots |
 | C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | **STRENGTHENED / open** | Governance guidance and production practice |
 | C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | **STRONGLY STRENGTHENED / W35 PRIORITY** | More repeatable sector cases with version/task evidence |
 | C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **STATUS ADVANCED / open** | Consultation draft revisions and final technical content |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | OPEN | Evaluation-system schemas and pilot evidence |
-| C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | **STRENGTHENED / W35 PRIORITY** | Public cases show supplementation/update actions; need formal task/state representation |
+| C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 names targeted optimization; need formal task/state representation |
 | C-W35 | Can quality evaluation and governance approval remain separate but composable? | **STRENGTHENED / open** | Privacy/security rules plus quality-evaluation implementations |
 | C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | **OPEN / W35 PRIORITY** | Shared metrics across TC609 / TC28 / TC591 |
 | C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | **STRENGTHENED / open** | Platform report packages, result schema or API |
 | C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | **OPEN / W35 PRIORITY** | NDA / TC609 implementation documents and pilots |
-| C-W39 | How are standard version, tool version, dataset version and model/application context preserved in reusable results? | OPEN | Metadata schemas and evaluation reports |
+| C-W39 | How are standard version, tool version, dataset version and model/application context preserved in reusable results? | **STRENGTHENED / W35 PRIORITY** | Evaluation-to-optimization lineage and report schemas |
 | C-W40 | Do mutual-recognition results have expiry, revocation or mandatory re-evaluation conditions? | **OPEN / W35 PRIORITY** | Governance rules and pilot procedures |
 | C-W41 | Can one quality result remain valid across industries and model families without contextual re-evaluation? | OPEN | Cross-industry pilots and exception rules |
 | C-W42 | Are embodied-intelligence datasets included in publicly inspectable mutual-recognition pilots? | OPEN | Pilot datasets, evaluation packages and published results |
@@ -59,12 +59,15 @@ Updated: 2026-08-25 · multi-case feedback operations applied
 | C-W53 | Are AI training / Agent tasks given dedicated machine-readable usage-control policy profiles? | **OPEN / W35 PRIORITY** | Technical files, platform docs and pilots |
 | C-W54 | Do derived datasets or trained model outputs inherit enforceable restrictions from source-data digital contracts? | **OPEN / W35 PRIORITY** | Derivative-use rules, technical profiles and dispute cases |
 | C-W55 | Can fulfillment, termination and application-performance evidence be normalized into a formal feedback event model? | **NEW / W35 PRIORITY** | Schemas, APIs, technical files and production cases |
-| C-W56 | Can a feedback event create auditable recollection, relabeling, reweighting or synthetic-data work items? | **STRENGTHENED / W35 PRIORITY** | Cases show supplementation/update; need explicit task IDs and state transitions |
+| C-W56 | Can a feedback event create auditable recollection, relabeling, reweighting or synthetic-data work items? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Official targeted-optimization loop exists; need task IDs and state transitions |
 | C-W57 | Can violation evidence automatically trigger credential/access/contract review without conflating governance with quality? | **NEW / W35 PRIORITY** | State-transition rules and incident workflows |
 | C-W58 | Can the National Dataset Platform and trusted-data-space systems share stable references for quality reports, credentials, contracts and fulfillment evidence? | **NEW / W35 PRIORITY** | Formal crosswalks, APIs and pilot integrations |
-| C-W59 | Do model and physical-validation failures become machine-readable backpressure on data construction? | **NEW / W35 PRIORITY** | Failure-to-data task mappings and validation pilots |
+| C-W59 | Do model and physical-validation failures become machine-readable backpressure on data construction? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 establishes model-evaluation backpressure; need failure-to-data task mappings |
 | C-W60 | How are source restrictions propagated into derived datasets, fine-tuned models, embeddings and Agent outputs? | **NEW / W35 PRIORITY** | Derivative-use policies, lineage metadata and cases |
-| C-W61 | Which additional public cases show application feedback changing dataset/model state with traceable evidence? | **STRENGTHENED / monitor** | China Mobile adds platform-level return; seek more versioned lifecycle records |
+| C-W61 | Which additional public cases show application feedback changing dataset/model state with traceable evidence? | **STRENGTHENED / monitor** | Seek more versioned lifecycle records |
 | C-W62 | Does a platform-level `回流` function expose a machine-readable feedback-event schema rather than generic data movement? | **NEW / W35 PRIORITY** | Platform APIs, event schemas and sample records |
-| C-W63 | Can returned feedback be linked to before/after dataset versions and the exact action that changed them? | **NEW / W35 PRIORITY** | Dataset lineage, task IDs and version-diff records |
+| C-W63 | Can returned feedback be linked to before/after dataset versions and the exact action that changed them? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Targeted optimization is explicit; need dataset lineage, task IDs and version-diff records |
 | C-W64 | Do automatic-return pipelines enforce explicit quality/governance admission before returned data enters training or evaluation sets? | **NEW / W35 PRIORITY** | Production gating rules, rejection logs and audit evidence |
+| C-W65 | How does one model/Agent evaluation diagnosis become a concrete, owned and auditable dataset-optimization task? | **NEW / W35 PRIORITY** | 模数共振 implementations, task schemas and workflow evidence |
+| C-W66 | Can evaluation datasets remain diagnostically independent while their results drive new training-data construction? | **NEW / W35 PRIORITY** | Evaluation governance, contamination controls and implementation guidance |
+| C-W67 | Can before/after dataset versions and later evaluation results prove whether targeted optimization actually closed the diagnosed capability gap? | **NEW / W35 PRIORITY** | Version lineage, causal evaluation records and repeatable cases |
