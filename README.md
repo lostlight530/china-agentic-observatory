@@ -16,41 +16,40 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-25 — **Feedback Becomes an Operating Function / 反馈成为运行功能**
+### 2026-08-26 — **Evaluation Creates Backpressure / 评测形成反压**
 
-> **Automatic Return · Data Shortfall · Targeted Supplement · Dataset Update**  
-> **自动回流 · 数据短板 · 定向补充 · 数据集更新**
+> **Evaluation Dataset · Diagnosis · Targeted Optimization · Model Improvement**  
+> **评测数据集 · 诊断 · 定向优化 · 模型提升**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-25.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-25/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-26.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-26/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 opened by asking whether post-use evidence can change later lifecycle state
+W35 has moved beyond proving that feedback can return
 
-Today multiple public cases strengthen the data side of the loop: one documents automatic return, rare-scenario supplementation and periodic updates based on model feedback; another makes `回流` an explicit dataset-platform capability
+The 2026 MIIT + National Data Administration `模数共振` action explicitly makes model evaluation results an important basis for high-quality-dataset construction and optimization and names the desired loop:
 
 ```text
-APPLICATION / OPERATION
-→ FEEDBACK / OPERATING DATA
-→ RETURN
-→ EVALUATION / MANAGEMENT
-→ DATA-CONSTRUCTION ACTION
-→ DATASET VERSION CHANGE
-→ MODEL ITERATION
+评测诊断
+→ 数据集定向优化
+→ 模型能力提升
 ```
 
-The open boundary is no longer simply whether data can return
+This is formal program-level backpressure from evaluation into data construction
 
-> **Return function ≠ standardized feedback semantics ≠ automatic lifecycle correction**
+The open boundary is now precise
+
+> **Targeted optimization ≠ machine-readable lifecycle work item**
 
 ### W35 progress
 
 - H1 — post-use evidence as feedback input: **STRONGLY STRENGTHENED**
-- H2 — application evidence triggers data work: **STRONGLY STRENGTHENED**
-- H3 — provenance + quality gating: **STRENGTHENED**
+- H2 — application evidence triggers data work: **STRONGLY STRENGTHENED / REFINED**
+- H3 — provenance + quality gating: **STRONGLY STRENGTHENED**
 - H4 — quality ↔ usage-control crosswalk: **OPEN**
 - H5 — violation affects credential/access state: **OPEN**
 - H6 — derivative restriction inheritance: **OPEN**
 - H7 — cross-system lifecycle mapping: **STRENGTHENED**
-- H8 — feedback return becomes an explicit operating function: **NEW / MULTI-CASE IMPLEMENTATION SIGNAL**
+- H8 — feedback return as operating function: **STRONG MULTI-CASE IMPLEMENTATION SIGNAL**
+- H9 — evaluation diagnosis as dataset-optimization backpressure: **NEW / FORMAL PROGRAM SIGNAL**
 
 ---
 
@@ -58,12 +57,12 @@ The open boundary is no longer simply whether data can return
 
 - **post-use evidence ≠ automatic lifecycle correction**
 - **feedback evidence ≠ lifecycle action**
-- **return function ≠ feedback semantics**
-- **automatic data return ≠ automatic training admission**
-- **targeted supplementation ≠ auditable work-item schema**
-- **quarterly update ≠ continuous automated loop**
-- **platform function ≠ national standard interface**
-- **two public cases ≠ nationwide interoperable system**
+- **evaluation result ≠ automatic dataset modification**
+- **evaluation dataset ≠ training dataset**
+- **targeted optimization ≠ machine-readable work item**
+- **official action ≠ national technical interface**
+- **virtuous cycle target ≠ automated closed loop**
+- **model improvement ≠ causal proof of data improvement**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
