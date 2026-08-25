@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-25**
+Updated through: **2026-08-26**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@ Updated through: **2026-08-25**
 | C-CAC-GENAI-2023 | C0 | 国家网信办等七部门 | 生成式人工智能服务管理暂行办法 | https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm |
 | C-GOV-AI-PLUS-2025 | C0 | 国务院 | 深入实施“人工智能+”行动 | https://www.gov.cn/zhengce/content/202508/content_7037861.htm |
 | C-CAC-AGENT-2026 | C0 | 国家网信办等 | 智能体规范应用与创新发展实施意见 | https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm |
+| C-MIIT-NDA-MODAL-RESONANCE-2026 | C0 | 工业和信息化部办公厅 / 国家数据局综合司 | 2026年“模数共振”行动；行业模型/特色智能体评测数据集、评测诊断→数据集定向优化→模型能力提升 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0428/20260428215540161552208_pc.html |
 | C-SAMR-GBZ185 | C0 | 国家标准全文公开系统 | GB/Z 185.1—185.7 智能体互联系列 | https://openstd.samr.gov.cn/bzgk/std/nd?no=2781 |
 | C-SAMR-TRUST-47507 | C0 | 国家标准平台 | GB/T 47507-2026 人工智能 可信赖 通则 | https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=FE401CB127E80B2CAAFEF5EB4EC512D8 |
 | C-TC260-DEPLOY | C1 | TC260 | 智能体部署使用安全指引 | https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b8219733 |
@@ -45,4 +46,4 @@ Updated through: **2026-08-25**
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism.
+When an official implementation date and portal label conflict, preserve both. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism. The 2026 `模数共振` action is a formal joint program signal that evaluation results should drive targeted dataset optimization; it must not be mislabeled a published technical interface, automatic lifecycle workflow, or evidence that evaluation datasets may be freely reused as training data.
