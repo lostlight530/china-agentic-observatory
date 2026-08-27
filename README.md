@@ -16,28 +16,30 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-26 — **Evaluation Creates Backpressure / 评测形成反压**
+### 2026-08-27 — **Optimization Gets a Version Spine / 优化开始获得版本脊柱**
 
-> **Evaluation Dataset · Diagnosis · Targeted Optimization · Model Improvement**  
-> **评测数据集 · 诊断 · 定向优化 · 模型提升**
+> **Evaluation Diagnosis · Dataset Change · Version · Provenance**  
+> **评测诊断 · 数据集变化 · 版本 · 溯源**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-26.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-26/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-27.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-27/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 has moved beyond proving that feedback can return
+W35 has moved from feedback return to evaluation-driven optimization
 
-The 2026 MIIT + National Data Administration `模数共振` action explicitly makes model evaluation results an important basis for high-quality-dataset construction and optimization and names the desired loop:
+Today adds a formal work-item and implementation signal for versioned dataset lifecycle memory
 
 ```text
-评测诊断
-→ 数据集定向优化
-→ 模型能力提升
+EVALUATION DIAGNOSIS
+→ TARGETED DATASET OPTIMIZATION
+→ DATASET CHANGE
+→ VERSION / LINEAGE
+→ QUALITY + GOVERNANCE RE-EVALUATION
+→ MODEL ITERATION
+→ FOLLOW-UP EVALUATION
 ```
 
-This is formal program-level backpressure from evaluation into data construction
+The open boundary is:
 
-The open boundary is now precise
-
-> **Targeted optimization ≠ machine-readable lifecycle work item**
+> **Version lineage ≠ feedback-event / work-item lineage**
 
 ### W35 progress
 
@@ -47,22 +49,21 @@ The open boundary is now precise
 - H4 — quality ↔ usage-control crosswalk: **OPEN**
 - H5 — violation affects credential/access state: **OPEN**
 - H6 — derivative restriction inheritance: **OPEN**
-- H7 — cross-system lifecycle mapping: **STRENGTHENED**
+- H7 — cross-system lifecycle mapping: **STRONGLY STRENGTHENED**
 - H8 — feedback return as operating function: **STRONG MULTI-CASE IMPLEMENTATION SIGNAL**
-- H9 — evaluation diagnosis as dataset-optimization backpressure: **NEW / FORMAL PROGRAM SIGNAL**
+- H9 — evaluation diagnosis as dataset-optimization backpressure: **STRENGTHENED FORMAL PROGRAM SIGNAL**
+- H10 — version management + provenance as lifecycle infrastructure: **NEW / FORMAL WORK-ITEM + IMPLEMENTATION-CASE SIGNAL**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **post-use evidence ≠ automatic lifecycle correction**
-- **feedback evidence ≠ lifecycle action**
-- **evaluation result ≠ automatic dataset modification**
-- **evaluation dataset ≠ training dataset**
-- **targeted optimization ≠ machine-readable work item**
-- **official action ≠ national technical interface**
-- **virtuous cycle target ≠ automated closed loop**
-- **model improvement ≠ causal proof of data improvement**
+- **Planned technical file ≠ published technical file**
+- **Version management ≠ causal feedback linkage**
+- **Traceability ≠ automatic quality approval**
+- **New dataset version ≠ automatic training admission**
+- **Version ID ≠ work-item ID ≠ feedback-event ID**
+- **Case implementation ≠ national interoperable lifecycle schema**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
