@@ -16,54 +16,56 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-27 — **Optimization Gets a Version Spine / 优化开始获得版本脊柱**
+### 2026-08-28 — **Version Change Meets the Quality Gate / 版本变化进入质量门**
 
-> **Evaluation Diagnosis · Dataset Change · Version · Provenance**  
-> **评测诊断 · 数据集变化 · 版本 · 溯源**
+> **Dataset Version · Provenance · Quality Result · Re-evaluation**  
+> **数据集版本 · 溯源 · 质量结果 · 再评测**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-27.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-27/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-28.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-28/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
 
-W35 has moved from feedback return to evaluation-driven optimization
-
-Today adds a formal work-item and implementation signal for versioned dataset lifecycle memory
+W35 has moved from version/provenance infrastructure to the governance validity of evidence attached to a changed dataset
 
 ```text
 EVALUATION DIAGNOSIS
-→ TARGETED DATASET OPTIMIZATION
-→ DATASET CHANGE
-→ VERSION / LINEAGE
-→ QUALITY + GOVERNANCE RE-EVALUATION
+→ TARGETED OPTIMIZATION
+→ NEW DATASET VERSION
+→ VERSION / PROVENANCE
+→ QUALITY / GOVERNANCE GATE
 → MODEL ITERATION
 → FOLLOW-UP EVALUATION
 ```
 
+Formal workstreams now separately cover quality evaluation and version/provenance, while a National Data Administration public case places quality evaluation and version management inside one processing pipeline
+
 The open boundary is:
 
-> **Version lineage ≠ feedback-event / work-item lineage**
+> **New dataset version ≠ inherited quality status**
 
 ### W35 progress
 
 - H1 — post-use evidence as feedback input: **STRONGLY STRENGTHENED**
 - H2 — application evidence triggers data work: **STRONGLY STRENGTHENED / REFINED**
-- H3 — provenance + quality gating: **STRONGLY STRENGTHENED**
-- H4 — quality ↔ usage-control crosswalk: **OPEN**
+- H3 — provenance + quality gating: **STRONGLY STRENGTHENED / REFINED**
+- H4 — quality ↔ usage-control crosswalk: **OPEN / stronger pressure**
 - H5 — violation affects credential/access state: **OPEN**
 - H6 — derivative restriction inheritance: **OPEN**
 - H7 — cross-system lifecycle mapping: **STRONGLY STRENGTHENED**
 - H8 — feedback return as operating function: **STRONG MULTI-CASE IMPLEMENTATION SIGNAL**
 - H9 — evaluation diagnosis as dataset-optimization backpressure: **STRENGTHENED FORMAL PROGRAM SIGNAL**
-- H10 — version management + provenance as lifecycle infrastructure: **NEW / FORMAL WORK-ITEM + IMPLEMENTATION-CASE SIGNAL**
+- H10 — version management + provenance as lifecycle infrastructure: **STRONGLY STRENGTHENED**
+- H11 — quality evidence becomes version-scoped: **NEW / STRONG STRUCTURAL PRESSURE; FORMAL CROSSWALK OPEN**
 
 ---
 
 ## Research Discipline / 研究纪律
 
-- **Planned technical file ≠ published technical file**
-- **Version management ≠ causal feedback linkage**
-- **Traceability ≠ automatic quality approval**
-- **New dataset version ≠ automatic training admission**
-- **Version ID ≠ work-item ID ≠ feedback-event ID**
-- **Case implementation ≠ national interoperable lifecycle schema**
+- **New version ≠ inherited quality status**
+- **Version ID ≠ quality-result ID**
+- **Quality evaluation ≠ provenance**
+- **Provenance ≠ quality approval**
+- **Adjacent WG5 work items ≠ formal crosswalk**
+- **Pipeline composition ≠ national mandatory rule**
+- **Quality pass ≠ governance / rights approval**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
