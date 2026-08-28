@@ -16,30 +16,35 @@ A bilingual daily observatory for China's artificial intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-28 — **Version Change Meets the Quality Gate / 版本变化进入质量门**
+### 2026-08-29 — **The Quality Gate Holds / 质量门保持稳定**
 
-> **Dataset Version · Provenance · Quality Result · Re-evaluation**  
-> **数据集版本 · 溯源 · 质量结果 · 再评测**
+> **Review State Confirmed · Version-Scoped Evidence · Applicability Gap Still Open**  
+> **审查状态复核 · 版本作用域证据 · 适用性缺口仍开放**
 
-[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-28.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-28/) · [`W35 Progress`](./reports/weekly/2026/2026-W35.md)
+[`Integrated Daily Report`](./reports/daily/2026/08/2026-08-29.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-29/) · [`W35 Saturday Checkpoint`](./reports/weekly/2026/2026-W35.md)
 
-W35 has moved from version/provenance infrastructure to the governance validity of evidence attached to a changed dataset
+Friday established that quality evidence should be interpreted against the exact dataset version rather than inherited automatically across material changes, and it corrected `20256913-T-907 高质量数据集 质量测评规范` to the current **正在审查** state
+
+Saturday rechecked the official status surfaces and found **no new formal status transition**
+
+The current maturity asymmetry remains:
+
+- `20256913-T-907` — **正在审查**
+- `20262581-Z-907 高质量数据集 质量评测系统技术要求` — **正在起草**
+- WG5 `高质量数据集 版本管理与溯源技术要求` — separate 2026 technical-file work-list item
 
 ```text
-EVALUATION DIAGNOSIS
-→ TARGETED OPTIMIZATION
-→ NEW DATASET VERSION
+DATASET VERSION
 → VERSION / PROVENANCE
+→ VERSION-SCOPED QUALITY EVIDENCE
+→ APPLICABILITY / RE-EVALUATION DECISION ?
 → QUALITY / GOVERNANCE GATE
 → MODEL ITERATION
-→ FOLLOW-UP EVALUATION
 ```
 
-Formal workstreams now separately cover quality evaluation and version/provenance, while a National Data Administration public case places quality evaluation and version management inside one processing pipeline
+The Saturday boundary is:
 
-The open boundary is:
-
-> **New dataset version ≠ inherited quality status**
+> **Current review-stage maturity ≠ new 29 August transition ≠ formal version-quality crosswalk**
 
 ### W35 progress
 
@@ -53,19 +58,19 @@ The open boundary is:
 - H8 — feedback return as operating function: **STRONG MULTI-CASE IMPLEMENTATION SIGNAL**
 - H9 — evaluation diagnosis as dataset-optimization backpressure: **STRENGTHENED FORMAL PROGRAM SIGNAL**
 - H10 — version management + provenance as lifecycle infrastructure: **STRONGLY STRENGTHENED**
-- H11 — quality evidence becomes version-scoped: **NEW / STRONG STRUCTURAL PRESSURE; FORMAL CROSSWALK OPEN**
+- H11 — quality evidence becomes version-scoped: **STRONGLY STRENGTHENED / SATURDAY UNCHANGED; FORMAL CROSSWALK STILL OPEN**
 
 ---
 
 ## Research Discipline / 研究纪律
 
+- **Observation date ≠ state-transition date / 观察日 ≠ 状态变化日**
+- **审查 ≠ 批准 ≠ 发布**
+- **Quality specification maturity ≠ evaluation-system maturity**
+- **Quality specification maturity ≠ version crosswalk maturity**
 - **New version ≠ inherited quality status**
-- **Version ID ≠ quality-result ID**
-- **Quality evaluation ≠ provenance**
-- **Provenance ≠ quality approval**
-- **Adjacent WG5 work items ≠ formal crosswalk**
-- **Pipeline composition ≠ national mandatory rule**
-- **Quality pass ≠ governance / rights approval**
+- **New version ≠ automatic re-evaluation**
+- **Quality result ≠ governance / rights status**
 - **No forced novelty / 不为了日报制造趋势**
 - **No capability validation / 不运行、部署或验证外部项目能力**
 
