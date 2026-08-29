@@ -25,4 +25,4 @@ formal program ≠ machine-readable lifecycle interface
 
 Integrated report: `../2026-08-30.md`
 
-W35 final: `../../../weekly/2026/2026-W35.md`
+W35 final: `../../../../weekly/2026/2026-W35.md`
