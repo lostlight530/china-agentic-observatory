@@ -1,28 +1,35 @@
 # Daily SOP / 每日研究标准作业程序
 
-## 中文
+## Mission / 唯一职责
 
-你是 `lostlight530/china-agentic-observatory` 的独立每日研究维护者。
+每天使用公开权威来源完成一次中国人工智能全景研究，并交付一份完整每日研究记录。
 
-### 唯一职责
+> **允许无变化，不允许无报告。**
 
-每天使用公开权威来源完成一次中国人工智能全景研究，并交付一份完整每日研究报告。研究范围从中国人工智能历史根基延伸至当日政策、标准、科研、模型、智能体、开源、产业、基础设施、应用和社会现实。
+Daily 的目标不是堆新闻，而是回答：
 
-### 每日必做
+```text
+今天出现了什么新证据
+↓
+它改变了昨天哪个判断
+↓
+没有改变什么
+↓
+证据等级是什么
+↓
+边界在哪里
+↓
+下一步应该追什么
+```
 
-1. 读取最新远端 `main`、历史基线、前一日报和观察清单
-2. 执行全部保留分任务，不得只观察大厂产品新闻
-3. 优先检查 C0–C4 权威来源，再使用 C5–C6 发现线索
-4. 对政策、标准和项目分别校准状态
-5. 区分事件日期、发布日期、生效日期和观察日期
-6. 区分官方事实、项目事实、外部声明和本仓分析
-7. 比较中国内部路线及其与全球体系的关系
-8. 生成当日唯一主报告 `reports/daily/YYYY/MM/YYYY-MM-DD.md`
-9. 无重大变化仍必须报告检查范围、稳定判断和下一观察点
-10. 按需更新事件账本、政策/标准/项目卡、历史总纲、观察清单和关系地图
-11. 发现昨日或历史错误时明确更正
+## Before research / 开始前
 
-### 保留分任务
+1. 读取最新远端 `main`
+2. 确认昨日 PR 是否已合并；未合并不得假装进入历史
+3. 读取昨日 integrated daily、当前 canonical weekly、Source Registry、watchlist 和必要历史基线
+4. 确认 Asia/Shanghai 日期与 observation cut-off
+
+## Required workstreams / 保留分任务
 
 - C1 历史、国家战略与政策
 - C2 标准、协议、身份与互联
@@ -33,11 +40,45 @@
 - C7 中国与全球路线关系
 - C8 跨任务综合与判断修正
 
-### 主报告结构
+所有 C1–C8 都必须被检查；没有 material change 可以明确记录 unchanged。
+
+## Source and evidence discipline / 信源与证据纪律
+
+1. 优先 C0–C4 权威来源，C5–C6 只作补充或发现线索
+2. 先验证信息存在，再解释意义
+3. 区分 event / publication / effective / observation / known transition date
+4. 区分 `OFFICIAL_FACT` / `PROJECT_FACT` / `EXTERNAL_CLAIM` / `OBSERVATORY_ANALYSIS` / `UNCERTAIN`
+5. 同源重复不算独立增强
+6. current-state confirmation 不得写成 same-day transition
+7. 无强新证据时使用 `NO MATERIAL CHANGE / UNCHANGED`
+8. 不为了日报制造新 H 或趋势
+
+## Required daily pack / 每日交付
+
+China daily pack固定为：
+
+```text
+reports/daily/YYYY/MM/YYYY-MM-DD.md
+reports/daily/YYYY/MM/YYYY-MM-DD/
+├─ README.md          # task index
+├─ C1-history-policy.md
+├─ C2-standards-protocols.md
+├─ C3-research-models.md
+├─ C4-agents-open-source.md
+├─ C5-infrastructure-industry.md
+├─ C6-applications-governance.md
+├─ C7-china-global.md
+└─ C8-synthesis.md
+```
+
+创始期历史文件若形成于该 pack 规则之前，不为排版统一伪造缺失分任务；真实缺口必须如实保留。
+
+## Integrated report structure / 主报告结构
 
 ```markdown
-# China AI Daily Research Report / 中国人工智能每日研究报告
-## YYYY-MM-DD
+# <Daily theme> / <中文主题>
+## China AI Daily Research Report / 中国人工智能每日研究报告
+### YYYY-MM-DD
 
 ## 0｜Executive Judgment / 核心判断
 ## 1｜Research Scope / 今日研究范围
@@ -52,18 +93,56 @@
 ## 10｜Primary Sources / 一手来源
 ```
 
-### 禁止事项
+## Weekly handoff / 向周报交接
+
+日报完成后，仅当证据改变本周 hypothesis 状态时，原地更新同一 `reports/weekly/YYYY/YYYY-Www.md`。
+
+日报不是周报缩写；周报也不是日报拼接。
+
+## Durable assets / 长期资产
+
+- `SOURCE_REGISTRY.md`：仅新增耐久新源或明确状态修正
+- `watchlist/ACTIVE.md`：仅新增 / 关闭 / 升级长期问题
+- 不因为每日重复检查而复制已有条目
+
+## Correction discipline / 更正纪律
+
+发现昨日或历史错误时：
+
+```text
+old repository statement
+→ new evidence / audit finding
+→ explicit correction
+→ preserved temporal explanation
+```
+
+later evidence 不得倒灌成 earlier-day fact。
+
+## Forbidden / 禁止事项
 
 - 不运行、部署或测试外部项目
-- 不把政策目标写成已经实现的能力
-- 不把标准计划写成现行标准
-- 不把企业宣传写成全国性事实
-- 不使用单一媒体报道替代原始来源
+- 不把政策目标写成能力已实现
+- 不把计划、起草、审查写成已发布实施
+- 不把企业宣传或个案写成全国性事实
+- 不用媒体替代可获得的一手源
 - 不为了日报制造趋势
-- 不删除历史记录以掩盖判断变化
-- 不创建新的自动化任务
-- 不自动合并或直接写入受保护主分支
+- 不静默删除历史错误
+- 不创建自动化任务
+- 不改 CI / GitHub Actions
+- 不自动 merge
+- 不直接写 main
 
-## English
+## GitHub delivery boundary / GitHub 交付边界
 
-Act as the independent daily maintainer of `lostlight530/china-agentic-observatory`. Search authoritative public sources every day across the full Chinese AI system, execute all preserved workstreams, calibrate policy, standard, and project status, compare China-specific and global layers, and produce exactly one integrated daily report.
+```text
+latest merged main
+→ new daily branch
+→ daily pack
+→ canonical weekly update in place
+→ README / durable assets only when needed
+→ compare main...branch
+→ behind_by = 0
+→ Draft PR
+→ verify mergeable
+→ STOP
+```
