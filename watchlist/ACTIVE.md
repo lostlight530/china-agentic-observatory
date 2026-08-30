@@ -1,6 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: 2026-08-28 · version-scoped quality evidence applied
+Updated: **2026-08-31 · August closure + W36 opening**
+
+> Historical `W35 PRIORITY` labels below are retained as provenance of the previous week's research pressure. They are not the current priority ranking. The current W36 shortlist appears after the full table.
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -11,11 +13,11 @@ Updated: 2026-08-28 · version-scoped quality evidence applied
 | C-W05 | How are identity, authorization, gateway, audit and revocation implemented? | OPEN | Standards and pilots |
 | C-W06 | Which applications provide verifiable long-term deployment evidence? | OPEN | Cases and outcomes |
 | C-W07 | How does agent lifecycle security translate into operations? | OPEN | Sector guidance |
-| C-W08 | Does ITU-T F.748.93 progress to final Recommendation? | OPEN | AAP status |
+| C-W08 | Does ITU-T F.748.93 progress to final Recommendation? | OPEN | AAP approval / publication status |
 | C-W09 | What does IPv6-based agent identification become technically? | OPEN | Standards projects and pilots |
 | C-W10 | What formal text emerges from autonomous agent communication protocol tasks? | OPEN | MIIT follow-up |
 | C-W11 | Can network agents expose auditable authority and human takeover? | OPEN | Carrier deployments |
-| C-W12 | When will GB/T 47507 portal status align with its 2026-08-01 implementation date? | STATUS_CONFLICT | SAMR update |
+| C-W12 | When will GB/T 47507 portal status align with its 2026-08-01 implementation date? | **CLOSED 2026-08-31** | Official page now shows `现行`; reopen only on conflicting authoritative evidence |
 | C-W13 | How do horizontal trustworthiness standards map onto agent lifecycle governance? | **STRENGTHENED / open** | Formal crosswalks |
 | C-W14 | What practical effect will edge deployment standards have on terminal agents? | OPEN | Vendor/toolchain adoption |
 | C-W15 | How does the embodied-agent application framework map to GB/Z 185 identity, discovery and interaction? | OPEN | Draft/review text |
@@ -30,11 +32,11 @@ Updated: 2026-08-28 · version-scoped quality evidence applied
 | C-W24 | Do national high-quality dataset validation pilots include embodied-intelligence cases that can be publicly inspected? | OPEN | NDA / TC609 pilot results |
 | C-W25 | How is model-application feedback data defined, structured and traced back to source tasks? | **STRENGTHENED / open** | Dataset standards, pilot schemas, technical guidance |
 | C-W26 | Can physical validation failures generate auditable new data-collection or simulation tasks? | **OPEN / W35 PRIORITY** | Training-ground / pilot-validation implementations |
-| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRONGLY STRENGTHENED / open** | `20256913-T-907` revisions and 模数共振 implementation evidence |
+| C-W27 | Does “data quality validation + model application feedback” become a formal dataset quality metric? | **STRONGLY STRENGTHENED / open** | `20256913-T-907` review output and 模数共振 implementation evidence |
 | C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | **OPEN / W35 PRIORITY** | Joint standards text, shared metrics, implementation pilots |
 | C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | **STRENGTHENED / open** | Governance guidance and production practice |
 | C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | **STRONGLY STRENGTHENED / W35 PRIORITY** | More repeatable sector cases with version/task evidence |
-| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **STATUS ADVANCED / open** | Consultation draft revisions and final technical content |
+| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **REVIEW / OPEN** | Review outcome, approval/publication state and final technical content |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | **STRONGLY STRENGTHENED / open** | Version/provenance + quality-evaluation crosswalk |
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 names targeted optimization; need formal task/state representation |
@@ -80,3 +82,19 @@ Updated: 2026-08-28 · version-scoped quality evidence applied
 | C-W74 | Which data changes trigger full re-evaluation, scoped re-evaluation or no re-evaluation? | **NEW / W35 PRIORITY** | Change-classification and re-evaluation rules |
 | C-W75 | Is an earlier quality result automatically superseded, expired or flagged stale when a new dataset version appears? | **NEW / W35 PRIORITY** | Lifecycle semantics in standards/platforms |
 | C-W76 | Can platform identifier credentials bind dataset version and quality-result version while keeping identity, quality and governance status distinct? | **NEW / W35 PRIORITY** | Credential/report crosswalks and APIs |
+
+## W36 Active Shortlist / W36 当前优先清单
+
+The following questions are the active W36 compression of the larger historical watchlist:
+
+1. **C-W73 / C-W74 / C-W75** — exact dataset-version binding, re-evaluation triggers, supersession / expiry
+2. **C-W65 / C-W69 / C-W72** — evaluation diagnosis → auditable data-work item → resulting version → follow-up evaluation
+3. **C-W49 / C-W50 / C-W58 / C-W76** — quality / credential / contract / usage-control crosswalk without semantic collapse
+4. **C-W52 / C-W57** — violation / termination → access / credential / contract review
+5. **C-W54 / C-W60** — derivative restriction inheritance
+6. **C-W28 / C-W36** — TC609 ↔ TC28 ↔ TC591 formal lifecycle mapping
+7. `模数共振` midterm evaluation — watch for actual authoritative outputs; deadline passage alone is not completion
+
+## Closed this month / 本月已关闭
+
+- **C-W12** — GB/T 47507 portal-state conflict: official national-standard page now records `现行`, publication 2026-04-30 and implementation 2026-08-01.
