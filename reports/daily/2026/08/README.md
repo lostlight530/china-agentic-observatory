@@ -1,50 +1,73 @@
 # August 2026 Daily Index / 2026 年 8 月日报索引
 
-**Repository-native start / 仓库真实起点：2026-08-07**  
-**Checkpoint through / 当前检查点：2026-08-30**  
-**Observed daily records through checkpoint：24**  
-**Pending natural-month day：2026-08-31**
+## Closure state
 
-## Real coverage / 真实覆盖
+**CLOSED for repository-native August coverage**
 
-```text
-W32  07–09 Aug  3 real days   founding partial week
-W33  10–16 Aug  7 real days   closed
-W34  17–23 Aug  7 real days   closed
-W35  24–30 Aug  7 real days   closed
--------------------------------------
-Total through 30 Aug: 24 real observation days
-```
+The China Agentic Observatory was founded on **2026-08-07**.
 
-8 月 1–6 日在建仓之前，不得补写成 observatory daily history。
-
-## Current-stage W35 daily chain / 当前阶段 W35 日报链
-
-- [`2026-08-24`](./2026-08-24.md) — Post-Use Evidence Must Return
-- [`2026-08-25`](./2026-08-25.md) — Feedback Becomes an Operating Function
-- [`2026-08-26`](./2026-08-26.md) — Evaluation Creates Backpressure
-- [`2026-08-27`](./2026-08-27.md) — Optimization Gets a Version Spine
-- [`2026-08-28`](./2026-08-28.md) — Version Change Meets the Quality Gate
-- [`2026-08-29`](./2026-08-29.md) — The Quality Gate Holds
-- [`2026-08-30`](./2026-08-30.md) — The Milestone Arrives, the Crosswalk Does Not
-
-Canonical W35 settlement: [`../../../weekly/2026/2026-W35.md`](../../../weekly/2026/2026-W35.md)
-
-## Historical-format discipline / 历史格式纪律
-
-24–27 August were written before the latest mature integrated-report section template was consistently applied. Their evidence, cut-off time and same-day hypothesis states remain valid atomic history and are **not retroactively rewritten solely for style**.
-
-28 August was later structurally aligned with the canonical Daily SOP while preserving its original evidence date and judgment; 29–30 follow the mature structure directly.
+Therefore:
 
 ```text
-format modernization ≠ evidence correction
-later synthesis ≠ earlier-day fact
+2026-08-01 → 2026-08-06
+= outside repository lifetime
+≠ missing observatory reports
 ```
 
-If a factual/status error is found, it must be corrected explicitly rather than hidden by restyling.
+## Real coverage
 
-## Monthly state / 月度状态
+| Weekly context | August dates | Real daily records | State |
+|---|---:|---:|---|
+| W32 | 7–9 Aug | 3 | founding partial, closed |
+| W33 | 10–16 Aug | 7 | full week, closed |
+| W34 | 17–23 Aug | 7 | full week, closed |
+| W35 | 24–30 Aug | 7 | full week, closed |
+| W36 | 31 Aug | 1 | Monday opening; weekly remains open into September |
+| **Total** | **7–31 Aug** | **25** | **complete repository-native August coverage** |
 
-August monthly checkpoint: [`../../../monthly/2026/2026-08.md`](../../../monthly/2026/2026-08.md) — **OPEN through 30 Aug**.
+## Canonical daily files
 
-31 August must be observed before the natural month can close.
+One integrated daily exists for every real observatory day from 7 through 31 August.
+
+From the founding period onward, preserved C1–C8 workstream packs became the normal companion structure. The exact directory format evolved during the month.
+
+Historical-format rule:
+
+```text
+format evolution ≠ missing evidence
+later template ≠ earlier-day knowledge
+```
+
+Earlier daily files are not rewritten solely for visual uniformity.
+
+## Correction precedence
+
+For **current state**, use the newest explicit correction / Source Registry / Watchlist / current official source.
+
+For **historical reconstruction**, use the original daily as the atomic record of what was observed at that date.
+
+```text
+historical observation
+→ preserved
+
+later correction
+→ explicit
+
+current state
+→ newest verified evidence
+```
+
+Notable August corrections:
+
+- `20256913-T-907`: W34 consultation observation preserved; review observed by 28 Aug and reconfirmed 31 Aug
+- 29 Aug chronology: review state was recorded on 28 Aug, not newly transitioned on 29 Aug
+- `GB/T 47507-2026`: month-end official page shows `现行`, closing the earlier portal-state conflict
+
+## Monthly / weekly links
+
+- August final: `../../monthly/2026/2026-08.md`
+- W32: `../../weekly/2026/2026-W32.md`
+- W33: `../../weekly/2026/2026-W33.md`
+- W34: `../../weekly/2026/2026-W34.md`
+- W35: `../../weekly/2026/2026-W35.md`
+- W36 opening: `../../weekly/2026/2026-W36.md`
