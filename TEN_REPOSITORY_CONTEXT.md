@@ -9,7 +9,7 @@
 第九、十仓转向外部观察：
 
 - `agentic-frontier-observatory` 观察全球人工智能与智能体前沿
-- `china-agentic-observatory` 观察中国人工智能与智能体政策、标准、产业和开源演进
+- `china-agentic-observatory` 观察中国人工智能与智能体政策、标准、科研、产业、基础设施与治理演进
 
 它们回答“外部世界正在发生什么，以及这些变化如何修正我们的判断”。
 
@@ -26,17 +26,70 @@ A system that can build inward and observe outward
 一个既能向内构建、又能向外观察的完整体系
 ```
 
-第九、十仓不复制前八仓的验证、运行和实现职责。它们只进行公开来源搜索、事实校准、关系分析、趋势判断和判断修正。
+## First-month operating loop / 首月运行闭环
+
+经过 2026-08-07 → 2026-08-31 的首月连续运行，第九、第十仓的实际职责可以压缩为一句：
+
+> **前八仓构建自己的世界，第九、十仓每天重新观察外部世界。**
+
+它们不是新闻仓，也不是前八仓的验证/执行副本，而是整个十仓体系的 **external fact / judgment-correction layer**。
+
+```text
+公开世界
+↓
+Global Observatory / China Observatory
+↓
+权威信源 + 状态校准 + 反证 + 不确定性
+↓
+Daily atomic evidence
+↓
+Weekly hypothesis correction
+↓
+Monthly durable judgment
+↓
+修正前八仓和整个体系对外部世界的认知
+```
+
+### Global Observatory
+
+观察全球 AI 如何获得：
+
+`capability → identity → authority → execution → runtime trust → revocation → recovery → governance`
+
+### China Observatory
+
+观察中国 AI 如何通过：
+
+`policy → standards → data → evaluation → infrastructure → industry → lifecycle governance`
+
+### Shared method / 共同方法
+
+```text
+事实先于判断
+状态先于宣传
+历史不可改写
+不确定性必须保留
+每天观察
+每周纠偏
+每月压缩
+长期积累
+```
+
+两仓只验证**公开信息是否存在、由谁发布、是什么状态、能支持多窄的判断**，不独立运行外部模型/项目来验证其技术能力。
 
 ## English
 
-By 7 August 2026, the lostlight public research system reaches ten repositories with distinct responsibilities.
+By 7 August 2026, the lostlight public research system reached ten repositories with distinct responsibilities.
 
-The first eight repositories are primarily inward-facing: portal and knowledge lifecycle, deterministic state, data contracts, versioned graphs, agent foundations, research pipelines, document engineering, and scientific visualization. They answer what the system can build, express, and maintain.
+The first eight repositories are primarily inward-facing: portal and knowledge lifecycle, deterministic state, data contracts, versioned graphs, agent foundations, research pipelines, document engineering, and scientific visualization.
 
 Repositories nine and ten are outward-facing observatories:
 
 - `agentic-frontier-observatory` tracks the global AI and agentic frontier
-- `china-agentic-observatory` tracks China's AI and agentic policy, standards, industry, and open-source evolution
+- `china-agentic-observatory` tracks China's policy, standards, research, data, infrastructure, industry and governance lifecycle
 
-The ten-repository structure is not expansion for its own sake. It closes the loop between construction and observation. The observatories do not duplicate implementation or validation. They search public sources, calibrate facts, analyze relationships, identify trends, and revise prior judgments.
+After the first continuous month, their operating role is explicit:
+
+> **The first eight repositories build their own world; repositories nine and ten re-observe the external world every day.**
+
+They are the external-fact and judgment-correction layer of the ten-repository system. They do not duplicate implementation or capability validation. They search authoritative public sources, calibrate facts and maturity states, preserve counterevidence and uncertainty, and feed corrected world models back into the broader system.
