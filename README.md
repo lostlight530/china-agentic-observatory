@@ -14,44 +14,39 @@ A bilingual daily observatory for China's artificial-intelligence system across 
 
 ## Current Research Pack / 当前研究包
 
-### 2026-08-31 — **One Family, Different Clocks / 同一标准族，不同成熟时钟**
+### 2026-09-01 — **Approval Predates Observation / 批准早于观察**
 
-[`Integrated Daily`](./reports/daily/2026/08/2026-08-31.md) · [`Research Pack`](./reports/daily/2026/08/2026-08-31/) · [`W36 Opening`](./reports/weekly/2026/2026-W36.md) · [`August FINAL`](./reports/monthly/2026/2026-08.md)
+[`Integrated Daily`](./reports/daily/2026/09/2026-09-01.md) · [`Research Pack`](./reports/daily/2026/09/2026-09-01/) · [`W36 Tuesday`](./reports/weekly/2026/2026-W36.md) · [`September OPEN`](./reports/monthly/2026/2026-09.md) · [`August CLOSED / corrected`](./reports/monthly/2026/2026-08.md)
 
-August closes after **25 / 25 real repository-native observation days** from 7–31 August.
+The current ITU-T Work Programme now records **F.748.93 — Framework and Requirements for AI Agent Interoperability** as **Approved on 2026-08-29** under AAP.
 
-The month-end state audit shows why China-specific status discipline remains essential:
-
-```text
-20256913-T-907 quality specification       → 正在审查
-20262581-Z-907 evaluation system           → 正在起草
-WG5 version / provenance technical file    → work-list item
-GB/T 47507-2026 trustworthiness            → 现行
-ITU-T F.748.93                              → Consented / AAP
-```
-
-The core month-end rule is:
-
-> **Same standards family ≠ same project state.**
-
-The 30 August `模数共振` reporting deadline has passed, but the calendar alone does not prove all submissions or midterm evaluation are complete.
+This corrects the observatory's 31 August current-state line, which still recorded `Consented / AAP`.
 
 ```text
-scheduled milestone
-≠ completion evidence
+external state date    = 2026-08-29
+observatory discovery  = 2026-09-01
+
+observation date ≠ state-transition date
+late discovery ≠ same-day transition
 ```
 
-### August → W36
+Domestic current-state recheck remains:
 
-W32–W35 are closed historical memory. W36 opens on 31 August without resetting them.
+```text
+20256913-T-907 quality specification  → 正在审查
+20262581-Z-907 evaluation system      → 正在起草
+GB/T 47507-2026 trustworthiness       → 现行
+```
 
-W36 now tests:
+No authoritative material reviewed by the 1 September cut-off proves that the `模数共振` midterm evaluation has completed.
 
-- exact dataset-version → quality-result applicability / supersession
+### W36 now tests
+
+- approval / publication / implementation / conformance as separate states
+- version → quality-result applicability / supersession
 - `模数共振` diagnosis → auditable data-work → version → follow-up evaluation
 - quality ↔ rights / contract / usage-control crosswalk
 - violation / termination → credential / access review
-- derivative restriction inheritance
 
 ---
 
@@ -60,14 +55,12 @@ W36 now tests:
 ```text
 事实存在性 ≠ 技术有效性
 观察日 ≠ 状态变化日
+Consented ≠ Approved ≠ Published ≠ Implemented
 政策目标 ≠ 已完成能力
 起草 ≠ 审查 ≠ 批准 ≠ 发布 ≠ 实施
 技术文件 ≠ GB/T 国家标准
 案例实施 ≠ 全国互操作体系
 same family ≠ inherited maturity
-feedback_event_id ≠ data_work_item_id ≠ dataset_version_id
-new version ≠ inherited quality status
-quality result ≠ governance / rights status
 ```
 
 > **允许无变化，不允许无报告**

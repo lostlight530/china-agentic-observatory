@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-08-31 · August closure + W36 opening**
+Updated: **2026-09-01 · W36 Tuesday correction**
 
 > Historical `W35 PRIORITY` labels below are retained as provenance of the previous week's research pressure. They are not the current priority ranking. The current W36 shortlist appears after the full table.
 
@@ -13,7 +13,7 @@ Updated: **2026-08-31 · August closure + W36 opening**
 | C-W05 | How are identity, authorization, gateway, audit and revocation implemented? | OPEN | Standards and pilots |
 | C-W06 | Which applications provide verifiable long-term deployment evidence? | OPEN | Cases and outcomes |
 | C-W07 | How does agent lifecycle security translate into operations? | OPEN | Sector guidance |
-| C-W08 | Does ITU-T F.748.93 progress to final Recommendation? | OPEN | AAP approval / publication status |
+| C-W08 | Does ITU-T F.748.93 progress beyond Consented/AAP to approval? | **CLOSED 2026-09-01** | Current ITU-T page records Approved on 2026-08-29 under AAP |
 | C-W09 | What does IPv6-based agent identification become technically? | OPEN | Standards projects and pilots |
 | C-W10 | What formal text emerges from autonomous agent communication protocol tasks? | OPEN | MIIT follow-up |
 | C-W11 | Can network agents expose auditable authority and human takeover? | OPEN | Carrier deployments |
@@ -82,19 +82,20 @@ Updated: **2026-08-31 · August closure + W36 opening**
 | C-W74 | Which data changes trigger full re-evaluation, scoped re-evaluation or no re-evaluation? | **NEW / W35 PRIORITY** | Change-classification and re-evaluation rules |
 | C-W75 | Is an earlier quality result automatically superseded, expired or flagged stale when a new dataset version appears? | **NEW / W35 PRIORITY** | Lifecycle semantics in standards/platforms |
 | C-W76 | Can platform identifier credentials bind dataset version and quality-result version while keeping identity, quality and governance status distinct? | **NEW / W35 PRIORITY** | Credential/report crosswalks and APIs |
+| C-W77 | After F.748.93 approval, what published Recommendation text, conformance evidence, implementation mappings and interoperable deployments follow? | **NEW / W36 PRIORITY** | Stable Recommendation reference, conformance/TCK, product mappings and cross-vendor implementation evidence |
 
 ## W36 Active Shortlist / W36 当前优先清单
 
-The following questions are the active W36 compression of the larger historical watchlist:
+1. **C-W77** — F.748.93 approval → publication / implementation / conformance evidence
+2. **C-W73 / C-W74 / C-W75** — exact dataset-version binding, re-evaluation triggers, supersession / expiry
+3. **C-W65 / C-W69 / C-W72** — evaluation diagnosis → auditable data-work item → resulting version → follow-up evaluation
+4. **C-W49 / C-W50 / C-W58 / C-W76** — quality / credential / contract / usage-control crosswalk without semantic collapse
+5. **C-W52 / C-W57** — violation / termination → access / credential / contract review
+6. **C-W54 / C-W60** — derivative restriction inheritance
+7. **C-W28 / C-W36** — TC609 ↔ TC28 ↔ TC591 formal lifecycle mapping
+8. `模数共振` midterm evaluation — watch for actual authoritative outputs; deadline passage alone is not completion
 
-1. **C-W73 / C-W74 / C-W75** — exact dataset-version binding, re-evaluation triggers, supersession / expiry
-2. **C-W65 / C-W69 / C-W72** — evaluation diagnosis → auditable data-work item → resulting version → follow-up evaluation
-3. **C-W49 / C-W50 / C-W58 / C-W76** — quality / credential / contract / usage-control crosswalk without semantic collapse
-4. **C-W52 / C-W57** — violation / termination → access / credential / contract review
-5. **C-W54 / C-W60** — derivative restriction inheritance
-6. **C-W28 / C-W36** — TC609 ↔ TC28 ↔ TC591 formal lifecycle mapping
-7. `模数共振` midterm evaluation — watch for actual authoritative outputs; deadline passage alone is not completion
+## Closed this cycle / 本周期已关闭
 
-## Closed this month / 本月已关闭
-
-- **C-W12** — GB/T 47507 portal-state conflict: official national-standard page now records `现行`, publication 2026-04-30 and implementation 2026-08-01.
+- **C-W08** — F.748.93 approval progression: ITU-T now records Approved on 2026-08-29; discovered by observatory 2026-09-01.
+- **C-W12** — GB/T 47507 portal-state conflict: official national-standard page records `现行`, publication 2026-04-30 and implementation 2026-08-01.
