@@ -1,6 +1,6 @@
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-08-31**
+Updated through: **2026-09-01**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ Updated through: **2026-08-31**
 | C-CAICT-ASL | C1 | 中国信通院 | 智能体安全可信互连协议 ASL | https://gma.caict.ac.cn/plat/cttl-t/caict-jointly-release-ai-agent-secure-trusted-interconnection-protocol |
 | C-MIIT-AI-ICT-2026 | C0 | 工业和信息化部 | “人工智能+信息通信”2026—2028 | https://fjca.miit.gov.cn/xwdt/bsyw/art/2026/art_f325d5fe373141a28b31a6fa43377a5a.html |
 | C-CAC-IPV6-2026 | C0 | 中央网信办等 | IPv6 与智能体标识探索 | https://www.cac.gov.cn/2026-07/21/c_1786380789858394.htm |
-| C-ITU-F74893 | C1 | ITU-T SG21 | F.748.93 AI Agent Interoperability；Consented 2026-07-17；AAP；未等同最终 Recommendation | https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23620 |
+| C-ITU-F74893 | C1 | ITU-T SG21 | F.748.93 Framework and Requirements for AI Agent Interoperability；Consented 2026-07-17；**Approved 2026-08-29 under AAP**；approval discovered by observatory 2026-09-01 | https://www.itu.int/ITU-T/workprog/wp_item.aspx?isn=23620 |
 | C-SAMR-EMBODIED-APP | C0 | 国家标准信息平台 | 20255554-Z-469 具身智能体应用框架及接口；正在审查 | https://std.samr.gov.cn/gb/search/gbDetailed?id=41A934A2167C3FDBE06397BE0A0AC9DA |
 | C-SAMR-EMBODIED-GRADING | C0 | 国家标准信息平台 | 20252043-Z-469 具身智能智能化分级；正在批准 | https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E14D6322E06397BE0A0AA17F |
 | C-SAMR-EMBODIED-CLOUD | C0 | 国家标准信息平台 | 20263032-Z-469 具身智能云协议要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF0802B9F0D2E0E06397BE0A0A5574 |
@@ -48,14 +48,14 @@ Updated through: **2026-08-31**
 | C-NDA-TDS-RELEASE-2025 | C0 | 国家数据局 | 数字合约、使用控制、技术能力评价等可信数据空间技术文件正式发布及验证试点 | https://www.nda.gov.cn/sjj/ywpd/sjzg/0922/20250903171136230874443_pc.html |
 | C-NDA-TDS-VALIDATION-2026 | C0 | 国家数据局 / 全国数标委 | 2026 数据基础设施、高质量数据集等方向标准与技术文件验证试点征集 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0402/20260402185936591334673_pc.html |
 
-## Month-end current-state notes / 月末状态注记
+## Current-state notes / 当前状态注记
 
-- `GB/T 47507-2026` is now shown as **现行** on the official page; the old portal-state conflict is closed.
-- `20256913-T-907` is currently **正在审查**. Historical consultation observations remain historical records; the exact external transition date is not inferred.
+- `GB/T 47507-2026` is **现行**; the old portal-state conflict is closed.
+- `20256913-T-907` is **正在审查**; historical consultation observations remain historical and the exact transition date is not inferred.
 - `20262581-Z-907` remains **正在起草**.
-- ITU-T F.748.93 remains **Consented 2026-07-17 / AAP**, not automatically final publication.
-- The 30 August `模数共振` stage-summary deadline has passed; a deadline is not evidence that every submission or the subsequent midterm evaluation is complete.
+- **F.748.93 was Approved on 2026-08-29 under AAP.** The observatory discovered this current official state on 2026-09-01 after its 31 August report had preserved the older Consented state.
+- The 30 August `模数共振` stage-summary deadline has passed; no authoritative completion publication reviewed by 1 September proves all submissions or the subsequent midterm evaluation complete.
 
 ## Status rule / 状态规则
 
-When an official implementation date and portal label conflict, preserve both until a later authoritative surface resolves the conflict. Drafting, consultation, review, approval and publication remain distinct. Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism. The 2026 `模数共振` action is a formal joint program signal that evaluation results should drive targeted dataset optimization; it must not be mislabeled a published technical interface or automatic lifecycle workflow. The 2026 version-management/provenance and cognitive-value-evaluation entries are **work-list technical-file items**, not completed or published technical files. `20256913-T-907` currently being under review is a standards-lifecycle state, but review is not approval or publication. Separate quality-evaluation projects and case-level pipelines combining quality evaluation with version management create strong structural pressure for version-scoped quality evidence, but they do not establish a published national crosswalk or mandatory re-evaluation rule. Dataset-version identity, quality-result identity, feedback-event identity and data-work-item identity must remain distinct. **Family membership never propagates project maturity automatically.**
+When an official implementation date and portal label conflict, preserve both until a later authoritative surface resolves the conflict. Drafting, consultation, review, approval and publication remain distinct. **Consent, approval, publication, implementation and conformance are also distinct.** Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism. The 2026 `模数共振` action is a formal joint program signal that evaluation results should drive targeted dataset optimization; it must not be mislabeled a published technical interface or automatic lifecycle workflow. The 2026 version-management/provenance and cognitive-value-evaluation entries are **work-list technical-file items**, not completed or published technical files. `20256913-T-907` currently being under review is a standards-lifecycle state, but review is not approval or publication. Dataset-version identity, quality-result identity, feedback-event identity and data-work-item identity must remain distinct. **Family membership never propagates project maturity automatically.**
