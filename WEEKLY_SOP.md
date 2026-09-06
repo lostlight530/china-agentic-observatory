@@ -72,6 +72,8 @@ carry unresolved state forward
 8. 形成 next-week carry-forward
 9. 不制造 Sunday novelty
 
+如果周日 Daily 与 weekly settlement 在同一次维护中完成，允许且优先使用**同一分支、同一最终 PR**交付两者；这不改变“一周一份 canonical weekly”的规则。不得仅因为 Daily 与 Weekly 是两个 cadence 名称就机械创建第二个重复 PR。
+
 ## Canonical structure / 推荐结构
 
 ```markdown
@@ -100,6 +102,21 @@ carry unresolved state forward
 - 不再更新
 - 新 Agent 不得把它当第二份周报
 
+## Agent / PR evidence boundary / Agent 与 PR 证据边界
+
+周报只能由本周真实 Daily、登记的一手来源、当前仓库事实和显式 correction 支撑。
+
+Jules、Codex 或其他 Agent 的 task/PR summary、自动测试叙述、完成度评价和 PR body 不是独立 strengthening evidence：
+
+```text
+agent summary != weekly evidence
+PR narrative != current main truth
+same agent restatement != independent source
+claimed completion != verified state transition
+```
+
+若某 Agent PR 导致仓库实际 `main` 状态发生变化，可把**合并后的实际仓库状态**作为 repository fact 处理；仍不得把 PR body 的全部自述自动升级为事实。历史 Agent 叙述若需纠偏，应保留其历史时间语境并在当前记录中显式说明，不回写成“当时已经知道”。
+
 ## Boundaries / 边界
 
 ```text
@@ -108,6 +125,7 @@ carry unresolved state forward
 相近标准 ≠ formal crosswalk
 case implementation ≠ nationwide interoperability
 same-source repetition ≠ independent evidence
+agent/task narrative ≠ authoritative evidence
 ```
 
 不运行/部署/测试外部项目；不建自动化；不改前端/运行时代码/Actions；不自动 merge；不直接写 main。
