@@ -1,0 +1,2 @@
+# C2 — Standards / Protocols
+ITU-T SG17 public meeting documents were updated on 2026-09-08. `TD 361-WP4` exposes a 1st revised baseline text for `XSTR.stv-OC` on security threats and vulnerabilities in the OpenClaw framework; `TD 307-PLEN` is an informal/open/voluntary sharing on AI use in SG17 work. These are working/meeting objects only: revised baseline or informal sharing != consent != approval != publication != implementation != conformance.
