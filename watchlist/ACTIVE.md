@@ -1,8 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-09-01 · W36 Tuesday correction**
+Updated: **2026-09-15 · W38 current-state reconciliation**
 
-> Historical `W35 PRIORITY` labels below are retained as provenance of the previous week's research pressure. They are not the current priority ranking. The current W36 shortlist appears after the full table.
+> Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
 | ID | Question / 问题 | Status | Next evidence |
 |---|---|---|---|
@@ -13,7 +13,7 @@ Updated: **2026-09-01 · W36 Tuesday correction**
 | C-W05 | How are identity, authorization, gateway, audit and revocation implemented? | OPEN | Standards and pilots |
 | C-W06 | Which applications provide verifiable long-term deployment evidence? | OPEN | Cases and outcomes |
 | C-W07 | How does agent lifecycle security translate into operations? | OPEN | Sector guidance |
-| C-W08 | Does ITU-T F.748.93 progress beyond Consented/AAP to approval? | **CLOSED 2026-09-01** | Current ITU-T page records Approved on 2026-08-29 under AAP |
+| C-W08 | Does ITU-T F.748.93 progress beyond Consented/AAP to approval? | **CLOSED 2026-09-01** | Current ITU-T page records Approved on 2026-08-29 |
 | C-W09 | What does IPv6-based agent identification become technically? | OPEN | Standards projects and pilots |
 | C-W10 | What formal text emerges from autonomous agent communication protocol tasks? | OPEN | MIIT follow-up |
 | C-W11 | Can network agents expose auditable authority and human takeover? | OPEN | Carrier deployments |
@@ -36,11 +36,11 @@ Updated: **2026-09-01 · W36 Tuesday correction**
 | C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | **OPEN / W35 PRIORITY** | Joint standards text, shared metrics, implementation pilots |
 | C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | **STRENGTHENED / open** | Governance guidance and production practice |
 | C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | **STRONGLY STRENGTHENED / W35 PRIORITY** | More repeatable sector cases with version/task evidence |
-| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **REVIEW / OPEN** | Review outcome, approval/publication state and final technical content |
+| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **CURRENT-STATE CONFLICT / OPEN** | Stable authoritative state, approval/publication outcome and final technical content |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | **STRONGLY STRENGTHENED / open** | Version/provenance + quality-evaluation crosswalk |
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 names targeted optimization; need formal task/state representation |
-| C-W35 | Can quality evaluation and governance approval remain separate but composable? | **STRONGLY STRENGTHENED / open** | Version-scoped quality plus privacy/security governance evidence |
+| C-W35 | Can quality evaluation and governance approval remain separate but composable? | **OPEN / W38 PRIORITY** | Version-scoped quality plus rights/access/training-admission decision mappings |
 | C-W36 | Does physical validation feed directly into dataset-quality evaluation rather than only model-level scoring? | **OPEN / W35 PRIORITY** | Shared metrics across TC609 / TC28 / TC591 |
 | C-W37 | What technical artifact carries a mutually recognized quality-evaluation result across organizations? | **STRENGTHENED / open** | Platform report packages, result schema or API |
 | C-W38 | Does “one evaluation, nationwide mutual recognition” receive formal implementation rules or pilot lists? | **OPEN / W35 PRIORITY** | NDA / TC609 implementation documents and pilots |
@@ -55,14 +55,14 @@ Updated: **2026-09-01 · W36 Tuesday correction**
 | C-W47 | Can data exchanges consume national-platform evidence without repeating full evaluation? | OPEN | Interconnection pilots, transaction rules and accepted evidence packages |
 | C-W48 | Do embodied-intelligence datasets obtain public platform credentials, quality reports and circulation examples? | OPEN | Inspectable platform records and exchange cases |
 | C-W49 | Can national-platform dataset credentials and quality reports be referenced directly inside trusted-data-space digital contracts? | **OPEN / W35 PRIORITY** | Formal schema / API crosswalk and pilot contracts |
-| C-W50 | Does a trusted-data-space usage-control policy preserve dataset version, quality-result version and model/task scope? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Need policy-template integration |
+| C-W50 | Does a trusted-data-space usage-control policy preserve dataset version, quality-result version and model/task scope? | **OPEN / W38 PRIORITY** | Policy-template integration that maps quality/evaluation state to permitted use |
 | C-W51 | Can connector-generated fulfillment evidence be consumed across different trusted data spaces without reinterpretation? | **STRENGTHENED / open** | Evidence schemas and interoperability pilots |
-| C-W52 | Do usage-control violations or termination trigger revocation or re-evaluation of dataset access, credentials or quality evidence? | **OPEN / W35 PRIORITY** | Incident workflows and lifecycle rules |
+| C-W52 | Do usage-control violations or termination trigger revocation or re-evaluation of dataset access, credentials or quality evidence? | **OPEN / W38 PRIORITY** | Incident workflows and lifecycle rules |
 | C-W53 | Are AI training / Agent tasks given dedicated machine-readable usage-control policy profiles? | **OPEN / W35 PRIORITY** | Technical files, platform docs and pilots |
 | C-W54 | Do derived datasets or trained model outputs inherit enforceable restrictions from source-data digital contracts? | **OPEN / W35 PRIORITY** | Derivative-use rules, technical profiles and dispute cases |
 | C-W55 | Can fulfillment, termination and application-performance evidence be normalized into a formal feedback event model? | **NEW / W35 PRIORITY** | Schemas, APIs, technical files and production cases |
 | C-W56 | Can a feedback event create auditable recollection, relabeling, reweighting or synthetic-data work items? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Official targeted-optimization loop exists; need task IDs and state transitions |
-| C-W57 | Can violation evidence automatically trigger credential/access/contract review without conflating governance with quality? | **NEW / W35 PRIORITY** | State-transition rules and incident workflows |
+| C-W57 | Can violation evidence automatically trigger credential/access/contract review without conflating governance with quality? | **OPEN / W38 PRIORITY** | State-transition rules and incident workflows |
 | C-W58 | Can the National Dataset Platform and trusted-data-space systems share stable references for quality reports, credentials, contracts and fulfillment evidence? | **NEW / W35 PRIORITY** | Formal crosswalks, APIs and pilot integrations |
 | C-W59 | Do model and physical-validation failures become machine-readable backpressure on data construction? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 establishes model-evaluation backpressure; need failure-to-data task mappings |
 | C-W60 | How are source restrictions propagated into derived datasets, fine-tuned models, embeddings and Agent outputs? | **NEW / W35 PRIORITY** | Derivative-use policies, lineage metadata and cases |
@@ -78,24 +78,34 @@ Updated: **2026-09-01 · W36 Tuesday correction**
 | C-W70 | Can dataset version lineage preserve quality status, rights/compliance status and source restrictions without conflating them? | **STRONGLY STRENGTHENED / W35 PRIORITY** | Quality-version relation now explicit research priority |
 | C-W71 | Does every new feedback-driven dataset version trigger mandatory quality/governance re-evaluation before training admission? | **STRONGLY STRENGTHENED QUESTION / W35 PRIORITY** | Formal trigger rules, exceptions and audit evidence |
 | C-W72 | Can model versions and follow-up evaluation results close the exact dataset-optimization task that produced them? | **NEW / W35 PRIORITY** | Cross-version causal records and repeatable cases |
-| C-W73 | Does a quality-evaluation result carry the exact dataset-version identifier it evaluates? | **NEW / W35 PRIORITY** | `20256913-T-907` technical fields, platform report schema |
-| C-W74 | Which data changes trigger full re-evaluation, scoped re-evaluation or no re-evaluation? | **NEW / W35 PRIORITY** | Change-classification and re-evaluation rules |
-| C-W75 | Is an earlier quality result automatically superseded, expired or flagged stale when a new dataset version appears? | **NEW / W35 PRIORITY** | Lifecycle semantics in standards/platforms |
+| C-W73 | Does a quality-evaluation result carry the exact dataset-version identifier it evaluates? | **OPEN / W38 PRIORITY** | `20256913-T-907` final technical fields, platform report schema |
+| C-W74 | Which data changes trigger full re-evaluation, scoped re-evaluation or no re-evaluation? | **OPEN / W38 PRIORITY** | Change-classification and re-evaluation rules |
+| C-W75 | Is an earlier quality result automatically superseded, expired or flagged stale when a new dataset version appears? | **OPEN / W38 PRIORITY** | Lifecycle semantics in standards/platforms |
 | C-W76 | Can platform identifier credentials bind dataset version and quality-result version while keeping identity, quality and governance status distinct? | **NEW / W35 PRIORITY** | Credential/report crosswalks and APIs |
-| C-W77 | After F.748.93 approval, what published Recommendation text, conformance evidence, implementation mappings and interoperable deployments follow? | **NEW / W36 PRIORITY** | Stable Recommendation reference, conformance/TCK, product mappings and cross-vendor implementation evidence |
+| C-W77 | After F.748.93 approval/publication, what conformance evidence, implementation mappings and interoperable deployments follow? | **OPEN / W38 MONITOR** | Conformance/TCK, product mappings and cross-vendor implementation evidence |
+| C-W78 | Does F.748.93 or a coordinated ITU output define a formal identity/security/authorization crosswalk for its interoperability objects? | **NEW / W38 PRIORITY** | Normative SG17/SG21 mapping or equivalent formal crosswalk |
 
-## W36 Active Shortlist / W36 当前优先清单
+## W38 Active Shortlist / W38 当前优先清单
 
-1. **C-W77** — F.748.93 approval → publication / implementation / conformance evidence
-2. **C-W73 / C-W74 / C-W75** — exact dataset-version binding, re-evaluation triggers, supersession / expiry
-3. **C-W65 / C-W69 / C-W72** — evaluation diagnosis → auditable data-work item → resulting version → follow-up evaluation
-4. **C-W49 / C-W50 / C-W58 / C-W76** — quality / credential / contract / usage-control crosswalk without semantic collapse
-5. **C-W52 / C-W57** — violation / termination → access / credential / contract review
-6. **C-W54 / C-W60** — derivative restriction inheritance
-7. **C-W28 / C-W36** — TC609 ↔ TC28 ↔ TC591 formal lifecycle mapping
-8. `模数共振` midterm evaluation — watch for actual authoritative outputs; deadline passage alone is not completion
+1. **C-W73 / C-W74 / C-W75** — version-bound quality semantics, re-evaluation triggers and supersession / expiry
+2. **C-W78** — formal security / identity / authorization crosswalk for F.748.93 interoperability objects
+3. **C-W35 / C-W50** — quality/evaluation states → rights, permitted use, access or training-admission decisions
+4. **C-W52 / C-W57** — violation / termination evidence → scoped credential, access or contract review
+5. **C-W31** — `20256913-T-907` current-state conflict; keep point-in-time observations separate from unverified transition sequence
+6. **C-W77** — F.748.93 implementation / conformance / interoperable deployment evidence remains open
 
-## Closed this cycle / 本周期已关闭
+## Closed this cycle / 已关闭问题
 
-- **C-W08** — F.748.93 approval progression: ITU-T now records Approved on 2026-08-29; discovered by observatory 2026-09-01.
+- **C-W08** — F.748.93 approval progression: ITU-T records Approved on 2026-08-29; later publication-availability evidence is tracked separately rather than reopening the approval question.
 - **C-W12** — GB/T 47507 portal-state conflict: official national-standard page records `现行`, publication 2026-04-30 and implementation 2026-08-01.
+
+## Durable correction / 耐久纠偏
+
+```text
+observation date ≠ transition date
+review ≠ approval ≠ publication ≠ implementation
+Consented ≠ Approved ≠ Published ≠ Implemented ≠ Conformant
+adjacent standards ≠ formal crosswalk
+quality result ≠ rights / access / governance state
+current source conflict ≠ verified forward/backward transition sequence
+```
