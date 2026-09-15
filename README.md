@@ -6,7 +6,7 @@
 
 A bilingual daily observatory for China's artificial-intelligence system across history, policy, standards, research, open source, industry, infrastructure, applications, and governance.
 
-**[每日研究](./reports/daily/) · [每周研究](./reports/weekly/) · [每月研究](./reports/monthly/) · [研究方法](./METHODOLOGY.md) · [权威信源](./SOURCE_REGISTRY.md) · [观察清单](./watchlist/ACTIVE.md) · [分任务](./workstreams/README.md)**
+**[每日研究](./reports/daily/) · [每周研究](./reports/weekly/) · [每月研究](./reports/monthly/) · [研究方法](./METHODOLOGY.md) · [权威信源](./SOURCE_REGISTRY.md) · [观察清单](./watchlist/ACTIVE.md) · [分任务](./workstreams/README.md) · [外部维护审计](./governance/external-audit/)**
 
 **Twin Observatory / 双仓联动：** [Agentic Frontier Observatory](https://github.com/lostlight530/agentic-frontier-observatory)
 
@@ -30,6 +30,8 @@ Daily atomic observation
 ```
 
 首页只负责导航与长期研究纪律，不再重复最新日报或当前周报正文；对应 canonical surfaces 拥有这些状态。
+
+外部维护证据单独记录在 [`governance/external-audit/`](./governance/external-audit/)，不进入 Daily → Weekly → Monthly 研究压缩链。
 
 ---
 
