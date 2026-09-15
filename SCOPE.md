@@ -2,7 +2,7 @@
 
 ## 中文
 
-本仓库研究中国人工智能从历史根基到 2026 年 8 月现实前沿的完整体系，并持续比较其与全球路线的关系。
+本仓库研究中国人工智能从历史根基到当前现实前沿的完整体系，并持续比较其与全球路线的关系。
 
 ### 包含
 
@@ -24,4 +24,4 @@
 
 ## English
 
-The repository studies China's full AI system from historical roots to August 2026 and continuously compares it with global trajectories. It covers research, models, infrastructure, policy, governance, standards, industry, open source, applications, and social impact while preserving an independent China-specific source hierarchy and taxonomy.
+The repository studies China's full AI system from historical roots to the current practical frontier and continuously compares it with global trajectories. It covers research, models, infrastructure, policy, governance, standards, industry, open source, applications, and social impact while preserving an independent China-specific source hierarchy and taxonomy.

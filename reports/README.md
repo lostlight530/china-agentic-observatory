@@ -8,48 +8,43 @@ Weekly  = hypothesis memory / settlement
 Monthly = long-horizon compression / correction
 ```
 
-## Daily / 每日
+## Canonical paths / 规范路径
 
-Canonical path: `daily/YYYY/MM/YYYY-MM-DD.md`
+- Daily: `daily/YYYY/MM/YYYY-MM-DD.md`
+- Weekly: `weekly/YYYY/YYYY-Www.md`
+- Monthly: `monthly/YYYY/YYYY-MM.md`
+
+Current navigation is maintained in the time-scoped canonical indexes instead of duplicated here:
+
+- [`2026 年 9 月日报索引`](./daily/2026/09/README.md)
+- [`2026 周报规范索引`](./weekly/2026/README.md)
+- [`2026 月报规范索引`](./monthly/2026/README.md)
+
+## Daily / 每日
 
 Every real observation day produces one integrated China report; mature packs also preserve C1–C8 workstream outputs and a task index.
 
 > **允许无变化，不允许无报告。**
 
-- August 2026: **25 / 25 repository-native days**, 7–31 Aug, CLOSED
-- September 2026: begins 1 Sep, currently OPEN
-
-See [`daily/2026/08/README.md`](./daily/2026/08/README.md) and [`daily/2026/09/README.md`](./daily/2026/09/README.md).
-
 ## Weekly / 每周
 
-Canonical path: `weekly/YYYY/YYYY-Www.md`
+Only one `YYYY-Www.md` file is canonical for each natural ISO week. It opens from real Daily evidence, accumulates or corrects in place, and settles only after the final real observation-day Daily for the week.
 
-Only one canonical file exists per ISO week and is updated in place.
-
-- W32 — 7–9 Aug — CLOSED founding partial
-- W33 — 10–16 Aug — CLOSED
-- W34 — 17–23 Aug — CLOSED
-- W35 — 24–30 Aug — CLOSED
-- W36 — 31 Aug–6 Sep — **OPEN, Tuesday checkpoint**
+Legacy date-named progress snapshots or explicit special-event reconciliation files are non-canonical supplements; they do not create a second weekly truth.
 
 > **周日不是清空，周一不是重启。**
 
 ## Monthly / 每月
 
-Canonical path: `monthly/YYYY/YYYY-MM.md`
-
-- [`2026-08`](./monthly/2026/2026-08.md) — CLOSED; post-closure correction appended 1 Sep for F.748.93 approval state
-- [`2026-09`](./monthly/2026/2026-09.md) — OPEN from 1 Sep
-
-Monthly closure never forces weekly closure. A later-discovered August event can append an explicit correction without silently rewriting the historical observation date.
+The natural-month file remains `OPEN` before month-end and may receive point-in-time maintenance checkpoints without being prematurely closed. Monthly synthesis never replaces atomic Daily history or canonical Weekly settlement.
 
 ## Historical truth and current state
 
 ```text
 historical snapshot ≠ current status
 external state date ≠ observatory discovery date
-explicit correction > silent overwrite
+later evidence ≠ earlier knowledge
+explicit correction / reconciliation > silent overwrite
 ```
 
 Maintenance follows [`DAILY_SOP.md`](../DAILY_SOP.md), [`WEEKLY_SOP.md`](../WEEKLY_SOP.md), [`MONTHLY_SOP.md`](../MONTHLY_SOP.md), and [`METHODOLOGY.md`](../METHODOLOGY.md).

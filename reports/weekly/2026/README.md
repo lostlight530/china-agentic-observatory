@@ -4,23 +4,27 @@ Only `YYYY-Www.md` files are canonical weekly records.
 
 | Week | Coverage | Closure / current state | Current audit |
 |---|---|---|---|
-| W32 | 7–9 Aug | CLOSED founding partial | Historical standards-bridge judgment remains. Later evidence now shows F.748.93 approved 29 Aug; W32 itself is not rewritten as if approval were known then. |
+| W32 | 7–9 Aug | CLOSED founding partial | Historical standards-bridge judgment remains. Later evidence is handled by explicit correction rather than retroactive rewriting. |
 | W33 | 10–16 Aug | CLOSED | Structural claims remain scoped; date-named progress snapshot remains legacy non-canonical. |
-| W34 | 17–23 Aug | CLOSED | 19 Aug consultation observation for 20256913-T-907 remains historical; later review state does not invent a transition date. |
+| W34 | 17–23 Aug | CLOSED | Earlier `20256913-T-907` observations remain historical; later states do not invent transition dates. |
 | W35 | 24–30 Aug | CLOSED | Final lifecycle-correction settlement remains valid. |
-| W36 | 31 Aug–6 Sep | **OPEN — Tue 1 Sep checkpoint** | F.748.93 correction strengthens exact-object maturity tracking; other W36 hypotheses remain open. |
+| W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Different maturity clocks remain explicit; project-state linkage stays source-bounded. |
+| W37 | 7–13 Sep | FINAL — H37-1 REFUTED; H37-2~H37-5 OPEN | Approval-stage observation falsified H37-1 without proving missing version-lifecycle semantics. |
+| W38 | 14–20 Sep | **OPEN — corrected through 15 Sep Daily** | Current SAMR conflict is reconciled; H38-1~H38-4 remain OPEN. |
 
-## Post-August correction rule
+The dated W36 special-event reconciliation file is an explicit non-canonical supplement. It does not replace or duplicate canonical `2026-W36.md`.
+
+## Correction rule / 更正规则
 
 ```text
 external event may belong to a closed month/week
-observatory may discover it later
+observatory may discover or re-observe it later
 ↓
-append explicit correction
+append explicit correction / reconciliation
 preserve original observation chronology
 ```
 
-Closed weeklies are not silently rewritten merely because later evidence advances a project state.
+Closed weeklies are not silently rewritten merely because later evidence advances or conflicts with a project state.
 
 Legacy date-named `*-progress.md` files remain frozen non-canonical historical supplements.
 

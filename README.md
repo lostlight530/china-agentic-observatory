@@ -12,41 +12,24 @@ A bilingual daily observatory for China's artificial-intelligence system across 
 
 ---
 
-## Current Research Pack / 当前研究包
+## Current Research / 当前研究
 
-### 2026-09-01 — **Approval Predates Observation / 批准早于观察**
+当前状态由规范时间序列表面维护，不再在仓库首页复制一份容易漂移的 Daily / Weekly 快照：
 
-[`Integrated Daily`](./reports/daily/2026/09/2026-09-01.md) · [`Research Pack`](./reports/daily/2026/09/2026-09-01/) · [`W36 Tuesday`](./reports/weekly/2026/2026-W36.md) · [`September OPEN`](./reports/monthly/2026/2026-09.md) · [`August CLOSED / corrected`](./reports/monthly/2026/2026-08.md)
-
-The current ITU-T Work Programme now records **F.748.93 — Framework and Requirements for AI Agent Interoperability** as **Approved on 2026-08-29** under AAP.
-
-This corrects the observatory's 31 August current-state line, which still recorded `Consented / AAP`.
-
-```text
-external state date    = 2026-08-29
-observatory discovery  = 2026-09-01
-
-observation date ≠ state-transition date
-late discovery ≠ same-day transition
-```
-
-Domestic current-state recheck remains:
+- [`2026 年 9 月日报索引`](./reports/daily/2026/09/README.md) — 原子观察日记录
+- [`2026 周报规范索引`](./reports/weekly/2026/README.md) — 当前周假设状态与已结算周历史
+- [`2026 年 9 月月报`](./reports/monthly/2026/2026-09.md) — 当前月度综合；自然月结束前保持 `OPEN`
+- [`活跃观察清单`](./watchlist/ACTIVE.md) — 当前研究压力与优先问题
+- [`权威信源注册表`](./SOURCE_REGISTRY.md) — 当前信源身份与受证据边界约束的状态注记
 
 ```text
-20256913-T-907 quality specification  → 正在审查
-20262581-Z-907 evaluation system      → 正在起草
-GB/T 47507-2026 trustworthiness       → 现行
+Daily atomic observation
+→ Weekly hypothesis correction / settlement
+→ Monthly durable synthesis
+→ Watchlist / Registry / durable assets only when evidence requires
 ```
 
-No authoritative material reviewed by the 1 September cut-off proves that the `模数共振` midterm evaluation has completed.
-
-### W36 now tests
-
-- approval / publication / implementation / conformance as separate states
-- version → quality-result applicability / supersession
-- `模数共振` diagnosis → auditable data-work → version → follow-up evaluation
-- quality ↔ rights / contract / usage-control crosswalk
-- violation / termination → credential / access review
+首页只负责导航与长期研究纪律，不再重复最新日报或当前周报正文；对应 canonical surfaces 拥有这些状态。
 
 ---
 
@@ -55,12 +38,13 @@ No authoritative material reviewed by the 1 September cut-off proves that the `�
 ```text
 事实存在性 ≠ 技术有效性
 观察日 ≠ 状态变化日
-Consented ≠ Approved ≠ Published ≠ Implemented
+Consented ≠ Approved ≠ Published ≠ Implemented ≠ Conformant
 政策目标 ≠ 已完成能力
-起草 ≠ 审查 ≠ 批准 ≠ 发布 ≠ 实施
+起草 ≠ 征求意见 ≠ 审查 ≠ 批准 ≠ 发布 ≠ 实施
 技术文件 ≠ GB/T 国家标准
 案例实施 ≠ 全国互操作体系
 same family ≠ inherited maturity
+quality result ≠ rights / access / governance state
 ```
 
 > **允许无变化，不允许无报告**
