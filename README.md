@@ -8,6 +8,8 @@ A bilingual daily observatory for China's artificial-intelligence system across 
 
 **[每日研究](./reports/daily/) · [每周研究](./reports/weekly/) · [每月研究](./reports/monthly/) · [研究方法](./METHODOLOGY.md) · [权威信源](./SOURCE_REGISTRY.md) · [观察清单](./watchlist/ACTIVE.md) · [分任务](./workstreams/README.md) · [外部维护审计](./governance/external-audit/)**
 
+**仓库上下文 / 治理导航：** [起源](./ORIGIN.md) · [范围](./SCOPE.md) · [分类体系](./TAXONOMY.md) · [十仓上下文](./TEN_REPOSITORY_CONTEXT.md) · [治理](./governance/README.md)
+
 **Twin Observatory / 双仓联动：** [Agentic Frontier Observatory](https://github.com/lostlight530/agentic-frontier-observatory)
 
 ---

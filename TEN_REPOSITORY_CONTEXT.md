@@ -54,7 +54,7 @@ Monthly durable judgment
 
 观察全球 AI 如何获得：
 
-`capability → identity → authority → execution → runtime trust → revocation → recovery → governance`
+`capability → discovery → identity → authority → execution → runtime trust → revocation → recovery → governance`
 
 ### China Observatory
 
