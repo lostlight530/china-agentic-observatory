@@ -1,6 +1,6 @@
 # China Agentic Observatory
 
-[![DOI](https://zenodo.org/badge/1326164232.svg)](https://zenodo.org/badge/latestdoi/1326164232)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22791309.svg)](https://doi.org/10.5281/zenodo.22791309)
 
 ### 中国人工智能与智能体前沿观察站
 
