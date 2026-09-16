@@ -1,4 +1,7 @@
 # China Agentic Observatory
+
+[![DOI](https://zenodo.org/badge/1326164232.svg)](https://zenodo.org/badge/latestdoi/1326164232)
+
 ### 中国人工智能与智能体前沿观察站
 
 > **One repository · One day · One integrated research report**  
