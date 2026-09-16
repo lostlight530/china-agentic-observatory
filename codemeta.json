@@ -1,0 +1,23 @@
+{
+  "@context": "https://w3id.org/codemeta/3.1",
+  "@type": "SoftwareSourceCode",
+  "name": "China Agentic Observatory",
+  "description": "A bilingual source-grounded observatory for China's artificial-intelligence system across history, policy, standards, research, open source, industry, infrastructure, applications, and governance.",
+  "codeRepository": "https://github.com/lostlight530/china-agentic-observatory",
+  "license": "https://spdx.org/licenses/MIT.html",
+  "author": {
+    "@type": "Person",
+    "name": "lostlight530",
+    "url": "https://github.com/lostlight530"
+  },
+  "applicationCategory": "Research Software",
+  "isAccessibleForFree": true,
+  "keywords": [
+    "artificial intelligence",
+    "china",
+    "agentic systems",
+    "research observatory",
+    "standards",
+    "governance"
+  ]
+}
