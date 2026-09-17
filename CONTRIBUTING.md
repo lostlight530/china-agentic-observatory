@@ -1,71 +1,86 @@
 # Contributing / 贡献指南
 
+China Agentic Observatory welcomes contributions that improve factual accuracy, source quality, temporal/status calibration, taxonomy, methodology, durable research assets, repository documentation, or public metadata.
+
 ## 中文
 
-本仓库接受能够提升事实准确性、来源质量、时间校准、分析边界与仓库治理可恢复性的贡献。
+### 贡献对象
 
-开始前先确认当前合并 `main`、相关开放 PR/活动分支、受影响的 owning surface，以及当前适用的研究或治理合同。
+优先修改真正拥有该问题的长期表面：
+
+- `METHODOLOGY.md` — 中国语境下的信源、状态、时间与证据纪律；
+- `SCOPE.md` — 研究范围与排除项；
+- `TAXONOMY.md` — policy / standards / infrastructure / industry / agentic systems 的比较词汇；
+- `SOURCE_REGISTRY.md` — 规范信源身份；
+- `watchlist/`、`workstreams/` — 当前研究压力与 C1–C8 分析结构；
+- 根 README、引用/发布元数据、`.github/`、安全与贡献文档 — 仓库公共基础设施；
+- 时间序列 research outputs — 仅在明确纠错任务确实拥有对应记录时修改。
+
+### 来源、状态与时间
 
 贡献应当：
 
-- 优先引用一手、官方或原始研究来源；
-- 明确区分 event / publication / effective / observation / known transition date；
-- 区分 `OFFICIAL_FACT` / `PROJECT_FACT` / `EXTERNAL_CLAIM` / `OBSERVATORY_ANALYSIS` / `UNCERTAIN`；
-- 对不确定、冲突、缺失或无法确认的内容显式标注；
-- 不把政策目标、规划、起草、审查、批准展示、企业宣传或个案写成已经实现或全国普遍成立的能力/成熟度；
-- 保留历史 Daily / Weekly / Monthly / ledger / audit 的原始时间边界，通过 correction / reconciliation 向前修正；
-- 对维护类改动明确 base revision、owning surface、实际执行的检查和未执行的检查；
-- 在同一 surface / logical period 已有 live owner 时先 `COORDINATE`，不要建立平行维护线；
-- 不提交凭据、私人信息、付费内容全文、隐藏推理或无法公开核验的材料。
+- 优先使用政府、标准组织、官方项目/企业资料与原始研究；
+- 区分 `event_date`、`publication_date`、`effective_date`、`observed_at` 与已知 `state_transition_date`；
+- 区分 `OFFICIAL_FACT`、`PROJECT_FACT`、`EXTERNAL_CLAIM`、`OBSERVATORY_ANALYSIS`、`UNCERTAIN`；
+- 明确标准/政策状态和项目状态，不用相似措辞替代正式生命周期；
+- 不把政策目标、标准计划、起草、审查、批准展示、企业宣传、单一案例自动提升为已实施能力或全国成熟度；
+- 不把同一上游文件的重复转载计为独立证据。
 
-本仓库不接收以运行结果、性能复现或产品体验替代来源分析的贡献，因为能力验证不属于本仓库职责。
-
-`DAILY_SOP.md`、`WEEKLY_SOP.md`、`MONTHLY_SOP.md` 是研究生产合同；合同存在不等于任务已执行。checker / producer / runtime 脚本如果存在，属于执行层 owning source，不应仅为了统一治理文字而修改。只有确认缺陷由该执行文件拥有时，才应修改代码并单独验证。
-
-仓库维护遵循：
+本仓自己的 DOI、README、历史报告或软件归档不能替代中国外部世界的 C0–C6 信源。
 
 ```text
-write never probes
-no confirmed defect -> NO_CHANGE_REQUIRED
-overlap -> COORDINATE
-unrun check -> NOT_EXECUTED
-unobserved execution -> EXECUTION_NOT_OBSERVED
-real bounded repair -> aggregate diff -> Draft PR -> maintainer review
+repository DOI != official/project evidence
+self-citation != independent corroboration
+observation date != transition date
+approval display != exact approval time
+case implementation != nationwide adoption
 ```
 
-外部独立审计是特殊治理 producer：只有当 active external-audit contract 要求且审计实际执行时，`HEALTHY` 才可以生成规范 audit record；这不授权为了活动量修改研究正文或执行层。
+### 历史与纠错
+
+历史 Daily / Weekly / Monthly 和其他 point-in-time 记录保留原始观察边界。后续发现错误时更新当前解释并明确 correction，不把后来获得的来源或精确日期倒写进更早记录。
+
+周期 SOP 定义研究生产方式；普通贡献不需要围绕调度器、维护 Agent 或外部审计控制逻辑组织。
+
+### Pull Request
+
+使用仓库 PR 模板，并说明具体问题、有限改动、受影响长期表面、来源与日期/版本/状态依据、实际完成的核验、仍不确定事项、历史影响、安全/隐私影响与回滚方式。
 
 ## English
 
-This repository welcomes contributions that improve factual accuracy, source quality, temporal calibration, analytical boundaries, and recoverable repository governance.
+### Choose the owning surface
 
-Before changing the repository, recover current merged `main`, relevant open PRs/live branches, the owning surface, and the current research or governance contract for the subject.
+Prefer the durable surface that actually owns the issue:
 
-Contributions should:
+- `METHODOLOGY.md` for China-specific source/status/date discipline;
+- `SCOPE.md` for coverage and exclusions;
+- `TAXONOMY.md` for policy/standards/infrastructure/industry/agentic comparison vocabulary;
+- `SOURCE_REGISTRY.md` for canonical source identities;
+- `watchlist/` and `workstreams/` for active research pressure and C1–C8 analytical organization;
+- root documentation, citation/release metadata, `.github/`, security, and contribution files for repository infrastructure;
+- time-ordered research outputs only when a specific correction genuinely owns that record.
 
-- prefer primary, official, or original-research sources;
-- separate event, publication/update, effective, repository-observation, and known-transition dates;
-- distinguish official/project facts, attributed external claims, observatory analysis, and unknown state;
-- mark uncertainty, conflict, missing evidence, and unverifiable material explicitly;
-- never promote policy goals, plans, drafts, reviews, approval displays, marketing claims, or isolated cases into implemented or nationally mature capability without evidence;
-- preserve historical Daily/Weekly/Monthly/ledger/audit time boundaries and correct forward through correction/reconciliation;
-- for maintenance work, record the exact base revision, owning surface, checks actually run, and checks not run;
-- `COORDINATE` rather than creating a parallel maintenance line when the same surface/logical period already has a live owner;
-- never submit credentials, private information, full paywalled content, hidden reasoning, or non-public evidence.
+### Source, status, and date discipline
 
-Capability testing, benchmark reproduction, and product validation are outside this repository's source-analysis role.
+Contributions should prefer official/primary/original sources, preserve formal lifecycle status, separate event/publication/effective/observation/transition dates, and keep official/project facts distinct from external claims, observatory analysis, and uncertainty.
 
-`DAILY_SOP.md`, `WEEKLY_SOP.md`, and `MONTHLY_SOP.md` are research-production contracts. Contract presence does not prove execution. Checker/producer/runtime scripts, when present, are execution-layer owners and are not changed merely to normalize governance prose; code changes require a confirmed code-owned defect and independent verification.
+Do not promote policy targets, standards plans, drafting/review/approval displays, marketing claims, or isolated cases into implemented capability or nationwide maturity without evidence.
 
-Maintenance discipline:
+The repository's own DOI, README, prior reports, or archive are not C0–C6 external evidence.
 
-```text
-write never probes
-no confirmed defect -> NO_CHANGE_REQUIRED
-overlap -> COORDINATE
-unrun check -> NOT_EXECUTED
-unobserved execution -> EXECUTION_NOT_OBSERVED
-real bounded repair -> aggregate diff -> Draft PR -> maintainer review
-```
+### Historical correction
 
-The external-audit cadence is a special governance producer: when its active contract requires a canonical record and the audit actually ran, a `HEALTHY` result may still produce that governance record. It does not authorize activity-only edits to research or execution-layer files.
+Preserve point-in-time research boundaries. Correct current interpretation forward and never make a later source or transition timestamp appear available to an earlier observation.
+
+Cadence SOPs define research production; ordinary contributions do not need to reproduce scheduler, maintenance-agent, or external-audit control logic.
+
+### Pull requests
+
+Use the repository pull-request template and include the bounded change, affected durable surfaces, source/date/status evidence, verification actually performed, unresolved items, historical impact, security/privacy impact, and rollback.
+
+## Security, privacy, license, and attribution
+
+Do not submit credentials, private information, full paywalled text, or non-public evidence. Follow `SECURITY.md` for sensitive reports.
+
+Contributions to repository-owned work are submitted under the current license. External sources retain their original authorship and licensing, and Git/PR history remains the source of contribution attribution.

@@ -1,95 +1,101 @@
 # Ten-Repository Context / 十仓体系定位
 
-## 中文
+This file defines the China Observatory's durable role inside the public ten-repository research/software system. It is not a scheduler and does not make this repository an execution validator for the other nine repositories.
 
-截至 2026 年 8 月 7 日，lostlight 的公开研究体系形成十个相互区分的仓库位置。
+## System shape / 体系结构
 
-前八仓主要面向内部构建：门户与知识生命周期、确定性状态、数据契约、版本化图谱、Agent 理论、科研流水线、文档工程和科学可视化。它们回答“我们能够构建、表达和维护什么”。
+By 7 August 2026, the public system had formed ten repositories with intentionally distinct responsibilities.
 
-第九、十仓转向外部观察：
+### Inward-facing construction and theory
 
-- `agentic-frontier-observatory` 观察全球人工智能与智能体前沿
-- `china-agentic-observatory` 观察中国人工智能与智能体政策、标准、科研、产业、基础设施与治理演进
+- `welcome-to-github` — public portal, knowledge-lifecycle host, digital archaeology, and portfolio entry point.
+- `zero-entropy-lab` — deterministic state/memory/protocol experiments and reliability evidence surfaces.
+- `Axiom-0` — executable reference contracts plus ADR/Methodology/evidence/reproducibility layers.
+- `reflective-continuum` — versioned graph state, reflection, drift, entropy/statistical and persistence-identity experiments.
+- `agent-foundations` — bilingual theory/evidence/source/provenance core for agent architectures, memory, tools, and collaboration.
 
-它们回答“外部世界正在发生什么，以及这些变化如何修正我们的判断”。
+### Research-infrastructure chain
 
-十仓不是数量扩张，而是结构闭环：
+- `auto-doc-engine` — research documents, artifact identity, lineage, assertion basis and process disclosure.
+- `epistemic-pipeline` — claim/evidence processing, audit/transfer semantics, provenance and runtime-policy boundaries.
+- `sci-render-kit` — scientific communication, figure claims, uncertainty/accessibility metadata and communication transfer.
 
-```text
-Internal construction / 内部构建 × 8
-            +
-Global observation / 全球观察 × 1
-            +
-China observation / 中国观察 × 1
-            =
-A system that can build inward and observe outward
-一个既能向内构建、又能向外观察的完整体系
-```
+### Outward-facing observation
 
-## First-month operating loop / 首月运行闭环
+- `agentic-frontier-observatory` — global AI/agentic frontier observation.
+- `china-agentic-observatory` — China-specific policy, standards, research, infrastructure, industry and governance observation.
 
-经过 2026-08-07 → 2026-08-31 的首月连续运行，第九、第十仓的实际职责可以压缩为一句：
+The first eight primarily build, formalize, test, document, or reason about the system's own software/research objects. Repositories nine and ten observe the external world and calibrate judgments using public evidence.
 
-> **前八仓构建自己的世界，第九、十仓每天重新观察外部世界。**
+## China Observatory role / 中国观察站职责
 
-它们不是新闻仓，也不是前八仓的验证/执行副本，而是整个十仓体系的 **external fact / judgment-correction layer**。
+China Observatory is the system's China-specific external-fact and judgment-correction layer.
 
-```text
-公开世界
-↓
-Global Observatory / China Observatory
-↓
-权威信源 + 状态校准 + 反证 + 不确定性
-↓
-Daily atomic evidence
-↓
-Weekly hypothesis correction
-↓
-Monthly durable judgment
-↓
-修正前八仓和整个体系对外部世界的认知
-```
-
-### Global Observatory
-
-观察全球 AI 如何获得：
-
-`capability → discovery → identity → authority → execution → runtime trust → revocation → recovery → governance`
-
-### China Observatory
-
-观察中国 AI 如何通过：
-
-`policy → standards → data → evaluation → infrastructure → industry → lifecycle governance`
-
-### Shared method / 共同方法
+It observes:
 
 ```text
-事实先于判断
-状态先于宣传
-历史不可改写
-不确定性必须保留
-每天观察
-每周纠偏
-每月压缩
-长期积累
+history / institutions
+→ policy / law / governance
+→ standards / protocols / identity
+→ research / models / evaluation
+→ agents / open source / engineering
+→ chips / compute / data / infrastructure
+→ applications / security / social impact
+→ China–global comparison
 ```
 
-两仓只验证**公开信息是否存在、由谁发布、是什么状态、能支持多窄的判断**，不独立运行外部模型/项目来验证其技术能力。
+Its job is to establish what public evidence supports about **existence, institutional authority, lifecycle state, dates, implementation/deployment scale, and uncertainty**.
 
-## English
+It does not automatically validate the technical capability of the other repositories, nor does an observation become a change request for them merely because it is relevant.
 
-By 7 August 2026, the lostlight public research system reached ten repositories with distinct responsibilities.
+## Relationship with Global Observatory / 与全球观察站关系
 
-The first eight repositories are primarily inward-facing: portal and knowledge lifecycle, deterministic state, data contracts, versioned graphs, agent foundations, research pipelines, document engineering, and scientific visualization.
+Global Observatory provides a worldwide AI/agentic comparison surface. China Observatory retains China-specific institutional levels, policy/standard lifecycle, source hierarchy, project maturity and terminology.
 
-Repositories nine and ten are outward-facing observatories:
+Cross-observatory comparison follows a same-layer rule:
 
-- `agentic-frontier-observatory` tracks the global AI and agentic frontier
-- `china-agentic-observatory` tracks China's policy, standards, research, data, infrastructure, industry and governance lifecycle
+```text
+policy ↔ policy
+standard ↔ standard
+protocol ↔ protocol
+model ↔ model
+runtime ↔ runtime
+deployment ↔ deployment
+evaluation ↔ evaluation
+```
 
-After the first continuous month, their operating role is explicit:
+Neither repository automatically inherits the other's maturity state or source authority.
 
-> **The first eight repositories build their own world; repositories nine and ten re-observe the external world every day.**
+## 2026-09 software publication state
 
-They are the external-fact and judgment-correction layer of the ten-repository system. They do not duplicate implementation or capability validation. They search authoritative public sources, calibrate facts and maturity states, preserve counterevidence and uncertainty, and feed corrected world models back into the broader system.
+On 2026-09-16, all ten repositories received separate Zenodo software-publication identities instead of one umbrella DOI.
+
+For China Agentic Observatory:
+
+- DOI: `10.5281/zenodo.22791309`
+- publication date: 2026-09-16
+
+The DOI identifies an archived repository publication. It is not an `OFFICIAL_FACT` or `PROJECT_FACT` about an external China-world object, is not C0–C6 external evidence, does not independently corroborate an observatory finding, and does not make later `main` revisions identical to the archive.
+
+## Shared system principles
+
+Although each repository has its own native evidence vocabulary, the ten-repository system is compatible around several durable principles:
+
+```text
+current repository truth before stale narrative
+source/evidence identity before inference
+implementation/deployment state stays object-scoped
+historical record != current state
+later correction != history rewrite
+publication identity != scientific validation
+```
+
+These are interoperability principles rather than a single centralized authority model.
+
+## First-month operating history
+
+The 2026-08-07 → 2026-08-31 first-month loop remains historical evidence of how the two observatories stabilized continuous external observation and Daily → Weekly → Monthly synthesis.
+
+Current periodic production is governed separately by active SOPs and time-scoped reports. This file owns only the durable architectural relationship between the ten repositories.
+
+> **前八仓构建自己的世界，第九、十仓持续重新观察外部世界。**
