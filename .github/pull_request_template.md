@@ -1,58 +1,62 @@
-## Outcome and exact scope
-What observation, correction, governance surface, or metadata changed, and what remains intentionally unchanged?
+## Summary
 
-## Base, owner, and observation window
-- Base revision / current merged `main` observed:
-- Owning surface / task:
-- Logical period / evidence window:
-- Producer / maintainer / run identity when applicable:
-- Relevant open PRs or live branches checked:
+What research, documentation, source, taxonomy, or repository problem does this change address?
 
-## Evidence classification
-- [ ] Official/project facts, attributed external claims, observatory analysis, and unknown state are distinguished
-- [ ] Event date, publication/update date, effective date, repository observation date, and known transition date are not conflated
-- [ ] Policy goals, plans, drafts, reviews, approval displays, demos, or marketing claims are not presented as implemented/mature capability without evidence
-- [ ] Uncertainty, conflict, missing evidence, rejected state, and unverifiable state remain explicit
-- [ ] Research production, external-audit governance, and repository-maintenance delivery are not conflated
+## Change type
 
-## Source and production impact
-List affected source-registry, methodology, taxonomy, Daily/Weekly/Monthly, governance, metadata, or public-facing surfaces. State which active SOPs or execution-layer owners are deliberately unchanged.
+- [ ] factual/source/date/status correction
+- [ ] methodology / scope / taxonomy
+- [ ] Source Registry / watchlist / workstream structure
+- [ ] research output correction
+- [ ] documentation / public metadata
+- [ ] repository infrastructure
+- [ ] maintenance / governance
 
-## Verification
-List source/repository checks actually performed and their results.
+## Affected surfaces
 
-- Checks actually executed:
-- Checks not executed (`NOT_EXECUTED`):
-- Scheduler/workflow execution not observed (`EXECUTION_NOT_OBSERVED`) when material:
+List the affected durable research assets, source records, reports, documentation, or metadata. Note related surfaces intentionally left unchanged.
 
-Contract/source inspection is not an execution PASS. Do not report historical PASS as current PASS without revision-matched evidence.
+## Source and evidence basis
 
-## SOP / execution-layer boundary
-- [ ] SOP contract edits, if any, do not claim that a scheduled task executed
-- [ ] Checker/producer/runtime code is unchanged unless a confirmed defect is owned by that code
-- [ ] No unrelated `.py` or execution-layer change is bundled into a governance-only repair
+For material factual changes, identify the issuer/source, exact document/version where relevant, publication/update/effective date, observed date, and supported proposition.
 
-## Historical preservation
-- [ ] Existing point-in-time Daily/Weekly/Monthly/ledger/audit records are preserved unless the record itself is demonstrably corrupt
-- [ ] Material corrections move forward through correction/reconciliation/successor semantics
-- [ ] Missing historical execution is not backfilled as an original run
-- [ ] Observed chronology is not promoted into an exact lifecycle transition without evidence
+Distinguish `OFFICIAL_FACT`, `PROJECT_FACT`, `EXTERNAL_CLAIM`, `OBSERVATORY_ANALYSIS`, and `UNCERTAIN`. Explain source independence when corroboration matters.
 
-## Maintenance overlap and delivery
-- [ ] Current `main`, open PRs, and live same-surface branches were refreshed before write/delivery
-- [ ] Overlap was handled as `COORDINATE` rather than parallel ownership
-- [ ] No write was used merely to probe access
-- [ ] Aggregate `main...branch` diff contains only intended surfaces
-- [ ] No activity-only PR was created where `NO_CHANGE_REQUIRED` applied
+## Status / date impact
+
+State whether the change affects policy/standard lifecycle status, project maturity, event date, publication date, effective date, observation date, or known state-transition date.
+
+Do not infer an exact transition timestamp from a later current-state observation.
+
+## Verification performed
+
+List source checks, repository checks, link/version checks, registry checks, or other review actually performed.
+
+## Known limits / unresolved evidence
+
+List unavailable full text, ambiguous dates, conflicting sources, uncertain formal status, or other remaining evidence gaps.
+
+## Historical impact
+
+If a point-in-time record is involved, explain how the correction preserves the original observation boundary and whether current interpretation changes without backdating later evidence.
+
+## Publication / metadata impact
+
+State whether README, `CITATION.cff`, `codemeta.json`, `RELEASE_POLICY.md`, or public discovery surfaces must remain synchronized. Repository DOI metadata is not external China-world evidence.
 
 ## Security and privacy
-No credentials, private information, full paywalled text, private prompts/memory, hidden reasoning, or non-public evidence is included.
+
+Do not include credentials, private information, full paywalled text, or non-public evidence. Follow `SECURITY.md` for sensitive reports.
 
 ## Rollback
+
 Describe the smallest safe rollback.
 
-## Final review
-- [ ] Change is focused and source-grounded
-- [ ] Capability testing or benchmark reproduction has not been substituted for this repository's source-analysis role
-- [ ] No unrelated research-chain, execution-layer, or governance redesign is bundled into this PR
-- [ ] Draft PR is treated as a review boundary, not proof of merge/runtime/research-policy maturity
+## Review checklist
+
+- [ ] The diff is limited to the stated purpose.
+- [ ] Policy/standard/project lifecycle states are not collapsed.
+- [ ] Observation date is not presented as transition date without evidence.
+- [ ] Same-source repetition is not presented as independent corroboration.
+- [ ] Historical evidence was not silently rewritten to match later knowledge.
+- [ ] No credentials, private data, or unrelated generated/local state is included.
