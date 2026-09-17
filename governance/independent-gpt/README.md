@@ -1,61 +1,136 @@
 # Independent GPT Governance — Meridian Router
 
-Status: current public recovery kernel
-Scope: cold-start recovery and handoff into the existing external-audit governance ledger
+Status: current public recovery kernel  
+Calibration: 2026-09-17  
+Scope: cold-start recovery, maintenance/audit handoff, bounded repair, and delivery into the existing external-audit governance ledger
 
-This directory is the public entry point for a memoryless independent reviewer. It does not replace `governance/external-audit/` and does not create a second audit cadence.
+This directory is the public entry point for a memoryless independent maintainer/reviewer. It does not replace `governance/external-audit/`, does not create a second audit cadence, and does not become observation or policy evidence.
 
 ## Recovery order
 
-Recover current state from current merged `main` first. For this repository, use:
+Recover current state from current merged `main` first:
 
 ```text
 current merged main
 > current explicit repository contracts
 > current canonical repository artifacts
 > verified execution / workflow evidence for the referenced revision
-> external audit interpretation
+> current governance contracts
+> external-audit interpretation
+> historical point-in-time records
 ```
 
-At audit start record the current date, default branch, current `main` SHA, relevant open pull requests, recent merged changes, and checks actually executed.
+Where a more specific current contract exists, that contract wins for its subject.
+
+At audit/maintenance start record:
+
+- current date and logical period/evidence window;
+- default branch and exact current `main` SHA;
+- relevant open PRs and live branches;
+- recent merged changes on the same surface;
+- checks actually executed, separately from checks merely available;
+- the exact owning file/contract before any write.
 
 ## Repository map
 
-1. `README.md`, `SCOPE.md`, `METHODOLOGY.md`, `TAXONOMY.md`, and other current contracts define the public observatory model.
-2. `DAILY_SOP.md`, `WEEKLY_SOP.md`, and `MONTHLY_SOP.md` define the native research cadence.
-3. Current Daily / Weekly / Monthly reports and `SOURCE_REGISTRY.md` hold canonical observation and source-state evidence within their declared scopes.
-4. Current-state projections such as active-watch and registry surfaces must follow canonical observation truth while preserving observation chronology; projection health is audited separately from research-core health.
-5. `governance/external-audit/README.md` defines the independent external-audit contract, cadence, result states, public/private boundary, and no-backfill rule.
-6. `governance/external-audit/weekly/` and `governance/external-audit/semimonthly/` are the durable governance ledger for audits that actually ran.
-7. Git history, merged PR chronology, and revision-matched workflow evidence resolve disputed timing, current projection, delivery, and state-change claims.
+1. `README.md`, `SCOPE.md`, `METHODOLOGY.md`, `TAXONOMY.md`, and current repository contracts define the China observatory model.
+2. `DAILY_SOP.md`, `WEEKLY_SOP.md`, and `MONTHLY_SOP.md` define the native research-production cadence.
+3. Current Daily / Weekly / Monthly reports and `SOURCE_REGISTRY.md` hold canonical observation/source-state evidence within their declared scopes.
+4. Current-state projection surfaces must follow canonical observation truth while preserving chronology.
+5. `governance/external-audit/README.md` defines the independent governance cadence, durable audit ledger, result states, public/private boundary, and no-backfill rule.
+6. `governance/external-audit/weekly/` and `governance/external-audit/semimonthly/` contain audit records that actually ran.
+7. Git history, merged PR chronology, and revision-matched workflow evidence resolve disputed timing, projection, delivery, and execution claims.
 
 ## Observation and state discipline
 
-Keep observed chronology separate from inferred lifecycle transitions. Seeing one source state at one time and a different state later does not prove the exact transition path or timestamp unless the evidence establishes it.
-
-Keep the native research chain and independent governance distinct:
+Seeing one source state at one observation time and another state later does not by itself prove the exact transition path, rollback, forward transition, effective date, or maturity transition. Preserve observed chronology and claim only the transition evidence supports.
 
 ```text
-Daily -> Weekly -> Monthly = research production and memory
-governance/external-audit/ = independent governance evidence
+observed state != exact transition timestamp
+approval display != implementation maturity
+policy publication != universal deployment
+standard publication != adoption
+current-state confirmation != same-day transition
 ```
 
-An external audit record does not become research evidence merely because it is stored in the repository. GitHub Actions proves only the execution actually observed for the referenced revision.
+## Layer separation
 
-`HEALTHY` may still require writing the canonical governance record for an audit that actually ran, but it does not authorize activity-only edits to research or implementation.
+```text
+Daily -> Weekly -> Monthly
+= research production and research memory
+
+governance/external-audit/
+= independent governance evidence
+
+repository maintenance delivery
+= bounded correction/reconciliation only when a current defect is confirmed
+```
+
+An external audit record does not become research evidence merely because it is stored here. GitHub Actions or another runner proves only the execution actually observed for the referenced revision.
+
+## Maintenance identity and overlap
+
+For maintenance/delivery work record when applicable:
+
+```text
+repository
++ owning surface / task
++ logical period / evidence window
++ producer / maintainer
++ exact base revision
++ run identity when available
+```
+
+Before any write, refresh open PRs and live branches. If another live task owns the same surface and logical period, return `COORDINATE` rather than creating a parallel line.
+
+```text
+same live owner/surface/period -> COORDINATE
+no confirmed defect -> NO_CHANGE_REQUIRED
+confirmed bounded drift -> REPAIR
+unsafe / missing evidence -> BLOCKED
+```
+
+**Write never probes.** Do not create a branch, commit, issue, file, or PR merely to test permissions or activity.
+
+The external-audit contract is a special required-governance producer: when its cadence requires a canonical audit record and the audit actually ran, `HEALTHY` may still produce that governance record. This does not authorize activity-only edits to research, implementation, or SOP files.
+
+## Execution-evidence discipline
+
+```text
+SOP present != SOP executed
+checker/source present != checker executed
+workflow configured != workflow observed
+executed != passed
+passed != research truth
+contract inspection != runtime verification
+```
+
+Unrun checks are `NOT_EXECUTED`. Unobserved scheduler/workflow execution is `EXECUTION_NOT_OBSERVED` when material. Never promote either to PASS.
+
+The repository's active SOP documents may be maintained as contracts, but executable scripts or checker/producer code must not be changed merely to align prose. Change execution-layer code only when a verified defect is owned by that code and the repair is independently justified.
 
 ## History discipline
 
-Historical reports and audit records are point-in-time evidence. Later current-state repair does not erase the earlier defect. Do not backfill an audit that did not actually run. A missing audit file is not proof that an audit ran or failed.
+Historical Daily, Weekly, Monthly, ledger, history, and audit records remain point-in-time evidence. Later current-state repair does not erase the earlier defect, uncertainty, or observation chronology. Do not backfill a run that was not verified to have happened.
 
-Preserve refuted, open, conflict, degraded, blocked, negative, and unknown states. Use correction or reconciliation to move current interpretation forward without rewriting sealed history.
+Preserve refuted, open, conflict, degraded, blocked, negative, missing, and unknown states. Use correction/reconciliation or a successor record to move current interpretation forward.
+
+## Repair and delivery boundary
+
+When drift is confirmed:
+
+1. identify the owning current file/contract;
+2. identify every current router/operator/configuration surface that must remain synchronized;
+3. preserve historical point-in-time records;
+4. make the smallest semantically complete correction;
+5. refresh `main` and overlap state before final delivery;
+6. inspect the aggregate `main...branch` diff;
+7. record checks run and checks not run;
+8. open at most one bounded Draft PR for that repository maintenance unit;
+9. stop for maintainer review without merge.
 
 ## Public boundary
 
-This recovery kernel is intentionally repository-bounded. It relies on repository-visible evidence and public sources where needed. It does not require reconstruction of unavailable operator context or unrelated orchestration.
+Public governance may record repository facts, public task identity, scope, evidence, result state, risk, rollback, and unresolved items. It must not publish private prompts, hidden reasoning, credentials, private memory, or unrelated operator topology.
 
-## Handoff minimum
-
-Follow the minimum record fields and result semantics defined by `governance/external-audit/README.md`. A handoff must make the base `main` SHA, checked window, authority, actual checks, findings, repair state, risk, and unresolved items reviewable by the next memoryless agent.
-
-Independent governance may recommend or prepare bounded repair. Final merge and doctrine authority remains with the maintainer.
+A Draft PR is a review boundary, not proof of mergeability, execution success, research validity, policy maturity, or final truth. Final merge and doctrine authority remains with the maintainer.
