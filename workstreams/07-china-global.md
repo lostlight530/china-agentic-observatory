@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **China–global relationship**
+> - **Authority:** Current workstream-scope authority for same-layer comparison with local terminology, version/status/date and source authority preserved on both sides
+> - **Current meaning:** This file defines how C7 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** similar objective != same mechanism; compatibility claim != interoperability test; incomparable layers must not be ranked. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # C7｜China–Global Relationship / 中国与全球路线关系
 
 C7 owns same-layer comparison between China-specific trajectories and global AI/agent systems. Its purpose is to identify genuine convergence, divergence, translation, compatibility, and institutional difference without treating one side's vocabulary as the default ontology for the other.

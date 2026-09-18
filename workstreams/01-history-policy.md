@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **History, national strategy and policy**
+> - **Authority:** Current workstream-scope authority for institutional authority, policy lifecycle, jurisdiction, target versus implemented outcome
+> - **Current meaning:** This file defines how C1 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** policy goal != implemented capability; pilot/local implementation != national maturity. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # C1｜History, National Strategy, and Policy / 历史、国家战略与政策
 
 C1 owns the long-range institutional and policy frame for China's AI development: research-system history, national strategy, State Council and ministry policy, regulatory/public-service governance, filing/registration systems, and the transition from policy intent to observable implementation.

@@ -1,4 +1,15 @@
-# Origin: Why the Tenth Repository Was Completed Today / 起源：为什么第十仓在今天完成
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / ORIGIN`
+> - **Role:** Durable founding rationale for maintaining a China-specific external-world model
+> - **Authority:** Founding-rationale authority only; current policy/standard/project status must still be checked against competent current primary sources
+> - **Current meaning:** The repository was completed on 7 August 2026 to preserve China-specific institutional, policy, standards, engineering and industrial semantics rather than treating them as a regional appendix. The 2026 agent-policy, GB/Z 185.1–185.7 and TC260 security-guide milestones remain primary-source-supported at this review point
+> - **Evidence boundary:** Policy/standard existence and founding chronology are context, not proof of implementation completeness, nationwide adoption, interoperability, technical effectiveness or national-scale maturity
+> - **Cross-document relation:** Scope/Taxonomy/Methodology own current research semantics; Source Registry owns admitted identities; workstreams own durable subject responsibility
+> - **Update trigger:** Update only for a factual correction to the founding record or a durable change in repository purpose; later events must not be backdated into the origin narrative
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
+
+# Origin: Why the Tenth Repository Was Completed on 7 August 2026 / 起源：为什么第十仓于 2026 年 8 月 7 日完成
 
 ## 中文
 
@@ -42,7 +53,7 @@
 = 10 仓内外双向研究体系
 ```
 
-从今天开始，体系不仅记录“我们做了什么”，还每天回答：
+自 2026 年 8 月 7 日起，体系不仅记录“我们做了什么”，还持续回答：
 
 - 全球人工智能正在发生什么
 - 中国人工智能正在形成什么

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `ARCHITECTURE / CONTEXT`
+> - **Role:** Durable map of the China Observatory inside the ten-repository system and its same-layer relationship with the Global Observatory
+> - **Authority:** Current cross-repository role authority for this observatory, not authority over the other repositories' implementation/evidence
+> - **Current meaning:** Use this file to recover the China observatory as an outward-facing fact/judgment-calibration layer with independent institutional vocabulary and source hierarchy
+> - **Evidence boundary:** Cross-repository relevance does not create inherited authority, automatic code/config changes, shared maturity, or validation of another repository's claims
+> - **Cross-document relation:** Each repository retains native authority; Global/China comparison must preserve local terms and compare policy↔policy, standard↔standard, protocol↔protocol, model↔model, runtime↔runtime and deployment↔deployment
+> - **Update trigger:** Update only when durable ten-repository roles or twin-observatory relationships materially change
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
+
 # Ten-Repository Context / 十仓体系定位
 
 This file defines the China Observatory's durable role inside the public ten-repository research/software system. It is not a scheduler and does not make this repository an execution validator for the other nine repositories.

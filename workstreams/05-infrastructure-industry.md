@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Chips, compute, data, terminals and industrial infrastructure**
+> - **Authority:** Current workstream-scope authority for object identity, capacity/deployment scale, geography, measurement basis, software-stack constraints and bottlenecks
+> - **Current meaning:** This file defines how C5 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** announced capacity != installed/utilized capacity; pilot != industry-wide adoption; component availability != ecosystem maturity. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # C5｜Chips, Compute, Data, Terminals, and Industrial Infrastructure / 芯片、算力、数据、终端与产业基础设施
 
 C5 tracks China's AI infrastructure stack: accelerators, domestic computing ecosystems, cloud/data centers, networking/storage, data systems, edge/terminal devices, AI phones/PCs, robotics hardware, industrial platforms, energy/resource constraints, and the supply/deployment conditions that shape practical capability.

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / NORMALIZATION`
+> - **Role:** Durable normalization vocabulary for China-specific institutional level, object class, evidence class, policy/standard lifecycle, project maturity, date, scale/geography and China-global relation
+> - **Authority:** Current China-specific taxonomy authority
+> - **Current meaning:** Use this taxonomy to prevent policy, standards, technical documents, projects, deployments and national-scale claims from collapsing into one maturity model
+> - **Evidence boundary:** Institutional level is not quality ranking; publication is not implementation; approval display is not exact transition time; one project/locality/company is not a national system; same vocabulary is not direct equivalence
+> - **Cross-document relation:** Methodology controls evidence/status calibration; C1–C8 consume the vocabulary; historical reports keep their own original time boundary
+> - **Update trigger:** Update only when a recurring China-specific distinction cannot be represented without ambiguity
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
+
 # Taxonomy / 分类体系
 
 This taxonomy is the China Observatory's durable normalization layer for historical stage, institutional level, object type, formal lifecycle, project maturity, evidence class, date, and China–global comparison.

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION`
+> - **Role:** Durable definition of the China Observatory's research object, institutional/geographic coverage, independent-observation principles and non-goals
+> - **Authority:** Current repository-native scope authority
+> - **Current meaning:** Use this file to decide whether a China-specific policy, standard, project, research, infrastructure, application or comparison question belongs here and at what supported scale
+> - **Evidence boundary:** Official publication, project release, approval display or case evidence is proposition-specific and does not automatically establish implementation, exact transition time, national maturity, interoperability or independent performance
+> - **Cross-document relation:** Methodology governs source/status/date handling; Taxonomy owns institutional/object/lifecycle vocabulary; workstreams decompose the scope
+> - **Update trigger:** Update when durable coverage or non-goals change, not because a periodic report adds a new observation
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
+
 # Scope / 研究范围
 
 China Agentic Observatory is a bilingual, source-grounded observatory for China's artificial-intelligence system across history, policy, standards, research, models, open source, infrastructure, industry, applications, security/governance, and China–global interaction.

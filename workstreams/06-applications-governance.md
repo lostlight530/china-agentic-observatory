@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Applications, security governance and social impact**
+> - **Authority:** Current workstream-scope authority for named implementation, organization/population/geography, measured versus reported outcome, control state and extrapolation limits
+> - **Current meaning:** This file defines how C6 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** case study != national maturity; guidance != control effectiveness; local outcome != universal effect. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
+
 # C6｜Applications, Security Governance, and Social Impact / 应用、安全治理与社会影响
 
 C6 tracks AI/agent use in science, manufacturing, government, healthcare, finance, education, transport, consumer services and other sectors, together with security governance, labor, culture, public impact and rights/access questions.

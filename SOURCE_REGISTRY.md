@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `SOURCE REGISTRY`
+> - **Role:** Current admitted source-identity registry and bounded current-state notes for recurring China-observatory evidence surfaces
+> - **Authority:** Current registry authority for the source identities and source-scoped status notes actually listed here
+> - **Current meaning:** `Updated through` is a registry cutoff, not a claim that every current external state or the entire observatory was last observed on that date. Newer periodic evidence may exist before durable registry admission
+> - **Evidence boundary:** Registry presence does not establish nationwide adoption, conformance, implementation effectiveness, independent corroboration or exact lifecycle transition time. Volatile official portal states remain observations until authoritative transition evidence resolves them
+> - **Cross-document relation:** Methodology defines C0–C6 use and lifecycle discipline; reports may cite newer time-scoped sources; durable admission here requires clear identity, issuer, relevance and bounded status
+> - **Update trigger:** Update for durable source admission, identity correction, materially changed current-state notes, or resolved/renewed official-status conflicts
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
+
 # Source Registry / 权威信源注册表
 
 Updated through: **2026-09-15**
