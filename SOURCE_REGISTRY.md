@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / SOURCE IDENTITY REGISTRY`
-> - **Role:** Durable registry of China-world source identities plus bounded current-state notes for selected policy/standard/data objects
-> - **Authority:** Current source-identity authority only through its explicit `Updated through` freshness bound
-> - **Current meaning:** Use entries as proposition-specific identity/status anchors. The stated update date bounds current registry coverage and does not imply that later periodic observations produced no new evidence
-> - **Evidence boundary:** official source authority is scoped; registry presence is not implementation, nationwide adoption, conformance, independent corroboration, or exact transition chronology
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when a durable source identity is admitted, an official status/identity is corrected, or a retained current-state note materially changes
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `SOURCE REGISTRY`
+> - **Role:** Current admitted source-identity registry and bounded current-state notes for recurring China-observatory evidence surfaces
+> - **Authority:** Current registry authority for the source identities and source-scoped status notes actually listed here
+> - **Current meaning:** `Updated through` is a registry cutoff, not a claim that every current external state or the entire observatory was last observed on that date. Newer periodic evidence may exist before durable registry admission
+> - **Evidence boundary:** Registry presence does not establish nationwide adoption, conformance, implementation effectiveness, independent corroboration or exact lifecycle transition time. Volatile official portal states remain observations until authoritative transition evidence resolves them
+> - **Cross-document relation:** Methodology defines C0–C6 use and lifecycle discipline; reports may cite newer time-scoped sources; durable admission here requires clear identity, issuer, relevance and bounded status
+> - **Update trigger:** Update for durable source admission, identity correction, materially changed current-state notes, or resolved/renewed official-status conflicts
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
 # Source Registry / 权威信源注册表
 

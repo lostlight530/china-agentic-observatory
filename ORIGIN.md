@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `DEFINITION / FOUNDING RATIONALE`
-> - **Role:** Dated founding rationale for why the China Observatory was completed on 7 August 2026
-> - **Authority:** Historical-origin authority, not a perpetual current-state registry
-> - **Current meaning:** Read the policy/standards/industry rationale as the 2026-08-07 founding context. The major 2026 policy, GB/Z 185-series, and TC260 security-guide facts used by the origin narrative were rechecked against current official surfaces on 2026-09-18
-> - **Evidence boundary:** Founding rationale and historical analogy do not establish present nationwide maturity, implementation completeness, or technical effectiveness
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update only for explicit factual correction or clarification of founding context; do not rewrite it as a rolling news summary
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `DEFINITION / ORIGIN`
+> - **Role:** Durable founding rationale for maintaining a China-specific external-world model
+> - **Authority:** Founding-rationale authority only; current policy/standard/project status must still be checked against competent current primary sources
+> - **Current meaning:** The repository was completed on 7 August 2026 to preserve China-specific institutional, policy, standards, engineering and industrial semantics rather than treating them as a regional appendix. The 2026 agent-policy, GB/Z 185.1–185.7 and TC260 security-guide milestones remain primary-source-supported at this review point
+> - **Evidence boundary:** Policy/standard existence and founding chronology are context, not proof of implementation completeness, nationwide adoption, interoperability, technical effectiveness or national-scale maturity
+> - **Cross-document relation:** Scope/Taxonomy/Methodology own current research semantics; Source Registry owns admitted identities; workstreams own durable subject responsibility
+> - **Update trigger:** Update only for a factual correction to the founding record or a durable change in repository purpose; later events must not be backdated into the origin narrative
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
 # Origin: Why the Tenth Repository Was Completed on 7 August 2026 / 起源：为什么第十仓于 2026 年 8 月 7 日完成
 

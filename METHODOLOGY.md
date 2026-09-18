@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `METHOD / EVIDENCE CONTRACT`
-> - **Role:** Durable China-specific method for source hierarchy, statement classes, status/date calibration, independence, correction, memory, and comparison
-> - **Authority:** Current evidence-method authority for C1–C8 and periodic-research interpretation
-> - **Current meaning:** Use this file to separate policy/standard lifecycle, project maturity, observation time, known transition time, implementation evidence, and China-global comparison
-> - **Evidence boundary:** higher source grade does not prove implementation; publication != effectiveness; approval display != exact approval time; repeated derivative sources do not create independence
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when evidence hierarchy, lifecycle/date semantics, correction discipline, or comparison rules materially change
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `METHOD`
+> - **Role:** Durable China-observatory method for source hierarchy, lifecycle/status/date calibration, evidence independence, correction and same-layer comparison
+> - **Authority:** Current methodology authority for China-specific non-periodic research semantics
+> - **Current meaning:** Use this file to determine how official/project evidence becomes a bounded statement while preserving issuer authority, formal lifecycle, geography, implementation maturity and uncertainty
+> - **Evidence boundary:** Higher official source grade does not prove implementation completeness or national maturity; current-state observation is not transition date; policy target is not capability; technical document is not automatically GB/T; aggregation is not independent corroboration
+> - **Cross-document relation:** Taxonomy supplies local vocabulary; Source Registry supplies admitted identities/current-state notes; workstreams apply the method; periodic SOPs govern cadence without redefining evidence semantics
+> - **Update trigger:** Update when evidence hierarchy, lifecycle/date/status method, correction discipline or comparison method materially changes
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
 # Methodology / 方法论
 

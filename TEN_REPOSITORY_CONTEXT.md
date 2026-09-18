@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `DEFINITION / SYSTEM CONTEXT`
-> - **Role:** Durable map of the China Observatory's role in the ten-repository system and its same-layer relationship with the Global Observatory
-> - **Authority:** Current repository-role authority for cross-repository interpretation, not execution authority over other repositories
-> - **Current meaning:** Use this file to preserve the China Observatory as an independent external-fact/judgment-correction layer with China-specific institutional semantics
-> - **Evidence boundary:** observatory evidence does not automatically validate or mutate other repositories; repository DOI is not China-world evidence; twin observatories do not inherit each other's authority/status vocabulary
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when durable repository roles or twin-observatory relationships change
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `ARCHITECTURE / CONTEXT`
+> - **Role:** Durable map of the China Observatory inside the ten-repository system and its same-layer relationship with the Global Observatory
+> - **Authority:** Current cross-repository role authority for this observatory, not authority over the other repositories' implementation/evidence
+> - **Current meaning:** Use this file to recover the China observatory as an outward-facing fact/judgment-calibration layer with independent institutional vocabulary and source hierarchy
+> - **Evidence boundary:** Cross-repository relevance does not create inherited authority, automatic code/config changes, shared maturity, or validation of another repository's claims
+> - **Cross-document relation:** Each repository retains native authority; Global/China comparison must preserve local terms and compare policy↔policy, standard↔standard, protocol↔protocol, model↔model, runtime↔runtime and deployment↔deployment
+> - **Update trigger:** Update only when durable ten-repository roles or twin-observatory relationships materially change
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
 # Ten-Repository Context / 十仓体系定位
 

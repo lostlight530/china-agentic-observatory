@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `DEFINITION / SCOPE`
-> - **Role:** Durable definition of China-specific research coverage, institutional/lifecycle questions, scale boundaries, and observation limits
-> - **Authority:** Current repository-native research-scope authority
-> - **Current meaning:** Use this file to decide what belongs in China-specific observation and which institutional, geographic, lifecycle, implementation, and scale distinctions must be preserved
-> - **Evidence boundary:** policy target is not implemented capability; standard publication is not adoption; one project/locality/company is not a national system; current display is not an exact transition timestamp
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update when durable China research coverage or observation/validation boundaries change
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `DEFINITION`
+> - **Role:** Durable definition of the China Observatory's research object, institutional/geographic coverage, independent-observation principles and non-goals
+> - **Authority:** Current repository-native scope authority
+> - **Current meaning:** Use this file to decide whether a China-specific policy, standard, project, research, infrastructure, application or comparison question belongs here and at what supported scale
+> - **Evidence boundary:** Official publication, project release, approval display or case evidence is proposition-specific and does not automatically establish implementation, exact transition time, national maturity, interoperability or independent performance
+> - **Cross-document relation:** Methodology governs source/status/date handling; Taxonomy owns institutional/object/lifecycle vocabulary; workstreams decompose the scope
+> - **Update trigger:** Update when durable coverage or non-goals change, not because a periodic report adds a new observation
+> - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
 # Scope / 研究范围
 
