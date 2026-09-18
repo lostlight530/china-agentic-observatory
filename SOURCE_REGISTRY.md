@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-09-15**
+Updated through: **2026-09-19**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -29,6 +29,8 @@ Updated through: **2026-09-15**
 | C-ITU-F74893 | C1 | ITU-T SG21 | F.748.93 Framework and Requirements for AI Agent Interoperability；Approved 2026-08-29；当前 `In force (prepublished)`；English files available 2026-09-09；implementation/conformance 未验证 | https://www.itu.int/rec/T-REC-F.748.93-202608-P/en |
 | C-SAMR-EMBODIED-APP | C0 | 国家标准信息平台 | 20255554-Z-469 具身智能体应用框架及接口；正在审查 | https://std.samr.gov.cn/gb/search/gbDetailed?id=41A934A2167C3FDBE06397BE0A0AC9DA |
 | C-SAMR-EMBODIED-GRADING | C0 | 国家标准信息平台 | 20252043-Z-469 具身智能智能化分级；正在批准 | https://std.samr.gov.cn/gb/search/gbDetailed?id=37FC03D2E14D6322E06397BE0A0AA17F |
+| C-SAMR-EMBODIED-DATA-QUALITY-REAL | C0 | 国家标准信息平台 | GB/Z 218.1-2026 人工智能 具身智能数据质量规范 第1部分：真实数据；现行；2026-08-27 发布；计划 20252047-Z-469 | https://std.samr.gov.cn/gb/search/gbDetailed?id=Z07fBwVFuUo%3D&mode=p |
+| C-SAMR-EMBODIED-DATA-GEN-PLATFORM | C0 | 国家标准信息平台 | GB/Z 220-2026 人工智能 具身智能数据生成平台技术要求；现行；2026-08-27 发布；计划 20252045-Z-469 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF8679B5E06397BE0A0AD5FD |
 | C-SAMR-EMBODIED-CLOUD | C0 | 国家标准信息平台 | 20263032-Z-469 具身智能云协议要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=52DF0802B9F0D2E0E06397BE0A0A5574 |
 | C-SAMR-EMBODIED-OS | C0 | 国家标准信息平台 | 20262626-Z-469 具身智能操作系统技术要求；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=51C733602C115302E06397BE0A0ACC0E |
 | C-SAMR-EMBODIED-EVAL | C0 | 国家标准信息平台 | 20255547-Z-469 具身智能评测指南；正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=41A934A216753FDBE06397BE0A0AC9DA |
@@ -62,10 +64,11 @@ Updated through: **2026-09-15**
 ## Current-state notes / 当前状态注记
 
 - `GB/T 47507-2026` is **现行**; the old portal-state conflict is closed.
+- `GB/Z 218.1-2026` and `GB/Z 220-2026` are current **现行** national guidance-document objects on the checked SAMR standard pages, both published **2026-08-27**. They were recovered into this repository's current Source Registry on 2026-09-19 after an independent audit found them absent from the current Registry and checked integrated Daily history. Publication date remains 2026-08-27; repository recovery date is not a lifecycle transition date. Metadata-level confirmation does not establish clause-level semantics, implementation, conformance or adoption.
 - `20256913-T-907`: a later independent recheck on 2026-09-15 displays **正在批准**. The same-day earlier Daily observation displayed **正在审查**, while repository observations on 2026-09-12→2026-09-14 displayed **正在批准**. Preserve all as point-in-time evidence; do not infer a forward/backward transition sequence or assign `state_transition_date` without an authoritative transition record.
 - `20262581-Z-907` remains **正在起草**.
 - **F.748.93 was Approved on 2026-08-29; the Recommendation surface now reports `In force (prepublished)`, with English files available 2026-09-09.** This publication availability is not implementation or conformance evidence.
-- The 30 August `模数共振` stage-summary deadline has passed; no authoritative completion publication reviewed through 2026-09-15 proves all submissions or the subsequent midterm evaluation complete.
+- The 30 August `模数共振` stage-summary deadline has passed; no authoritative completion publication reviewed through 2026-09-19 proves all submissions or the subsequent midterm evaluation complete.
 
 ## Status rule / 状态规则
 
