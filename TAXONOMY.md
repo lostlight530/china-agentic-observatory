@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / TAXONOMY`
+> - **Role:** Durable normalization vocabulary for historical stages, institutional levels, object classes, evidence classes, lifecycle, maturity, dates, scale, and China-global relations
+> - **Authority:** Current China Observatory classification authority
+> - **Current meaning:** Taxonomy organizes evidence while preserving institutional level, formal lifecycle, project maturity, geography, and same-layer comparison
+> - **Evidence boundary:** official status is proposition-specific; family membership does not propagate maturity; similar terminology does not create direct equivalence
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update only when a recurring China-specific distinction cannot be represented without ambiguity
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
 # Taxonomy / 分类体系
 
 This taxonomy is the China Observatory's durable normalization layer for historical stage, institutional level, object type, formal lifecycle, project maturity, evidence class, date, and China–global comparison.

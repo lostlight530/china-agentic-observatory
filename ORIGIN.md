@@ -1,4 +1,15 @@
-# Origin: Why the Tenth Repository Was Completed Today / 起源：为什么第十仓在今天完成
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / FOUNDING RATIONALE`
+> - **Role:** Dated founding rationale for why the China Observatory was completed on 7 August 2026
+> - **Authority:** Historical-origin authority, not a perpetual current-state registry
+> - **Current meaning:** Read the policy/standards/industry rationale as the 2026-08-07 founding context. The major 2026 policy, GB/Z 185-series, and TC260 security-guide facts used by the origin narrative were rechecked against current official surfaces on 2026-09-18
+> - **Evidence boundary:** Founding rationale and historical analogy do not establish present nationwide maturity, implementation completeness, or technical effectiveness
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update only for explicit factual correction or clarification of founding context; do not rewrite it as a rolling news summary
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
+# Origin: Why the Tenth Repository Was Completed on 7 August 2026 / 起源：为什么第十仓于 2026 年 8 月 7 日完成
 
 ## 中文
 
@@ -42,7 +53,7 @@
 = 10 仓内外双向研究体系
 ```
 
-从今天开始，体系不仅记录“我们做了什么”，还每天回答：
+自 2026 年 8 月 7 日起，体系不仅记录“我们做了什么”，还持续回答：
 
 - 全球人工智能正在发生什么
 - 中国人工智能正在形成什么

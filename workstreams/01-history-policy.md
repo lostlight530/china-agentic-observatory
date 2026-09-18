@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C1 durable responsibility contract for China's AI history, national strategy, policy, regulation, and implementation transition
+> - **Authority:** Current C1 subject-boundary authority
+> - **Current meaning:** Preserve issuing institution, administrative level, policy object type, jurisdiction, lifecycle state, dates, target versus requirement, and implementation evidence
+> - **Evidence boundary:** policy goal is not implemented capability; published plan is not necessarily effective rule; pilot/local evidence is not nationwide maturity
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update only when C1's durable responsibility, institutional hierarchy, lifecycle semantics, or evidence boundary changes
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
 # C1｜History, National Strategy, and Policy / 历史、国家战略与政策
 
 C1 owns the long-range institutional and policy frame for China's AI development: research-system history, national strategy, State Council and ministry policy, regulatory/public-service governance, filing/registration systems, and the transition from policy intent to observable implementation.

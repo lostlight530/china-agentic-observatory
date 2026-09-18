@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `DEFINITION / SCOPE`
+> - **Role:** Durable definition of China-specific research coverage, institutional/lifecycle questions, scale boundaries, and observation limits
+> - **Authority:** Current repository-native research-scope authority
+> - **Current meaning:** Use this file to decide what belongs in China-specific observation and which institutional, geographic, lifecycle, implementation, and scale distinctions must be preserved
+> - **Evidence boundary:** policy target is not implemented capability; standard publication is not adoption; one project/locality/company is not a national system; current display is not an exact transition timestamp
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when durable China research coverage or observation/validation boundaries change
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
 # Scope / 研究范围
 
 China Agentic Observatory is a bilingual, source-grounded observatory for China's artificial-intelligence system across history, policy, standards, research, models, open source, infrastructure, industry, applications, security/governance, and China–global interaction.

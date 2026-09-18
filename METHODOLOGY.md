@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `METHOD / EVIDENCE CONTRACT`
+> - **Role:** Durable China-specific method for source hierarchy, statement classes, status/date calibration, independence, correction, memory, and comparison
+> - **Authority:** Current evidence-method authority for C1–C8 and periodic-research interpretation
+> - **Current meaning:** Use this file to separate policy/standard lifecycle, project maturity, observation time, known transition time, implementation evidence, and China-global comparison
+> - **Evidence boundary:** higher source grade does not prove implementation; publication != effectiveness; approval display != exact approval time; repeated derivative sources do not create independence
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when evidence hierarchy, lifecycle/date semantics, correction discipline, or comparison rules materially change
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
 # Methodology / 方法论
 
 ## 0. Observatory pipeline / 观察站方法链

@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / SOURCE IDENTITY REGISTRY`
+> - **Role:** Durable registry of China-world source identities plus bounded current-state notes for selected policy/standard/data objects
+> - **Authority:** Current source-identity authority only through its explicit `Updated through` freshness bound
+> - **Current meaning:** Use entries as proposition-specific identity/status anchors. The stated update date bounds current registry coverage and does not imply that later periodic observations produced no new evidence
+> - **Evidence boundary:** official source authority is scoped; registry presence is not implementation, nationwide adoption, conformance, independent corroboration, or exact transition chronology
+> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
+> - **Update trigger:** Update when a durable source identity is admitted, an official status/identity is corrected, or a retained current-state note materially changes
+> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+
 # Source Registry / 权威信源注册表
 
 Updated through: **2026-09-15**
