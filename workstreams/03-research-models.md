@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** C3 durable responsibility contract for research, models, algorithms, datasets, benchmarks, and evaluation
-> - **Authority:** Current C3 subject-boundary authority
-> - **Current meaning:** Retain exact paper/model/version, provider/deployment variant, evaluation system, harness/tools/configuration/comparator/metric, and independent support status
-> - **Evidence boundary:** paper published is not reproduced; benchmark score is not universal capability; model release is not deployment; leaderboard rank is not national technical position
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Research, models, algorithms and evaluation**
+> - **Authority:** Current workstream-scope authority for exact model/method/version, evaluation harness/data/configuration, reported result and independent support
+> - **Current meaning:** This file defines how C3 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** paper published != reproduced; benchmark score != universal capability; model capability != agent-platform capability. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # C3｜Research, Models, Algorithms, and Evaluation / 科研、模型、算法与评测
 

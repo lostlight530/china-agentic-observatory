@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** C5 durable responsibility contract for chips, compute, data, cloud/edge, terminals, robotics hardware, industrial infrastructure, capacity, and supply/deployment constraints
-> - **Authority:** Current C5 subject-boundary authority
-> - **Current meaning:** Preserve exact infrastructure object, configuration, geography, scale, measurement basis, software stack, planned/reported/observed status, and bottleneck affected
-> - **Evidence boundary:** announced capacity is not installed or utilized capacity; peak spec is not application performance; shipment is not deployment; pilot is not industry-wide adoption; component availability is not ecosystem maturity
-> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
-> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
-> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **Chips, compute, data, terminals and industrial infrastructure**
+> - **Authority:** Current workstream-scope authority for object identity, capacity/deployment scale, geography, measurement basis, software-stack constraints and bottlenecks
+> - **Current meaning:** This file defines how C5 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** announced capacity != installed/utilized capacity; pilot != industry-wide adoption; component availability != ecosystem maturity. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # C5｜Chips, Compute, Data, Terminals, and Industrial Infrastructure / 芯片、算力、数据、终端与产业基础设施
 

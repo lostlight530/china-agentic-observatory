@@ -1,13 +1,13 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `EXTENSION / WORKSTREAM`
-> - **Role:** C1 durable responsibility contract for China's AI history, national strategy, policy, regulation, and implementation transition
-> - **Authority:** Current C1 subject-boundary authority
-> - **Current meaning:** Preserve issuing institution, administrative level, policy object type, jurisdiction, lifecycle state, dates, target versus requirement, and implementation evidence
-> - **Evidence boundary:** policy goal is not implemented capability; published plan is not necessarily effective rule; pilot/local evidence is not nationwide maturity
-> - **Cross-document relation:** Scope defines coverage; Taxonomy normalizes institutional/lifecycle terms; Methodology defines evidence discipline; Source Registry owns source identities; C1–C7 own bounded domains; C8 synthesizes without manufacturing stronger evidence
-> - **Update trigger:** Update only when C1's durable responsibility, institutional hierarchy, lifecycle semantics, or evidence boundary changes
-> - **Preservation rule:** Earlier observation/report history remains time-scoped. This subject file changes only for durable framework correction or explicit current interpretive clarity
+> - **Subject class:** `WORKSTREAM DEFINITION`
+> - **Role:** Durable responsibility contract for **History, national strategy and policy**
+> - **Authority:** Current workstream-scope authority for institutional authority, policy lifecycle, jurisdiction, target versus implemented outcome
+> - **Current meaning:** This file defines how C1 contributes bounded evidence to the China Observatory. It is a stable research contract, not a periodic result and not an independent source merely by existing
+> - **Evidence boundary:** policy goal != implemented capability; pilot/local implementation != national maturity. Evidence remains issuer-, proposition-, lifecycle-, geography-, population-, version- and date-bounded
+> - **Cross-document relation:** `SCOPE.md` owns overall coverage; `TAXONOMY.md` owns China-specific institutional/lifecycle vocabulary; `METHODOLOGY.md` owns evidence/date/status discipline; `SOURCE_REGISTRY.md` owns admitted recurring source identities; C8 synthesis cannot strengthen C1–C7 evidence by aggregation
+> - **Update trigger:** Update only when the durable workstream responsibility, handoff contract, comparison discipline, or evidence boundary changes materially
+> - **Preservation rule:** Periodic observations and lifecycle transitions belong to time-scoped reports. This non-periodic workstream definition must not be rewritten merely because a new Daily/Weekly/Monthly result appears
 
 # C1｜History, National Strategy, and Policy / 历史、国家战略与政策
 
