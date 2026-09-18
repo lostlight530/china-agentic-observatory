@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C8 durable cross-workstream synthesis and judgment-revision contract
+> - **Authority:** Current synthesis authority; not an additional source class
+> - **Current meaning:** Normalize identity/status/date/institutional level, deduplicate source lineage, preserve conflicts, separate intent from implementation, and record exactly what evidence changed a judgment
+> - **Evidence boundary:** multiple workstreams citing one notice are not independent evidence; observed current state is not known transition time; synthesis cannot manufacture national-scale conclusions or stronger evidence
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C8｜Cross-Workstream Synthesis and Judgment Revision / 跨任务综合与判断修正
 
 C8 is the China Observatory's durable synthesis layer. It combines bounded findings from C1–C7 while preserving institutional level, lifecycle state, geography, date, source lineage, and uncertainty.

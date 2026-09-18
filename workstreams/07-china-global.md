@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C7 durable same-layer comparison contract between China-specific and global AI/agent trajectories
+> - **Authority:** Current C7 comparison authority
+> - **Current meaning:** Compare policy with policy, standard with standard, protocol with protocol, runtime with runtime, deployment with deployment, and evaluation with evaluation while preserving each side's local status vocabulary
+> - **Evidence boundary:** similar objective is not same mechanism; shared protocol family is not identical maturity; compatibility claim is not interoperability test; vocabulary similarity is not direct equivalence
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C7｜China–Global Relationship / 中国与全球路线关系
 
 C7 owns same-layer comparison between China-specific trajectories and global AI/agent systems. Its purpose is to identify genuine convergence, divergence, translation, compatibility, and institutional difference without treating one side's vocabulary as the default ontology for the other.

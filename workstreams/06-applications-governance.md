@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C6 durable responsibility contract for applications, security governance, sector deployments, outcomes, social effects, and rights/access questions
+> - **Authority:** Current C6 subject-boundary authority
+> - **Current meaning:** Preserve named organization/location/population, deployment scale, metric/comparator, governance-control state, evidence method, and limits on extrapolation
+> - **Evidence boundary:** pilot is not scaled deployment; case study is not national maturity; reported efficiency is not independently measured productivity; security guidance is not control effectiveness
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C6｜Applications, Security Governance, and Social Impact / 应用、安全治理与社会影响
 
 C6 tracks AI/agent use in science, manufacturing, government, healthcare, finance, education, transport, consumer services and other sectors, together with security governance, labor, culture, public impact and rights/access questions.

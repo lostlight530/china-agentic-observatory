@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C4 durable responsibility contract for agent frameworks, runtimes, platforms, open source, tools, memory, workflows, computer use, and protocol adapters
+> - **Authority:** Current C4 subject-boundary authority
+> - **Current meaning:** Separate repository existence, maintained project state, implemented mechanics, hosted product capability, deployment evidence, and named-version interoperability
+> - **Evidence boundary:** repository exists is not maintained; open-sourced is not deployed; README claim is not implementation; adapter presence is not conformance; tool access is not authority
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C4｜Agents, Platforms, Open Source, and Engineering / 智能体、平台、开源与工程
 
 C4 tracks China's public agent-engineering surface: agent frameworks, runtimes/harnesses, platforms, workflows, memory, tools, computer use, source repositories, MCP/A2A-related implementation, orchestration, and architecture-level project change.

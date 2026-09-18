@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C3 durable responsibility contract for research, models, algorithms, datasets, benchmarks, and evaluation
+> - **Authority:** Current C3 subject-boundary authority
+> - **Current meaning:** Retain exact paper/model/version, provider/deployment variant, evaluation system, harness/tools/configuration/comparator/metric, and independent support status
+> - **Evidence boundary:** paper published is not reproduced; benchmark score is not universal capability; model release is not deployment; leaderboard rank is not national technical position
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C3｜Research, Models, Algorithms, and Evaluation / 科研、模型、算法与评测
 
 C3 tracks China's public AI research and model-development surface: universities, laboratories, original papers, foundation models, multimodality, reasoning, scientific AI, robotics/embodied models, algorithmic methods, datasets/benchmarks, and public evaluation systems.

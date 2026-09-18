@@ -1,3 +1,14 @@
+> [!NOTE]
+> **Current architecture interpretation — 2026-09-18**
+> - **Subject class:** `EXTENSION / WORKSTREAM`
+> - **Role:** C2 durable responsibility contract for standards, protocols, identity, interconnection, conformance, and China-global technical comparison
+> - **Authority:** Current C2 subject-boundary authority
+> - **Current meaning:** Preserve object type, issuer, formal lifecycle, standard number/version, technical layer, implementation/conformance evidence, and same-layer comparator
+> - **Evidence boundary:** technical document is not GB/T; project initiated is not published; published standard is not deployed implementation; identity field is not verified identity; compatibility goal is not tested interoperability
+> - **Cross-document relation:** Workstream findings are normalized by Taxonomy and governed by Methodology; source identities remain in Source Registry; C8 synthesizes but cannot upgrade evidence strength or erase institutional/lifecycle distinctions
+> - **Update trigger:** Update only when this workstream's durable responsibility, comparison layer, lifecycle vocabulary, or evidence boundary changes—not for routine Daily/Weekly/Monthly findings
+> - **Preservation rule:** Periodic observations remain in their dated artifacts. This file owns stable research responsibility and interpretation only
+
 # C2｜Standards, Protocols, Identity, and Interconnection / 标准、协议、身份与互联
 
 C2 tracks China-specific standards and interoperability structures: national, industry, local/group/association standards where relevant; agent/AI protocol proposals; identity codes; discovery; interaction; tool invocation; gateways; trust/interconnection; and compatibility with global protocol families.
