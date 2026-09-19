@@ -12,7 +12,13 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W37 | 7–13 Sep | FINAL — H37-1 REFUTED; H37-2~H37-5 OPEN | Approval-stage observation falsified H37-1 without proving missing version-lifecycle semantics. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | SAMR current-state conflict preserved as observation chronology; no rollback date or nationwide maturity transition is inferred. |
 
-The dated W36 special-event reconciliation file is an explicit non-canonical supplement. It does not replace or duplicate canonical `2026-W36.md`.
+The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
+
+- `2026-W36-2026-09-07-special-event-reconciliation.md` supplements W36.
+- `2026-W37-2026-09-20-special-event-reconciliation.md` supplements W37.
+- `2026-W38-2026-09-20-special-event-reconciliation.md` supplements W38.
+
+Canonical authority remains with `YYYY-Www.md` weekly records.
 
 ## Correction rule / 更正规则
 
