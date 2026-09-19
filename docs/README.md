@@ -27,7 +27,7 @@ current merged main + current observatory contract
 
 ## Implementation
 
-站点使用无依赖静态 HTML/CSS/JavaScript。页面加载时读取公开 `main` 的 canonical Markdown，仅生成 bounded projection。
+站点使用无依赖静态 HTML/CSS/JavaScript。页面启动时先解析公开 `main` 的当前 HEAD，并把该页面会话中的全部 canonical Markdown 读取固定到同一个 commit SHA，只生成一个 revision-coherent bounded projection。之后以节流的公开 HEAD recheck 检测 `main` 是否前进；若出现更新，仅提示存在 newer snapshot，不会把已渲染页面跨 revision 热替换。
 
 本展示层不要求新增仓库自定义 GitHub Actions workflow。若使用 GitHub Pages，预期 publishing source 为 `main` + `/docs`；Pages Settings 属于发布配置，与研究 truth 分离。
 
