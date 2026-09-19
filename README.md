@@ -28,6 +28,12 @@ A bilingual, source-grounded observatory for China's artificial-intelligence and
 - [Weekly research / 周报](./reports/weekly/)
 - [Monthly research / 月报](./reports/monthly/)
 
+## Web Presentation / 展示层
+
+本仓的只读、Pages-ready research console 位于 [`docs/`](./docs/)。它从 current `main` 投影最新 Daily、canonical Weekly/Monthly 状态、C1–C8 handoff、Watchlist、Source Registry 与有边界的 Twin Observatory lens。
+
+展示层**不拥有研究状态**，也不创建第二套 evidence database。canonical source 缺失时显示 unavailable，不反推 lifecycle 或 maturity。详见 [`docs/README.md`](./docs/README.md)。
+
 首页不再硬编码“当前月份”“当前周”或最新结论。当前研究状态由 report indexes、Source Registry 与 Watchlist 自己拥有，从而让 README 保持长期稳定。
 
 ## Evidence Model / 证据模型
