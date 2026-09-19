@@ -10,7 +10,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W35 | 24–30 Aug | CLOSED | Final lifecycle-correction settlement remains valid. |
 | W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Different maturity clocks remain explicit; project-state linkage stays source-bounded. |
 | W37 | 7–13 Sep | FINAL — H37-1 REFUTED; H37-2~H37-5 OPEN | Approval-stage observation falsified H37-1 without proving missing version-lifecycle semantics. |
-| W38 | 14–20 Sep | **OPEN — corrected through 15 Sep Daily** | Current SAMR conflict is reconciled; H38-1~H38-4 remain OPEN. |
+| W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | SAMR current-state conflict preserved as observation chronology; no rollback date or nationwide maturity transition is inferred. |
 
 The dated W36 special-event reconciliation file is an explicit non-canonical supplement. It does not replace or duplicate canonical `2026-W36.md`.
 
