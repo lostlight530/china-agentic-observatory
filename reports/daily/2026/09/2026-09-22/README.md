@@ -3,7 +3,7 @@
 This real observation day checked all C1–C8 workstreams. The integrated Daily is canonical for today's findings.
 
 - C1 policy — `NO MATERIAL CHANGE`
-- C2 standards/protocols — `EVIDENCE_INSUFFICIENT` for resolving the `20256913-T-907` current-state display conflict; `state_transition_date=UNVERIFIED`
+- C2 standards/protocols — current SAMR display for `20256913-T-907` is `正在批准` on 2026-09-22; historical transition chronology remains `EVIDENCE_INSUFFICIENT`; `state_transition_date=UNVERIFIED`
 - C3 data — `NO MATERIAL CHANGE`
 - C4 evaluation — `NO MATERIAL CHANGE`
 - C5 infrastructure — `NO MATERIAL CHANGE`
