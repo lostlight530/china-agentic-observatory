@@ -24,7 +24,8 @@ Repository-native September observation begins on **2026-09-01**.
 | 2026-09-18 | [`2026-09-18.md`](./2026-09-18.md) | [`2026-09-18/`](./2026-09-18/) | W38 |
 | 2026-09-19 | [`2026-09-19.md`](./2026-09-19.md) | [`2026-09-19/`](./2026-09-19/) | W38 |
 | 2026-09-20 | [`2026-09-20.md`](./2026-09-20.md) | [`2026-09-20/`](./2026-09-20/) | W38 |
+| 2026-09-21 | [`2026-09-21.md`](./2026-09-21.md) | [`2026-09-21/`](./2026-09-21/) | W39 |
 
-Current September count: **20 real observation days**, indexed through **2026-09-20**.
+Current September count: **21 real observation days**, indexed through **2026-09-21**.
 
 > September starts from August memory; it does not recreate August conclusions. Later evidence does not rewrite earlier observation dates.
