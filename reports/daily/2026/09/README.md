@@ -31,3 +31,7 @@ Repository-native September observation begins on **2026-09-01**.
 Current September count: **23 real observation days**, indexed through **2026-09-23**.
 
 > September starts from August memory; it does not recreate August conclusions. Later evidence does not rewrite earlier observation dates.
+
+## 2026-09-23 n-1 calibration
+
+The 2026-09-22 Daily and its C1–C8 pack remain one observation-day unit. Index presence does not add a state transition, maturity promotion, implementation claim, conformance claim, or independent source lineage.
