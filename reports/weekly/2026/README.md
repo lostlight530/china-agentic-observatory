@@ -36,3 +36,16 @@ Closed weeklies are not silently rewritten merely because later evidence advance
 Legacy date-named `*-progress.md` files remain frozen non-canonical historical supplements.
 
 > **周日不是清空，周一不是重启。**
+
+
+## 2026-09-23 A2 calibration
+
+W39 remains OPEN with 21–23 Sep real Dailies retained. Repeated observation of `正在批准` confirms current display at those cuts only and does not establish a transition date or close the preserved chronology conflict.
+
+```text
+W39_INDEX_CURRENT
+!= W39_FINAL
+
+CURRENT_DISPLAY_STABLE_ACROSS_TWO_CUTS
+!= STATE_TRANSITION_DATE_VERIFIED
+```
