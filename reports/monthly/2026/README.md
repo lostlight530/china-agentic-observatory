@@ -9,3 +9,8 @@
 closed month ≠ immutable error
 explicit post-closure correction ≠ silent historical rewrite
 ```
+
+
+## 2026-09-23 A2 calibration
+
+The September row is a current index statement. `1–23 Sep observed` does not imply 23 maturity transitions, complete lifecycle chronology, implementation, conformance, or natural-month closure.
