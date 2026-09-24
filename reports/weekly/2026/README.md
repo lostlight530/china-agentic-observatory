@@ -49,3 +49,16 @@ W39_INDEX_CURRENT
 CURRENT_DISPLAY_STABLE_ACROSS_TWO_CUTS
 != STATE_TRANSITION_DATE_VERIFIED
 ```
+## 2026-09-24 A2 calibration
+
+W39 remains OPEN with 2026-09-21 through 2026-09-24 real Dailies retained.
+
+For `20256913-T-907`, earlier point-in-time `正在批准` observations remain preserved while the 2026-09-24 retrieval is `EVIDENCE_INSUFFICIENT`. That sequence does not identify a transition date or verified regression.
+
+```text
+W39_INDEX_CURRENT
+!= W39_FINAL
+
+EVIDENCE_INSUFFICIENT_CURRENT_RETRIEVAL
+!= STATE_TRANSITION_PROVEN
+```
