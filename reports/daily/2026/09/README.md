@@ -30,8 +30,9 @@ Repository-native September observation begins on **2026-09-01**.
 | 2026-09-24 | [`2026-09-24.md`](./2026-09-24.md) | [`2026-09-24/`](./2026-09-24/) | W39 |
 | 2026-09-25 | [`2026-09-25.md`](./2026-09-25.md) | [`2026-09-25/`](./2026-09-25/) | W39 |
 | 2026-09-26 | [`2026-09-26.md`](./2026-09-26.md) | [`2026-09-26/`](./2026-09-26/) | W39 |
+| 2026-09-27 | [`2026-09-27.md`](./2026-09-27.md) | [`2026-09-27/`](./2026-09-27/) | W39 FINAL |
 
-Current September count: **26 real observation days**, indexed through **2026-09-26**.
+Current September count: **27 real observation days**, indexed through **2026-09-27**.
 
 > September starts from August memory; it does not recreate August conclusions. Later evidence does not rewrite earlier observation dates.
 
@@ -44,3 +45,8 @@ The 2026-09-22 Daily and its C1–C8 pack remain one observation-day unit. Index
 All 23 retained September integrated Dailies and C1–C8 observation-pack indexes through 2026-09-23 were re-read together with due Weeklies and special-event reconciliations.
 
 This index records observation coverage only. It does not create lifecycle transition dates, maturity promotion, implementation, conformance, or independent source credit.
+
+
+## 2026-09-27 Sunday closure calibration
+
+The 2026-09-27 Daily and C1–C8 pack are the seventh real W39 observation day. Index synchronization records repository coverage only; it does not create a lifecycle transition or independent evidence. W39 settlement is owned by the canonical weekly file.

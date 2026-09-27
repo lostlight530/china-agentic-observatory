@@ -11,13 +11,14 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W36 | 31 Aug–6 Sep | CLOSED — Sunday settlement | Different maturity clocks remain explicit; project-state linkage stays source-bounded. |
 | W37 | 7–13 Sep | FINAL — H37-1 REFUTED; H37-2~H37-5 OPEN | Approval-stage observation falsified H37-1 without proving missing version-lifecycle semantics. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | SAMR current-state conflict preserved as observation chronology; no rollback date or nationwide maturity transition is inferred. |
-| W39 | 21–27 Sep | **OPEN — 21–23 Sep real Dailies observed** | 22–23 Sep current display is `正在批准`; transition chronology remains evidence-insufficient and no transition date is inferred. |
+| W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1/H39-3/H39-4 `REFUTED_FOR_W39`, H39-2 `OPEN / CARRY_FORWARD`; current display remains separate from unverified transition chronology. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
 - `2026-W36-2026-09-07-special-event-reconciliation.md` supplements W36.
 - `2026-W37-2026-09-20-special-event-reconciliation.md` supplements W37.
 - `2026-W38-2026-09-20-special-event-reconciliation.md` supplements W38.
+- `2026-W39-2026-09-27-special-event-reconciliation.md` supplements W39.
 
 Canonical authority remains with `YYYY-Www.md` weekly records.
 
@@ -62,3 +63,8 @@ W39_INDEX_CURRENT
 EVIDENCE_INSUFFICIENT_CURRENT_RETRIEVAL
 != STATE_TRANSITION_PROVEN
 ```
+
+
+## 2026-09-27 Sunday settlement calibration
+
+W39 is closed only after the real 2026-09-27 Daily. The special-event reconciliation remains non-canonical supplementary memory and does not replace the canonical hypothesis settlement.
