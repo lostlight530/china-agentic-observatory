@@ -31,8 +31,9 @@ Repository-native September observation begins on **2026-09-01**.
 | 2026-09-25 | [`2026-09-25.md`](./2026-09-25.md) | [`2026-09-25/`](./2026-09-25/) | W39 |
 | 2026-09-26 | [`2026-09-26.md`](./2026-09-26.md) | [`2026-09-26/`](./2026-09-26/) | W39 |
 | 2026-09-27 | [`2026-09-27.md`](./2026-09-27.md) | [`2026-09-27/`](./2026-09-27/) | W39 FINAL |
+| 2026-09-29 | [`2026-09-29.md`](./2026-09-29.md) | [`2026-09-29/`](./2026-09-29/) | W40 OPEN |
 
-Current September count: **27 real observation days**, indexed through **2026-09-27**.
+Current September count: **28 retained real same-day observation days**, latest **2026-09-29**. `2026-09-28` has no retained same-day producer-native Daily and is preserved separately as [`2026-09-28-reconciliation.md`](./2026-09-28-reconciliation.md); it is not counted as a real 2026-09-28 Daily.
 
 > September starts from August memory; it does not recreate August conclusions. Later evidence does not rewrite earlier observation dates.
 
@@ -50,3 +51,8 @@ This index records observation coverage only. It does not create lifecycle trans
 ## 2026-09-27 Sunday closure calibration
 
 The 2026-09-27 Daily and C1–C8 pack are the seventh real W39 observation day. Index synchronization records repository coverage only; it does not create a lifecycle transition or independent evidence. W39 settlement is owned by the canonical weekly file.
+
+
+## 2026-09-29 W40 opening calibration
+
+2026-09-29 is the first retained real W40 Daily. The 2026-09-28 gap is explicitly reconciled without backdating 2026-09-29 source checks. Index synchronization creates no external transition, maturity, conformance or source-independence credit.
