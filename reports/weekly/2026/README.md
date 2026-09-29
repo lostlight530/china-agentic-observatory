@@ -12,6 +12,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W37 | 7–13 Sep | FINAL — H37-1 REFUTED; H37-2~H37-5 OPEN | Approval-stage observation falsified H37-1 without proving missing version-lifecycle semantics. |
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | SAMR current-state conflict preserved as observation chronology; no rollback date or nationwide maturity transition is inferred. |
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1/H39-3/H39-4 `REFUTED_FOR_W39`, H39-2 `OPEN / CARRY_FORWARD`; current display remains separate from unverified transition chronology. |
+| W40 | 28 Sep–4 Oct | **OPEN** | First retained real Daily is 2026-09-29; 2026-09-28 same-day Daily gap is preserved by late reconciliation; repeated no-change evidence creates no hypothesis strength. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
@@ -68,3 +69,8 @@ EVIDENCE_INSUFFICIENT_CURRENT_RETRIEVAL
 ## 2026-09-27 Sunday settlement calibration
 
 W39 is closed only after the real 2026-09-27 Daily. The special-event reconciliation remains non-canonical supplementary memory and does not replace the canonical hypothesis settlement.
+
+
+## 2026-09-29 W40 opening calibration
+
+W40 opens only from the first retained real Daily on 2026-09-29. The 2026-09-28 late reconciliation is not converted into same-day evidence, and W39 repetition is not inherited as new support.
