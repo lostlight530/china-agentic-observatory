@@ -1,0 +1,12 @@
+# C8 — Synthesis
+## 2026-09-30
+
+Daily synthesis: `NO MATERIAL CHANGE`.
+
+```text
+CURRENT_DISPLAY != TRANSITION_CHRONOLOGY
+SAME_LINEAGE_RECHECK != INDEPENDENT_SUPPORT
+MONTH_END_DATE != MONTH_FINALIZED
+```
+
+W40 remains OPEN; September remains OPEN while 2026-09-30 is still in progress.
