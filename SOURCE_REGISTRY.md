@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-09-19**
+Updated through: **2026-10-04**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -61,6 +61,11 @@ Updated through: **2026-09-19**
 | C-NDA-TDS-RELEASE-2025 | C0 | 国家数据局 | 数字合约、使用控制、技术能力评价等可信数据空间技术文件正式发布及验证试点 | https://www.nda.gov.cn/sjj/ywpd/sjzg/0922/20250903171136230874443_pc.html |
 | C-NDA-TDS-VALIDATION-2026 | C0 | 国家数据局 / 全国数标委 | 2026 数据基础设施、高质量数据集等方向标准与技术文件验证试点征集 | https://www.nda.gov.cn/sjj/zwgk/tzgg/0402/20260402185936591334673_pc.html |
 
+| C-TC28-AGENT-CONTEXT-20265083 | C0 | 全国标准信息公共服务平台 / TC28 | 20265083-Z-469 人工智能 智能体 上下文共享和管理；登记 2026-09-28；当前正在起草 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 |
+| C-GBT-48324-2026 | C0 | 全国标准信息公共服务平台 | GB/T 48324-2026 人工智能 政务大模型系统技术要求；发布 2026-09-28；实施 2027-04-01 | https://std.samr.gov.cn/gb/search/gbDetailed?id=zf2DY5odCyo%3D&mode=p |
+| C-GBT-45288-4-2026 | C0 | 全国标准信息公共服务平台 | GB/T 45288.4-2026 人工智能 大模型 第4部分：计算机视觉大模型；发布 2026-09-28；实施 2027-01-01 | https://std.samr.gov.cn/gb/search/gbDetailed?id=S9%2B6MpkjyoU%3D&mode=p |
+| C-GBT-45288-5-2026 | C0 | 全国标准信息公共服务平台 | GB/T 45288.5-2026 人工智能 大模型 第5部分：多模态大模型；发布 2026-09-28；实施 2027-01-01 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5CB12E0EFBF52034E06397BE0A0A34FB |
+
 ## Current-state notes / 当前状态注记
 
 - `GB/T 47507-2026` is **现行**; the old portal-state conflict is closed.
@@ -73,3 +78,18 @@ Updated through: **2026-09-19**
 ## Status rule / 状态规则
 
 When an official implementation date and portal label conflict, preserve both until a later authoritative surface resolves the conflict. Drafting, consultation, review, approval and publication remain distinct. **Consent, approval, publication, implementation and conformance are also distinct.** Cross-committee related projects are discovery evidence, not proof of an official technical mapping. Policy language about “one evaluation, nationwide mutual recognition” must not be treated as evidence that nationwide recognition is already operational. Platform trial operation must not be treated as a mature nationwide market mechanism. Dataset identifier credentials, quality evaluation reports, compliance status, circulation approval, digital-contract authorization and usage-control evidence are distinct objects. Released trusted-data-space technical files must not be mislabeled GB/T national standards or universal nationwide implementation. A documented data-flywheel case is implementation evidence for that case, not proof of a national interoperable feedback interface. Multiple public cases can strengthen an implementation pattern but still do not establish a common feedback-event schema, national lifecycle state machine, or automatic training-admission mechanism. The 2026 `模数共振` action is a formal joint program signal that evaluation results should drive targeted dataset optimization; it must not be mislabeled a published technical interface or automatic lifecycle workflow. The 2026 version-management/provenance and cognitive-value-evaluation entries are **work-list technical-file items**, not completed or published technical files. Current `20256913-T-907` portal state remains volatile/conflicting across successive observations; the latest 2026-09-15 external recheck displays **正在批准**, while the earlier same-day Daily observed **正在审查**. It must not be promoted beyond the latest observed official display or assigned an inferred transition chronology. Dataset-version identity, quality-result identity, feedback-event identity and data-work-item identity must remain distinct. **Family membership never propagates project maturity automatically.**
+
+## 2026-10-04 W40 post-hoc special-event admission
+A post-settlement review recovered material 2026-09-28 official standardization objects absent from the retained producer-native W40 chain.
+
+The objects retain their original registration/publication dates. Repository discovery/reconciliation is 2026-10-04.
+
+```text
+OFFICIAL_EVENT_DATE != OBSERVATORY_DISCOVERY_DATE
+PUBLICATION != IMPLEMENTATION != CONFORMANCE
+RELATED_STANDARD_OBJECTS != FORMAL_CROSSWALK
+```
+
+The 2026-09-28 producer-native Daily gap remains historical and is not backfilled.
+
+See `reports/weekly/2026/2026-W40-special-reconciliation-2026-10-04.md`.
