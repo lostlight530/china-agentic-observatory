@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-10-04**
+Updated through: **2026-10-05**
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -66,6 +66,8 @@ Updated through: **2026-10-04**
 | C-GBT-45288-4-2026 | C0 | 全国标准信息公共服务平台 | GB/T 45288.4-2026 人工智能 大模型 第4部分：计算机视觉大模型；发布 2026-09-28；实施 2027-01-01 | https://std.samr.gov.cn/gb/search/gbDetailed?id=S9%2B6MpkjyoU%3D&mode=p |
 | C-GBT-45288-5-2026 | C0 | 全国标准信息公共服务平台 | GB/T 45288.5-2026 人工智能 大模型 第5部分：多模态大模型；发布 2026-09-28；实施 2027-01-01 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5CB12E0EFBF52034E06397BE0A0A34FB |
 
+| C-SAMR-AGENT-NONAPI-20265082 | C0 | 全国标准信息公共服务平台 / TC28 | `20265082-Z-469` 人工智能 智能体 非API系统协同框架和操作语义；登记 2026-09-28；2026-10-05 later reconciliation observes current `正在起草` | https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 |
+
 ## Current-state notes / 当前状态注记
 
 - `GB/T 47507-2026` is **现行**; the old portal-state conflict is closed.
@@ -74,6 +76,8 @@ Updated through: **2026-10-04**
 - `20262581-Z-907` remains **正在起草**.
 - **F.748.93 was Approved on 2026-08-29; the Recommendation surface now reports `In force (prepublished)`, with English files available 2026-09-09.** This publication availability is not implementation or conformance evidence.
 - The 30 August `模数共振` stage-summary deadline has passed; no authoritative completion publication reviewed through 2026-09-19 proves all submissions or the subsequent midterm evaluation complete.
+
+- `20265082-Z-469` is a distinct TC28/TC28SC42 guidance-document registration for agent non-API-system collaboration framework and operational semantics. Original registration date is **2026-09-28**; repository discovery/reconciliation date is **2026-10-05**; current display is **正在起草**. The title establishes an exact standardization object, not normative clause content, implementation, conformance, or a formal mapping to `20265083-Z-469`, GB/Z 185, MCP or A2A.
 
 ## Status rule / 状态规则
 
