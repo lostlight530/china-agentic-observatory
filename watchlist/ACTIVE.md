@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-09-15 · W38 current-state reconciliation**
+Updated: **2026-10-04 · W40 special closeout**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
@@ -85,6 +85,8 @@ Updated: **2026-09-15 · W38 current-state reconciliation**
 | C-W77 | After F.748.93 approval/publication, what conformance evidence, implementation mappings and interoperable deployments follow? | **OPEN / W38 MONITOR** | Conformance/TCK, product mappings and cross-vendor implementation evidence |
 | C-W78 | Does F.748.93 or a coordinated ITU output define a formal identity/security/authorization crosswalk for its interoperability objects? | **NEW / W38 PRIORITY** | Normative SG17/SG21 mapping or equivalent formal crosswalk |
 
+| C-W79 | What exact context identity, sharing boundary, lifecycle and access-control semantics will `20265083-Z-469` define, and how will it map to existing agent interoperability objects? | **NEW / W40 SPECIAL** | Draft/consultation text, normative fields, lifecycle rules and formal crosswalks |
+
 ## W38 Active Shortlist / W38 当前优先清单
 
 1. **C-W73 / C-W74 / C-W75** — version-bound quality semantics, re-evaluation triggers and supersession / expiry
@@ -108,4 +110,24 @@ Consented ≠ Approved ≠ Published ≠ Implemented ≠ Conformant
 adjacent standards ≠ formal crosswalk
 quality result ≠ rights / access / governance state
 current source conflict ≠ verified forward/backward transition sequence
+```
+
+
+## 2026-10-04 W40 post-hoc special calibration
+The 2026-09-28 producer-native gap is preserved, but a 2026-10-04 official-source recheck recovered material 2026-09-28 standardization events.
+
+Current effects:
+
+- **C-W02 strengthened:** the domestic agent-standard family continues to expand, increasing the need for formal mapping to GB/Z 185, MCP and A2A.
+- **C-W10 strengthened:** `20265083-Z-469` is direct evidence that agent-context management is now an explicit standardization object.
+- **C-W13 strengthened:** publication of new large-model/application standards increases the need to map horizontal requirements into agent lifecycle governance without assuming equivalence.
+- **C-W79 added:** exact context identity, sharing boundary, lifecycle/access-control semantics and formal crosswalks for `20265083-Z-469` are now a first-class watch question.
+- **C-W31 unchanged:** this Special does not resolve the historical `20256913-T-907` portal-state conflict.
+
+No implementation/conformance question is closed.
+
+```text
+PROJECT_REGISTRATION != PUBLISHED_STANDARD
+PUBLISHED_STANDARD != IMPLEMENTED_STANDARD
+FAMILY_PROXIMITY != FORMAL_CROSSWALK
 ```
