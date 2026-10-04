@@ -1,6 +1,6 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-10-04 · W40 special closeout**
+Updated: **2026-10-05 · W41 opening**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
@@ -86,6 +86,7 @@ Updated: **2026-10-04 · W40 special closeout**
 | C-W78 | Does F.748.93 or a coordinated ITU output define a formal identity/security/authorization crosswalk for its interoperability objects? | **NEW / W38 PRIORITY** | Normative SG17/SG21 mapping or equivalent formal crosswalk |
 
 | C-W79 | What exact context identity, sharing boundary, lifecycle and access-control semantics will `20265083-Z-469` define, and how will it map to existing agent interoperability objects? | **NEW / W40 SPECIAL** | Draft/consultation text, normative fields, lifecycle rules and formal crosswalks |
+| C-W80 | What operational semantics and authority boundaries will `20265082-Z-469` define for non-API system collaboration, and how are those semantics separated from context sharing, API-based interaction, GB/Z 185, MCP and A2A? | **NEW / W41 OPENING** | Draft/consultation text, operation model, authority/error semantics, lifecycle rules and formal crosswalks |
 
 ## W38 Active Shortlist / W38 当前优先清单
 
@@ -131,3 +132,9 @@ PROJECT_REGISTRATION != PUBLISHED_STANDARD
 PUBLISHED_STANDARD != IMPLEMENTED_STANDARD
 FAMILY_PROXIMITY != FORMAL_CROSSWALK
 ```
+
+## 2026-10-05 W41 opening calibration
+
+- `20265082-Z-469` is admitted as a distinct exact object at its original 2026-09-28 registration date; observation/reconciliation is 2026-10-05.
+- `C-W80` opens because a verified new standardization object now exists; no normative clause content, implementation, conformance or formal crosswalk is inferred from the title.
+- Repeated checks of already-known objects add coverage only and do not strengthen unrelated watch items.
