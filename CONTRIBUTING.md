@@ -4,6 +4,10 @@ China Agentic Observatory welcomes contributions that improve factual accuracy, 
 
 ## 中文
 
+### 开放科研入口
+
+科研方法或仓库定位变更先看 [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md)；需要使用统一 research question / counterexample / research increment 结构的新研究单元使用 [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md)。现有 `METHODOLOGY.md` 与 Daily / Weekly / Monthly SOP 继续拥有原生研究语义与 cadence。
+
 ### 贡献对象
 
 优先修改真正拥有该问题的长期表面：
@@ -48,6 +52,10 @@ case implementation != nationwide adoption
 使用仓库 PR 模板，并说明具体问题、有限改动、受影响长期表面、来源与日期/版本/状态依据、实际完成的核验、仍不确定事项、历史影响、安全/隐私影响与回滚方式。
 
 ## English
+
+### Open-research entry
+
+For research-method or repository-positioning changes, start with [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md). Use [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md) for prospective research units that need the shared question/counterexample/research-increment structure. Existing Methodology and Daily/Weekly/Monthly SOPs remain authoritative for native research semantics and cadence.
 
 ### Choose the owning surface
 
