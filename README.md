@@ -13,6 +13,9 @@ A bilingual, source-grounded observatory for China's artificial-intelligence and
 
 ## Stable Research Entry Points / 长期研究入口
 
+- [Open Research / 开放科研](./OPEN_RESEARCH.md) — English-canonical open-research production method with Chinese guidance.
+- [Research Template / 科研模板](./RESEARCH_TEMPLATE.md) — prospective bounded research-record template.
+
 - [Methodology / 方法论](./METHODOLOGY.md) — 中国语境下的信源等级、状态分类、时间纪律与证据独立性。
 - [Scope / 范围](./SCOPE.md) — 研究覆盖与排除项。
 - [Taxonomy / 分类体系](./TAXONOMY.md) — policy / standards / infrastructure / industry / agentic systems 的长期比较词汇。
