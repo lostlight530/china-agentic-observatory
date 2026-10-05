@@ -14,7 +14,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1/H39-3/H39-4 `REFUTED_FOR_W39`, H39-2 `OPEN / CARRY_FORWARD`; current display remains separate from unverified transition chronology. |
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / NO_NEW_MATERIAL_TRANSITION** | Retained producer-native gap on 2026-09-28 remains explicit. A 2026-10-04 post-hoc Special recovered material 2026-09-28 standardization events without reopening or backfilling W40. |
 
-| W41 | 5–11 Oct | **OPEN — Monday opening** | 2026-10-05 late reconciliation admits `20265082-Z-469` as a distinct drafting object while preserving its 2026-09-28 registration date; no same-day maturity transition or formal crosswalk is inferred. |
+| W41 | 5–11 Oct | **OPEN — through 2026-10-06** | 10/05 late reconciliation admits `20265082-Z-469`; 10/06 authoritative rechecks add coverage only. H41 states remain unchanged; no repeated-lineage strengthening, same-day maturity transition, implementation/conformance promotion or formal crosswalk. |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
