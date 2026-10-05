@@ -1,3 +1,3 @@
-# C6 Applications Governance
+# C6 — Applications / Governance
 
-No new implementation, conformance, nationwide-adoption or governance-control transition established.
+No new nationwide application, enforcement, governance-control, implementation or conformance transition is established.

@@ -1,3 +1,3 @@
-# C1 History Policy
+# C1 — History / Policy
 
-No material change. Historical point-in-time observations remain preserved.
+No material policy/history transition. W40 settlement and the 2026-09-28 producer-native gap remain historical; later reconciliations remain forward corrections rather than backfills.
