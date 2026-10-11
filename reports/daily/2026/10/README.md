@@ -11,6 +11,11 @@
 | 2026-10-06 | [`2026-10-06.md`](./2026-10-06.md) | [`2026-10-06/`](./2026-10-06/) | W41 OPEN / NO HYPOTHESIS STRENGTHENING |
 | 2026-10-07 | [`2026-10-07.md`](./2026-10-07.md) | [`2026-10-07/`](./2026-10-07/) | W41 OPEN / NO HYPOTHESIS STRENGTHENING |
 
-Current October count: **7 retained real same-day observation days**, through **2026-10-07**.
+| 2026-10-08 | [`2026-10-08.md`](./2026-10-08.md) | [`2026-10-08/`](./2026-10-08/) | W41 OPEN / NO MATERIAL CHANGE |
+| 2026-10-09 | [`2026-10-09.md`](./2026-10-09.md) | [`2026-10-09/`](./2026-10-09/) | W41 OPEN / NO MATERIAL CHANGE |
+| 2026-10-10 | [`2026-10-10.md`](./2026-10-10.md) | [`2026-10-10/`](./2026-10-10/) | W41 OPEN / NO MATERIAL CHANGE |
+| 2026-10-11 | [`2026-10-11.md`](./2026-10-11.md) | [`2026-10-11/`](./2026-10-11/) | W41 FINAL / CLOSED |
 
-> October remains OPEN. Future dates 2026-10-08 → 2026-10-31 are NOT_YET_OCCURRED / NOT_MISSING. Repeated current-display checks from the same source lineage add coverage only.
+Current October count: **11 retained real same-day observation days**, through **2026-10-11**.
+
+> October remains OPEN. At the early 2026-10-12 maintenance cut, the 2026-10-12 native Daily is not yet on merged main; this is NOT a missing day. 2026-10-13 → 2026-10-31 are future / NOT_DUE. W41 is FINAL / CLOSED; W42 is not opened before its Monday Daily. Repeated same-lineage current-display checks add observation coverage, not independent strengthening.

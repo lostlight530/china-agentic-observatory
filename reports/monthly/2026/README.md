@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; correction appended 2026-09-01 | 7–31 Aug, 25 real days | First repository-native month. F.748.93 approval occurred 29 Aug but was discovered after closure; explicit correction preserves both dates. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | OPEN | 1 Oct observed | October begins from frozen September evidence; future dates are not missing; W40 remains OPEN / CROSS_MONTH. |
+| 2026-10 | OPEN | 11 retained Dailies, 1–11 Oct; 12 Oct pending at early cut | W40 CLOSED_WITH_GAP; W41 FINAL / CLOSED; W42 not yet opened by native Monday Daily. Future 13–31 Oct NOT_DUE. |
 
 ```text
 closed month ≠ immutable error
@@ -32,3 +32,8 @@ September remains `OPEN`. Repository-native coverage is now 27 real observation 
 ## 2026-10-01 natural-month successor calibration
 
 September current accounting state is `CLOSED_WITH_GAPS`: 29 retained same-day Dailies plus the explicit 2026-09-28 gap. The historical producer-native September Monthly file is not rewritten; its earlier OPEN wording remains point-in-time evidence under the merged A2 closure contract. October now owns new observations from 2026-10-01 forward, while W40 continues independently across the month boundary.
+
+
+## 2026-10-12 current-index reconciliation
+
+The row above reflects current merged-main repository truth through 2026-10-11. The earlier dated index paragraphs remain historical point-in-time checkpoints, not current W41 state. 2026-10-12 has started but no native Daily is present at this early maintenance cut; no gap is assigned. October remains OPEN. Source rechecks do not confer independent evidence or exact lifecycle transition dates.
