@@ -19,8 +19,9 @@
 | 2026-10-12 | **NO NATIVE DAILY** | — | W42 Monday past-date gap as of 2026-10-13 early cut; no backfill |
 | 2026-10-13 | [`2026-10-13.md`](./2026-10-13.md) | [`2026-10-13/`](./2026-10-13/) | W42 TUESDAY_LATE_OPEN / NO MATERIAL CHANGE |
 | 2026-10-14 | [`2026-10-14.md`](./2026-10-14.md) | [`2026-10-14/`](./2026-10-14/) | W42 OPEN / PARTIAL EXACT-OBJECT RECHECK |
+| 2026-10-15 | [`2026-10-15.md`](./2026-10-15.md) | [`2026-10-15/`](./2026-10-15/) | W42 OPEN / NO MATERIAL CHANGE |
 
-Current October count at 2026-10-14 04:59 Asia/Shanghai: **13 retained real same-day observation days** (1–11, 13–14 October), **2026-10-12 past-date native gap** retained
+Current October count at 2026-10-15 05:00 Asia/Shanghai: **14 retained real same-day observation days** (1–11, 13–15 October), **2026-10-12 past-date native gap** retained
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, the 2026-10-12 native Daily is not yet on merged main; this is NOT a missing day. 2026-10-13 → 2026-10-31 are future / NOT_DUE. W41 is FINAL / CLOSED; W42 is not opened before its Monday Daily. Repeated same-lineage current-display checks add observation coverage, not independent strengthening.
 
@@ -28,3 +29,5 @@ Current October count at 2026-10-14 04:59 Asia/Shanghai: **13 retained real same
 > **2026-10-13 current-cut correction:** The earlier 2026-10-12 early-cut note above remains a dated historical observation. Now 2026-10-12 is past with no native Daily in main, so a gap is recorded *as of this cut*. 2026-10-13 has a real Daily; future 2026-10-14..31 NOT_DUE. W42 is explicitly late-opened on Tuesday, never retroactively on Monday. October Monthly OPEN.
 
 > **2026-10-14 current cut:** Native C1–C8 Daily added，W42 OPEN，October Monthly OPEN at its prior dated checkpoint，2026-10-12 gap preserved，2026-10-15..31 NOT_DUE，20256913-T-907 current display NOT_OBSERVED because exact page timed out
+
+> **2026-10-15 current cut:** Native C1–C8 Daily added，five exact-object current displays rechecked with no verified lifecycle transition，W42 OPEN unchanged，October Monthly OPEN，2026-10-12 native gap preserved，2026-10-16..31 NOT_DUE
