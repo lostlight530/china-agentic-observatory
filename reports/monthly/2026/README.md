@@ -4,7 +4,7 @@
 |---|---|---|---|
 | 2026-08 | CLOSED; correction appended 2026-09-01 | 7–31 Aug, 25 real days | First repository-native month. F.748.93 approval occurred 29 Aug but was discovered after closure; explicit correction preserves both dates. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
-| 2026-10 | OPEN | 17 real native Dailies: 1–11, 13–18 Oct; 12 Oct native gap | W40 CLOSED_WITH_GAP; W41 FINAL/CLOSED; W42 FINAL/CLOSED_WITH_GAP; 19–31 NOT_DUE as of 2026-10-18 04:58:58 CST |
+| 2026-10 | OPEN | 18 real native Dailies: 1–11, 13–19 Oct; 12 Oct gap | W42 FINAL/CLOSED_WITH_GAP, W43 OPEN 1/7, 20–31 NOT_DUE as of 2026-10-19 05:08:23 Asia/Shanghai |
 
 ```text
 closed month ≠ immutable error
