@@ -25,8 +25,9 @@
 | 2026-10-18 | [`2026-10-18.md`](./2026-10-18.md) | [`2026-10-18/`](./2026-10-18/) | W42 FINAL / CLOSED_WITH_GAP / H42-1~3 OPEN |
 | 2026-10-19 | [2026-10-19.md](./2026-10-19.md) | [2026-10-19/](./2026-10-19/) | W43 OPEN / PARTIAL BOUNDED |
 | 2026-10-20 | [2026-10-20.md](./2026-10-20.md) | [2026-10-20/](./2026-10-20/) | W43 OPEN / PARTIAL BOUNDED / NO MATERIAL CHANGE |
+| 2026-10-21 | [2026-10-21.md](./2026-10-21.md) | [2026-10-21/](./2026-10-21/) | W43 OPEN / PARTIAL BOUNDED / NO MATERIAL CHANGE |
 
-Current October count at 2026-10-20 05:03:01 Asia/Shanghai: **19 real native Daily dates** (1–11, 13–20 October), 2026-10-12 past-date native gap，21–31 NOT_DUE
+Current October count at 2026-10-21 04:57:30 Asia/Shanghai: **20 real native Daily dates** (1–11, 13–21 October), 2026-10-12 past-date native gap，22–31 NOT_DUE
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, the 2026-10-12 native Daily is not yet on merged main; this is NOT a missing day. 2026-10-13 → 2026-10-31 are future / NOT_DUE. W41 is FINAL / CLOSED; W42 is not opened before its Monday Daily. Repeated same-lineage current-display checks add observation coverage, not independent strengthening.
 
