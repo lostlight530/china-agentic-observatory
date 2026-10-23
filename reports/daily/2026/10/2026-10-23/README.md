@@ -1,0 +1,22 @@
+# China native C1–C8 pack — 2026-10-23
+
+- logical_date: 2026-10-23 Asia/Shanghai
+- cutoff: 2026-10-23 06:42:13 Asia/Shanghai
+- base_main: dc71abbdcea12e8f74dc320a867ea97dddee0cf1
+- delivery: ATOMIC_NATIVE_PACK / SHARED_SURFACES_COORDINATE
+- result: PARTIAL_BOUNDED_COVERAGE / NO_VERIFIED_MATERIAL_TRANSITION
+- [Integrated Daily](../2026-10-23.md)
+- [C1 历史政策](./C1-history-policy.md)
+- [C2 标准与协议](./C2-standards-protocols.md)
+- [C3 科研与评测](./C3-research-models.md)
+- [C4 智能体开源](./C4-agents-open-source.md)
+- [C5 基础设施产业](./C5-infrastructure-industry.md)
+- [C6 应用与治理](./C6-applications-governance.md)
+- [C7 中国全球比较](./C7-china-global.md)
+- [C8 综合判断](./C8-synthesis.md)
+- 1 integrated + 8 workstreams + README = 10 files
+- predecessor: https://github.com/lostlight530/china-agentic-observatory/pull/177
+- W43 main OPEN 3/7, Oct22 pending, Oct23 atomic pack not yet indexed
+- October Monthly OPEN, 10-12 historical native gap remains
+- shared weekly/monthly/index surfaces: NOT_MODIFIED / COORDINATE pending PR #177
+- checker/runtime/TCK/CI: NOT_EXECUTED
