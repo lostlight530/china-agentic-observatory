@@ -4,7 +4,6 @@
 - logical_date: 2026-10-24 Asia/Shanghai
 - observation_cutoff: 2026-10-24 05:00:32 Asia/Shanghai
 - research_base_main: 2f3c4973642e8e34e5a10d4162c88d6b74276f99
-- record_class: NATIVE_DAILY_RESEARCH
 - evidence_scope: 四项 SAMR exact-object 页面与 ITU-T F.748.93，其他中国 AI 动态 NOT_ASSESSED
 - statement_classes: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN
 - state_transition_date: UNVERIFIED
