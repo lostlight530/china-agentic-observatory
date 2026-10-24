@@ -1,0 +1,297 @@
+# A2 | china-agentic-observatory | October 01–24 current-month relation
+
+- Repository: `lostlight530/china-agentic-observatory`
+- Exact fresh post-A1 main: `cbc46c757e188b113f752542766a7036c456905d`
+- Merged A1 input: `history/2026-10/2026-10-24-a1-native-evidence-custody.md`
+- Fixed month identity: `2026-10`
+- A2 range: `2026-10-01 -> 2026-10-24`
+- This relation inherits A1 and admits only observed N-day state
+- Native research/execution, maintenance, Periodic Audit and governance remain separate planes
+- October remains OPEN
+
+## A2 evidence invariants
+
+- A1 merge is present on the exact A2 base
+- Current main is authoritative for current path/content
+- Historical task-time evidence is not overwritten
+- No later success rewrites earlier failure/block/unknown
+- No file presence becomes execution proof
+- No merged PR becomes scientific validation proof
+- No repeated source lineage becomes independent verification
+- No Periodic Audit credit is created
+- No natural-month close is performed
+- No governance doctrine is promoted
+
+## MonthStart -> N observation relation ledger
+
+- 2026-10-01 | Daily owner | `reports/daily/2026/10/2026-10-01.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C1-history-policy | `reports/daily/2026/10/2026-10-01/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C2-standards-protocols | `reports/daily/2026/10/2026-10-01/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C3-research-models | `reports/daily/2026/10/2026-10-01/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C4-agents-open-source | `reports/daily/2026/10/2026-10-01/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-01/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C6-applications-governance | `reports/daily/2026/10/2026-10-01/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C7-china-global | `reports/daily/2026/10/2026-10-01/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-01 | C8-synthesis | `reports/daily/2026/10/2026-10-01/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-02 | Daily owner | `reports/daily/2026/10/2026-10-02.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C1-history-policy | `reports/daily/2026/10/2026-10-02/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C2-standards-protocols | `reports/daily/2026/10/2026-10-02/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C3-research-models | `reports/daily/2026/10/2026-10-02/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C4-agents-open-source | `reports/daily/2026/10/2026-10-02/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-02/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C6-applications-governance | `reports/daily/2026/10/2026-10-02/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C7-china-global | `reports/daily/2026/10/2026-10-02/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-02 | C8-synthesis | `reports/daily/2026/10/2026-10-02/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-03 | Daily owner | `reports/daily/2026/10/2026-10-03.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C1-history-policy | `reports/daily/2026/10/2026-10-03/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C2-standards-protocols | `reports/daily/2026/10/2026-10-03/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C3-research-models | `reports/daily/2026/10/2026-10-03/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C4-agents-open-source | `reports/daily/2026/10/2026-10-03/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-03/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C6-applications-governance | `reports/daily/2026/10/2026-10-03/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C7-china-global | `reports/daily/2026/10/2026-10-03/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-03 | C8-synthesis | `reports/daily/2026/10/2026-10-03/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-04 | Daily owner | `reports/daily/2026/10/2026-10-04.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C1-history-policy | `reports/daily/2026/10/2026-10-04/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C2-standards-protocols | `reports/daily/2026/10/2026-10-04/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C3-research-models | `reports/daily/2026/10/2026-10-04/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C4-agents-open-source | `reports/daily/2026/10/2026-10-04/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-04/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C6-applications-governance | `reports/daily/2026/10/2026-10-04/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C7-china-global | `reports/daily/2026/10/2026-10-04/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-04 | C8-synthesis | `reports/daily/2026/10/2026-10-04/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-05 | Daily owner | `reports/daily/2026/10/2026-10-05.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C1-history-policy | `reports/daily/2026/10/2026-10-05/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C2-standards-protocols | `reports/daily/2026/10/2026-10-05/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C3-research-models | `reports/daily/2026/10/2026-10-05/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C4-agents-open-source | `reports/daily/2026/10/2026-10-05/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-05/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C6-applications-governance | `reports/daily/2026/10/2026-10-05/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C7-china-global | `reports/daily/2026/10/2026-10-05/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-05 | C8-synthesis | `reports/daily/2026/10/2026-10-05/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-06 | Daily owner | `reports/daily/2026/10/2026-10-06.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C1-history-policy | `reports/daily/2026/10/2026-10-06/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C2-standards-protocols | `reports/daily/2026/10/2026-10-06/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C3-research-models | `reports/daily/2026/10/2026-10-06/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C4-agents-open-source | `reports/daily/2026/10/2026-10-06/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-06/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C6-applications-governance | `reports/daily/2026/10/2026-10-06/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C7-china-global | `reports/daily/2026/10/2026-10-06/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-06 | C8-synthesis | `reports/daily/2026/10/2026-10-06/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-07 | Daily owner | `reports/daily/2026/10/2026-10-07.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C1-history-policy | `reports/daily/2026/10/2026-10-07/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C2-standards-protocols | `reports/daily/2026/10/2026-10-07/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C3-research-models | `reports/daily/2026/10/2026-10-07/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C4-agents-open-source | `reports/daily/2026/10/2026-10-07/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-07/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C6-applications-governance | `reports/daily/2026/10/2026-10-07/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C7-china-global | `reports/daily/2026/10/2026-10-07/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-07 | C8-synthesis | `reports/daily/2026/10/2026-10-07/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-08 | Daily owner | `reports/daily/2026/10/2026-10-08.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C1-history-policy | `reports/daily/2026/10/2026-10-08/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C2-standards-protocols | `reports/daily/2026/10/2026-10-08/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C3-research-models | `reports/daily/2026/10/2026-10-08/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C4-agents-open-source | `reports/daily/2026/10/2026-10-08/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-08/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C6-applications-governance | `reports/daily/2026/10/2026-10-08/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C7-china-global | `reports/daily/2026/10/2026-10-08/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-08 | C8-synthesis | `reports/daily/2026/10/2026-10-08/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-09 | Daily owner | `reports/daily/2026/10/2026-10-09.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C1-history-policy | `reports/daily/2026/10/2026-10-09/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C2-standards-protocols | `reports/daily/2026/10/2026-10-09/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C3-research-models | `reports/daily/2026/10/2026-10-09/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C4-agents-open-source | `reports/daily/2026/10/2026-10-09/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-09/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C6-applications-governance | `reports/daily/2026/10/2026-10-09/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C7-china-global | `reports/daily/2026/10/2026-10-09/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-09 | C8-synthesis | `reports/daily/2026/10/2026-10-09/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-10 | Daily owner | `reports/daily/2026/10/2026-10-10.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C1-history-policy | `reports/daily/2026/10/2026-10-10/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C2-standards-protocols | `reports/daily/2026/10/2026-10-10/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C3-research-models | `reports/daily/2026/10/2026-10-10/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C4-agents-open-source | `reports/daily/2026/10/2026-10-10/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-10/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C6-applications-governance | `reports/daily/2026/10/2026-10-10/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C7-china-global | `reports/daily/2026/10/2026-10-10/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-10 | C8-synthesis | `reports/daily/2026/10/2026-10-10/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-11 | Daily owner | `reports/daily/2026/10/2026-10-11.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C1-history-policy | `reports/daily/2026/10/2026-10-11/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C2-standards-protocols | `reports/daily/2026/10/2026-10-11/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C3-research-models | `reports/daily/2026/10/2026-10-11/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C4-agents-open-source | `reports/daily/2026/10/2026-10-11/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-11/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C6-applications-governance | `reports/daily/2026/10/2026-10-11/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C7-china-global | `reports/daily/2026/10/2026-10-11/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-11 | C8-synthesis | `reports/daily/2026/10/2026-10-11/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-12 | Daily owner | `reports/daily/2026/10/2026-10-12.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C1-history-policy | `reports/daily/2026/10/2026-10-12/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C2-standards-protocols | `reports/daily/2026/10/2026-10-12/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C3-research-models | `reports/daily/2026/10/2026-10-12/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C4-agents-open-source | `reports/daily/2026/10/2026-10-12/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-12/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C6-applications-governance | `reports/daily/2026/10/2026-10-12/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C7-china-global | `reports/daily/2026/10/2026-10-12/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-12 | C8-synthesis | `reports/daily/2026/10/2026-10-12/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-13 | Daily owner | `reports/daily/2026/10/2026-10-13.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C1-history-policy | `reports/daily/2026/10/2026-10-13/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C2-standards-protocols | `reports/daily/2026/10/2026-10-13/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C3-research-models | `reports/daily/2026/10/2026-10-13/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C4-agents-open-source | `reports/daily/2026/10/2026-10-13/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-13/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C6-applications-governance | `reports/daily/2026/10/2026-10-13/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C7-china-global | `reports/daily/2026/10/2026-10-13/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-13 | C8-synthesis | `reports/daily/2026/10/2026-10-13/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-14 | Daily owner | `reports/daily/2026/10/2026-10-14.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C1-history-policy | `reports/daily/2026/10/2026-10-14/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C2-standards-protocols | `reports/daily/2026/10/2026-10-14/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C3-research-models | `reports/daily/2026/10/2026-10-14/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C4-agents-open-source | `reports/daily/2026/10/2026-10-14/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-14/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C6-applications-governance | `reports/daily/2026/10/2026-10-14/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C7-china-global | `reports/daily/2026/10/2026-10-14/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-14 | C8-synthesis | `reports/daily/2026/10/2026-10-14/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-15 | Daily owner | `reports/daily/2026/10/2026-10-15.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C1-history-policy | `reports/daily/2026/10/2026-10-15/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C2-standards-protocols | `reports/daily/2026/10/2026-10-15/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C3-research-models | `reports/daily/2026/10/2026-10-15/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C4-agents-open-source | `reports/daily/2026/10/2026-10-15/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-15/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C6-applications-governance | `reports/daily/2026/10/2026-10-15/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C7-china-global | `reports/daily/2026/10/2026-10-15/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-15 | C8-synthesis | `reports/daily/2026/10/2026-10-15/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-16 | Daily owner | `reports/daily/2026/10/2026-10-16.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C1-history-policy | `reports/daily/2026/10/2026-10-16/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C2-standards-protocols | `reports/daily/2026/10/2026-10-16/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C3-research-models | `reports/daily/2026/10/2026-10-16/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C4-agents-open-source | `reports/daily/2026/10/2026-10-16/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-16/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C6-applications-governance | `reports/daily/2026/10/2026-10-16/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C7-china-global | `reports/daily/2026/10/2026-10-16/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-16 | C8-synthesis | `reports/daily/2026/10/2026-10-16/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-17 | Daily owner | `reports/daily/2026/10/2026-10-17.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C1-history-policy | `reports/daily/2026/10/2026-10-17/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C2-standards-protocols | `reports/daily/2026/10/2026-10-17/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C3-research-models | `reports/daily/2026/10/2026-10-17/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C4-agents-open-source | `reports/daily/2026/10/2026-10-17/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-17/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C6-applications-governance | `reports/daily/2026/10/2026-10-17/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C7-china-global | `reports/daily/2026/10/2026-10-17/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-17 | C8-synthesis | `reports/daily/2026/10/2026-10-17/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-18 | Daily owner | `reports/daily/2026/10/2026-10-18.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C1-history-policy | `reports/daily/2026/10/2026-10-18/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C2-standards-protocols | `reports/daily/2026/10/2026-10-18/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C3-research-models | `reports/daily/2026/10/2026-10-18/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C4-agents-open-source | `reports/daily/2026/10/2026-10-18/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-18/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C6-applications-governance | `reports/daily/2026/10/2026-10-18/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C7-china-global | `reports/daily/2026/10/2026-10-18/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-18 | C8-synthesis | `reports/daily/2026/10/2026-10-18/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-19 | Daily owner | `reports/daily/2026/10/2026-10-19.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C1-history-policy | `reports/daily/2026/10/2026-10-19/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C2-standards-protocols | `reports/daily/2026/10/2026-10-19/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C3-research-models | `reports/daily/2026/10/2026-10-19/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C4-agents-open-source | `reports/daily/2026/10/2026-10-19/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-19/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C6-applications-governance | `reports/daily/2026/10/2026-10-19/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C7-china-global | `reports/daily/2026/10/2026-10-19/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-19 | C8-synthesis | `reports/daily/2026/10/2026-10-19/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-20 | Daily owner | `reports/daily/2026/10/2026-10-20.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C1-history-policy | `reports/daily/2026/10/2026-10-20/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C2-standards-protocols | `reports/daily/2026/10/2026-10-20/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C3-research-models | `reports/daily/2026/10/2026-10-20/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C4-agents-open-source | `reports/daily/2026/10/2026-10-20/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-20/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C6-applications-governance | `reports/daily/2026/10/2026-10-20/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C7-china-global | `reports/daily/2026/10/2026-10-20/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-20 | C8-synthesis | `reports/daily/2026/10/2026-10-20/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-21 | Daily owner | `reports/daily/2026/10/2026-10-21.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C1-history-policy | `reports/daily/2026/10/2026-10-21/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C2-standards-protocols | `reports/daily/2026/10/2026-10-21/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C3-research-models | `reports/daily/2026/10/2026-10-21/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C4-agents-open-source | `reports/daily/2026/10/2026-10-21/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-21/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C6-applications-governance | `reports/daily/2026/10/2026-10-21/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C7-china-global | `reports/daily/2026/10/2026-10-21/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-21 | C8-synthesis | `reports/daily/2026/10/2026-10-21/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-22 | Daily owner | `reports/daily/2026/10/2026-10-22.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C1-history-policy | `reports/daily/2026/10/2026-10-22/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C2-standards-protocols | `reports/daily/2026/10/2026-10-22/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C3-research-models | `reports/daily/2026/10/2026-10-22/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C4-agents-open-source | `reports/daily/2026/10/2026-10-22/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-22/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C6-applications-governance | `reports/daily/2026/10/2026-10-22/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C7-china-global | `reports/daily/2026/10/2026-10-22/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-22 | C8-synthesis | `reports/daily/2026/10/2026-10-22/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-23 | Daily owner | `reports/daily/2026/10/2026-10-23.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C1-history-policy | `reports/daily/2026/10/2026-10-23/C1-history-policy.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C2-standards-protocols | `reports/daily/2026/10/2026-10-23/C2-standards-protocols.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C3-research-models | `reports/daily/2026/10/2026-10-23/C3-research-models.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C4-agents-open-source | `reports/daily/2026/10/2026-10-23/C4-agents-open-source.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-23/C5-infrastructure-industry.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C6-applications-governance | `reports/daily/2026/10/2026-10-23/C6-applications-governance.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C7-china-global | `reports/daily/2026/10/2026-10-23/C7-china-global.md` | A1_INHERITED_RELATION
+- 2026-10-23 | C8-synthesis | `reports/daily/2026/10/2026-10-23/C8-synthesis.md` | A1_INHERITED_RELATION
+- 2026-10-24 | Daily owner | `reports/daily/2026/10/2026-10-24.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C1-history-policy | `reports/daily/2026/10/2026-10-24/C1-history-policy.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C2-standards-protocols | `reports/daily/2026/10/2026-10-24/C2-standards-protocols.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C3-research-models | `reports/daily/2026/10/2026-10-24/C3-research-models.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C4-agents-open-source | `reports/daily/2026/10/2026-10-24/C4-agents-open-source.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-24/C5-infrastructure-industry.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C6-applications-governance | `reports/daily/2026/10/2026-10-24/C6-applications-governance.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C7-china-global | `reports/daily/2026/10/2026-10-24/C7-china-global.md` | N_DAY_NATIVE_ADMITTED
+- 2026-10-24 | C8-synthesis | `reports/daily/2026/10/2026-10-24/C8-synthesis.md` | N_DAY_NATIVE_ADMITTED
+
+## 2026-10-24 N-day evidence delta
+
+- PR #182 merged the bounded 2026-10-24 China native Daily
+- The N-day delivery includes the Daily owner, C1-C8 component records, Daily index, W43 owner and October Monthly owner updates
+- The native title explicitly keeps W43 and October OPEN
+- A current displayed status does not establish the transition date into that status
+- No separate Special artifact is admitted without an explicit qualifying native Special deliverable
+- No implementation or conformance claim is inferred from policy/standard/source publication alone
+
+## Repository-specific interpretation boundary
+
+- Policy target != completed capability
+- Proposal != Standard
+- Standard != Adoption
+- approval != publication != effective date != implementation != conformance
+- CURRENT_DISPLAY != TRANSITION_DATE
+- same-issuer recheck != independent evidence
+- maturity transition requires transition evidence
+
+## Weekly / Monthly / Special / Open Research relation
+
+- W40 historical relation preserved
+- W41 historical relation preserved
+- W42 historical relation preserved
+- W43 remains current/open unless native settlement evidence says otherwise
+- October Monthly remains OPEN
+- Special work remains trigger-only
+- Stage work remains state-triggered
+- Open Research is checked for drift but is not native authority
+- Publication != validation
+- Citation != reproduction
+- External classifier != repository identity
+- No earlier Daily/Stage body is rewritten by this A2
+- No closed-unmerged history is promoted to success
+- No final month seal is created
+
+## Validation checklist
+
+- [x] Exact post-A1 main recorded
+- [x] Merged A1 file present on base
+- [x] MonthStart -> N relation compiled
+- [x] N-day facts admitted only when actually observed
+- [x] Historical negative states preserved
+- [x] No fake native unit created
+- [x] No fake Stage/Special created
+- [x] No independent-source inflation
+- [x] No runtime/conformance inference from document presence
+- [x] October remains OPEN
+- [x] Only this dated A2 relation file is changed
+- [x] Final fresh refresh required after merge
+
+## Result
+
+`A2_MONTH_VERSION_2026-10 / N_DAY_ADMITTED_AS_OBSERVED / HISTORY_PRESERVED / MONTH_OPEN / READY_FOR_A2_MERGE`
