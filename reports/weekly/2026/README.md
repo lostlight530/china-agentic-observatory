@@ -16,7 +16,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; H41 settlement remains canonical in 2026-W41.md; historical OPEN index snapshots below remain point-in-time. |
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | 6/7 native Dailies 13–18 Oct, 12 Oct gap preserved, H42-1~3 OPEN / CARRY_FORWARD, settlement 2026-10-18 04:58:58 CST |
-| W43 | 19–25 Oct | OPEN / 6 of 7 | H43-1~3 OPEN / UNCHANGED，19–24 Oct native Dailies，25 NOT_DUE as of 2026-10-24 05:00:32 Asia/Shanghai，bounded five-object coverage，no verified transition |
+| W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native C1–C8 Dailies，H43-1~3 OPEN / UNCHANGED，2026-10-25 05:03:18 Asia/Shanghai Sunday settlement，no verified exact-object transition |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
