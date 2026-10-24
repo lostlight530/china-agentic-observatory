@@ -5,7 +5,6 @@
 - logical_date: 2026-10-25 Asia/Shanghai
 - observation_cutoff: 2026-10-25 05:03:18 Asia/Shanghai
 - research_base_main: d8a6cf3fcdb7b06adbacdfbf11636703e8d346b7
-- record_class: NATIVE_DAILY_RESEARCH
 - evidence_scope: 四项 SAMR 精确登记或计划对象与 ITU-T F.748.93，其他中国 AI 事件 NOT_ASSESSED
 - source_retrieval: 本轮检索公开发行方页面，部分页面由检索系统标记今日或昨日抓取，不代表独立实时状态 API
 - state_transition_date: UNVERIFIED
