@@ -1,0 +1,290 @@
+# A1 | china-agentic-observatory | October 01–23 full-coverage custody
+
+- Repository: `lostlight530/china-agentic-observatory`
+- Fresh current main at A1 start: `669528cb45dfe97026c6ce9a9f7c7b118da6ce17`
+- Logical maintenance date: `2026-10-24`
+- A1 cutoff: `2026-10-01 -> 2026-10-23`
+- N-day boundary: `2026-10-24`
+- Current main may contain N-day native/non-Stage facts; A1 does not consume them
+- Prior 2026-10-23 A2 relation remains the inherited current-month relation for the cutoff
+- Correct native/Stage/observation artifacts remain unchanged; this pass records coverage and decisions
+- Historical task-time state is preserved; later delivery does not create earlier availability
+
+## Evidence discipline
+
+- Repository truth is read from current merged main
+- History != Current State
+- Current Path != Historical Execution
+- Later Success != Earlier Success
+- Later Delivery != Earlier Availability
+- Execution != Correctness
+- File Presence != Observation Validity
+- Repetition != Independence
+- Unknown remains Unknown
+- No research, runtime, Stage, Special, Weekly, Monthly, or conformance credit is manufactured by this A1
+
+## MonthStart -> N-1 native observation coverage ledger
+
+- 2026-10-01 | Daily owner | `reports/daily/2026/10/2026-10-01.md` | REVIEWED / preserve task-time observation
+- 2026-10-01 | C1-history-policy | `reports/daily/2026/10/2026-10-01/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C2-standards-protocols | `reports/daily/2026/10/2026-10-01/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C3-research-models | `reports/daily/2026/10/2026-10-01/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C4-agents-open-source | `reports/daily/2026/10/2026-10-01/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-01/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C6-applications-governance | `reports/daily/2026/10/2026-10-01/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C7-china-global | `reports/daily/2026/10/2026-10-01/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-01 | C8-synthesis | `reports/daily/2026/10/2026-10-01/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | Daily owner | `reports/daily/2026/10/2026-10-02.md` | REVIEWED / preserve task-time observation
+- 2026-10-02 | C1-history-policy | `reports/daily/2026/10/2026-10-02/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C2-standards-protocols | `reports/daily/2026/10/2026-10-02/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C3-research-models | `reports/daily/2026/10/2026-10-02/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C4-agents-open-source | `reports/daily/2026/10/2026-10-02/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-02/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C6-applications-governance | `reports/daily/2026/10/2026-10-02/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C7-china-global | `reports/daily/2026/10/2026-10-02/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-02 | C8-synthesis | `reports/daily/2026/10/2026-10-02/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | Daily owner | `reports/daily/2026/10/2026-10-03.md` | REVIEWED / preserve task-time observation
+- 2026-10-03 | C1-history-policy | `reports/daily/2026/10/2026-10-03/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C2-standards-protocols | `reports/daily/2026/10/2026-10-03/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C3-research-models | `reports/daily/2026/10/2026-10-03/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C4-agents-open-source | `reports/daily/2026/10/2026-10-03/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-03/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C6-applications-governance | `reports/daily/2026/10/2026-10-03/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C7-china-global | `reports/daily/2026/10/2026-10-03/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-03 | C8-synthesis | `reports/daily/2026/10/2026-10-03/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | Daily owner | `reports/daily/2026/10/2026-10-04.md` | REVIEWED / preserve task-time observation
+- 2026-10-04 | C1-history-policy | `reports/daily/2026/10/2026-10-04/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C2-standards-protocols | `reports/daily/2026/10/2026-10-04/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C3-research-models | `reports/daily/2026/10/2026-10-04/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C4-agents-open-source | `reports/daily/2026/10/2026-10-04/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-04/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C6-applications-governance | `reports/daily/2026/10/2026-10-04/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C7-china-global | `reports/daily/2026/10/2026-10-04/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-04 | C8-synthesis | `reports/daily/2026/10/2026-10-04/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | Daily owner | `reports/daily/2026/10/2026-10-05.md` | REVIEWED / preserve task-time observation
+- 2026-10-05 | C1-history-policy | `reports/daily/2026/10/2026-10-05/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C2-standards-protocols | `reports/daily/2026/10/2026-10-05/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C3-research-models | `reports/daily/2026/10/2026-10-05/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C4-agents-open-source | `reports/daily/2026/10/2026-10-05/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-05/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C6-applications-governance | `reports/daily/2026/10/2026-10-05/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C7-china-global | `reports/daily/2026/10/2026-10-05/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-05 | C8-synthesis | `reports/daily/2026/10/2026-10-05/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | Daily owner | `reports/daily/2026/10/2026-10-06.md` | REVIEWED / preserve task-time observation
+- 2026-10-06 | C1-history-policy | `reports/daily/2026/10/2026-10-06/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C2-standards-protocols | `reports/daily/2026/10/2026-10-06/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C3-research-models | `reports/daily/2026/10/2026-10-06/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C4-agents-open-source | `reports/daily/2026/10/2026-10-06/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-06/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C6-applications-governance | `reports/daily/2026/10/2026-10-06/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C7-china-global | `reports/daily/2026/10/2026-10-06/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-06 | C8-synthesis | `reports/daily/2026/10/2026-10-06/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | Daily owner | `reports/daily/2026/10/2026-10-07.md` | REVIEWED / preserve task-time observation
+- 2026-10-07 | C1-history-policy | `reports/daily/2026/10/2026-10-07/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C2-standards-protocols | `reports/daily/2026/10/2026-10-07/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C3-research-models | `reports/daily/2026/10/2026-10-07/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C4-agents-open-source | `reports/daily/2026/10/2026-10-07/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-07/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C6-applications-governance | `reports/daily/2026/10/2026-10-07/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C7-china-global | `reports/daily/2026/10/2026-10-07/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-07 | C8-synthesis | `reports/daily/2026/10/2026-10-07/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | Daily owner | `reports/daily/2026/10/2026-10-08.md` | REVIEWED / preserve task-time observation
+- 2026-10-08 | C1-history-policy | `reports/daily/2026/10/2026-10-08/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C2-standards-protocols | `reports/daily/2026/10/2026-10-08/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C3-research-models | `reports/daily/2026/10/2026-10-08/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C4-agents-open-source | `reports/daily/2026/10/2026-10-08/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-08/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C6-applications-governance | `reports/daily/2026/10/2026-10-08/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C7-china-global | `reports/daily/2026/10/2026-10-08/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-08 | C8-synthesis | `reports/daily/2026/10/2026-10-08/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | Daily owner | `reports/daily/2026/10/2026-10-09.md` | REVIEWED / preserve task-time observation
+- 2026-10-09 | C1-history-policy | `reports/daily/2026/10/2026-10-09/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C2-standards-protocols | `reports/daily/2026/10/2026-10-09/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C3-research-models | `reports/daily/2026/10/2026-10-09/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C4-agents-open-source | `reports/daily/2026/10/2026-10-09/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-09/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C6-applications-governance | `reports/daily/2026/10/2026-10-09/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C7-china-global | `reports/daily/2026/10/2026-10-09/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-09 | C8-synthesis | `reports/daily/2026/10/2026-10-09/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | Daily owner | `reports/daily/2026/10/2026-10-10.md` | REVIEWED / preserve task-time observation
+- 2026-10-10 | C1-history-policy | `reports/daily/2026/10/2026-10-10/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C2-standards-protocols | `reports/daily/2026/10/2026-10-10/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C3-research-models | `reports/daily/2026/10/2026-10-10/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C4-agents-open-source | `reports/daily/2026/10/2026-10-10/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-10/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C6-applications-governance | `reports/daily/2026/10/2026-10-10/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C7-china-global | `reports/daily/2026/10/2026-10-10/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-10 | C8-synthesis | `reports/daily/2026/10/2026-10-10/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | Daily owner | `reports/daily/2026/10/2026-10-11.md` | REVIEWED / preserve task-time observation
+- 2026-10-11 | C1-history-policy | `reports/daily/2026/10/2026-10-11/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C2-standards-protocols | `reports/daily/2026/10/2026-10-11/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C3-research-models | `reports/daily/2026/10/2026-10-11/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C4-agents-open-source | `reports/daily/2026/10/2026-10-11/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-11/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C6-applications-governance | `reports/daily/2026/10/2026-10-11/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C7-china-global | `reports/daily/2026/10/2026-10-11/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-11 | C8-synthesis | `reports/daily/2026/10/2026-10-11/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | Daily owner | `reports/daily/2026/10/2026-10-12.md` | REVIEWED / preserve task-time observation
+- 2026-10-12 | C1-history-policy | `reports/daily/2026/10/2026-10-12/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C2-standards-protocols | `reports/daily/2026/10/2026-10-12/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C3-research-models | `reports/daily/2026/10/2026-10-12/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C4-agents-open-source | `reports/daily/2026/10/2026-10-12/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-12/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C6-applications-governance | `reports/daily/2026/10/2026-10-12/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C7-china-global | `reports/daily/2026/10/2026-10-12/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-12 | C8-synthesis | `reports/daily/2026/10/2026-10-12/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | Daily owner | `reports/daily/2026/10/2026-10-13.md` | REVIEWED / preserve task-time observation
+- 2026-10-13 | C1-history-policy | `reports/daily/2026/10/2026-10-13/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C2-standards-protocols | `reports/daily/2026/10/2026-10-13/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C3-research-models | `reports/daily/2026/10/2026-10-13/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C4-agents-open-source | `reports/daily/2026/10/2026-10-13/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-13/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C6-applications-governance | `reports/daily/2026/10/2026-10-13/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C7-china-global | `reports/daily/2026/10/2026-10-13/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-13 | C8-synthesis | `reports/daily/2026/10/2026-10-13/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | Daily owner | `reports/daily/2026/10/2026-10-14.md` | REVIEWED / preserve task-time observation
+- 2026-10-14 | C1-history-policy | `reports/daily/2026/10/2026-10-14/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C2-standards-protocols | `reports/daily/2026/10/2026-10-14/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C3-research-models | `reports/daily/2026/10/2026-10-14/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C4-agents-open-source | `reports/daily/2026/10/2026-10-14/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-14/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C6-applications-governance | `reports/daily/2026/10/2026-10-14/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C7-china-global | `reports/daily/2026/10/2026-10-14/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-14 | C8-synthesis | `reports/daily/2026/10/2026-10-14/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | Daily owner | `reports/daily/2026/10/2026-10-15.md` | REVIEWED / preserve task-time observation
+- 2026-10-15 | C1-history-policy | `reports/daily/2026/10/2026-10-15/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C2-standards-protocols | `reports/daily/2026/10/2026-10-15/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C3-research-models | `reports/daily/2026/10/2026-10-15/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C4-agents-open-source | `reports/daily/2026/10/2026-10-15/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-15/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C6-applications-governance | `reports/daily/2026/10/2026-10-15/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C7-china-global | `reports/daily/2026/10/2026-10-15/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-15 | C8-synthesis | `reports/daily/2026/10/2026-10-15/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | Daily owner | `reports/daily/2026/10/2026-10-16.md` | REVIEWED / preserve task-time observation
+- 2026-10-16 | C1-history-policy | `reports/daily/2026/10/2026-10-16/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C2-standards-protocols | `reports/daily/2026/10/2026-10-16/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C3-research-models | `reports/daily/2026/10/2026-10-16/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C4-agents-open-source | `reports/daily/2026/10/2026-10-16/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-16/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C6-applications-governance | `reports/daily/2026/10/2026-10-16/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C7-china-global | `reports/daily/2026/10/2026-10-16/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-16 | C8-synthesis | `reports/daily/2026/10/2026-10-16/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | Daily owner | `reports/daily/2026/10/2026-10-17.md` | REVIEWED / preserve task-time observation
+- 2026-10-17 | C1-history-policy | `reports/daily/2026/10/2026-10-17/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C2-standards-protocols | `reports/daily/2026/10/2026-10-17/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C3-research-models | `reports/daily/2026/10/2026-10-17/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C4-agents-open-source | `reports/daily/2026/10/2026-10-17/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-17/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C6-applications-governance | `reports/daily/2026/10/2026-10-17/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C7-china-global | `reports/daily/2026/10/2026-10-17/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-17 | C8-synthesis | `reports/daily/2026/10/2026-10-17/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | Daily owner | `reports/daily/2026/10/2026-10-18.md` | REVIEWED / preserve task-time observation
+- 2026-10-18 | C1-history-policy | `reports/daily/2026/10/2026-10-18/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C2-standards-protocols | `reports/daily/2026/10/2026-10-18/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C3-research-models | `reports/daily/2026/10/2026-10-18/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C4-agents-open-source | `reports/daily/2026/10/2026-10-18/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-18/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C6-applications-governance | `reports/daily/2026/10/2026-10-18/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C7-china-global | `reports/daily/2026/10/2026-10-18/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-18 | C8-synthesis | `reports/daily/2026/10/2026-10-18/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | Daily owner | `reports/daily/2026/10/2026-10-19.md` | REVIEWED / preserve task-time observation
+- 2026-10-19 | C1-history-policy | `reports/daily/2026/10/2026-10-19/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C2-standards-protocols | `reports/daily/2026/10/2026-10-19/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C3-research-models | `reports/daily/2026/10/2026-10-19/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C4-agents-open-source | `reports/daily/2026/10/2026-10-19/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-19/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C6-applications-governance | `reports/daily/2026/10/2026-10-19/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C7-china-global | `reports/daily/2026/10/2026-10-19/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-19 | C8-synthesis | `reports/daily/2026/10/2026-10-19/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | Daily owner | `reports/daily/2026/10/2026-10-20.md` | REVIEWED / preserve task-time observation
+- 2026-10-20 | C1-history-policy | `reports/daily/2026/10/2026-10-20/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C2-standards-protocols | `reports/daily/2026/10/2026-10-20/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C3-research-models | `reports/daily/2026/10/2026-10-20/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C4-agents-open-source | `reports/daily/2026/10/2026-10-20/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-20/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C6-applications-governance | `reports/daily/2026/10/2026-10-20/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C7-china-global | `reports/daily/2026/10/2026-10-20/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-20 | C8-synthesis | `reports/daily/2026/10/2026-10-20/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | Daily owner | `reports/daily/2026/10/2026-10-21.md` | REVIEWED / preserve task-time observation
+- 2026-10-21 | C1-history-policy | `reports/daily/2026/10/2026-10-21/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C2-standards-protocols | `reports/daily/2026/10/2026-10-21/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C3-research-models | `reports/daily/2026/10/2026-10-21/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C4-agents-open-source | `reports/daily/2026/10/2026-10-21/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-21/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C6-applications-governance | `reports/daily/2026/10/2026-10-21/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C7-china-global | `reports/daily/2026/10/2026-10-21/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-21 | C8-synthesis | `reports/daily/2026/10/2026-10-21/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | Daily owner | `reports/daily/2026/10/2026-10-22.md` | REVIEWED / preserve task-time observation
+- 2026-10-22 | C1-history-policy | `reports/daily/2026/10/2026-10-22/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C2-standards-protocols | `reports/daily/2026/10/2026-10-22/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C3-research-models | `reports/daily/2026/10/2026-10-22/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C4-agents-open-source | `reports/daily/2026/10/2026-10-22/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-22/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C6-applications-governance | `reports/daily/2026/10/2026-10-22/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C7-china-global | `reports/daily/2026/10/2026-10-22/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-22 | C8-synthesis | `reports/daily/2026/10/2026-10-22/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | Daily owner | `reports/daily/2026/10/2026-10-23.md` | REVIEWED / preserve task-time observation
+- 2026-10-23 | C1-history-policy | `reports/daily/2026/10/2026-10-23/C1-history-policy.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C2-standards-protocols | `reports/daily/2026/10/2026-10-23/C2-standards-protocols.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C3-research-models | `reports/daily/2026/10/2026-10-23/C3-research-models.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C4-agents-open-source | `reports/daily/2026/10/2026-10-23/C4-agents-open-source.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C5-infrastructure-industry | `reports/daily/2026/10/2026-10-23/C5-infrastructure-industry.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C6-applications-governance | `reports/daily/2026/10/2026-10-23/C6-applications-governance.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C7-china-global | `reports/daily/2026/10/2026-10-23/C7-china-global.md` | REVIEWED / preserve bounded native component evidence
+- 2026-10-23 | C8-synthesis | `reports/daily/2026/10/2026-10-23/C8-synthesis.md` | REVIEWED / preserve bounded native component evidence
+
+## Cross-period owner and due-state review
+
+- 2026-W40 relation preserved as historical weekly evidence
+- 2026-W41 relation preserved as historical weekly evidence
+- 2026-W42 relation preserved as historical weekly evidence
+- 2026-W43 is evaluated only through the 2026-10-23 cutoff and remains open until its native settlement condition is met
+- October Monthly remains OPEN before natural-month closure
+- Special work is triggered only by a qualifying material event
+- Post-hoc Special reconciliation remains distinct from original Daily observation
+- Open Research / publication metadata remains downstream of native repository truth
+- No final natural-month seal is created by A1
+- No Periodic Audit credit is created by A1
+
+## Repository-specific scientific boundary
+
+- Policy target != completed capability
+- Proposal != Standard
+- Standard != Adoption
+- approval != publication != effective date != implementation != conformance
+- CURRENT_DISPLAY != TRANSITION_DATE
+- same-issuer recheck does not create independent evidence
+- maturity promotion requires evidence of the relevant transition
+- Current main already contains the bounded 2026-10-24 C1-C8 native observation; it is visible as N-day boundary context and NOT_CONSUMED_BY_A1
+
+## A1 decision summary
+
+- Reviewed scope is complete for the repository-specific MonthStart -> N-1 denominator represented by the existing owner and prior A2 mapping
+- No correct historical artifact is mechanically rewritten
+- Existing corrections remain forward corrections; their predecessor wording stays in Git history
+- Closed-unmerged history, when present, remains provenance rather than success
+- Late delivery is related prospectively rather than backdated
+- No new independent source is credited from repeated use of one lineage
+- No external recertification is claimed by this maintenance pass
+- No full runtime/conformance reproduction is claimed by this maintenance pass
+- N-day facts are excluded from A1 consumption
+- Natural month remains OPEN
+
+## Validation checklist
+
+- [x] Fresh main SHA recorded
+- [x] Open PR overlap checked at preflight
+- [x] A1 cutoff enforced
+- [x] N-day boundary explicit
+- [x] Historical negative states preserved
+- [x] Correct source artifacts unchanged
+- [x] Derived maintenance record kept separate from native producer identity
+- [x] No fake execution
+- [x] No fake scientific validation
+- [x] No fake Stage / Special
+- [x] No fake month close
+- [x] Only this dated A1 custody file is changed
+
+## Result
+
+`A1_FULL_COVERAGE_REVIEWED / N_MINUS_1_CUTOFF_ENFORCED / HISTORY_PRESERVED / MONTH_OPEN / READY_FOR_A1_MERGE`
