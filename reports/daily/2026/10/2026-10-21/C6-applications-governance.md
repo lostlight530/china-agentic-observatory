@@ -5,7 +5,7 @@
 - logical_date: 2026-10-21 Asia/Shanghai
 - observed_at_cutoff: 2026-10-21 04:57:30 Asia/Shanghai
 - research_start_main: feab0d7c6f9a17bc89fc72d1c989893efc7bc7e0
-- record_class: NATIVE_DAILY_RESEARCH
+- record_class: NATIVE_DAILY_WORKSTREAM_COMPONENT
 - coverage: 5 个精确对象的官方当前展示，其他中国 AI 事件 NOT_ASSESSED
 - statement_class: OFFICIAL_FACT（官方当前页面） / OBSERVATORY_ANALYSIS（证据边界）
 - event_date != publication_date != effective_date != observed_at != state_transition_date
