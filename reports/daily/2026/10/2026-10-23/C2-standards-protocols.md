@@ -7,7 +7,6 @@
 - evidence_scope: 四项 SAMR 精确对象与 ITU-T F.748.93，其他中国 AI 事件 NOT_ASSESSED
 - statement_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS
 - state_transition_date: UNVERIFIED
-- record_class: NATIVE_DAILY_RESEARCH
 - external_runtime_TCK_CI_conformance: NOT_EXECUTED
 - predecessor_main_daily: 2026-10-21 C1–C8
 - predecessor_pending: PR #177 2026-10-22 Draft / NOT_MERGED
