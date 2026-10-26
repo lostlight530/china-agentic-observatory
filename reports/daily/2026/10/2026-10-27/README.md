@@ -1,0 +1,28 @@
+# China native C1–C8 pack — 2026-10-27
+
+- logical_date: 2026-10-27 Asia/Shanghai
+- observation_cutoff: 2026-10-27 04:58:34 Asia/Shanghai
+- observation_utc: 2026-10-26T20:58:34Z
+- research_base_main: 863017b89339c7a11c6a28ecdc2883390b91d66b
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: 4 SAMR exact-object pages + ITU-T F.748.93，其他中国 AI 事件 NOT_ASSESSED
+- statement_classes: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN
+- state_transition_date: UNVERIFIED
+- prior_native_main: reports/daily/2026/10/2026-10-26.md + C1–C8
+- W43: FINAL / CLOSED 7/7，H43-1~3 OPEN
+- W44: OPEN / 2 of 7 native dates，H44-1~3 OPEN / UNCHANGED
+- October: OPEN，拟议合并后 26 native dates 10-01..11 and 10-13..27，10-12 past-date native gap
+- future_dates: 2026-10-28..31 NOT_DUE
+- external_runtime_TCK_CI_conformance: NOT_EXECUTED
+- result: PARTIAL_BOUNDED_COVERAGE / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION
+- [Integrated Daily](../2026-10-27.md)
+- [历史、国家战略与政策](./C1-history-policy.md)
+- [标准、协议、身份与互联](./C2-standards-protocols.md)
+- [模型、算法、科研与评测](./C3-research-models.md)
+- [智能体、平台、开源与工程](./C4-agents-open-source.md)
+- [芯片、算力、数据与产业基础设施](./C5-infrastructure-industry.md)
+- [应用场景、安全治理与社会影响](./C6-applications-governance.md)
+- [中国与全球路线关系](./C7-china-global.md)
+- [跨任务综合与判断修正](./C8-synthesis.md)
+- 1 integrated + 8 workstreams + README = 10 files
+- W44 OPEN 2/7，H44-1~3 OPEN / UNCHANGED，October Monthly OPEN
