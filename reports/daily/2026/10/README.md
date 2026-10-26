@@ -32,7 +32,9 @@
 | 2026-10-25 | [2026-10-25.md](./2026-10-25.md) | [2026-10-25/](./2026-10-25/) | W43 FINAL / CLOSED / 7 of 7 / H43-1~3 OPEN |
 | 2026-10-26 | [2026-10-26.md](./2026-10-26.md) | [2026-10-26/](./2026-10-26/) | W44 OPEN 1/7 / PARTIAL BOUNDED / NO VERIFIED TRANSITION |
 
-Current October count at 2026-10-26 04:59:37 Asia/Shanghai: **25 proposed native Daily dates** (1–11, 13–26 October)，2026-10-12 past-date native gap，27–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 1/7，October Monthly OPEN
+| 2026-10-27 | [2026-10-27.md](./2026-10-27.md) | [2026-10-27/](./2026-10-27/) | W44 OPEN 2/7 / PARTIAL BOUNDED / NO VERIFIED TRANSITION |
+
+Current October count at 2026-10-27 04:58:34 Asia/Shanghai: **26 native Daily dates** (1–11, 13–27 October)，2026-10-12 past-date native gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN
 
 > October remains OPEN. At the early 2026-10-12 maintenance cut, the 2026-10-12 native Daily is not yet on merged main; this is NOT a missing day. 2026-10-13 → 2026-10-31 are future / NOT_DUE. W41 is FINAL / CLOSED; W42 is not opened before its Monday Daily. Repeated same-lineage current-display checks add observation coverage, not independent strengthening.
 
