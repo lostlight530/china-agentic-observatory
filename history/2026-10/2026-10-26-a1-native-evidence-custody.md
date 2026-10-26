@@ -1,0 +1,316 @@
+# A1 | china-agentic-observatory | 2026-10-26 N−1 original-source custody
+
+- Main: `7b36bb7596c86359a7dde91f09ae6e21df47080d`; prior merged Oct25 A2: `ca369067d83c8dfb40ea5182768a97f6ca9bd8d1`; previous owner blob: `449cd1ab0187682e6c8f364fd7cd5728dbe03291`.
+- Original native producer Web GPT; this file Independent GPT source-custody review only.
+- MonthStart=2026-10-01 through 2026-10-25; 2026-10-26 N-day files are excluded from A1 source promotion.
+- Tree objects=972; nontruncated=true; current N−1 source objects=250; expected 25 dates × 10 files=250; missing day/path slots=0.
+- Prior A2→current source changed paths: 14; Oct26 new Native content appears in that comparison but is OUT_OF_SCOPE_N−1.
+- Explicit historical October 12 original producer gap: BACKFILL_GAP_REGISTER, ORIGINAL_NATIVE_DAILY_CREDIT=0 despite 10 visible placeholders.
+- Real Native daily date credit through Oct25: 24/25 if all other 24 original records valid as previously established; this A1 did not replay publisher evidence.
+- W43 2026-10-19…25 weekly CLOSED 7/7 in prior native weekly report; open hypothesis status remains independent.
+- Current W44 (opening on Oct26) is excluded from A1; 2026-10 Monthly remains OPEN.
+- D7/D10/D14/D30 separate periodic audit tasks; current GitHub path visibility is not a new execution receipt.
+- Runtime, source recertification, paper review and author-claim replay NOT_EXECUTED by this maintainer.
+
+## Day-by-day original Native source custody: exact denominator versus credit
+- 2026-10-01 | 10/10 exact source path(s) | integrated blob `15a136cadd034ce205fd0522c66d79baedd107de` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-02 | 10/10 exact source path(s) | integrated blob `c0a3ce61954b1a0283a0e3d1fc29762c027d56b7` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-03 | 10/10 exact source path(s) | integrated blob `4b53d21fb6633fa229d3752fd3e6f3c70383c172` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-04 | 10/10 exact source path(s) | integrated blob `3603ae483595f44825651cfd6fd487ba4c16f4b5` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-05 | 10/10 exact source path(s) | integrated blob `febff2285c0daac0e71f2e5dffa8c3a2becab8e0` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-06 | 10/10 exact source path(s) | integrated blob `20f42daf9b56d66dfe7b47c603e3192d2632b5fa` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-07 | 10/10 exact source path(s) | integrated blob `5988989fc71cc0b89930dc295bb7ed6e70715253` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-08 | 10/10 exact source path(s) | integrated blob `99d52c35f1a78d5475aeee1bd1d000183a72668f` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-09 | 10/10 exact source path(s) | integrated blob `49467185a51be5065f3a876899b7166cbbf698d5` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-10 | 10/10 exact source path(s) | integrated blob `f9db93f214ef2aeef92db92dc1321bb2a6c32aac` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-11 | 10/10 exact source path(s) | integrated blob `73668258c43902d81019c7bdfd65c92fc43dcff8` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-12 | 10/10 exact source path(s) | integrated blob `205f8c1443945a5cdf29547e9e53ea121bf2a317` | BACKFILL_GAP_REGISTER; ORIGINAL_NATIVE_CREDIT_0
+- 2026-10-13 | 10/10 exact source path(s) | integrated blob `91f341a272bfccf7b5fcb29df2ab2ceefdc89767` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-14 | 10/10 exact source path(s) | integrated blob `a1230db534f5ec8e419f2e59027dae2ee2a26f54` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-15 | 10/10 exact source path(s) | integrated blob `f4f4540d0331004ea6ab6e24b813dd19cabef266` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-16 | 10/10 exact source path(s) | integrated blob `dd292e27db85f39b1cfcb8839d58e7fa4889a888` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-17 | 10/10 exact source path(s) | integrated blob `b327d0a654559e4c5f66f87c640f0033e8d04071` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-18 | 10/10 exact source path(s) | integrated blob `329423768dd6d9055d9a136769693ca12cc7c25d` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-19 | 10/10 exact source path(s) | integrated blob `bf50da5da780dbce5c196d9eedb6f3463db003f7` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-20 | 10/10 exact source path(s) | integrated blob `d4ef630477bcb150ab36c25e0a120dea81db4363` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-21 | 10/10 exact source path(s) | integrated blob `c127db89f84b9d88e09a439b242b9a278bba214d` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-22 | 10/10 exact source path(s) | integrated blob `11b9863b8ba3f9ac9230bb7288f8c486d4536dd1` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-23 | 10/10 exact source path(s) | integrated blob `d0ff057de2b961b8b4b94b4ac443d936b3450159` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-24 | 10/10 exact source path(s) | integrated blob `00770c5496fcc438a6177f6132bc7b3e8b62cffa` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+- 2026-10-25 | 10/10 exact source path(s) | integrated blob `4c19f1045c7995631b0afbbef76c0998daf71ec3` | NATIVE_RECORD_PATH_PRESENT; ORIGINAL_EXECUTION_NOT_REPLAYED
+
+## Exact native workstream/README/integrated objects (immutable Git blob identities, not truth)
+- 001 | `reports/daily/2026/10/2026-10-01.md` | blob `15a136cadd034ce205fd0522c66d79baedd107de` | 4111 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 002 | `reports/daily/2026/10/2026-10-01/C1-history-policy.md` | blob `1c691f0362a2b72ad121f948b93c602532385a4e` | 215 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 003 | `reports/daily/2026/10/2026-10-01/C2-standards-protocols.md` | blob `bcc854207d0bd0892a276fb0eb9b6e94335b2927` | 447 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 004 | `reports/daily/2026/10/2026-10-01/C3-research-models.md` | blob `96c5ed3aeae3d491f02f1c68a35167aad05ea9f7` | 183 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 005 | `reports/daily/2026/10/2026-10-01/C4-agents-open-source.md` | blob `ca5d62b4916d8c8d7762eddda5a1c67360d08d47` | 205 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 006 | `reports/daily/2026/10/2026-10-01/C5-infrastructure-industry.md` | blob `2c05bece0b90b51ac48561eee711e41505efeb46` | 206 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 007 | `reports/daily/2026/10/2026-10-01/C6-applications-governance.md` | blob `9380e08d627eeb54f4fcbf98dd53c6e8c3496b00` | 170 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 008 | `reports/daily/2026/10/2026-10-01/C7-china-global.md` | blob `c297e2de2635411abbb79058185e2dcac5ad872b` | 248 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 009 | `reports/daily/2026/10/2026-10-01/C8-synthesis.md` | blob `d170346b4e0bcccdfb03494b1c9a4c23bbf74553` | 321 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 010 | `reports/daily/2026/10/2026-10-01/README.md` | blob `77f2934d0ef95f22f9b41616be95d750fd8f0c8c` | 412 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 011 | `reports/daily/2026/10/2026-10-02.md` | blob `c0a3ce61954b1a0283a0e3d1fc29762c027d56b7` | 2753 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 012 | `reports/daily/2026/10/2026-10-02/C1-history-policy.md` | blob `d9932b211a48d820b0e78dbd1b23d9f4e1417e0f` | 286 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 013 | `reports/daily/2026/10/2026-10-02/C2-standards-protocols.md` | blob `f5a95b962a3aac3eddce4c5344d976b155285b89` | 503 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 014 | `reports/daily/2026/10/2026-10-02/C3-research-models.md` | blob `6aaecf79346f39a8e30e928b21c57a7f76b78bc6` | 255 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 015 | `reports/daily/2026/10/2026-10-02/C4-agents-open-source.md` | blob `c84cbb94f1c85efba3fa4c0d6207f5f9cfb233f4` | 219 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 016 | `reports/daily/2026/10/2026-10-02/C5-infrastructure-industry.md` | blob `47f9b856727f8086c29a7fd3486ea25554b7e42e` | 230 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 017 | `reports/daily/2026/10/2026-10-02/C6-applications-governance.md` | blob `ee294e9c13c7a719b9effa5babbce95dd05ec054` | 213 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 018 | `reports/daily/2026/10/2026-10-02/C7-china-global.md` | blob `59e72cac5abb11a198db23933e71a2856788a7a8` | 285 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 019 | `reports/daily/2026/10/2026-10-02/C8-synthesis.md` | blob `f44e81f5c782289bed3bc99e5eaf1c6adb666f98` | 345 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 020 | `reports/daily/2026/10/2026-10-02/README.md` | blob `f8258f25ea5b816aa67e7d6449d91d81f462f194` | 423 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 021 | `reports/daily/2026/10/2026-10-03.md` | blob `4b53d21fb6633fa229d3752fd3e6f3c70383c172` | 5413 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 022 | `reports/daily/2026/10/2026-10-03/C1-history-policy.md` | blob `00a674854178123bc63f5c1d48c67408358994a1` | 166 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 023 | `reports/daily/2026/10/2026-10-03/C2-standards-protocols.md` | blob `4773d76ec7a8c3196f3b2b2f12f5ff1dfd307a2a` | 297 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 024 | `reports/daily/2026/10/2026-10-03/C3-research-models.md` | blob `49a9d0a676bbb7a8d8bee90413edd19b40d284c9` | 174 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 025 | `reports/daily/2026/10/2026-10-03/C4-agents-open-source.md` | blob `50ddfd9d77cca091c9a4f739762d4e911f1fb3e2` | 164 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 026 | `reports/daily/2026/10/2026-10-03/C5-infrastructure-industry.md` | blob `23c5f70ab0863639c6ea56a91aa01a1ce78ddf34` | 186 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 027 | `reports/daily/2026/10/2026-10-03/C6-applications-governance.md` | blob `33d6ec8cabdfbaaefa190eb224d1b54320246b67` | 194 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 028 | `reports/daily/2026/10/2026-10-03/C7-china-global.md` | blob `8d4f6234308f98243eb8e1bb073ccf1660386517` | 176 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 029 | `reports/daily/2026/10/2026-10-03/C8-synthesis.md` | blob `f7b4c631e7ed1217232ed7426c8b9d200183bbe2` | 227 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 030 | `reports/daily/2026/10/2026-10-03/README.md` | blob `a0c86c367be1d7e63acd6eb8868e2613996bb438` | 512 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 031 | `reports/daily/2026/10/2026-10-04.md` | blob `3603ae483595f44825651cfd6fd487ba4c16f4b5` | 2987 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 032 | `reports/daily/2026/10/2026-10-04/C1-history-policy.md` | blob `8b9a4a849c74f6ebd6da600c959657d4528eefe2` | 186 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 033 | `reports/daily/2026/10/2026-10-04/C2-standards-protocols.md` | blob `f5839524f55ca008f9a68c30027a2f72551d9864` | 228 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 034 | `reports/daily/2026/10/2026-10-04/C3-research-models.md` | blob `7cbe1f2113f1decbc3aaecaf24c4ab1b99c268e2` | 157 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 035 | `reports/daily/2026/10/2026-10-04/C4-agents-open-source.md` | blob `d282331d8f2556726b4882b43fd4d6c4a8238937` | 148 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 036 | `reports/daily/2026/10/2026-10-04/C5-infrastructure-industry.md` | blob `790de3454d8498fe1bde1fe30ab1eaf2b237d1c9` | 162 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 037 | `reports/daily/2026/10/2026-10-04/C6-applications-governance.md` | blob `aeb65649551d511205212f68a360e999df38124c` | 179 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 038 | `reports/daily/2026/10/2026-10-04/C7-china-global.md` | blob `e15992e43c4d252c7093ad5602bcc2814e9024dc` | 176 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 039 | `reports/daily/2026/10/2026-10-04/C8-synthesis.md` | blob `4de94f4314bac2ee66cc2365f07d545c49d0aae7` | 202 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 040 | `reports/daily/2026/10/2026-10-04/README.md` | blob `5e0c4b479b0b328bdb8e5de8bbfd0ec396b8bb96` | 249 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 041 | `reports/daily/2026/10/2026-10-05.md` | blob `febff2285c0daac0e71f2e5dffa8c3a2becab8e0` | 6284 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 042 | `reports/daily/2026/10/2026-10-05/C1-history-policy.md` | blob `1278045ffcc2b544bd8a23f2c4764ec65e7bba14` | 222 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 043 | `reports/daily/2026/10/2026-10-05/C2-standards-protocols.md` | blob `42ee1e1cc5eb3cba03143e598b3faccf9e1bad6c` | 364 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 044 | `reports/daily/2026/10/2026-10-05/C3-research-models.md` | blob `1cd6bfc83acadec48ad0408354fea299c3c8129b` | 220 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 045 | `reports/daily/2026/10/2026-10-05/C4-agents-open-source.md` | blob `3010b826a563fb6368f2af57306b67923b4395e0` | 251 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 046 | `reports/daily/2026/10/2026-10-05/C5-infrastructure-industry.md` | blob `d349edcf900f340f3331b1bcba85512a6aa5a405` | 206 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 047 | `reports/daily/2026/10/2026-10-05/C6-applications-governance.md` | blob `80faf07fec73464c2b7ddf12d71a4d7871bd89e4` | 228 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 048 | `reports/daily/2026/10/2026-10-05/C7-china-global.md` | blob `33863442991be3f960a4014085902696139d2f3f` | 194 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 049 | `reports/daily/2026/10/2026-10-05/C8-synthesis.md` | blob `1fcd635fc1dc1306dd2aba702575a62fa14ebea1` | 259 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 050 | `reports/daily/2026/10/2026-10-05/README.md` | blob `9cac1b7526697e63feabe447749d581a11573c34` | 330 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 051 | `reports/daily/2026/10/2026-10-06.md` | blob `20f42daf9b56d66dfe7b47c603e3192d2632b5fa` | 4536 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 052 | `reports/daily/2026/10/2026-10-06/C1-history-policy.md` | blob `5320bdc000e87634be22c8512802add9acf01a99` | 211 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 053 | `reports/daily/2026/10/2026-10-06/C2-standards-protocols.md` | blob `bb97252e2a16644199bb13a6bb3da3ba44ff8f8d` | 265 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 054 | `reports/daily/2026/10/2026-10-06/C3-research-models.md` | blob `9b31e485cf1ca21f99c926da16a09d1875f6d9a8` | 190 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 055 | `reports/daily/2026/10/2026-10-06/C4-agents-open-source.md` | blob `075bd3cbaee4a918e5b6b9d99520bcbf1ae66b87` | 228 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 056 | `reports/daily/2026/10/2026-10-06/C5-infrastructure-industry.md` | blob `73bade9dedb0723645f052e997fdcfcdbbd843db` | 149 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 057 | `reports/daily/2026/10/2026-10-06/C6-applications-governance.md` | blob `5ed4996328769df0b5d1c03e0affefa2aa31210c` | 157 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 058 | `reports/daily/2026/10/2026-10-06/C7-china-global.md` | blob `e22c7db1ce530a59ab9abc2a2b153718fb0c7807` | 190 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 059 | `reports/daily/2026/10/2026-10-06/C8-synthesis.md` | blob `775736a74d5b2354af3403b08ced95e948f2eafb` | 222 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 060 | `reports/daily/2026/10/2026-10-06/README.md` | blob `6b06c0b47e9520cc699c4f750f7d0212dae60043` | 251 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 061 | `reports/daily/2026/10/2026-10-07.md` | blob `5988989fc71cc0b89930dc295bb7ed6e70715253` | 5035 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 062 | `reports/daily/2026/10/2026-10-07/C1-history-policy.md` | blob `1288834bac6afe7b93431fac8b610236afcbbc95` | 151 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 063 | `reports/daily/2026/10/2026-10-07/C2-standards-protocols.md` | blob `d5e19ef724d021191f766e851a19c3ab4c47b49a` | 316 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 064 | `reports/daily/2026/10/2026-10-07/C3-research-models.md` | blob `39e9fdd924811d8c97362936d09be48c050e5c6e` | 109 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 065 | `reports/daily/2026/10/2026-10-07/C4-agents-open-source.md` | blob `9770768a9f3263341aaa3005268252c76df38f2e` | 184 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 066 | `reports/daily/2026/10/2026-10-07/C5-infrastructure-industry.md` | blob `9c88f38f7ce492f96111567f2a3bcf929d0e5e1c` | 121 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 067 | `reports/daily/2026/10/2026-10-07/C6-applications-governance.md` | blob `31bf36598a519887ade4b847f9731d6172b2fd25` | 146 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 068 | `reports/daily/2026/10/2026-10-07/C7-china-global.md` | blob `25ea3a4c0e530b2f5cb6474ec424730f94f86adf` | 148 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 069 | `reports/daily/2026/10/2026-10-07/C8-synthesis.md` | blob `9f2089c8583b969cd18dcc7009810e2ebaacf0ff` | 188 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 070 | `reports/daily/2026/10/2026-10-07/README.md` | blob `e3667527916eaeaae0d5a5f832b7c8a5fd7666a9` | 239 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 071 | `reports/daily/2026/10/2026-10-08.md` | blob `99d52c35f1a78d5475aeee1bd1d000183a72668f` | 683 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 072 | `reports/daily/2026/10/2026-10-08/C1-history-policy.md` | blob `03866e44e3f01ed9f50badd29843857e359d41cc` | 120 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 073 | `reports/daily/2026/10/2026-10-08/C2-standards-protocols.md` | blob `2e1aae3a4b458e6cf0021a6b0252d6acf9dd0358` | 259 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 074 | `reports/daily/2026/10/2026-10-08/C3-research-models.md` | blob `20e03e341eda5cea183ac78dc37424729d7178f0` | 98 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 075 | `reports/daily/2026/10/2026-10-08/C4-agents-open-source.md` | blob `1558c116826b940b896fc6cc5b49edc0e4401b41` | 137 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 076 | `reports/daily/2026/10/2026-10-08/C5-infrastructure-industry.md` | blob `c653d48904a885e66872a0c885dbbf86d6b7399d` | 126 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 077 | `reports/daily/2026/10/2026-10-08/C6-applications-governance.md` | blob `9696c05c3b1fae4be96809175f59e7a57d2c05cd` | 125 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 078 | `reports/daily/2026/10/2026-10-08/C7-china-global.md` | blob `209e49f9c036cd12f008430c02090ce9c9ad5d28` | 109 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 079 | `reports/daily/2026/10/2026-10-08/C8-synthesis.md` | blob `486817fbc4485bbf007e16bf49fa2bc11a2ac5b8` | 60 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 080 | `reports/daily/2026/10/2026-10-08/README.md` | blob `4678f942aff7c596f90a94d2d21c3a1561067e09` | 239 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 081 | `reports/daily/2026/10/2026-10-09.md` | blob `49467185a51be5065f3a876899b7166cbbf698d5` | 5306 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 082 | `reports/daily/2026/10/2026-10-09/C1-history-policy.md` | blob `955df4d9d05fab366a5710d551da66d044f111bf` | 505 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 083 | `reports/daily/2026/10/2026-10-09/C2-standards-protocols.md` | blob `937404e3effca1f7895a9f61a544ece9d855b4e4` | 620 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 084 | `reports/daily/2026/10/2026-10-09/C3-research-models.md` | blob `cb454e4e4490c1145cc044e6bbcc31e09f79bbfe` | 507 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 085 | `reports/daily/2026/10/2026-10-09/C4-agents-open-source.md` | blob `206a958b2a12a630dbdda71d6429bcb0511094f6` | 523 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 086 | `reports/daily/2026/10/2026-10-09/C5-infrastructure-industry.md` | blob `393f26030634f82a75f0f1d64f389408de5d7fcf` | 483 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 087 | `reports/daily/2026/10/2026-10-09/C6-applications-governance.md` | blob `34258c2c40b22e188e11d8d5487aefc9478e32f0` | 529 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 088 | `reports/daily/2026/10/2026-10-09/C7-china-global.md` | blob `e767a19e3a86eeb3c4cb83124ca7b34e77662803` | 474 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 089 | `reports/daily/2026/10/2026-10-09/C8-synthesis.md` | blob `0fef06aea53ea8d0289f314ceb05bbba9cf7a86b` | 477 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 090 | `reports/daily/2026/10/2026-10-09/README.md` | blob `838d341a2f2595ef0d6c885e8e4b55e1358ad2d3` | 647 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 091 | `reports/daily/2026/10/2026-10-10.md` | blob `f9db93f214ef2aeef92db92dc1321bb2a6c32aac` | 4958 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 092 | `reports/daily/2026/10/2026-10-10/C1-history-policy.md` | blob `b279cc38955e3c4219594d575f718213e696ca41` | 551 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 093 | `reports/daily/2026/10/2026-10-10/C2-standards-protocols.md` | blob `a78fbdfed7ece85f551b3874008974b7eb5c1bea` | 748 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 094 | `reports/daily/2026/10/2026-10-10/C3-research-models.md` | blob `646878f77c42197c3ccbc3c43b14a47cbe472a57` | 500 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 095 | `reports/daily/2026/10/2026-10-10/C4-agents-open-source.md` | blob `2655080a21a85d12d9a01b52030868eaac8e4607` | 505 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 096 | `reports/daily/2026/10/2026-10-10/C5-infrastructure-industry.md` | blob `e900a892de1065030d502635ac35e1d49efb75d3` | 474 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 097 | `reports/daily/2026/10/2026-10-10/C6-applications-governance.md` | blob `9cb0aa4907e5c42990066739b547a71479ed3d80` | 560 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 098 | `reports/daily/2026/10/2026-10-10/C7-china-global.md` | blob `99e906c164885937f8c971482966e5cd8ab394af` | 534 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 099 | `reports/daily/2026/10/2026-10-10/C8-synthesis.md` | blob `29451d17c82c86da222681330b2c868205c55e3f` | 543 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 100 | `reports/daily/2026/10/2026-10-10/README.md` | blob `0fc714795aa3379f23fd76895de69d4ce9a8c86a` | 723 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 101 | `reports/daily/2026/10/2026-10-11.md` | blob `73668258c43902d81019c7bdfd65c92fc43dcff8` | 6422 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 102 | `reports/daily/2026/10/2026-10-11/C1-history-policy.md` | blob `e0fc2bc613abf4ccefe013ccdd3b747b0e4cd0c3` | 844 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 103 | `reports/daily/2026/10/2026-10-11/C2-standards-protocols.md` | blob `8e4be8d4ce0ed093473542f73b11818edc08311f` | 995 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 104 | `reports/daily/2026/10/2026-10-11/C3-research-models.md` | blob `644f28668a1ea0904a508f6dba3519f9e18a025c` | 832 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 105 | `reports/daily/2026/10/2026-10-11/C4-agents-open-source.md` | blob `0b183241b9f9dd88565cf654111517cb7464d1e4` | 814 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 106 | `reports/daily/2026/10/2026-10-11/C5-infrastructure-industry.md` | blob `7fb4e1b4bb5b5f363a603a62e0df92661eb524e1` | 798 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 107 | `reports/daily/2026/10/2026-10-11/C6-applications-governance.md` | blob `3fa3c03f91b60e6aac1f93d59c082ce75dcd54c9` | 808 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 108 | `reports/daily/2026/10/2026-10-11/C7-china-global.md` | blob `9605432a7a05df8316f806e648078426a2c4c61b` | 837 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 109 | `reports/daily/2026/10/2026-10-11/C8-synthesis.md` | blob `f226f70fc7ab653a4a783924c2d98eb27496ed10` | 883 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 110 | `reports/daily/2026/10/2026-10-11/README.md` | blob `c5f4d47769b040146dd12a9a3f9b207da04f25a9` | 998 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 111 | `reports/daily/2026/10/2026-10-12.md` | blob `205f8c1443945a5cdf29547e9e53ea121bf2a317` | 2758 B | INTEGRATED | GAP_PLACEHOLDER_0_CREDIT
+- 112 | `reports/daily/2026/10/2026-10-12/C1-history-policy.md` | blob `681775b6fb9ab5805bb86274bc4f77aa6e98e8aa` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 113 | `reports/daily/2026/10/2026-10-12/C2-standards-protocols.md` | blob `2042cbda1ebaf9ddc31e01c90658a3f9a4028296` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 114 | `reports/daily/2026/10/2026-10-12/C3-research-models.md` | blob `324e18cb8ad0eecba139450609b790df3e88ff02` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 115 | `reports/daily/2026/10/2026-10-12/C4-agents-open-source.md` | blob `8ce4d4693c5f425241cf86092392d75dc11dcd11` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 116 | `reports/daily/2026/10/2026-10-12/C5-infrastructure-industry.md` | blob `85dd29c8a0d152485245e54015a9e1cc17b1861f` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 117 | `reports/daily/2026/10/2026-10-12/C6-applications-governance.md` | blob `dda2cf75cc0927629279621fc43a79ed1e97da0f` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 118 | `reports/daily/2026/10/2026-10-12/C7-china-global.md` | blob `48aa79b6ecf17c3cec31a0cd5f8e4f5609cdd2ff` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 119 | `reports/daily/2026/10/2026-10-12/C8-synthesis.md` | blob `cf8f124a524dc4abb1115c03815e96e14ad93ba4` | 891 B | WORKSTREAM | GAP_PLACEHOLDER_0_CREDIT
+- 120 | `reports/daily/2026/10/2026-10-12/README.md` | blob `edb6107be70e86c7cfef8f232c5bd4060542946a` | 581 B | PACKAGE_BOUNDARY | GAP_PLACEHOLDER_0_CREDIT
+- 121 | `reports/daily/2026/10/2026-10-13.md` | blob `91f341a272bfccf7b5fcb29df2ab2ceefdc89767` | 6582 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 122 | `reports/daily/2026/10/2026-10-13/C1-history-policy.md` | blob `0039d00477e7becfc61f983b85dbb620ea4f22cd` | 1322 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 123 | `reports/daily/2026/10/2026-10-13/C2-standards-protocols.md` | blob `90ac4aee4555ac76d6d35552eb58feff07856fbd` | 1477 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 124 | `reports/daily/2026/10/2026-10-13/C3-research-models.md` | blob `35c438fc698c54814981e84dd08a06ea1c4d8d37` | 1329 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 125 | `reports/daily/2026/10/2026-10-13/C4-agents-open-source.md` | blob `db03fb8249e6ddc6b5176d30a0f916a217aa47ea` | 1360 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 126 | `reports/daily/2026/10/2026-10-13/C5-infrastructure-industry.md` | blob `1680b954e1c96ca7d5334556230c9c0fd2873baf` | 1311 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 127 | `reports/daily/2026/10/2026-10-13/C6-applications-governance.md` | blob `0751993bec8f135651627e4f569e6d60897c2f06` | 1297 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 128 | `reports/daily/2026/10/2026-10-13/C7-china-global.md` | blob `6487ef255117c99d989397568c7ae3afe5ec0f52` | 1301 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 129 | `reports/daily/2026/10/2026-10-13/C8-synthesis.md` | blob `354a58d0a8a458635105aed517f37b462a126411` | 1398 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 130 | `reports/daily/2026/10/2026-10-13/README.md` | blob `6f4d0a0f8934682fa376f6faa5edbd14e40a2a04` | 798 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 131 | `reports/daily/2026/10/2026-10-14.md` | blob `a1230db534f5ec8e419f2e59027dae2ee2a26f54` | 4947 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 132 | `reports/daily/2026/10/2026-10-14/C1-history-policy.md` | blob `e10656fbd259de1f16413e9d5bb9647efe315b42` | 1380 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 133 | `reports/daily/2026/10/2026-10-14/C2-standards-protocols.md` | blob `35f029f088fa13a6599fdc099908ea6814b681b4` | 1876 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 134 | `reports/daily/2026/10/2026-10-14/C3-research-models.md` | blob `5c3d8587f37b599ceff864400beea3b6f4079e80` | 1375 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 135 | `reports/daily/2026/10/2026-10-14/C4-agents-open-source.md` | blob `ae7530a1d613c313004b33880ed35dc6a101e597` | 1395 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 136 | `reports/daily/2026/10/2026-10-14/C5-infrastructure-industry.md` | blob `d6841a69cbeeb3fe7d2ece38c3a15741a75ffc18` | 1404 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 137 | `reports/daily/2026/10/2026-10-14/C6-applications-governance.md` | blob `2ca5628c271b965da805b2aec778dd4bb110654f` | 1374 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 138 | `reports/daily/2026/10/2026-10-14/C7-china-global.md` | blob `d5dca09408d4710e0f4343ca46894c8af5c8d60d` | 1381 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 139 | `reports/daily/2026/10/2026-10-14/C8-synthesis.md` | blob `381bbd0851f312f906484369136774177f5a1406` | 1716 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 140 | `reports/daily/2026/10/2026-10-14/README.md` | blob `5cb1e06713359716bc51034ed28514489d0cf6db` | 810 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 141 | `reports/daily/2026/10/2026-10-15.md` | blob `f4f4540d0331004ea6ab6e24b813dd19cabef266` | 5775 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 142 | `reports/daily/2026/10/2026-10-15/C1-history-policy.md` | blob `806c24ac09c706e90c92a0dcae3c46fe7384ea23` | 1875 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 143 | `reports/daily/2026/10/2026-10-15/C2-standards-protocols.md` | blob `cc6ec0006861736bcd5c58905bf0b6867726eee0` | 1885 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 144 | `reports/daily/2026/10/2026-10-15/C3-research-models.md` | blob `85ffa9ea3c91f38f5851757493b41058bb758578` | 1818 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 145 | `reports/daily/2026/10/2026-10-15/C4-agents-open-source.md` | blob `ca08dd6d617b06bef62a414a7dbba060ba457204` | 1780 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 146 | `reports/daily/2026/10/2026-10-15/C5-infrastructure-industry.md` | blob `c5e4173d5d2c5dc2ee1e52cd60492be0967daa26` | 1819 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 147 | `reports/daily/2026/10/2026-10-15/C6-applications-governance.md` | blob `05cf6514a9df69378f86d2915979b25fe91c1b5e` | 1783 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 148 | `reports/daily/2026/10/2026-10-15/C7-china-global.md` | blob `420f8a1e6f0c1fa305c8e45432af87ecec517654` | 1774 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 149 | `reports/daily/2026/10/2026-10-15/C8-synthesis.md` | blob `11e1baceab0aafb7f3e8f8c6507a82bb489432e9` | 1797 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 150 | `reports/daily/2026/10/2026-10-15/README.md` | blob `00ff6b3e4112262197f22d5ad3ed80effd7b8d8e` | 938 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 151 | `reports/daily/2026/10/2026-10-16.md` | blob `dd292e27db85f39b1cfcb8839d58e7fa4889a888` | 6808 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 152 | `reports/daily/2026/10/2026-10-16/C1-history-policy.md` | blob `a4aecdd97dacb0a0bfca6b5e0443b27aad49c6d5` | 2798 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 153 | `reports/daily/2026/10/2026-10-16/C2-standards-protocols.md` | blob `ff1b1a15f05113314e045ce94af76e029d00d9c4` | 2706 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 154 | `reports/daily/2026/10/2026-10-16/C3-research-models.md` | blob `05169b73fbc6f1ee8424590ff26a2928aadb80b1` | 2598 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 155 | `reports/daily/2026/10/2026-10-16/C4-agents-open-source.md` | blob `3e8611eaadfd0dac138ee2ad991c423cbc9761ee` | 2680 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 156 | `reports/daily/2026/10/2026-10-16/C5-infrastructure-industry.md` | blob `37b39e7df7fa88fd906b4e53c7a05d88baf0a9a8` | 2627 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 157 | `reports/daily/2026/10/2026-10-16/C6-applications-governance.md` | blob `32b3c5985be890b31b112d6db77a45a3d274c475` | 2650 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 158 | `reports/daily/2026/10/2026-10-16/C7-china-global.md` | blob `48bae58168ccb9f0f355a0f1a18661f406833b2a` | 2649 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 159 | `reports/daily/2026/10/2026-10-16/C8-synthesis.md` | blob `3a08592a80b4e9c0f646fd65b67f6399cbbfd1a0` | 2778 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 160 | `reports/daily/2026/10/2026-10-16/README.md` | blob `6e79cb37cc95ba9af05b2ec4725be3da7f5d0d61` | 926 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 161 | `reports/daily/2026/10/2026-10-17.md` | blob `b327d0a654559e4c5f66f87c640f0033e8d04071` | 6706 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 162 | `reports/daily/2026/10/2026-10-17/C1-history-policy.md` | blob `4d07d1d780f7fa3a58038d9abea672556fc6b1f8` | 1425 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 163 | `reports/daily/2026/10/2026-10-17/C2-standards-protocols.md` | blob `241d87a1fe9826cc6d43ea815307aee39571f0c6` | 1668 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 164 | `reports/daily/2026/10/2026-10-17/C3-research-models.md` | blob `f23a2d7ab1093ad1c29532b7612b0eab86520730` | 1525 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 165 | `reports/daily/2026/10/2026-10-17/C4-agents-open-source.md` | blob `7802920a7c67f4a8a3862f93bcf778c7fd1d726f` | 1628 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 166 | `reports/daily/2026/10/2026-10-17/C5-infrastructure-industry.md` | blob `cb14cdbbcf5148e6d95c4aa293814e33f022d486` | 1512 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 167 | `reports/daily/2026/10/2026-10-17/C6-applications-governance.md` | blob `c02815281d9388e60bdc343fa8401563562aec28` | 1389 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 168 | `reports/daily/2026/10/2026-10-17/C7-china-global.md` | blob `4e095776ebbb50ba69749cc7b723e51f7f3045f1` | 1627 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 169 | `reports/daily/2026/10/2026-10-17/C8-synthesis.md` | blob `e8881eeb5e5267c70f5db16776c2fd946b322142` | 2080 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 170 | `reports/daily/2026/10/2026-10-17/README.md` | blob `78a2db209867e40630517b08c5ed47483cc78517` | 1228 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 171 | `reports/daily/2026/10/2026-10-18.md` | blob `329423768dd6d9055d9a136769693ca12cc7c25d` | 7309 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 172 | `reports/daily/2026/10/2026-10-18/C1-history-policy.md` | blob `94c4ddf2ff64b38374b52e02359e4f9100fd77cb` | 2342 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 173 | `reports/daily/2026/10/2026-10-18/C2-standards-protocols.md` | blob `fe3ba83856bbef415e3313a4f65151afa2491bba` | 2353 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 174 | `reports/daily/2026/10/2026-10-18/C3-research-models.md` | blob `92a4f2526b23740762c398d55db6a5a0d8264d62` | 2334 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 175 | `reports/daily/2026/10/2026-10-18/C4-agents-open-source.md` | blob `19f2636164347be4455ba8bbbb2909a3b7f507e7` | 2350 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 176 | `reports/daily/2026/10/2026-10-18/C5-infrastructure-industry.md` | blob `3366032ab1595564fff262d54100883a6550c76c` | 2360 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 177 | `reports/daily/2026/10/2026-10-18/C6-applications-governance.md` | blob `14a97251c511ff025457f7557dbc0110dc00ad33` | 2333 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 178 | `reports/daily/2026/10/2026-10-18/C7-china-global.md` | blob `555592ee81a963d3c00240d28ddde0c0ce7e4dbc` | 2340 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 179 | `reports/daily/2026/10/2026-10-18/C8-synthesis.md` | blob `96b19c6aed59d66000e4d2d4e0d282b892c2c7ad` | 2347 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 180 | `reports/daily/2026/10/2026-10-18/README.md` | blob `96331fd97d3407d073293447c7079b4d593c9be6` | 1334 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 181 | `reports/daily/2026/10/2026-10-19.md` | blob `bf50da5da780dbce5c196d9eedb6f3463db003f7` | 5088 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 182 | `reports/daily/2026/10/2026-10-19/C1-history-policy.md` | blob `e7245b7af235c4f1c72f5456b0583adca4388357` | 1634 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 183 | `reports/daily/2026/10/2026-10-19/C2-standards-protocols.md` | blob `6ab19fd9671ee568eefbf43236a50b7dcf440437` | 1661 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 184 | `reports/daily/2026/10/2026-10-19/C3-research-models.md` | blob `d43ff6e4da474412d2f46b4105d4e75526794b10` | 1643 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 185 | `reports/daily/2026/10/2026-10-19/C4-agents-open-source.md` | blob `0e46bfeccf0f6d8ef8a2484c77a49f4585ab1149` | 1637 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 186 | `reports/daily/2026/10/2026-10-19/C5-infrastructure-industry.md` | blob `9d5f33631a1107368f12402b3cd20c899d64241c` | 1606 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 187 | `reports/daily/2026/10/2026-10-19/C6-applications-governance.md` | blob `5c2b49310a4d2c3448714a836a92110d0adf5c9a` | 1609 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 188 | `reports/daily/2026/10/2026-10-19/C7-china-global.md` | blob `cbe98a5e79950da0947e58d7f0a45a52d88a5048` | 1622 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 189 | `reports/daily/2026/10/2026-10-19/C8-synthesis.md` | blob `51ecd8ae221af7750397d5e0f6c1a600d6909936` | 1662 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 190 | `reports/daily/2026/10/2026-10-19/README.md` | blob `abae6bfd3a4f5a0eeffdbc9f9a493bc45af1c3cd` | 787 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 191 | `reports/daily/2026/10/2026-10-20.md` | blob `d4ef630477bcb150ab36c25e0a120dea81db4363` | 5546 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 192 | `reports/daily/2026/10/2026-10-20/C1-history-policy.md` | blob `ae068203610b7af7d003eb0fd0fef3ca77615c34` | 2245 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 193 | `reports/daily/2026/10/2026-10-20/C2-standards-protocols.md` | blob `5eb7b23ab2144b5302d4b496f74a15da7a5b7f12` | 2308 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 194 | `reports/daily/2026/10/2026-10-20/C3-research-models.md` | blob `1ae30a15d6503a9ae55761a24be213c9358e0208` | 2280 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 195 | `reports/daily/2026/10/2026-10-20/C4-agents-open-source.md` | blob `c651e2ef2fc7d9832280fd1dd24add1fc1b98941` | 2288 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 196 | `reports/daily/2026/10/2026-10-20/C5-infrastructure-industry.md` | blob `26fafd9fc037427a8013429ea20c5f6f8445eb2e` | 2232 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 197 | `reports/daily/2026/10/2026-10-20/C6-applications-governance.md` | blob `5322f384815163026665fd4776402f52c2d69b9f` | 2252 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 198 | `reports/daily/2026/10/2026-10-20/C7-china-global.md` | blob `cfa5a1119d939f720ba77f71e2f448b5eb3f332b` | 2256 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 199 | `reports/daily/2026/10/2026-10-20/C8-synthesis.md` | blob `c52d54f3acca81d39194b388fce0ce8957711d54` | 2286 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 200 | `reports/daily/2026/10/2026-10-20/README.md` | blob `c93c3d47be0cd49b7784a1c253d1be97679e9544` | 885 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 201 | `reports/daily/2026/10/2026-10-21.md` | blob `c127db89f84b9d88e09a439b242b9a278bba214d` | 5251 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 202 | `reports/daily/2026/10/2026-10-21/C1-history-policy.md` | blob `60d56e102ab52fe27f82cf6c956b0626d7f85ff1` | 1998 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 203 | `reports/daily/2026/10/2026-10-21/C2-standards-protocols.md` | blob `d042cf5021e74fc9b48a10c02ba09925a394c130` | 2051 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 204 | `reports/daily/2026/10/2026-10-21/C3-research-models.md` | blob `0f0590c0bfadd8eeead50686e27ef0ed99c620aa` | 2042 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 205 | `reports/daily/2026/10/2026-10-21/C4-agents-open-source.md` | blob `be69c1d4bf71a0811723e1fea2bc68c9e22cef4a` | 2017 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 206 | `reports/daily/2026/10/2026-10-21/C5-infrastructure-industry.md` | blob `af77989a35b4d285e3bf50395da49ce27a318017` | 2006 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 207 | `reports/daily/2026/10/2026-10-21/C6-applications-governance.md` | blob `26ce6f1fd39e5c332b0bd2bbe5124a4b6340bdbb` | 2005 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 208 | `reports/daily/2026/10/2026-10-21/C7-china-global.md` | blob `77363ec775d71e3b2fbadc9ac4081ed99c1ccd63` | 1978 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 209 | `reports/daily/2026/10/2026-10-21/C8-synthesis.md` | blob `8568ab811cf5057936ba07af923fb7f6823cab59` | 1996 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 210 | `reports/daily/2026/10/2026-10-21/README.md` | blob `110418b533b1152d06d9c634d96d1ce8a7139953` | 864 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 211 | `reports/daily/2026/10/2026-10-22.md` | blob `11b9863b8ba3f9ac9230bb7288f8c486d4536dd1` | 4314 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 212 | `reports/daily/2026/10/2026-10-22/C1-history-policy.md` | blob `070515a671ec3dd9deabf24420650aaaae1410fe` | 1610 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 213 | `reports/daily/2026/10/2026-10-22/C2-standards-protocols.md` | blob `b2e548f473d2f77bc8df106564730ac4081fb1b9` | 1769 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 214 | `reports/daily/2026/10/2026-10-22/C3-research-models.md` | blob `6afdf2b4a969f94ffa381cc9b74a9c23f8580b57` | 1207 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 215 | `reports/daily/2026/10/2026-10-22/C4-agents-open-source.md` | blob `2fa17c32e4f373a825aa7471671a5f54c47683c6` | 1216 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 216 | `reports/daily/2026/10/2026-10-22/C5-infrastructure-industry.md` | blob `9176c75a6f4c0223eea40523c0931a17f35607f5` | 1216 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 217 | `reports/daily/2026/10/2026-10-22/C6-applications-governance.md` | blob `85bda51f445b8ed96e1bbe648ed8de38b4440eec` | 1263 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 218 | `reports/daily/2026/10/2026-10-22/C7-china-global.md` | blob `358847e2e74d430b6a18ae95c4bdca5bad30d937` | 1353 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 219 | `reports/daily/2026/10/2026-10-22/C8-synthesis.md` | blob `ebd7d7adbb6da04be72b0a61f49d812efec8ce78` | 1426 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 220 | `reports/daily/2026/10/2026-10-22/README.md` | blob `1785bebe69a7405d5865ea687c55a2b213558d44` | 855 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 221 | `reports/daily/2026/10/2026-10-23.md` | blob `d0ff057de2b961b8b4b94b4ac443d936b3450159` | 5507 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 222 | `reports/daily/2026/10/2026-10-23/C1-history-policy.md` | blob `1d394a2e9c990d2ab7c494754c86c4877936bd40` | 2079 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 223 | `reports/daily/2026/10/2026-10-23/C2-standards-protocols.md` | blob `176b0f3175556e75c633d363a6585ef4450c7b26` | 2114 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 224 | `reports/daily/2026/10/2026-10-23/C3-research-models.md` | blob `7d2da6932949dbc400f75ce814d4327c9a236a64` | 2112 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 225 | `reports/daily/2026/10/2026-10-23/C4-agents-open-source.md` | blob `0e7b57dfbaa2f78f485bd8cf8577b0b33507196f` | 2088 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 226 | `reports/daily/2026/10/2026-10-23/C5-infrastructure-industry.md` | blob `d8af6a8d464b8aec50f7848a788af043f69cbaf1` | 2071 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 227 | `reports/daily/2026/10/2026-10-23/C6-applications-governance.md` | blob `0f1c8d2d29d66de174911652b4f4632be40dee65` | 2099 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 228 | `reports/daily/2026/10/2026-10-23/C7-china-global.md` | blob `0f376938dff32aa20b73afc41ced8e70e27f9420` | 2086 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 229 | `reports/daily/2026/10/2026-10-23/C8-synthesis.md` | blob `334a631c8587caaa55c0c951afbb754bf91c5f65` | 2087 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 230 | `reports/daily/2026/10/2026-10-23/README.md` | blob `aa730c5ea41bb41463c62301d423140174feebcd` | 1132 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 231 | `reports/daily/2026/10/2026-10-24.md` | blob `00770c5496fcc438a6177f6132bc7b3e8b62cffa` | 6100 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 232 | `reports/daily/2026/10/2026-10-24/C1-history-policy.md` | blob `42e25b561a1ed8be35cd8667ffa1ee828d99cb00` | 2426 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 233 | `reports/daily/2026/10/2026-10-24/C2-standards-protocols.md` | blob `683b8a18de389e2ec74228d6a3859094f8c3e4b7` | 2534 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 234 | `reports/daily/2026/10/2026-10-24/C3-research-models.md` | blob `f60a24e4c1870228db81b01a6ad15a3c4e201d6a` | 2494 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 235 | `reports/daily/2026/10/2026-10-24/C4-agents-open-source.md` | blob `f001a5fdd5d0433866297c739f860588edd1fd56` | 2423 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 236 | `reports/daily/2026/10/2026-10-24/C5-infrastructure-industry.md` | blob `38e3072361b63ee33cca6318b5d74d09a5fa7e7b` | 2418 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 237 | `reports/daily/2026/10/2026-10-24/C6-applications-governance.md` | blob `c87f25c95a2ce248131eb7dad86e733fcf312cbe` | 2377 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 238 | `reports/daily/2026/10/2026-10-24/C7-china-global.md` | blob `88a77501022016e94a0b278900dfe6f10fc5bdb8` | 2449 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 239 | `reports/daily/2026/10/2026-10-24/C8-synthesis.md` | blob `000eb216fe511ad9f6c707efea36c74c79ae73d2` | 2429 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 240 | `reports/daily/2026/10/2026-10-24/README.md` | blob `b989b245c3f288d775427f576d419b913c0cf388` | 1050 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+- 241 | `reports/daily/2026/10/2026-10-25.md` | blob `4c19f1045c7995631b0afbbef76c0998daf71ec3` | 6165 B | INTEGRATED | ORIGINAL_DATE_EVIDENCE_BOUND
+- 242 | `reports/daily/2026/10/2026-10-25/C1-history-policy.md` | blob `95d672619409278eccdec4e4b86f6ac7624a3230` | 2534 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 243 | `reports/daily/2026/10/2026-10-25/C2-standards-protocols.md` | blob `7b239ed3f286c68a93ca074aceb393f4156e8df0` | 2623 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 244 | `reports/daily/2026/10/2026-10-25/C3-research-models.md` | blob `10ca51a4eff7be8f695c83b9342db6a604f7d767` | 2556 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 245 | `reports/daily/2026/10/2026-10-25/C4-agents-open-source.md` | blob `19cc00a145e88fcf880ae6fc86323c3514ad9542` | 2587 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 246 | `reports/daily/2026/10/2026-10-25/C5-infrastructure-industry.md` | blob `360cf454161caa764fc6452c0d3f3ff5fcbf0d1f` | 2574 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 247 | `reports/daily/2026/10/2026-10-25/C6-applications-governance.md` | blob `f141adf5c47ff259a63cefec8b1ab831e3401434` | 2540 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 248 | `reports/daily/2026/10/2026-10-25/C7-china-global.md` | blob `5328be4d6d14064915659299df62fba37b692382` | 2561 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 249 | `reports/daily/2026/10/2026-10-25/C8-synthesis.md` | blob `140f28b6ec86ba70e3fd304ecee89c9fe1e2cba2` | 2562 B | WORKSTREAM | ORIGINAL_DATE_EVIDENCE_BOUND
+- 250 | `reports/daily/2026/10/2026-10-25/README.md` | blob `125d250df118118fc7358fcd4394278572544c37` | 1047 B | PACKAGE_BOUNDARY | ORIGINAL_DATE_EVIDENCE_BOUND
+
+## Compare prior Oct25 A2 to live main (26th changes excluded from A1 credit)
+- Δ01 `reports/daily/2026/10/2026-10-26.md` | added +86/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ02 `reports/daily/2026/10/2026-10-26/C1-history-policy.md` | added +42/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ03 `reports/daily/2026/10/2026-10-26/C2-standards-protocols.md` | added +41/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ04 `reports/daily/2026/10/2026-10-26/C3-research-models.md` | added +39/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ05 `reports/daily/2026/10/2026-10-26/C4-agents-open-source.md` | added +40/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ06 `reports/daily/2026/10/2026-10-26/C5-infrastructure-industry.md` | added +40/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ07 `reports/daily/2026/10/2026-10-26/C6-applications-governance.md` | added +41/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ08 `reports/daily/2026/10/2026-10-26/C7-china-global.md` | added +42/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ09 `reports/daily/2026/10/2026-10-26/C8-synthesis.md` | added +43/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ10 `reports/daily/2026/10/2026-10-26/README.md` | added +29/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ11 `reports/daily/2026/10/README.md` | modified +2/-1 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ12 `reports/monthly/2026/README.md` | modified +1/-1 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ13 `reports/weekly/2026/2026-W44.md` | added +61/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+- Δ14 `reports/weekly/2026/README.md` | modified +1/-0 | N_DAY_SOURCE_OUT_OF_SCOPE_OR_INDEX_ONLY
+
+## Reconciliation rules
+- Native workstreams are not independent confirmations merely because there are seven/eight files; they are subordinate to a single day's publisher provenance.
+- Oct12 gap placeholders cannot acquire original Daily credit via backfilled index, monthly relation, or this A1 audit.
+- W43 closed task coverage must not imply the week’s science/standards hypotheses were independently closed.
+- GitHub merge time, logical date, source first seen, official lifecycle and deployment time are separate clocks.
+- A2 must begin after ten A1 merges, read a newly frozen ten-repo main and include actual Oct26 source and W44 OPEN without sealing month.
+- Original source/historical documents are not mutated here.
