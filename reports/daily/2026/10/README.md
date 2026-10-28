@@ -1,5 +1,8 @@
 # October 2026 Daily Index
 
+> **2026-10-29 forward erratum for 2026-10-08:** The retained [China Daily](./2026-10-08.md) is a genuine `NO MATERIAL CHANGE` documentary result but lacks the current SOP's source-custody and 0–10 integrated sections. Read the [dated source/format traceability erratum](../../../../history/2026-10/2026-10-29-china-2026-10-08-daily-source-traceability-erratum.md). No original study, native run, source date, W41 or October Monthly status was rewritten or independently replayed.
+
+
 **Current checkpoint 2026-10-28 05:01:01 Asia/Shanghai**：27 native C1–C8 Daily dates（10-01..11、10-13..28），10-12 historical gap，W44 OPEN 3/7，October OPEN，29–31 NOT_DUE
 
 | Date | Daily | Pack | Weekly context |
