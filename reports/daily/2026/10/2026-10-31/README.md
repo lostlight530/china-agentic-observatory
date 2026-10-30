@@ -1,0 +1,25 @@
+# China native C1–C8 pack — 2026-10-31
+- logical_date: 2026-10-31 Asia/Shanghai
+- execution_started_at: 2026-10-31 05:02:51 Asia/Shanghai
+- observation_cutoff: 2026-10-31 05:04:36 Asia/Shanghai
+- observation_utc: 2026-10-30T21:04:36Z
+- research_base_main: dce97cba1e4467c45f721b3c7936981cddac666a
+- record_class: NATIVE_DAILY_RESEARCH
+- evidence_scope: 4 SAMR exact-object pages and ITU-T F.748.93，other China AI events NOT_ASSESSED
+- result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_TRANSITION
+- evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN
+- state_transition_date: UNVERIFIED
+- external_runtime_TCK_CI_conformance: NOT_EXECUTED
+- same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING
+- W44: OPEN / 6/7 proposed，H44-1~3 OPEN / UNCHANGED
+- October: OPEN / 30 native dates proposed，10-12 historical gap，11-01 NOT_DUE
+- [Integrated Daily](../2026-10-31.md)
+- [C1｜历史、国家战略与政策](./C1-history-policy.md)
+- [C2｜标准、协议、身份与互联](./C2-standards-protocols.md)
+- [C3｜科研、模型与评测](./C3-research-models.md)
+- [C4｜智能体、平台、开源与工程](./C4-agents-open-source.md)
+- [C5｜芯片、算力、数据与产业基础设施](./C5-infrastructure-industry.md)
+- [C6｜应用、安全治理与社会影响](./C6-applications-governance.md)
+- [C7｜中国与全球路线关系](./C7-china-global.md)
+- [C8｜跨任务综合与判断修正](./C8-synthesis.md)
+- 1 integrated + 8 workstreams + README = 10 files
