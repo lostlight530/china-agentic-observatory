@@ -1,6 +1,6 @@
 # October 2026 Daily Index
 
-**2026-10-31 05:04:36 Asia/Shanghai producer checkpoint**：30 native dates proposed on branch，base main 29 merged，10-12 historical gap，W44 OPEN 6/7 proposed，October OPEN，11-01 NOT_DUE
+**2026-10-31 05:04:36 Asia/Shanghai coverage checkpoint**：30 native C1–C8 dates present in this repository tree (10-01..11，10-13..31)，10-12 historical native gap，W44 OPEN 6/7，October OPEN，11-01 NOT_DUE
 
 
 > **2026-10-29 forward erratum for 2026-10-08:** The retained [China Daily](./2026-10-08.md) is a genuine `NO MATERIAL CHANGE` documentary result but lacks the current SOP's source-custody and 0–10 integrated sections. Read the [dated source/format traceability erratum](../../../../history/2026-10/2026-10-29-china-2026-10-08-daily-source-traceability-erratum.md). No original study, native run, source date, W41 or October Monthly status was rewritten or independently replayed.
@@ -45,7 +45,7 @@
 | 2026-10-29 | [2026-10-29.md](./2026-10-29.md) | [2026-10-29/](./2026-10-29/) | W44 OPEN 4/7 / PARTIAL BOUNDED / NO VERIFIED TRANSITION |
 | 2026-10-30 | [2026-10-30.md](./2026-10-30.md) | [2026-10-30/](./2026-10-30/) | W44 OPEN proposed 5/7 / PARTIAL BOUNDED / NO VERIFIED TRANSITION |
 
-| 2026-10-31 | [2026-10-31.md](./2026-10-31.md) | [2026-10-31/](./2026-10-31/) | W44 OPEN 6/7 proposed / NO VERIFIED NEW TRANSITION |
+| 2026-10-31 | [2026-10-31.md](./2026-10-31.md) | [2026-10-31/](./2026-10-31/) | W44 OPEN 6/7 / NO VERIFIED NEW TRANSITION |
 
 Historical October count at 2026-10-27 04:58:34 Asia/Shanghai: **26 native Daily dates** (1–11, 13–27 October)，2026-10-12 past-date native gap，28–31 NOT_DUE，W43 FINAL / CLOSED 7/7，W44 OPEN 2/7，October Monthly OPEN
 
