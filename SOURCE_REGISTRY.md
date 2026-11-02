@@ -97,3 +97,18 @@ RELATED_STANDARD_OBJECTS != FORMAL_CROSSWALK
 The 2026-09-28 producer-native Daily gap remains historical and is not backfilled.
 
 See `reports/weekly/2026/2026-W40-special-reconciliation-2026-10-04.md`.
+
+
+## 2026-11-02 post-hoc Special source route — September/October 2026
+This section records **dated source pointers**, not automatic national-standard registration or a new unified agent-trust protocol. No existing source ID is renumbered; original historical daily and closed weekly settlement remain unchanged.
+
+| Object and external date | Source | Evidence class / limitation |
+|---|---|---|
+| MIIT 2026 No.22, dated 2026-08-17; published 2026-09-01 | https://wap.miit.gov.cn/zwgk/zcwj/wjfb/gg/art/2026/art_74c4c2a0052143fcacd282226eedba23.html | OFFICIAL_MINISTRY_BATCH; 674 industry standards total does not mean 674 agent standards, individual annex clauses not rechecked |
+| CAICT-origin report on five agent industry standards, report dated 2026-09-22 | https://www.jcnl.org.cn/183.html | ATTRIBUTED_CAICT_REPORT_REPUBLICATION; secondary hosting and issuer narrative, not independent normative annex |
+| AI Safety Governance Framework 3.0, 2026-09-14 | https://www.cac.gov.cn/2026-09/14/c_1791137092283345.htm | OFFICIAL_FRAMEWORK_ANNOUNCEMENT; full PDF clauses not exhaustively parsed; not itself a conformance test |
+| CNNIC agent-service guide, event 2026-09-29 / official report 2026-10-08 | https://www2.cnnic.cn/n4/2026/1008/c326-11701.html | PRIMARY_SEARCH_EXCERPT_ONLY; full page fetch timed out at this review; certificate and evaluation methodology not validated |
+| 求索 4.0, event 2026-10-13 / media report 2026-10-14 | https://www.digitalchina.gov.cn/2026/szzg/xyzx/202610/t20261014_5381616.htm | GOVERNMENT_PORTAL_CCTV_REPOST; benchmark toolkit/source and runtime not independently inspected |
+| National Informationization Fifteenth FYP, 2026-10-23 | https://www.cac.gov.cn/2026-10/23/c_1794509044378569.htm | OFFICIAL_PLAN; 2030 targets not achieved outcomes |
+
+Source date ≠ first repository observation ≠ post-hoc read ≠ implementation date. The 2026-09-28 native gap, 2026-10-12 native gap, and `20256913-T-907` historical state-display conflict are unchanged. Read [September Special](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October Special](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md) for claim-by-claim counterevidence.

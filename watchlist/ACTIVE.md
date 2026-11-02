@@ -138,3 +138,12 @@ FAMILY_PROXIMITY != FORMAL_CROSSWALK
 - `20265082-Z-469` is admitted as a distinct exact object at its original 2026-09-28 registration date; observation/reconciliation is 2026-10-05.
 - `C-W80` opens because a verified new standardization object now exists; no normative clause content, implementation, conformance or formal crosswalk is inferred from the title.
 - Repeated checks of already-known objects add coverage only and do not strengthen unrelated watch items.
+
+
+## 2026-11-02 September–October Special — source-specific follow-up (no new canonical ID assigned)
+- **Sector standard identity:** inspect the original MIIT No.22 attachments for each CAICT-attributed agent standard's exact number, approved text, publication and effective date; do not infer full clauses from an article.
+- **Framework vs binding rule:** read the AI Safety Governance Framework 3.0 PDF for explicit risk/Agent requirements and map normative force, enforcement path and observation separately.
+- **CNNIC evaluation:** retrieve the full `BKL-AISA/T09-2026` guide, certification and sampled test records before claiming broad compliance; official full-page fetch was unavailable in this Special.
+- **求索 4.0:** identify released toolkit version/source, evaluation dataset/workloads, metric definitions and an independently rerunnable case. Media-attributed pilot claims remain conditional.
+- **2030 adoption target:** seek an exact denominator, Agent-vs-assistant ontology, baseline and measured reporting series for the National Informationization Fifteenth FYP; strategy does not equal adoption measured.
+- September [Special](../reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and October [Special](../reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md) are non-canonical research updates; original SAMR status conflict and gap dates remain intact.
