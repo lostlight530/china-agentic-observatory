@@ -1,0 +1,148 @@
+# 2026-11-02 A1 | china-agentic-observatory November 1 source and W44 custody
+
+- Repository: lostlight530/china-agentic-observatory
+- Evidence main: 072bdd224f07ec642e1713e5f48da75603afb650
+- Logical cutoff: 2026-11-01 Asia/Shanghai
+- System: independent maintenance/A1, not native research
+- Review disposition: SOURCE_REVIEW / ORIGINAL_ARTIFACTS_UNCHANGED
+- Validation: GitHub sources only, no official external recertification or runtime test
+
+## Cross-period and evidence gates
+- G01: Maintenance task identity is 2026-11-02 A1 at Asia/Shanghai date, distinct from native Daily identity
+- G02: Source cutoff includes November 1 and excludes November 2 native production
+- G03: November 2026 is OPEN and not eligible for a natural-month final
+- G04: Current GitHub main is a repository truth source rather than proof of external platform behavior
+- G05: A1 checks source and decision completeness, not only whether an expected date has a path
+- G06: An N-day 2026-11-02 Daily observed at review time belongs to the later A2 phase
+- G07: W44 spans 2026-10-26 through 2026-11-01 and is a cross-month ISO week
+- G08: October W44 intersection is October 26–31 with six native logical dates
+- G09: November W44 intersection consists only of November 1
+- G10: W44 FINAL 7/7 is distinct from a naturally closed November
+- G11: W45 begins with November 2 and is excluded from A1
+- G12: A weekly hypothesis may remain OPEN after weekly date coverage is FINAL
+- G13: Daily source observation and Weekly evidence inheritance are different record classes
+- G14: Later correction or repository merge cannot rewrite a previous observation timestamp
+- G15: Primary files are retained as author-time statements even when their Draft proposal later merges
+- G16: Current main presence is not evidence of original task-time file availability
+- G17: Source rechecking is not independent evidence from a second institution
+- G18: Claims about runtime tests require actual command, runner, revision, outputs and observed effects
+- G19: An external status page's current value is not itself a dated transition event
+- G20: Published event date and research observation date must remain separate
+- G21: Current version or object state must not be upgraded beyond directly quoted evidence
+- G22: No independent conformance test is credited to documentary maintenance
+- G23: Existing registry and watchlist require a material identity/status change to mutate
+- G24: Maintenance review is not one new source study, Trial or execution window
+- G25: One Daily report with several workstream files is one logical Daily research unit
+- G26: Workstream files are components of a research pack rather than independent daily runs
+- G27: The previous October Monthly owner is historical carryover, not November final
+- G28: October 12 retains a missing native research-day credit in the existing monthly owner
+- G29: October CLOSED_WITH_GAPS is not promoted to fully completed by later November maintenance
+- G30: No re-ingestion, code modification, workflow rewrite or historical archive overwrite is authorized
+- G31: Original A1/A2 October 31 acceptance remains a separate immutable PR-level observation
+- G32: A successor PR does not retroactively alter an original PR addition count
+- G33: An exact past SHA cited in a source report belongs to that past observation
+- G34: GitHub Pages success is publication transport evidence, not research/semantic correctness
+- G35: An unassessed domain remains NOT_ASSESSED, not verified unchanged
+- G36: No false ZERO_FAILURE or all-green claim follows from absence of tests
+- G37: Only direct source-level decisions and maintained negative evidence are eligible for this audit
+- G38: No external official page was independently re-opened or re-certified by this maintenance author
+- G39: A2 must start only after its own repository A1 is merged and the new main SHA is re-read
+- G40: A2 must preserve November month version identity 2026-11 as one OPEN relational state
+- G41: A2 must relate November 1 and November 2 without double-counting W44 Sunday closure
+- G42: Human Maintainer review and merge remain separate from this Draft PR delivery
+
+## Source-specific verified repository interpretations
+- S01: November 1 canonical China Daily was merged through PR #225
+- S02: November 1 original official-source observation cutoff is 04:58:46 Asia/Shanghai
+- S03: Original Daily result is PARTIAL_BOUNDED / NO_VERIFIED_NEW_TRANSITION
+- S04: The research contains five exact official standardization objects, not all China AI events
+- S05: 20265082-Z-469 is a TC28/TC28SC42 guidance-document registration
+- S06: 20265083-Z-469 is a distinct TC28/TC28SC42 guidance-document registration
+- S07: 20262581-Z-907 is a TC609 guidance-document registration
+- S08: The three guidance registrations are described as 正在起草 in the source Daily
+- S09: 20265082-Z-469 and 20265083-Z-469 carry September 28 registration anchors
+- S10: 20262581-Z-907 carries an April 24 registration anchor
+- S11: 20256913-T-907 is a TC609 recommended national standard PLAN, not a completed standard
+- S12: 20256913-T-907 is described as 正在批准 on the observed government page
+- S13: The 20256913-T-907 original plan issuance anchor is December 31, 2025
+- S14: A page describing planned six-month implementation after publication does not prove publication
+- S15: ITU-T F.748.93 is an ITU-T Recommendation rather than one of the domestic plan objects
+- S16: ITU-T F.748.93 approved date is August 29, 2026 in the original observed record
+- S17: ITU-T F.748.93 status is In force (prepublished), with exact status wording retained
+- S18: Restricted Recommendation full-text access does not justify a normative crosswalk assertion
+- S19: Exact status labels are independent of implementation/adoption/conformance evidence
+- S20: November 1 repeats earlier official states without a dated change receipt
+- S21: Original event date and observed_at date must not be conflated
+- S22: C1 retains no evidence of a new November 1 national strategy issuance
+- S23: C2 preserves GB/Z guidance registrations vs GB/T plan distinctions
+- S24: C3 does not turn a quality-system title into measured model evaluation success
+- S25: C4 does not assert new deployed Agent/runtime capability
+- S26: C5 does not extrapolate assessed objects to national compute/industry totals
+- S27: C6 treats agency and issuer identity as administrative facts, not field adoption
+- S28: C7 does not treat similar standard titles as formal cross-regime alignment
+- S29: C8 keeps hypothesis H44-1 through H44-3 unresolved
+- S30: W44 canonical China Weekly is FINAL / CLOSED 7/7 native Daily dates
+- S31: W44 H44-1 remains OPEN / UNCHANGED pending exact-object crosswalk
+- S32: W44 H44-2 remains OPEN / UNCHANGED pending exact state-transition history
+- S33: W44 H44-3 remains OPEN / UNCHANGED pending independent implementation evidence
+- S34: W44 reports no falsifier for the three hypotheses in its bounded study
+- S35: The W44 November 1 Sunday settlement does not create an October 31 daily
+- S36: China October Monthly is CLOSED_WITH_GAPS, with 30 actual native dates
+- S37: October 12 remains ZERO_NATIVE_DAILY_CREDIT
+- S38: September 28 historical native gap is also independently retained
+- S39: The original October reconciliation of older registrations cannot be backdated to the original event day
+- S40: China November 1 Monthly coverage begins with one actual C1–C8 pack
+- S41: The November 2 native #227 and W45 open are A2 inputs excluded from A1
+- S42: Current November Monthly correction states #227 is merged, not source-time approval
+- S43: Registration, plan, published standard, implementation and conformance are different maturity axes
+- S44: Same official issuer repeatedly consulted does not create independent support
+- S45: No broad claim about Chinese Agent adoption can be inferred from these five official objects
+- S46: No national or multinational harmonized test was executed by the native Daily
+- S47: No ledger or registry write is justified by unchanged objects
+- S48: The observation does not prove deployment, safety certification or completed implementation
+
+## Per-workstream November 1 content decisions
+- W01: Opened source: reports/daily/2026/11/2026-11-01/C1-history-policy.md
+- W02: Factual source decision: Current exact-object pages do not establish a new policy release
+- W03: Negative-space decision: Other policies remain NOT_ASSESSED
+- W04: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C1-history-policy.md
+- W05: Opened source: reports/daily/2026/11/2026-11-01/C2-standards-protocols.md
+- W06: Factual source decision: Three GB/Z registrations, one GB/T plan and one Recommendation retain typed maturity
+- W07: Negative-space decision: No published-state promotion
+- W08: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C2-standards-protocols.md
+- W09: Opened source: reports/daily/2026/11/2026-11-01/C3-research-models.md
+- W10: Factual source decision: No new measured model or evaluation artifact is present
+- W11: Negative-space decision: No benchmark execution
+- W12: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C3-research-models.md
+- W13: Opened source: reports/daily/2026/11/2026-11-01/C4-agents-open-source.md
+- W14: Factual source decision: A standard title is not an Agent runtime deployment
+- W15: Negative-space decision: Open-source releases outside scope remain unassessed
+- W16: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C4-agents-open-source.md
+- W17: Opened source: reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md
+- W18: Factual source decision: Registration scope cannot prove infrastructure capability or national scale
+- W19: Negative-space decision: No nationwide extrapolation
+- W20: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C5-infrastructure-industry.md
+- W21: Opened source: reports/daily/2026/11/2026-11-01/C6-applications-governance.md
+- W22: Factual source decision: Institutional ownership differs from implemented governance controls
+- W23: Negative-space decision: No conformance claim
+- W24: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C6-applications-governance.md
+- W25: Opened source: reports/daily/2026/11/2026-11-01/C7-china-global.md
+- W26: Factual source decision: Domestic and ITU-T institutional regimes remain separate
+- W27: Negative-space decision: No official normative crosswalk
+- W28: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C7-china-global.md
+- W29: Opened source: reports/daily/2026/11/2026-11-01/C8-synthesis.md
+- W30: Factual source decision: H44-1 through H44-3 remain OPEN / UNCHANGED
+- W31: Negative-space decision: No independent source strengthening
+- W32: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C8-synthesis.md
+
+## Final evidence and handoff
+- Startup open PR census at this repository: none
+- Source data read: November 1 native Daily and each November 1 workstream, W44 Weekly, October and November Monthly
+- A1 decision coverage: native November 1 pack and W44/previous-month owner
+- N-day November 2 native data: excluded here and retained for fresh-main A2
+- No original source, registry, watchlist, history or executable code changed
+- No native Actions execution or conformance evidence attributed to this maintenance
+- Date-specific external content is attributed to source Daily; not independently revalidated now
+- A1 must merge under human review before an A2 can use it as main-visible input
+- If a new main or conflicting PR arrives, refresh the optimistic lock and re-evaluate
+- Rollback scope: close Draft or revert this new documentary file only
