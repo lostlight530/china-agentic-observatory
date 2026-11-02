@@ -5,7 +5,7 @@
 - record_type: `POST_HOC_SPECIAL_EVENT_RECONCILIATION / NON_CANONICAL_RESEARCH`
 - external_event_window: `2026-10-13..2026-10-23`; later source check: `2026-11-02`
 - week mapping: [W42](./2026-W42.md) for 10-13, [W43](./2026-W43.md) for 10-23; originals remain FINAL, not reopened
-- month: [October canonical](../monthly/2026/2026-10.md) retains `CLOSED_WITH_GAPS / 30/31`; 2026-10-12 ZERO_NATIVE_DAILY_CREDIT
+- month: [October canonical](../../monthly/2026/2026-10.md) retains `CLOSED_WITH_GAPS / 30/31`; 2026-10-12 ZERO_NATIVE_DAILY_CREDIT
 - prior October Special [W40](./2026-W40-special-reconciliation-2026-10-04.md) on late September standard objects is separate; no second credit for 09-28
 - independent benchmark rerun, audited government implementation, runtime trace, conformance validation: `NOT_EXECUTED`
 - scope: two different **research objects** (evaluation toolkit and information-infrastructure plan), not a national capability ranking
