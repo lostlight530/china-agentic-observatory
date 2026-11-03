@@ -1,0 +1,194 @@
+# 2026-11-03 A1 | China observatory Nov 1–2 source audit
+- Independent maintenance A1, source main 64c641db3ba0cab76aa1601e3034517c1e351587
+- Logical window Nov 1..2 Asia/Shanghai; November OPEN, W44 closed, W45 OPEN
+- Native publisher/external official status and independent reviewer are separate producers
+## Source files actually opened
+- reports/daily/2026/11/2026-11-01.md | blob 01ef8d314ff6ae7706953392525ae5f96011d9eb | 91 source lines
+- reports/daily/2026/11/2026-11-02.md | blob 623d794d1e4663cb9277e7294febca698d1f8224 | 86 source lines
+- reports/daily/2026/11/2026-11-02/C1-history-policy.md | blob 117cb468c597147dfa826dcc22e719b0521380a1 | 46 source lines
+- reports/daily/2026/11/2026-11-02/C2-standards-protocols.md | blob 19145e2271639b2c5ff672ce3dfead7db1c7e01f | 46 source lines
+- reports/daily/2026/11/2026-11-02/C3-research-models.md | blob 472eee40e99e099ed403aa7293bdffb39bfa8942 | 46 source lines
+- reports/daily/2026/11/2026-11-02/C6-applications-governance.md | blob 2741b7741be5a2bef24f8b907e524c05f826f9e9 | 46 source lines
+- reports/daily/2026/11/2026-11-02/C8-synthesis.md | blob 7388141a697aa83be758058d6cc29c75be65f84d | 46 source lines
+- historical-audits/2026-11/2026-11-02-a1-china-source-custody.md | blob 1f80ad1e663c0c78a73f785bf5bab44d3af9b548 | 149 source lines
+- reports/weekly/2026/2026-W44.md | blob a4fbda156fe5823bd129c3e76950132b8724e9ad | 116 source lines
+## Unique source-line classification records
+- R001 | reports/daily/2026/11/2026-11-01.md#L6 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R002 | reports/daily/2026/11/2026-11-01.md#L10 | W44 在今日原生 C1–C8 pack 后具备 7/7 Sunday settlement，H44-1~3 均保持 OPEN，10 月自然月已结束且 10 月 12 日真实缺口未消除，月度应为 CLOSED_WITH_GAPS | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R003 | reports/daily/2026/11/2026-11-01.md#L15 | - observation_cutoff: 2026-11-01 04:58:46 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R004 | reports/daily/2026/11/2026-11-01.md#L19 | - evidence_scope: SAMR four exact-object current pages and ITU-T F.748.93; other China AI events NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R005 | reports/daily/2026/11/2026-11-01.md#L21 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R006 | reports/daily/2026/11/2026-11-01.md#L24 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R007 | reports/daily/2026/11/2026-11-01.md#L26 | - October: CLOSED_WITH_GAPS proposed; 30 native dates, 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R008 | reports/daily/2026/11/2026-11-01.md#L29 | - event_date: no verified 2026-11-01 new lifecycle event among examined objects | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R009 | reports/daily/2026/11/2026-11-01.md#L31 | - effective_date: NOT_ESTABLISHED for domestic four objects | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R010 | reports/daily/2026/11/2026-11-01.md#L36 | - 当前 main 已含 2026-10-26..31 六份原生 C1–C8 Daily，W44 仍处于 6/7 的历史 OPEN 检查点 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R011 | reports/daily/2026/11/2026-11-01.md#L54 | 20262581-Z-907 是质量评测系统技术要求的登记对象，不是系统建成、评测执行或模型能力验证 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R012 | reports/daily/2026/11/2026-11-01.md#L70 | - NEW_OBSERVATION：2026-11-01 04:58:46 Asia/Shanghai 五对象官方当前显示 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R013 | reports/daily/2026/11/2026-11-01.md#L73 | - STABLE：REGISTRATION != STANDARD_PLAN != PUBLISHED_STANDARD != IMPLEMENTATION != CONFORMANCE | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R014 | reports/daily/2026/11/2026-11-01.md#L75 | - MONTHLY_ACCOUNTING：October CLOSED_WITH_GAPS 30/31，November 仅今日 1 个拟交付原生日期 | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R015 | reports/daily/2026/11/2026-11-01.md#L82 | - 20265082-Z-469｜指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R016 | reports/daily/2026/11/2026-11-01.md#L84 | - 20262581-Z-907｜指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R017 | reports/daily/2026/11/2026-11-01.md#L86 | - ITU-T F.748.93｜Recommendation｜In force (prepublished)｜approved 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R018 | reports/daily/2026/11/2026-11-02.md#L6 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R019 | reports/daily/2026/11/2026-11-02.md#L14 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R020 | reports/daily/2026/11/2026-11-02.md#L18 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R021 | reports/daily/2026/11/2026-11-02.md#L20 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R022 | reports/daily/2026/11/2026-11-02.md#L26 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R023 | reports/daily/2026/11/2026-11-02.md#L28 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R024 | reports/daily/2026/11/2026-11-02.md#L33 | - W45 从 2026-11-02 的本次原生 Daily 开启，继承 W44 未决 H 而不凭重复来源增强 | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R025 | reports/daily/2026/11/2026-11-02.md#L37 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R026 | reports/daily/2026/11/2026-11-02.md#L40 | - 20256913-T-907｜TC609 推荐性国家标准计划｜正在批准｜下达 2025-12-31｜https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R027 | reports/daily/2026/11/2026-11-02.md#L42 | 20256913-T-907 页面所述发布后6个月实施属于拟实施条件，不是已发布事实；ITU-T 正文 TIES 访问受限 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R028 | reports/daily/2026/11/2026-11-02.md#L47 | - C3 科研、模型与评测：20262581-Z-907 仍是 TC609 质量评测系统技术要求登记；标题不能证明系统建成或 benchmark 已执行，其他科研和模型 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R029 | reports/daily/2026/11/2026-11-02.md#L49 | - C5 芯片、算力、数据与产业基础设施：20262581-Z-907 与 20256913-T-907 属于不同质量评测对象和法定类别；起草单位与项目登记不证明全国数据基础设施部署，其他基础设施 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R030 | reports/daily/2026/11/2026-11-02.md#L52 | - C8 跨任务综合与判断修正：五个对象本日一手状态重复确认，W44 FINAL 已结算，W45 从本日原生 Daily 开启；H45-1~3 OPEN / UNCHANGED，同一发行方重复页面不增强独立证据 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R031 | reports/daily/2026/11/2026-11-02.md#L60 | - NO_VERIFIED_NEW_TRANSITION：NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R032 | reports/daily/2026/11/2026-11-02.md#L70 | - H45-2：20256913-T-907 的日期化状态转换序列，需要新日期化、可复核且对象精确的证据 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R033 | reports/daily/2026/11/2026-11-02.md#L78 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R034 | reports/daily/2026/11/2026-11-02.md#L81 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R035 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L5 | - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R036 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L7 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R037 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L9 | - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R038 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R039 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L11 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R040 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R041 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R042 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L15 | - observed_at: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R043 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R044 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R045 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R046 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R047 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R048 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L38 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R049 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L39 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R050 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L40 | - 20262581-Z-907｜TC609 指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R051 | reports/daily/2026/11/2026-11-02/C1-history-policy.md#L42 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R052 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L5 | - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R053 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L7 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R054 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L9 | - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R055 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R056 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L11 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R057 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R058 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L15 | - observed_at: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R059 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L18 | - independent_runtime_TCK_CI_conformance: NOT_EXECUTED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R060 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R061 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R062 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R063 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L28 | 20265082-Z-469 非 API 协同与 20265083-Z-469 上下文共享仍为两个不同 TC28/TC28SC42 指导性技术文件登记 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R064 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R065 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L38 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R066 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L39 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R067 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L40 | - 20262581-Z-907｜TC609 指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R068 | reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L42 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R069 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L5 | - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R070 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L7 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R071 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L9 | - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R072 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R073 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L11 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R074 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R075 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R076 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L15 | - observed_at: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R077 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R078 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R079 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R080 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R081 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R082 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L38 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R083 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L39 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R084 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L40 | - 20262581-Z-907｜TC609 指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R085 | reports/daily/2026/11/2026-11-02/C3-research-models.md#L42 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R086 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L5 | - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R087 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L7 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R088 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L9 | - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R089 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R090 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L11 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R091 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R092 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R093 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L15 | - observed_at: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R094 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R095 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R096 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R097 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R098 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R099 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L38 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R100 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L39 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R101 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L40 | - 20262581-Z-907｜TC609 指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R102 | reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L42 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R103 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L5 | - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R104 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L7 | - research_base_main: 87e9e18bffa0ad7e1a767321f3ad676bdf859ca9 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R105 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L9 | - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R106 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L10 | - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R107 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L11 | - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R108 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L12 | - event_date: NO_VERIFIED_NEW_EVENT_IN_EXAMINED_SCOPE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R109 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L13 | - publication_date: NO_VERIFIED_NEW_PUBLICATION_ON_2026_11_02 | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R110 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L15 | - observed_at: 2026-11-02 05:02:20 Asia/Shanghai | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R111 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L19 | - same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R112 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L20 | - W45: OPEN / 1_OF_7_NATIVE_DAYS_PROPOSED / H45-1~3 OPEN | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R113 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L21 | - November: OPEN / 2_NATIVE_DATES_PROPOSED / 2026-11-03..30 NOT_DUE | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R114 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L22 | - October: CLOSED_WITH_GAPS / 30_OF_31 / 2026-10-12 ZERO_NATIVE_DAILY_CREDIT | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R115 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L31 | **PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION** | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R116 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L38 | - 20265082-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R117 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L39 | - 20265083-Z-469｜TC28/TC28SC42 指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R118 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L40 | - 20262581-Z-907｜TC609 指导性技术文件登记｜正在起草｜登记 2026-04-24｜https://std.samr.gov.cn/gb/search/gbDetailed?id=511E74CB9961800CE06397BE0A0AEDC1 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R119 | reports/daily/2026/11/2026-11-02/C8-synthesis.md#L42 | - ITU-T F.748.93｜ITU-T Recommendation｜In force (prepublished)｜批准 2026-08-29｜https://www.itu.int/rec/T-REC-F.748.93-202608-P/en | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R120 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L3 | - Repository: lostlight530/china-agentic-observatory | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R121 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L14 | - G04: Current GitHub main is a repository truth source rather than proof of external platform behavior | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R122 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L23 | - G13: Daily source observation and Weekly evidence inheritance are different record classes | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R123 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L31 | - G21: Current version or object state must not be upgraded beyond directly quoted evidence | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R124 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L40 | - G30: No re-ingestion, code modification, workflow rewrite or historical archive overwrite is authorized | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R125 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L48 | - G38: No external official page was independently re-opened or re-certified by this maintenance author | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R126 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L59 | - S05: 20265082-Z-469 is a TC28/TC28SC42 guidance-document registration | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R127 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L67 | - S13: The 20256913-T-907 original plan issuance anchor is December 31, 2025 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R128 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L76 | - S22: C1 retains no evidence of a new November 1 national strategy issuance | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R129 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L84 | - S30: W44 canonical China Weekly is FINAL / CLOSED 7/7 native Daily dates | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R130 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L93 | - S39: The original October reconciliation of older registrations cannot be backdated to the original event day | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R131 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L101 | - S47: No ledger or registry write is justified by unchanged objects | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R132 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L112 | - W08: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C2-standards-protocols.md | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R133 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L120 | - W16: Owning artifact disposition: NO_FOLLOW_UP; preserve author-time evidence in C4-agents-open-source.md | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R134 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L129 | - W25: Opened source: reports/daily/2026/11/2026-11-01/C7-china-global.md | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R135 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L139 | - Startup open PR census at this repository: none | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R136 | historical-audits/2026-11/2026-11-02-a1-china-source-custody.md#L148 | - Rollback scope: close Draft or revert this new documentary file only | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R137 | reports/weekly/2026/2026-W44.md#L6 | - logical_week: 2026-10-26..2026-11-01 Asia/Shanghai | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R138 | reports/weekly/2026/2026-W44.md#L8 | - state: FINAL / CLOSED / 7_OF_7_NATIVE_C1_C8_DAILIES，revision-scoped canonical settlement，delivery/merge state由实际 GitHub main 与 PR 决定 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R139 | reports/weekly/2026/2026-W44.md#L10 | - month_split: October 6 dates within W44; November 1 date within W44 | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R140 | reports/weekly/2026/2026-W44.md#L13 | - H44-2: OPEN / UNCHANGED，20256913-T-907 的状态转换日期和顺序仍 UNVERIFIED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R141 | reports/weekly/2026/2026-W44.md#L15 | - DURABLE: REGISTRATION != STANDARD_PLAN != PUBLISHED_STANDARD != IMPLEMENTATION != CONFORMANCE | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R142 | reports/weekly/2026/2026-W44.md#L19 | - open_gaps: 正文规范 crosswalk、状态历史时间序列、独立部署和跨实现一致性 | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R143 | reports/weekly/2026/2026-W44.md#L21 | - primary_record: reports/daily/2026/11/2026-11-01.md | Decision: OFFICIAL_SOURCE_STATE_ONLY
+- R144 | reports/weekly/2026/2026-W44.md#L35 | - native_days: reports/daily/2026/10/2026-10-26.md + 2026-10-27.md + 2026-10-28.md + 2026-10-29.md + 2026-10-30.md，each with C1–C8 | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+- R145 | reports/weekly/2026/2026-W44.md#L37 | - 2026-10-28: reports/daily/2026/10/2026-10-28.md + C1–C8，PARTIAL BOUNDED / NO VERIFIED TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R146 | reports/weekly/2026/2026-W44.md#L39 | - 2026-10-30: merged native C1–C8 Daily，PARTIAL BOUNDED / NO VERIFIED TRANSITION | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R147 | reports/weekly/2026/2026-W44.md#L42 | - monthly_boundary: October OPEN through 31 Oct，1 Nov belongs to next month | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R148 | reports/weekly/2026/2026-W44.md#L62 | - falsifier: 完整可核对的权威时间序列解决 20256913-T-907 的历史状态冲突 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R149 | reports/weekly/2026/2026-W44.md#L77 | 2026-10-27 04:58:34 Asia/Shanghai 复核四个 SAMR 精确对象和 ITU-T F.748.93，当前展示未见变化，未获得日期化转换或独立一致性证据，H44-1~3 保持 OPEN / UNCHANGED，同源重复不增加 strengthening | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R150 | reports/weekly/2026/2026-W44.md#L85 | 2026-10-29 07:08:16 Asia/Shanghai 复核四个 SAMR 精确对象和 ITU-T F.748.93，当前展示无核实的本日转换，H44-1~3 OPEN / UNCHANGED，同源观察不增加独立 strengthening，其他中国 AI 事件 NOT_ASSESSED | Decision: EXPLICIT_UNASSESSED_OR_UNVERIFIED_SCOPE
+- R151 | reports/weekly/2026/2026-W44.md#L107 | - 20265083-Z-469｜指导性技术文件登记｜正在起草｜登记 2026-09-28｜https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372 | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R152 | reports/weekly/2026/2026-W44.md#L109 | - 20256913-T-907｜推荐性国家标准计划｜正在批准｜下达 2025-12-31｜https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E | Decision: EXACT_STANDARD_OBJECT_STATUS_NOT_CERTIFICATION
+- R153 | reports/weekly/2026/2026-W44.md#L115 | - native record: reports/daily/2026/10/2026-10-31.md | Decision: PERIOD_BOUNDARY_WITH_ORIGINAL_GAP
+## Source-object and historical custody reconciliations
+- J01 | Nov 1 and Nov 2 SAMR three guidance registration objects remain 正在起草, not certified published standards
+- J02 | 20256913-T-907 is TC609 recommended national standard PLAN 正在批准, not a current in-force standard
+- J03 | ITU-T F.748.93 In force (prepublished) differs from publicly accessible full normative text
+- J04 | ITU TIES-restricted full text does not justify clause-level crosswalk or deployment conformance
+- J05 | Registration identifiers 20265082-Z-469 and 20265083-Z-469 are distinct source objects even when within same committee
+- J06 | No verified 11/1→11/2 exact-object legal state transition was observed in native Daily
+- J07 | One Daily C1–C8 native pack equals one logical source study, not eight independent experiments
+- J08 | Other China AI research areas explicitly NOT_ASSESSED remain unknown, not negative publication proof
+- J09 | The four SAMR objects and one ITU object are five exact objects, not a comprehensive national standards census
+- J10 | The standard plan's six-month-after-publication clause is conditional, not publication or effective-date evidence
+- J11 | W44 closed 7/7 across Oct26–Nov1, but November month is OPEN
+- J12 | W45 starts Nov2 and cannot be declared final after one logical date
+- J13 | October 30/31 with Oct12 genuine gap remains CLOSED_WITH_GAPS and cannot be silently repaired
+- J14 | Multiple official issuer pages may support their own object states but do not establish external implementation
+- J15 | 11/3 unchanged exact-object status is outside the A1 cutoff, reserved for A2
+- J16 | No independent conformance test, full-text review or real application adoption is credited
+- J17 | Original October A2 0/10 strict historical acceptance remains unchanged
+- J18 | Only this independent review file is written; registry/watchlist and original Daily sources preserved
+## Strict review conclusion and limits
+- Nov1 and Nov2 native Daily one C1-C8 pack per date, two logical days only
+- Exact official state observations valid only within inspected objects; any other area NOT_ASSESSED
+- W44 closed and October CLOSED_WITH_GAPS 30/31, Nov monthly final NOT_DUE
+- No official TCK, local implementations, standards conformance or external effect verified by this maintenance
+- Oct original A2 0/10 strict immutable; current PR acceptance pending remote diff and merge verification
+- Only this dated custody file added; independent A2 requires merged original A1 fresh main
