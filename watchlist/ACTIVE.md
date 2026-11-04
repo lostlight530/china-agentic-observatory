@@ -1,6 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
-Updated: **2026-10-05 · W41 opening**
+- 2026-11-04 current-state successor: C-W31 的 GB/T 48562-2026 正式发布元数据已核实，历史 2026-09-15 与 2026-11-03 状态观察保留，发布 != 实施 != 独立 conformance
+
+Updated: **2026-11-04 · C-W31 exact-object publication recovery**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
@@ -36,7 +38,7 @@ Updated: **2026-10-05 · W41 opening**
 | C-W28 | Can TC609, TC28 and TC591 establish formal lifecycle crosswalks? | **OPEN / W35 PRIORITY** | Joint standards text, shared metrics, implementation pilots |
 | C-W29 | How are dynamic interaction data filtered for privacy, poisoning, bias and unsafe behavior before reuse? | **STRENGTHENED / open** | Governance guidance and production practice |
 | C-W30 | Which public cases demonstrate a traceable data flywheel rather than only using the term? | **STRONGLY STRENGTHENED / W35 PRIORITY** | More repeatable sector cases with version/task evidence |
-| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **CURRENT-STATE CONFLICT / OPEN** | Stable authoritative state, approval/publication outcome and final technical content |
+| C-W31 | What exact indicators and weighting rules emerge in `20256913-T-907`? | **PUBLISHED_METADATA_CONFIRMED / CONTENT_OPEN** | GB/T 48562-2026 正式全文与指标、权重、实施与 conformance 证据；历史门户展示变更日仍 UNVERIFIED |
 | C-W32 | Does `20262581-Z-907` move from drafting into consultation with executable system requirements? | OPEN | SAMR project-state transition and draft text |
 | C-W33 | Can quality evaluation preserve provenance across real-machine, simulation, training-base and interaction feedback data? | **STRONGLY STRENGTHENED / open** | Version/provenance + quality-evaluation crosswalk |
 | C-W34 | How are quality rejection, reweighting, recollection and relabeling decisions represented? | **STRONGLY STRENGTHENED / W35 PRIORITY** | 模数共振 names targeted optimization; need formal task/state representation |
@@ -94,7 +96,7 @@ Updated: **2026-10-05 · W41 opening**
 2. **C-W78** — formal security / identity / authorization crosswalk for F.748.93 interoperability objects
 3. **C-W35 / C-W50** — quality/evaluation states → rights, permitted use, access or training-admission decisions
 4. **C-W52 / C-W57** — violation / termination evidence → scoped credential, access or contract review
-5. **C-W31** — `20256913-T-907` current-state conflict; keep point-in-time observations separate from unverified transition sequence
+5. **C-W31** — 2026-11-04 当前发布元数据已确认；指标/权重及实施仍 OPEN，历史门户展示转换日期 UNVERIFIED
 6. **C-W77** — F.748.93 implementation / conformance / interoperable deployment evidence remains open
 
 ## Closed this cycle / 已关闭问题

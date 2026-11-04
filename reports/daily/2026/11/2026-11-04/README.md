@@ -1,0 +1,35 @@
+# China native C1–C8 pack — 2026-11-04
+
+- logical_date: 2026-11-04 Asia/Shanghai
+- observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai
+- observation_utc: 2026-11-04T04:51:11Z
+- repository_base_main: f61f6694eca7526fd759e263d499215c15cd86eb
+- record_class: NATIVE_DAILY_RESEARCH
+- result: OFFICIAL_PUBLICATION_RECOVERED / PARTIAL_BOUNDED
+- first_party_claim: published GB/T 48562-2026, effective 2027-05-01
+- evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN
+- event_date: 2026-10-30 (publication metadata, NOT first observed)
+- publication_date: 2026-10-30 (official metadata)
+- effective_date: 2027-05-01 (scheduled, NOT_DUE)
+- observed_at: 2026-11-04 12:51:11 Asia/Shanghai
+- state_transition_date: UNVERIFIED (portal display chronology)
+- later_correction_date: 2026-11-04 (relative to 2026-11-03 historical approval display)
+- delivery_merge_date: NOT_YET_VERIFIED_AT_PRODUCTION
+- same_issuer_evidence: NOT_INDEPENDENT_CORROBORATION
+- runtime_TCK_CI_conformance: NOT_EXECUTED
+- scope: five exact standardization/ITU objects, other AI areas NOT_ASSESSED
+- W45: OPEN 3/7 already merged, 2026-11-04 is fourth original native logical day proposed
+- November: OPEN 2026-11-01..04 original native dates, 2026-11-05..30 NOT_DUE
+- October: CLOSED_WITH_GAPS 30/31, October 12 ZERO_NATIVE_DAILY_CREDIT
+
+- [Integrated Daily](../2026-11-04.md)
+- [C1｜历史、国家战略与政策](./C1-history-policy.md)
+- [C2｜标准、协议、身份与互联](./C2-standards-protocols.md)
+- [C3｜科研、模型与评测](./C3-research-models.md)
+- [C4｜智能体、平台、开源与工程](./C4-agents-open-source.md)
+- [C5｜芯片、算力、数据与产业基础设施](./C5-infrastructure-industry.md)
+- [C6｜应用场景、安全治理与社会影响](./C6-applications-governance.md)
+- [C7｜中国与全球路线关系](./C7-china-global.md)
+- [C8｜跨任务综合与判断修正](./C8-synthesis.md)
+- pack_count: 1 integrated + C1–C8 + README = 10
+- provenance: OFFICIAL_PUBLICATION_RECOVERED with publication_date != observed_at
