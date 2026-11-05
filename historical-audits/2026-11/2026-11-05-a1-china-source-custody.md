@@ -73,3 +73,80 @@
 - O16 reports/daily/2026/11/2026-11-04.md#L39: - 11 月 3 日 05:02:07 的 `正在批准` 属于当时留下的原生观察，绝不倒写为已发布 | OFFICIAL_PUBLICATION_ONLY
 
 ## Nov4 C1–C8 component evidence appendix to follow
+
+
+## Nov4 original C1–C8 evidence: full component-level source inspection
+### reports/daily/2026/11/2026-11-04/README.md | blob 8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f | 36 lines read
+- N001 reports/daily/2026/11/2026-11-04/README.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N002 reports/daily/2026/11/2026-11-04/README.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N003 reports/daily/2026/11/2026-11-04/README.md#L5: - observation_utc: 2026-11-04T04:51:11Z | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N004 reports/daily/2026/11/2026-11-04/README.md#L9: - first_party_claim: published GB/T 48562-2026, effective 2027-05-01 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N005 reports/daily/2026/11/2026-11-04/README.md#L10: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N006 reports/daily/2026/11/2026-11-04/README.md#L11: - event_date: 2026-10-30 (publication metadata, NOT first observed) | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C1-history-policy.md | blob ef345cb5c64661aca800a7141e9c69a376c2e657 | 22 lines read
+- N007 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N008 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N009 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N010 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L11: TC609 国家标准发布是有明确机构归属的规范对象事实，当前显示发布与未来实施，不证明国家级数据生态已达到广泛执行 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N011 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L14: 2026-10-30 为官方发布日期，11 月 4 日为本观察站首次本轮识别的正式发布证据，绝不将事件日期伪装为观察日期 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N012 reports/daily/2026/11/2026-11-04/C1-history-policy.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C2-standards-protocols.md | blob 699db4661554add9bed4018f470bd9400ec063b8 | 24 lines read
+- N013 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N014 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N015 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N016 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L11: TC28 非 API 智能体协同、上下文共享仍是两份独立指导性技术文件登记并处于起草状态，不能因 TC609 发布成果而推断其成熟 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N017 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L14: ITU-T F.748.93 的 prepublished Recommendation 与国内 GB/T 正式标准在对象类别和适用内容上不同，没有取得规范性 crosswalk | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N018 reports/daily/2026/11/2026-11-04/C2-standards-protocols.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C3-research-models.md | blob 5a210d104773adeb85ef24b6fab8b1d017391446 | 23 lines read
+- N019 reports/daily/2026/11/2026-11-04/C3-research-models.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N020 reports/daily/2026/11/2026-11-04/C3-research-models.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N021 reports/daily/2026/11/2026-11-04/C3-research-models.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N022 reports/daily/2026/11/2026-11-04/C3-research-models.md#L11: GB/T 48562-2026 质量测评规范正式元数据已确认，但未从可核实的完整条文证明任何具体指标、权重、基准模型或科学复现 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N023 reports/daily/2026/11/2026-11-04/C3-research-models.md#L14: 20262581-Z-907 是不同的质量评测系统技术要求指导性文件登记，仍在起草，不能继承 GB/T 成熟度 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N024 reports/daily/2026/11/2026-11-04/C3-research-models.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C4-agents-open-source.md | blob 5af48036cea099189b39c09701f92208c916008c | 23 lines read
+- N025 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N026 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N027 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N028 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L11: 20265082 非 API 操作语义与 20265083 上下文共享是两个互不代替的精确对象，均处于起草登记 | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N029 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+- N030 reports/daily/2026/11/2026-11-04/C4-agents-open-source.md#L21: - https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md | blob 37e511eece877815bb7c9b67ceb463e49eba78dd | 23 lines read
+- N031 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N032 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N033 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N034 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L11: 高质量数据集质量测评规范的发布日期与未来实施日期已确认，只能推导标准文档生命周期而非质量测评基础设施已上线 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N035 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L14: 20262581 的系统技术要求仍在起草，行业推广、硬件平台与生产系统运行 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+- N036 reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C6-applications-governance.md | blob a67f1c8a2398124610e5a17c43b5e1539c930918 | 22 lines read
+- N037 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N038 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N039 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N040 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L11: 正式标准发布日期不等于符合性认证、数据质量评测实际执行或产业采纳，实施日期尚未到 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N041 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L14: 没有独立运行、行业部署数量、审计事件或用户影响的可复核运行证据，其他应用领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+- N042 reports/daily/2026/11/2026-11-04/C6-applications-governance.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C7-china-global.md | blob 46b784e15f917cdfa40491b733bc2a0608cafd93 | 23 lines read
+- N043 reports/daily/2026/11/2026-11-04/C7-china-global.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N044 reports/daily/2026/11/2026-11-04/C7-china-global.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N045 reports/daily/2026/11/2026-11-04/C7-china-global.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N046 reports/daily/2026/11/2026-11-04/C7-china-global.md#L11: GB/T 48562-2026 为 TC609 质量测评规范；ITU-T F.748.93 为 AI Agent 互操作框架 Recommendation | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N047 reports/daily/2026/11/2026-11-04/C7-china-global.md#L14: 标准对象、机构权限、文本可访问性、条款对象及运行证据均不同，标题相关性不是正式 crosswalk | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N048 reports/daily/2026/11/2026-11-04/C7-china-global.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+### reports/daily/2026/11/2026-11-04/C8-synthesis.md | blob 8d58446e962a160751af5bf84cab0ebc8498287e | 23 lines read
+- N049 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L3: - logical_date: 2026-11-04 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N050 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L4: - observation_cutoff: 2026-11-04 12:51:11 Asia/Shanghai | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N051 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L7: - evidence: OFFICIAL_FACT / OBSERVATORY_ANALYSIS | Decision ISSUER_OBJECT_ONLY, no installed conformity inferred
+- N052 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L11: 确认历史状态解释必须向前修正：现已拥有官方发布日期与未来实施日期，但无法证明门户何时从旧显示变为已发布 | Decision PUBLICATION_VS_PLAN, no installed conformity inferred
+- N053 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L14: W45 H45-2 保持 OPEN，其中 PUBLICATION_DATE_VERIFIED / DISPLAY_TRANSITION_UNVERIFIED；H45-1、H45-3 保持 OPEN / UNCHANGED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+- N054 reports/daily/2026/11/2026-11-04/C8-synthesis.md#L18: - 执行与独立符合性检查 NOT_EXECUTED，未覆盖的领域 NOT_ASSESSED | Decision NEGATIVE_RETAINED, no installed conformity inferred
+
+## A1 exhaustive cutoff conclusions and next dependency
+- Nov1–4 four original C1–C8 Daily, not 36 independent native executions
+- Nov1–3 27 component Git blobs unchanged, checked against fresh main tree
+- Nov4 nine component files opened with specific source-line decisions and exact Git blobs
+- Nov3 observation of plan 正在批准 and Nov4 source display 已发布 are separate dated facts
+- Formal GB/T 48562-2026 publication dated October 30 and effective 2027-05-01 are independently typed dates; observed portal transition date UNKNOWN
+- ITU prepublished technical statement and SAMR registration items do not establish a clause-level legal or interoperability crosswalk
+- November month OPEN and W45 OPEN; original Oct12 native gap remains missing, no backfill
+- This source maintenance did not conduct a live SAMR/ITU requery, independent standard conformance, or production effect test
+- This original A1 has no changes to native research or owning month; Nov5 A2 must fresh-read this A1 after merge and then include Nov5 no-material-change evidence
