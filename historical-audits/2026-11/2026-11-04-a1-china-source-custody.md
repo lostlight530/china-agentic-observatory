@@ -227,3 +227,79 @@
 - 2026-11-02/E052 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
 - 2026-11-02/E053 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
 - 2026-11-02/E054 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+
+
+## 2026-11-03 native exact-object recheck and C1–C8 component source judgments
+### `reports/daily/2026/11/2026-11-03/README.md` | blob `2f0bf464c01afa95468bfa63078b2d58853e0230` | 32 source lines
+- 2026-11-03/E001 `reports/daily/2026/11/2026-11-03/README.md#L2`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E002 `reports/daily/2026/11/2026-11-03/README.md#L3`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E003 `reports/daily/2026/11/2026-11-03/README.md#L4`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E004 `reports/daily/2026/11/2026-11-03/README.md#L7`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E005 `reports/daily/2026/11/2026-11-03/README.md#L8`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E006 `reports/daily/2026/11/2026-11-03/README.md#L9`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C1-history-policy.md` | blob `384edb3d9e5c1aac4b0eabca4eb6a42281606ced` | 46 source lines
+- 2026-11-03/E007 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E008 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E009 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E010 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E011 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E012 `reports/daily/2026/11/2026-11-03/C1-history-policy.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` | blob `7254c408cb732387461e3a48db3fd02015f8e487` | 46 source lines
+- 2026-11-03/E013 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E014 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E015 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E016 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E017 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E018 `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C3-research-models.md` | blob `ddad24ff999aed449133b93e11a396171d8c84de` | 46 source lines
+- 2026-11-03/E019 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E020 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E021 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E022 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E023 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E024 `reports/daily/2026/11/2026-11-03/C3-research-models.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` | blob `ed5ee102075dd8497b85fa62e767625a7572ba51` | 46 source lines
+- 2026-11-03/E025 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E026 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E027 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E028 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E029 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E030 `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` | blob `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c` | 46 source lines
+- 2026-11-03/E031 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E032 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E033 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E034 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E035 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E036 `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` | blob `e91edbd4b3c56e806f459401cda4fec188f79b60` | 46 source lines
+- 2026-11-03/E037 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E038 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E039 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E040 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E041 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E042 `reports/daily/2026/11/2026-11-03/C6-applications-governance.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C7-china-global.md` | blob `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9` | 46 source lines
+- 2026-11-03/E043 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E044 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E045 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E046 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E047 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E048 `reports/daily/2026/11/2026-11-03/C7-china-global.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+### `reports/daily/2026/11/2026-11-03/C8-synthesis.md` | blob `37d4eb02a702fd13473eb968a9d3c49ff4f76283` | 46 source lines
+- 2026-11-03/E049 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L4`: - logical_date: 2026-11-03 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E050 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L5`: - observation_cutoff: 2026-11-03 05:02:07 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E051 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L6`: - observation_utc: 2026-11-02T21:02:07Z — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+- 2026-11-03/E052 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L9`: - evidence_scope: SAMR 四项 exact-object 标准化项目与 ITU-T F.748.93，其他中国 AI 领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E053 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; retain original state at original observation time
+- 2026-11-03/E054 `reports/daily/2026/11/2026-11-03/C8-synthesis.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; retain original state at original observation time
+
+## A1 complete-cutoff interpretation
+- Reviewed original Nov1, Nov2 and Nov3 daily owners and each of the nine native package components per day (three daily identities only)
+- Nov3 C1–C8 published source snapshot still shows 20256913-T-907 `正在批准` as originally observed; Nov4 correction must stay outside the Nov3 original claim
+- Source-page identical rechecks are not independent studies, and 2026-11-05 re-reading this file cannot establish Nov1–3 live portal states by itself
+- W44 Sunday 7/7 closed, W45 has started Nov2 and is NOT_DUE for natural closure, November monthly OPEN
+- GB/T formal publication metadata known later is a forward record with separate actual publication/event, first observer discovery and portal display transition dates
+- Named standard registrations and ITU F.748.93 are different instrument classes, no cross-class aggregation without normative text
+- Evidence remains bounded to quoted official project states, no third-party standard conformance/implementation established
+- Full current-month N−1 input custody is represented here, no native file rewritten; A2 must first read this A1 on merged main then integrate 2026-11-04 original publication correction
