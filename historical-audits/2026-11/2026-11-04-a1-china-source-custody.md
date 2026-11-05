@@ -161,3 +161,69 @@
 - 2026-11-01/E052 `reports/daily/2026/11/2026-11-01/C8-synthesis.md#L5`: - observation_utc: 2026-10-31T20:58:46.232Z — Decision `NATIVE_SOURCE_SCOPE`; original issuer status does not certify third-party conformity
 - 2026-11-01/E053 `reports/daily/2026/11/2026-11-01/C8-synthesis.md#L8`: - evidence_scope: SAMR four exact-object current pages and ITU-T F.748.93; other China AI events NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; original issuer status does not certify third-party conformity
 - 2026-11-01/E054 `reports/daily/2026/11/2026-11-01/C8-synthesis.md#L9`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_TRANSITION — Decision `UNKNOWN_RETAINED`; original issuer status does not certify third-party conformity
+
+
+## 2026-11-02 original C1–C8 source file custody (not eight independent native Daily studies)
+### `reports/daily/2026/11/2026-11-02/README.md` | blob `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395` | 32 source lines
+- 2026-11-02/E001 `reports/daily/2026/11/2026-11-02/README.md#L2`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E002 `reports/daily/2026/11/2026-11-02/README.md#L3`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E003 `reports/daily/2026/11/2026-11-02/README.md#L4`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E004 `reports/daily/2026/11/2026-11-02/README.md#L7`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E005 `reports/daily/2026/11/2026-11-02/README.md#L8`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E006 `reports/daily/2026/11/2026-11-02/README.md#L9`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C1-history-policy.md` | blob `117cb468c597147dfa826dcc22e719b0521380a1` | 46 source lines
+- 2026-11-02/E007 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E008 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E009 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E010 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E011 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E012 `reports/daily/2026/11/2026-11-02/C1-history-policy.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` | blob `19145e2271639b2c5ff672ce3dfead7db1c7e01f` | 46 source lines
+- 2026-11-02/E013 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E014 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E015 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E016 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E017 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E018 `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C3-research-models.md` | blob `472eee40e99e099ed403aa7293bdffb39bfa8942` | 46 source lines
+- 2026-11-02/E019 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E020 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E021 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E022 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E023 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E024 `reports/daily/2026/11/2026-11-02/C3-research-models.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` | blob `8b14551cad268842b8d6355984e0bc209bb5165b` | 46 source lines
+- 2026-11-02/E025 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E026 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E027 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E028 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E029 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E030 `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` | blob `c147df9778d7e5406ac98b8b553f2d0440c30a64` | 46 source lines
+- 2026-11-02/E031 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E032 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E033 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E034 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E035 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E036 `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` | blob `2741b7741be5a2bef24f8b907e524c05f826f9e9` | 46 source lines
+- 2026-11-02/E037 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E038 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E039 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E040 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E041 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E042 `reports/daily/2026/11/2026-11-02/C6-applications-governance.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C7-china-global.md` | blob `eaf5b9a373f41872a6079ea87e3d38dbeddbad79` | 46 source lines
+- 2026-11-02/E043 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E044 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E045 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E046 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E047 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E048 `reports/daily/2026/11/2026-11-02/C7-china-global.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+### `reports/daily/2026/11/2026-11-02/C8-synthesis.md` | blob `7388141a697aa83be758058d6cc29c75be65f84d` | 46 source lines
+- 2026-11-02/E049 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L4`: - logical_date: 2026-11-02 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E050 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L5`: - observation_cutoff: 2026-11-02 05:02:20 Asia/Shanghai — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E051 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L6`: - observation_utc: 2026-11-01T21:02:20.144Z — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
+- 2026-11-02/E052 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L9`: - evidence_scope: SAMR 四项精确对象及 ITU-T F.748.93；其他领域 NOT_ASSESSED — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E053 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L10`: - result: PARTIAL_BOUNDED / NO_VERIFIED_NEW_EXACT_OBJECT_TRANSITION — Decision `UNKNOWN_RETAINED`; no inferred live deployed effect
+- 2026-11-02/E054 `reports/daily/2026/11/2026-11-02/C8-synthesis.md#L11`: - evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN — Decision `NATIVE_SOURCE_SCOPE`; no inferred live deployed effect
