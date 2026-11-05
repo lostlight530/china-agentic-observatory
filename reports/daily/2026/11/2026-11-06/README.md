@@ -1,0 +1,35 @@
+# China native C1–C8 pack — 2026-11-06
+
+- logical_date: 2026-11-06 Asia/Shanghai
+- observation_cutoff: 2026-11-06 07:29:52 Asia/Shanghai
+- observation_utc: 2026-11-05T23:29:52.527Z
+- source_scope: six named SAMR/ITU exact-object surfaces, not all AI domains
+- repository_base_main: 1d083dc0db2f7a2502e09a0d3647bdb0153d6844
+- record_class: NATIVE_DAILY_RESEARCH
+- result: NO_MATERIAL_CHANGE_IN_ASSESSED_OBJECTS / PARTIAL_BOUNDED
+- evidence_class: OFFICIAL_FACT / OBSERVATORY_ANALYSIS / UNCERTAIN
+- observed_at: 2026-11-06 07:29:52 Asia/Shanghai
+- event_date: NO_NEW_DATED_EVENT_VERIFIED
+- publication_date: GB/T 48562-2026 published 2026-10-30 (official metadata, not today)
+- effective_date: GB/T 48562-2026 scheduled 2027-05-01 / NOT_DUE
+- state_transition_date: portal display switch UNVERIFIED
+- later_correction_date: NOT_APPLICABLE_TO_TODAY
+- delivery_merge_date: NOT_YET_VERIFIED_AT_PRODUCTION
+- original_native_coverage: Nov 1–5 five merged dates on base main; Nov 6 sixth proposed date; Nov 7–30 NOT_DUE
+- W45: OPEN / 5 of 7 merged on base main, sixth proposed; Nov 7–8 NOT_DUE
+- November: OPEN / not month-end
+- October: CLOSED_WITH_GAPS / 30 of 31 / Oct 12 ZERO_NATIVE_DAILY_CREDIT
+- same_issuer_recheck: NOT_INDEPENDENT_STRENGTHENING
+- repo_checker_CI_TCK_external_runtime_conformance: NOT_EXECUTED_BY_THIS_RESEARCH
+
+- [Integrated Daily](../2026-11-06.md)
+- [历史、国家战略与政策](./C1-history-policy.md)
+- [标准、协议、身份与互联](./C2-standards-protocols.md)
+- [科研、模型与评测](./C3-research-models.md)
+- [智能体、平台、开源与工程](./C4-agents-open-source.md)
+- [芯片、算力、数据与产业基础设施](./C5-infrastructure-industry.md)
+- [应用场景、安全治理与社会影响](./C6-applications-governance.md)
+- [中国与全球路线关系](./C7-china-global.md)
+- [跨任务综合与判断修正](./C8-synthesis.md)
+- pack_count: 1 integrated + C1–C8 + README = 10
+- source_independence: same SAMR issuer status recheck is not independent strengthening
