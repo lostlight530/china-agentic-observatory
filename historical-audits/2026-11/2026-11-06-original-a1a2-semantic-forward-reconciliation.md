@@ -89,3 +89,30 @@
 - Certification rule: no original is marked semantic PASS without an independently checked exact-line inclusion/exclusion ledger achieving 100 eligible, different source-specific judgments for *that original*, with citation to its original diff. Higher GitHub additions alone cannot supply that ledger.
 - Next legal action: review and adjudicate each specific row; where the strict criterion is actually unmet, a separately scoped successor may be proposed, but must not be retroactively counted toward the original. Stop at Draft until maintainer decision.
 - Current status: ORIGINAL_NUMERIC_GATE_VERIFIED / ORIGINAL_STRICT_SUBSTANTIVE_NOT_CLOSED / FORWARD_CORRECTION_DELIVERED.
+
+## 2026-11-06 exact original-diff line-screening ledger
+
+- Source of truth: literal added lines in exact original PR diff, never current main line count or this later correction PR.
+- Structural excluded = headings, empty lines, separators and code-fence markers. Quoted-source pattern = original native Daily line restated with source file #L and repeated short status suffix; flag is **not automatic semantic exclusion**.
+- Conditional ceiling = nonstructural original additions minus source quote flagged rows. If the quoted rows have no new independent inference, any conditional ceiling below 100 means the original cannot satisfy the strict threshold. This remains an evidence conditional rather than a verified fail until each flagged line is assessed.
+- This mechanical audit cannot manufacture independent reviewer execution. Strict PASS requires accepted >=100 distinct new, claim-specific maintenance judgments per original PR.
+
+| Original | Added | Structural | Source quote flags | Other citation/decision flags | Nonstructural maximum | Conditional maximum | Result |
+|---|---:|---:|---:|---:|---:|---:|---|
+| [#230](https://github.com/lostlight530/china-agentic-observatory/pull/230/files) | 148 | 10 | 0 | 0 | 138 | 138 | NOT_CERTIFIED |
+| [#231](https://github.com/lostlight530/china-agentic-observatory/pull/231/files) | 136 | 12 | 0 | 0 | 124 | 124 | NOT_CERTIFIED |
+| [#237](https://github.com/lostlight530/china-agentic-observatory/pull/237/files) | 305 | 49 | 162 | 218 | 256 | 94 | NOT_CERTIFIED |
+| [#238](https://github.com/lostlight530/china-agentic-observatory/pull/238/files) | 160 | 27 | 54 | 94 | 133 | 79 | NOT_CERTIFIED |
+| [#239](https://github.com/lostlight530/china-agentic-observatory/pull/239/files) | 152 | 25 | 70 | 70 | 127 | 57 | NOT_CERTIFIED |
+| [#240](https://github.com/lostlight530/china-agentic-observatory/pull/240/files) | 159 | 25 | 54 | 95 | 134 | 80 | NOT_CERTIFIED |
+
+### Traceable original line samples
+- #230: original diff changed `historical-audits/2026-11/2026-11-02-a1-china-source-custody.md`; flagged source-quote sample none by narrow pattern. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+- #231: original diff changed `reports/monthly/2026/2026-11.md`; flagged source-quote sample none by narrow pattern. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+- #237: original diff changed `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md`; flagged source-quote sample `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md#L102`, `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md#L103`, `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md#L104`. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+- #238: original diff changed `reports/monthly/2026/2026-11.md`; flagged source-quote sample `reports/monthly/2026/2026-11.md#L510`, `reports/monthly/2026/2026-11.md#L511`, `reports/monthly/2026/2026-11.md#L512`. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+- #239: original diff changed `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md`; flagged source-quote sample `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md#L58`, `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md#L59`, `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md#L60`. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+- #240: original diff changed `reports/monthly/2026/2026-11.md`; flagged source-quote sample `reports/monthly/2026/2026-11.md#L668`, `reports/monthly/2026/2026-11.md#L669`, `reports/monthly/2026/2026-11.md#L670`. Context and new judgment must be individually decided; no repeated issuer status counts as a second source.
+
+- Numerical original PR 100+ additions gate: PASS. Substantive independence gate: NOT_CERTIFIED. New forward evidence cannot increase original diff or turn task-time unknown/blocked into success.
+- No native research run, code/checker execution, external independent recertification or current month final seal performed by this ledger.
