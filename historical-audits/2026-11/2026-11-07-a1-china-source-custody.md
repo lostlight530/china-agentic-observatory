@@ -17,78 +17,78 @@
 - A row is a custody disposition only; repetitive per-path rows do not satisfy semantic substantive-content acceptance
 | Exact path | Current Git blob | A1 custody action | Earlier covered blob |
 |---|---|---|---|
-| `historical-audits/2026-11/2026-11-02-a1-china-source-custody.md` | `1f80ad1e663c0c78a73f785bf5bab44d3af9b548` | UNCHANGED_PREDECESSOR_REUSE | `1f80ad1e663c0c78a73f785bf5bab44d3af9b548` |
-| `historical-audits/2026-11/2026-11-03-a1-china-source-custody.md` | `4384e12d42d97591f123beef694f7dd7fd8f8309` | UNCHANGED_PREDECESSOR_REUSE | `4384e12d42d97591f123beef694f7dd7fd8f8309` |
-| `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md` | `3c0164bb64c3f66508e29b4b4258c9611e177171` | UNCHANGED_PREDECESSOR_REUSE | `3c0164bb64c3f66508e29b4b4258c9611e177171` |
-| `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md` | `05199b1b14be03549d607c2523fe72491c3e047e` | UNCHANGED_PREDECESSOR_REUSE | `05199b1b14be03549d607c2523fe72491c3e047e` |
-| `historical-audits/2026-11/2026-11-06-a1-china-source-custody.md` | `8318dd41756d6137b7b2c65b8917574db86d2d50` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `historical-audits/2026-11/2026-11-06-a2-china-month-relations.md` | `7398d4c4bf5b5298792a770487b82e01559b2532` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `historical-audits/2026-11/2026-11-06-original-a1a2-semantic-forward-reconciliation.md` | `eae7ed8b720eb5d90dfc2df5f12933ed673cdcb1` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-01.md` | `01ef8d314ff6ae7706953392525ae5f96011d9eb` | UNCHANGED_PREDECESSOR_REUSE | `01ef8d314ff6ae7706953392525ae5f96011d9eb` |
-| `reports/daily/2026/11/2026-11-01/C1-history-policy.md` | `b41c08c4b064d6b2b4fcb7a7d764791b30489033` | UNCHANGED_PREDECESSOR_REUSE | `b41c08c4b064d6b2b4fcb7a7d764791b30489033` |
-| `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` | `6f3b9966cd2661e05fe4ee818974d3909189cc2c` | UNCHANGED_PREDECESSOR_REUSE | `6f3b9966cd2661e05fe4ee818974d3909189cc2c` |
-| `reports/daily/2026/11/2026-11-01/C3-research-models.md` | `df45860e4595a6af71a63221be254d98ac4fd20e` | UNCHANGED_PREDECESSOR_REUSE | `df45860e4595a6af71a63221be254d98ac4fd20e` |
-| `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` | `b5b1434cebb132405a5401b46bb2c807657d8236` | UNCHANGED_PREDECESSOR_REUSE | `b5b1434cebb132405a5401b46bb2c807657d8236` |
-| `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` | `11b258f3737ffea2cf3fec22b509d25eaf936903` | UNCHANGED_PREDECESSOR_REUSE | `11b258f3737ffea2cf3fec22b509d25eaf936903` |
-| `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` | `3fd8b33fb8e947187f1ac0a48f6429630b7817e2` | UNCHANGED_PREDECESSOR_REUSE | `3fd8b33fb8e947187f1ac0a48f6429630b7817e2` |
-| `reports/daily/2026/11/2026-11-01/C7-china-global.md` | `bd57a3b0ab343bba3cdc3a18b74eac093816925c` | UNCHANGED_PREDECESSOR_REUSE | `bd57a3b0ab343bba3cdc3a18b74eac093816925c` |
-| `reports/daily/2026/11/2026-11-01/C8-synthesis.md` | `c571ac1e818f5a2d58f6aec221b2ac9a57deef01` | UNCHANGED_PREDECESSOR_REUSE | `c571ac1e818f5a2d58f6aec221b2ac9a57deef01` |
-| `reports/daily/2026/11/2026-11-01/README.md` | `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63` | UNCHANGED_PREDECESSOR_REUSE | `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63` |
-| `reports/daily/2026/11/2026-11-02.md` | `623d794d1e4663cb9277e7294febca698d1f8224` | UNCHANGED_PREDECESSOR_REUSE | `623d794d1e4663cb9277e7294febca698d1f8224` |
-| `reports/daily/2026/11/2026-11-02/C1-history-policy.md` | `117cb468c597147dfa826dcc22e719b0521380a1` | UNCHANGED_PREDECESSOR_REUSE | `117cb468c597147dfa826dcc22e719b0521380a1` |
-| `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` | `19145e2271639b2c5ff672ce3dfead7db1c7e01f` | UNCHANGED_PREDECESSOR_REUSE | `19145e2271639b2c5ff672ce3dfead7db1c7e01f` |
-| `reports/daily/2026/11/2026-11-02/C3-research-models.md` | `472eee40e99e099ed403aa7293bdffb39bfa8942` | UNCHANGED_PREDECESSOR_REUSE | `472eee40e99e099ed403aa7293bdffb39bfa8942` |
-| `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` | `8b14551cad268842b8d6355984e0bc209bb5165b` | UNCHANGED_PREDECESSOR_REUSE | `8b14551cad268842b8d6355984e0bc209bb5165b` |
-| `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` | `c147df9778d7e5406ac98b8b553f2d0440c30a64` | UNCHANGED_PREDECESSOR_REUSE | `c147df9778d7e5406ac98b8b553f2d0440c30a64` |
-| `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` | `2741b7741be5a2bef24f8b907e524c05f826f9e9` | UNCHANGED_PREDECESSOR_REUSE | `2741b7741be5a2bef24f8b907e524c05f826f9e9` |
-| `reports/daily/2026/11/2026-11-02/C7-china-global.md` | `eaf5b9a373f41872a6079ea87e3d38dbeddbad79` | UNCHANGED_PREDECESSOR_REUSE | `eaf5b9a373f41872a6079ea87e3d38dbeddbad79` |
-| `reports/daily/2026/11/2026-11-02/C8-synthesis.md` | `7388141a697aa83be758058d6cc29c75be65f84d` | UNCHANGED_PREDECESSOR_REUSE | `7388141a697aa83be758058d6cc29c75be65f84d` |
-| `reports/daily/2026/11/2026-11-02/README.md` | `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395` | UNCHANGED_PREDECESSOR_REUSE | `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395` |
-| `reports/daily/2026/11/2026-11-03.md` | `432797681637d2cfb85884cf5c63046c751371a8` | UNCHANGED_PREDECESSOR_REUSE | `432797681637d2cfb85884cf5c63046c751371a8` |
-| `reports/daily/2026/11/2026-11-03/C1-history-policy.md` | `384edb3d9e5c1aac4b0eabca4eb6a42281606ced` | UNCHANGED_PREDECESSOR_REUSE | `384edb3d9e5c1aac4b0eabca4eb6a42281606ced` |
-| `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` | `7254c408cb732387461e3a48db3fd02015f8e487` | UNCHANGED_PREDECESSOR_REUSE | `7254c408cb732387461e3a48db3fd02015f8e487` |
-| `reports/daily/2026/11/2026-11-03/C3-research-models.md` | `ddad24ff999aed449133b93e11a396171d8c84de` | UNCHANGED_PREDECESSOR_REUSE | `ddad24ff999aed449133b93e11a396171d8c84de` |
-| `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` | `ed5ee102075dd8497b85fa62e767625a7572ba51` | UNCHANGED_PREDECESSOR_REUSE | `ed5ee102075dd8497b85fa62e767625a7572ba51` |
-| `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` | `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c` | UNCHANGED_PREDECESSOR_REUSE | `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c` |
-| `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` | `e91edbd4b3c56e806f459401cda4fec188f79b60` | UNCHANGED_PREDECESSOR_REUSE | `e91edbd4b3c56e806f459401cda4fec188f79b60` |
-| `reports/daily/2026/11/2026-11-03/C7-china-global.md` | `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9` | UNCHANGED_PREDECESSOR_REUSE | `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9` |
-| `reports/daily/2026/11/2026-11-03/C8-synthesis.md` | `37d4eb02a702fd13473eb968a9d3c49ff4f76283` | UNCHANGED_PREDECESSOR_REUSE | `37d4eb02a702fd13473eb968a9d3c49ff4f76283` |
-| `reports/daily/2026/11/2026-11-03/README.md` | `2f0bf464c01afa95468bfa63078b2d58853e0230` | UNCHANGED_PREDECESSOR_REUSE | `2f0bf464c01afa95468bfa63078b2d58853e0230` |
-| `reports/daily/2026/11/2026-11-04.md` | `e0bc133594865df764ab0702dd714505d0fb63d2` | UNCHANGED_PREDECESSOR_REUSE | `e0bc133594865df764ab0702dd714505d0fb63d2` |
-| `reports/daily/2026/11/2026-11-04/C1-history-policy.md` | `ef345cb5c64661aca800a7141e9c69a376c2e657` | UNCHANGED_PREDECESSOR_REUSE | `ef345cb5c64661aca800a7141e9c69a376c2e657` |
-| `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` | `699db4661554add9bed4018f470bd9400ec063b8` | UNCHANGED_PREDECESSOR_REUSE | `699db4661554add9bed4018f470bd9400ec063b8` |
-| `reports/daily/2026/11/2026-11-04/C3-research-models.md` | `5a210d104773adeb85ef24b6fab8b1d017391446` | UNCHANGED_PREDECESSOR_REUSE | `5a210d104773adeb85ef24b6fab8b1d017391446` |
-| `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` | `5af48036cea099189b39c09701f92208c916008c` | UNCHANGED_PREDECESSOR_REUSE | `5af48036cea099189b39c09701f92208c916008c` |
-| `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` | `37e511eece877815bb7c9b67ceb463e49eba78dd` | UNCHANGED_PREDECESSOR_REUSE | `37e511eece877815bb7c9b67ceb463e49eba78dd` |
-| `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` | `a67f1c8a2398124610e5a17c43b5e1539c930918` | UNCHANGED_PREDECESSOR_REUSE | `a67f1c8a2398124610e5a17c43b5e1539c930918` |
-| `reports/daily/2026/11/2026-11-04/C7-china-global.md` | `46b784e15f917cdfa40491b733bc2a0608cafd93` | UNCHANGED_PREDECESSOR_REUSE | `46b784e15f917cdfa40491b733bc2a0608cafd93` |
-| `reports/daily/2026/11/2026-11-04/C8-synthesis.md` | `8d58446e962a160751af5bf84cab0ebc8498287e` | UNCHANGED_PREDECESSOR_REUSE | `8d58446e962a160751af5bf84cab0ebc8498287e` |
-| `reports/daily/2026/11/2026-11-04/README.md` | `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f` | UNCHANGED_PREDECESSOR_REUSE | `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f` |
-| `reports/daily/2026/11/2026-11-05.md` | `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1` | UNCHANGED_PREDECESSOR_REUSE | `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1` |
-| `reports/daily/2026/11/2026-11-05/C1-history-policy.md` | `1e2019b7d8090adc79b54d345f8941e474a584c6` | UNCHANGED_PREDECESSOR_REUSE | `1e2019b7d8090adc79b54d345f8941e474a584c6` |
-| `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` | `ef5e3dc05c80b4ee9675555a9092ccab949082cc` | UNCHANGED_PREDECESSOR_REUSE | `ef5e3dc05c80b4ee9675555a9092ccab949082cc` |
-| `reports/daily/2026/11/2026-11-05/C3-research-models.md` | `a3eab7cca684234ba5284553a693faa311ef74f5` | UNCHANGED_PREDECESSOR_REUSE | `a3eab7cca684234ba5284553a693faa311ef74f5` |
-| `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` | `1951a5663477d76345f7e55e522b11b0c6ab3a6e` | UNCHANGED_PREDECESSOR_REUSE | `1951a5663477d76345f7e55e522b11b0c6ab3a6e` |
-| `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` | `5423d0226a7d8d780d94a89eca6f707d76c782e0` | UNCHANGED_PREDECESSOR_REUSE | `5423d0226a7d8d780d94a89eca6f707d76c782e0` |
-| `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` | `51380d3fe4fec4170c1963797052e1032de6d788` | UNCHANGED_PREDECESSOR_REUSE | `51380d3fe4fec4170c1963797052e1032de6d788` |
-| `reports/daily/2026/11/2026-11-05/C7-china-global.md` | `f0634f29e9b05543001abc13017431f32aefc16c` | UNCHANGED_PREDECESSOR_REUSE | `f0634f29e9b05543001abc13017431f32aefc16c` |
-| `reports/daily/2026/11/2026-11-05/C8-synthesis.md` | `d9b98dda68209186b4f74f215e8609db2075b989` | UNCHANGED_PREDECESSOR_REUSE | `d9b98dda68209186b4f74f215e8609db2075b989` |
-| `reports/daily/2026/11/2026-11-05/README.md` | `2ac53288cad5e2fa9e3784e4d2028ea9c9225948` | UNCHANGED_PREDECESSOR_REUSE | `2ac53288cad5e2fa9e3784e4d2028ea9c9225948` |
-| `reports/daily/2026/11/2026-11-06.md` | `8492614e5cb1747f9c00012e721d51d219bb472b` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C1-history-policy.md` | `71cd2c4d4b843c99de8007af9f67677dcf5b31da` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` | `3f4386ee2cef921ab6e0d39ceaba7de130c2209d` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C3-research-models.md` | `0343e54c793b7dab22ed5aa44fb5ae3a70f51306` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` | `860d965c1efafbb7d56323ef316e3adf65178188` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` | `961e7dd1974dee9dd7476115ce6148adaea4f2a7` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` | `b82c335aca370242a0bd3294b1c900795b19124c` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C7-china-global.md` | `37ddc5bfebd634cc137e2273c4354c3167575a8d` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/C8-synthesis.md` | `3db6d3c4f0260866160416bc74410527e737bb8b` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/2026-11-06/README.md` | `6c2364c008d6c1d83e0ef71cd1520085961a7738` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/daily/2026/11/README.md` | `e01fea0c51a3243c79e6805f6b18fa3c0d09a16b` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/monthly/2026/2026-11.md` | `81fee1801d30987936508ab10f6b689a04031519` | CURRENT_VERSION_DIFFERS_FROM_ASOF | `545ffeab25312de6ac0cfa9c96a149f9f9e00fbd` |
-| `reports/monthly/2026/README.md` | `9c7b53ecec49287dffa6f0d00bb2e13d011bf3a5` | CUT_OFF_NEW_OR_PREVIOUSLY_UNMAPPED | — |
-| `reports/weekly/2026/2026-W44.md` | `a4fbda156fe5823bd129c3e76950132b8724e9ad` | UNCHANGED_PREDECESSOR_REUSE | `a4fbda156fe5823bd129c3e76950132b8724e9ad` |
-| `reports/weekly/2026/2026-W45.md` | `d9a0b75cf8fd022c67048b8f77c7e1bc5bb7223c` | CURRENT_VERSION_DIFFERS_FROM_ASOF | `7d0e2acf8008351dd0e284ff7e4ef06e74678208` |
+| `historical-audits/2026-11/2026-11-02-a1-china-source-custody.md` | `1f80ad1e663c0c78a73f785bf5bab44d3af9b548` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `1f80ad1e663c0c78a73f785bf5bab44d3af9b548` |
+| `historical-audits/2026-11/2026-11-03-a1-china-source-custody.md` | `4384e12d42d97591f123beef694f7dd7fd8f8309` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `4384e12d42d97591f123beef694f7dd7fd8f8309` |
+| `historical-audits/2026-11/2026-11-04-a1-china-source-custody.md` | `3c0164bb64c3f66508e29b4b4258c9611e177171` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `3c0164bb64c3f66508e29b4b4258c9611e177171` |
+| `historical-audits/2026-11/2026-11-05-a1-china-source-custody.md` | `05199b1b14be03549d607c2523fe72491c3e047e` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `05199b1b14be03549d607c2523fe72491c3e047e` |
+| `historical-audits/2026-11/2026-11-06-a1-china-source-custody.md` | `8318dd41756d6137b7b2c65b8917574db86d2d50` | UNKNOWN / PREVIOUS_A1_NOT_INCLUDED | — |
+| `historical-audits/2026-11/2026-11-06-a2-china-month-relations.md` | `7398d4c4bf5b5298792a770487b82e01559b2532` | UNKNOWN / PREVIOUS_A1_NOT_INCLUDED | — |
+| `historical-audits/2026-11/2026-11-06-original-a1a2-semantic-forward-reconciliation.md` | `eae7ed8b720eb5d90dfc2df5f12933ed673cdcb1` | UNKNOWN / PREVIOUS_A1_NOT_INCLUDED | — |
+| `reports/daily/2026/11/2026-11-01.md` | `01ef8d314ff6ae7706953392525ae5f96011d9eb` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `01ef8d314ff6ae7706953392525ae5f96011d9eb` |
+| `reports/daily/2026/11/2026-11-01/C1-history-policy.md` | `b41c08c4b064d6b2b4fcb7a7d764791b30489033` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `b41c08c4b064d6b2b4fcb7a7d764791b30489033` |
+| `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` | `6f3b9966cd2661e05fe4ee818974d3909189cc2c` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `6f3b9966cd2661e05fe4ee818974d3909189cc2c` |
+| `reports/daily/2026/11/2026-11-01/C3-research-models.md` | `df45860e4595a6af71a63221be254d98ac4fd20e` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `df45860e4595a6af71a63221be254d98ac4fd20e` |
+| `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` | `b5b1434cebb132405a5401b46bb2c807657d8236` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `b5b1434cebb132405a5401b46bb2c807657d8236` |
+| `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` | `11b258f3737ffea2cf3fec22b509d25eaf936903` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `11b258f3737ffea2cf3fec22b509d25eaf936903` |
+| `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` | `3fd8b33fb8e947187f1ac0a48f6429630b7817e2` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `3fd8b33fb8e947187f1ac0a48f6429630b7817e2` |
+| `reports/daily/2026/11/2026-11-01/C7-china-global.md` | `bd57a3b0ab343bba3cdc3a18b74eac093816925c` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `bd57a3b0ab343bba3cdc3a18b74eac093816925c` |
+| `reports/daily/2026/11/2026-11-01/C8-synthesis.md` | `c571ac1e818f5a2d58f6aec221b2ac9a57deef01` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `c571ac1e818f5a2d58f6aec221b2ac9a57deef01` |
+| `reports/daily/2026/11/2026-11-01/README.md` | `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63` |
+| `reports/daily/2026/11/2026-11-02.md` | `623d794d1e4663cb9277e7294febca698d1f8224` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `623d794d1e4663cb9277e7294febca698d1f8224` |
+| `reports/daily/2026/11/2026-11-02/C1-history-policy.md` | `117cb468c597147dfa826dcc22e719b0521380a1` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `117cb468c597147dfa826dcc22e719b0521380a1` |
+| `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` | `19145e2271639b2c5ff672ce3dfead7db1c7e01f` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `19145e2271639b2c5ff672ce3dfead7db1c7e01f` |
+| `reports/daily/2026/11/2026-11-02/C3-research-models.md` | `472eee40e99e099ed403aa7293bdffb39bfa8942` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `472eee40e99e099ed403aa7293bdffb39bfa8942` |
+| `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` | `8b14551cad268842b8d6355984e0bc209bb5165b` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `8b14551cad268842b8d6355984e0bc209bb5165b` |
+| `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` | `c147df9778d7e5406ac98b8b553f2d0440c30a64` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `c147df9778d7e5406ac98b8b553f2d0440c30a64` |
+| `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` | `2741b7741be5a2bef24f8b907e524c05f826f9e9` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `2741b7741be5a2bef24f8b907e524c05f826f9e9` |
+| `reports/daily/2026/11/2026-11-02/C7-china-global.md` | `eaf5b9a373f41872a6079ea87e3d38dbeddbad79` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `eaf5b9a373f41872a6079ea87e3d38dbeddbad79` |
+| `reports/daily/2026/11/2026-11-02/C8-synthesis.md` | `7388141a697aa83be758058d6cc29c75be65f84d` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `7388141a697aa83be758058d6cc29c75be65f84d` |
+| `reports/daily/2026/11/2026-11-02/README.md` | `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395` |
+| `reports/daily/2026/11/2026-11-03.md` | `432797681637d2cfb85884cf5c63046c751371a8` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `432797681637d2cfb85884cf5c63046c751371a8` |
+| `reports/daily/2026/11/2026-11-03/C1-history-policy.md` | `384edb3d9e5c1aac4b0eabca4eb6a42281606ced` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `384edb3d9e5c1aac4b0eabca4eb6a42281606ced` |
+| `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` | `7254c408cb732387461e3a48db3fd02015f8e487` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `7254c408cb732387461e3a48db3fd02015f8e487` |
+| `reports/daily/2026/11/2026-11-03/C3-research-models.md` | `ddad24ff999aed449133b93e11a396171d8c84de` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `ddad24ff999aed449133b93e11a396171d8c84de` |
+| `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` | `ed5ee102075dd8497b85fa62e767625a7572ba51` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `ed5ee102075dd8497b85fa62e767625a7572ba51` |
+| `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` | `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c` |
+| `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` | `e91edbd4b3c56e806f459401cda4fec188f79b60` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `e91edbd4b3c56e806f459401cda4fec188f79b60` |
+| `reports/daily/2026/11/2026-11-03/C7-china-global.md` | `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9` |
+| `reports/daily/2026/11/2026-11-03/C8-synthesis.md` | `37d4eb02a702fd13473eb968a9d3c49ff4f76283` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `37d4eb02a702fd13473eb968a9d3c49ff4f76283` |
+| `reports/daily/2026/11/2026-11-03/README.md` | `2f0bf464c01afa95468bfa63078b2d58853e0230` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `2f0bf464c01afa95468bfa63078b2d58853e0230` |
+| `reports/daily/2026/11/2026-11-04.md` | `e0bc133594865df764ab0702dd714505d0fb63d2` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `e0bc133594865df764ab0702dd714505d0fb63d2` |
+| `reports/daily/2026/11/2026-11-04/C1-history-policy.md` | `ef345cb5c64661aca800a7141e9c69a376c2e657` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `ef345cb5c64661aca800a7141e9c69a376c2e657` |
+| `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` | `699db4661554add9bed4018f470bd9400ec063b8` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `699db4661554add9bed4018f470bd9400ec063b8` |
+| `reports/daily/2026/11/2026-11-04/C3-research-models.md` | `5a210d104773adeb85ef24b6fab8b1d017391446` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `5a210d104773adeb85ef24b6fab8b1d017391446` |
+| `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` | `5af48036cea099189b39c09701f92208c916008c` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `5af48036cea099189b39c09701f92208c916008c` |
+| `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` | `37e511eece877815bb7c9b67ceb463e49eba78dd` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `37e511eece877815bb7c9b67ceb463e49eba78dd` |
+| `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` | `a67f1c8a2398124610e5a17c43b5e1539c930918` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `a67f1c8a2398124610e5a17c43b5e1539c930918` |
+| `reports/daily/2026/11/2026-11-04/C7-china-global.md` | `46b784e15f917cdfa40491b733bc2a0608cafd93` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `46b784e15f917cdfa40491b733bc2a0608cafd93` |
+| `reports/daily/2026/11/2026-11-04/C8-synthesis.md` | `8d58446e962a160751af5bf84cab0ebc8498287e` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `8d58446e962a160751af5bf84cab0ebc8498287e` |
+| `reports/daily/2026/11/2026-11-04/README.md` | `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f` |
+| `reports/daily/2026/11/2026-11-05.md` | `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1` |
+| `reports/daily/2026/11/2026-11-05/C1-history-policy.md` | `1e2019b7d8090adc79b54d345f8941e474a584c6` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `1e2019b7d8090adc79b54d345f8941e474a584c6` |
+| `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` | `ef5e3dc05c80b4ee9675555a9092ccab949082cc` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `ef5e3dc05c80b4ee9675555a9092ccab949082cc` |
+| `reports/daily/2026/11/2026-11-05/C3-research-models.md` | `a3eab7cca684234ba5284553a693faa311ef74f5` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `a3eab7cca684234ba5284553a693faa311ef74f5` |
+| `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` | `1951a5663477d76345f7e55e522b11b0c6ab3a6e` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `1951a5663477d76345f7e55e522b11b0c6ab3a6e` |
+| `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` | `5423d0226a7d8d780d94a89eca6f707d76c782e0` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `5423d0226a7d8d780d94a89eca6f707d76c782e0` |
+| `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` | `51380d3fe4fec4170c1963797052e1032de6d788` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `51380d3fe4fec4170c1963797052e1032de6d788` |
+| `reports/daily/2026/11/2026-11-05/C7-china-global.md` | `f0634f29e9b05543001abc13017431f32aefc16c` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `f0634f29e9b05543001abc13017431f32aefc16c` |
+| `reports/daily/2026/11/2026-11-05/C8-synthesis.md` | `d9b98dda68209186b4f74f215e8609db2075b989` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `d9b98dda68209186b4f74f215e8609db2075b989` |
+| `reports/daily/2026/11/2026-11-05/README.md` | `2ac53288cad5e2fa9e3784e4d2028ea9c9225948` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `2ac53288cad5e2fa9e3784e4d2028ea9c9225948` |
+| `reports/daily/2026/11/2026-11-06.md` | `8492614e5cb1747f9c00012e721d51d219bb472b` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C1-history-policy.md` | `71cd2c4d4b843c99de8007af9f67677dcf5b31da` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` | `3f4386ee2cef921ab6e0d39ceaba7de130c2209d` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C3-research-models.md` | `0343e54c793b7dab22ed5aa44fb5ae3a70f51306` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` | `860d965c1efafbb7d56323ef316e3adf65178188` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` | `961e7dd1974dee9dd7476115ce6148adaea4f2a7` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` | `b82c335aca370242a0bd3294b1c900795b19124c` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C7-china-global.md` | `37ddc5bfebd634cc137e2273c4354c3167575a8d` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/C8-synthesis.md` | `3db6d3c4f0260866160416bc74410527e737bb8b` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/2026-11-06/README.md` | `6c2364c008d6c1d83e0ef71cd1520085961a7738` | APPEND_RELATION / NOV06_SOURCE_ADMITTED | — |
+| `reports/daily/2026/11/README.md` | `e01fea0c51a3243c79e6805f6b18fa3c0d09a16b` | UNKNOWN / PREVIOUS_A1_NOT_INCLUDED | — |
+| `reports/monthly/2026/2026-11.md` | `81fee1801d30987936508ab10f6b689a04031519` | BOUNDARY_UPDATE / ROLLING_OWNER_ASOF_REQUIRED | `545ffeab25312de6ac0cfa9c96a149f9f9e00fbd` |
+| `reports/monthly/2026/README.md` | `9c7b53ecec49287dffa6f0d00bb2e13d011bf3a5` | UNKNOWN / PREVIOUS_A1_NOT_INCLUDED | — |
+| `reports/weekly/2026/2026-W44.md` | `a4fbda156fe5823bd129c3e76950132b8724e9ad` | NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB | `a4fbda156fe5823bd129c3e76950132b8724e9ad` |
+| `reports/weekly/2026/2026-W45.md` | `d9a0b75cf8fd022c67048b8f77c7e1bc5bb7223c` | BOUNDARY_UPDATE / ROLLING_OWNER_ASOF_REQUIRED | `7d0e2acf8008351dd0e284ff7e4ef06e74678208` |
 
 ## Independent source-specific distinctions and adverse cases
 - **01 Nov6 result:** `reports/daily/2026/11/2026-11-06.md` reports NO_MATERIAL_CHANGE_IN_ASSESSED_OBJECTS / PARTIAL_BOUNDED, not a whole-China inactivity claim
@@ -136,3 +136,9 @@
 - **Pack README:** The Nov6 snapshot is source-scoped to six objects and records 2026-10-30 publication versus 2027-05-01 effectiveness separately
 - Explicit result: all relevant Nov6 component text and pack README now reopened; earlier Nov1–5 content remains eligible through exact-blob prior-A1 reuse, not a fabricated full re-reading in this execution
 - Source-specific new judgments in this subsection: 9; no automatic >=100 line acceptance promotion
+
+## Canonical per-file dispositions and evidence gate
+- The source matrix now uses allowed A1 dispositions NO_FOLLOW_UP, APPEND_RELATION, BOUNDARY_UPDATE, UNKNOWN and NOT_DUE with explicit source/evidence qualifiers
+- NO_FOLLOW_UP / IDENTICAL_PRIOR_A1_BLOB: 55; UNKNOWN / PREVIOUS_A1_NOT_INCLUDED: 5; APPEND_RELATION / NOV06_SOURCE_ADMITTED: 10; BOUNDARY_UPDATE / ROLLING_OWNER_ASOF_REQUIRED: 2
+- Same-blob prior decisions are inherited, not re-performed; Nov6 native objects are integrated by relation only; current rolling month and index may already reflect Nov7 and are not automatically valid at the Nov6 cutoff
+- Any UNKNOWN is deliberately an open gap, not zero findings. Identical source SHA does not certify the original >=100 substantive-line gate
