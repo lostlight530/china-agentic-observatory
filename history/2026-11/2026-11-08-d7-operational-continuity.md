@@ -58,3 +58,32 @@
 - NEXT_AUDIT_DEPENDENCY: Sunday Nov08 W45 end, D10 later as independent, November natural month final only after Nov30, Oct12 gap remains
 - NOT_EXECUTED_BY_THIS_D7: official web source fresh retrieval beyond previous Daily cited sources, original C1–C8 production, external benchmarks, TCK or live Agent runtime
 - OPEN_PRS_AT_BASE: NONE
+
+## Audit Log minimum machine-field ledger — vNext
+
+- REPOSITORY: `lostlight530/china-agentic-observatory`
+- SYSTEM: China Observatory C1-C8
+- AUDIT_TYPE: D7 / OPERATIONAL_CONTINUITY
+- AUDIT_WINDOW: 2026-11-01..2026-11-07 inclusive / Asia/Shanghai
+- CUTOFF: 2026-11-07T23:59:59+08:00 (logical, not a claim of precisely timestamped original runs)
+- BASE_REVISION: exact main SHA recorded at report opening
+- FINAL_OBSERVED_REVISION: PENDING_POSTMERGE_REFRESH at Draft stage; original cold-start main documented above
+- TASKS_EXPECTED: applicable Native/Stage and six dated independent A1/A2 windows as explicitly enumerated, no invented per-day Stage native executions
+- TASKS_OBSERVED: Git current-main source pack/Stage custody plus original merged maintenance PR ledger
+- TASKS_MISSING: no missing scheduled original source/PR paths in the scoped applicable set; runnable test missingness handled independently
+- A1_COVERAGE: Seven merged native report packs, 56 C components, six original A1 PR source windows
+- A1_DECISIONS: Nov07 A1 original #246 numeric 144 but independent substantive >=100 not certified
+- A2_MONTH_VERSION: 2026-11 / MONTH_OPEN through 2026-11-07, not November final
+- A2_EVOLUTION_BLOCKS: Six A2 month-to-date source relations including Nov07 #247 numeric 125 but strict original NOT_MET
+- REPOSITORY_EVIDENCE: exact Git tree blob identities, GitHub original PR additions and merge metadata
+- RUNNER_EVIDENCE: only prior Actions or optional smoke precisely named in report; not this D7 runtime validation
+- EXTERNAL_EVIDENCE: inherited official upstream sources in original research records, not a fresh independent TCK or publisher fetch
+- TELEMETRY_EVIDENCE: NOT_COLLECTED
+- NEW_FINDINGS: source/maintenance custody and (if documented) current owner-pointer drift, with actual minimal correction
+- COUNTEREVIDENCE: a source, documentation owner or generic deployment action is not itself effect/claim-validation evidence
+- REPEATED_PATTERNS: Repeated same exact six SAMR/ITU issuer objects show bounded stable status not a repeated production deployment test
+- UNRESOLVED: original strict-content admission and any unrun independent runtime/integration experiment
+- UNKNOWN: Actual standard portal transition clock, full ITU text, conformance/effect test and substantive acceptance unverified
+- CURRENT_RESULT: PARTIAL / DELIVERY_CUSTODY_VERIFIED / ORIGINAL_STRICT_ACCEPTANCE_NOT_MET_OR_UNCERTIFIED
+- GOVERNANCE_CANDIDATE: only the justified current-pointer repair, not changes to original Stage research or normative standards
+- NEXT_AUDIT_DEPENDENCY: D10/D14/D30 on their own triggers, W45 after Nov08, natural November end Nov30, Stage-L final at end Q4
