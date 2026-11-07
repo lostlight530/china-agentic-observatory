@@ -8,7 +8,7 @@
 - Nov7 source changes and month owner rolling updates are **excluded** from this A1 cutoff although already on Nov7 main; they belong to A2
 - October prior month CLOSED_WITH_GAPS, Nov OPEN, W44 closed, W45 OPEN and not yet eligible for final synthesis
 - Current status PARTIAL_SOURCE_CUSTODY_AND_SOURCE_SPECIFIC_DECISIONS; STRICT_100_SUBSTANTIVE_INDEPENDENCE_GATE_NOT_CERTIFIED
-- Source review: predecessor source coverage plus directly opened Nov6 main Daily overview and current Git tree; entire F/C component text was not all independently reopened in this pass
+- Source review: predecessor source coverage, Nov6 Daily overview, all eight C1–C8 Nov6 component full texts, the Daily pack README, and current Git tree were directly reopened in this pass
 - No TCK, external runtime, cross-provider conformance or published-source state audit was newly executed
 
 ## Scoped whole-month-to-cutoff source inventory
@@ -122,3 +122,17 @@
 - Full scientific reproduction NOT_EXECUTED; source-file identity rows not counted as independent decisions
 - The 20 authored interpretation bullets do not establish independently checked >=100 original novel substantive A1 lines
 - A2 from merged A1 may retain PARTIAL but must not report complete/strict-PASS if unresolved source or semantic gate remains
+
+## Full-text Nov6 component audit — 2026-11-07 forward review
+- These are newly reopened repository source documents, not new official-issuer publications or independent scientific runtime checks
+- **C1:** C1 distinguishes official SAMR standard and TC28 draft-object authority from actual policy rollout or adoption
+- **C2:** C2 distinguishes published 20256913-T-907 plan, soon-effective GB/T 48562, two TC28 drafts and prepublished ITU lifecycle identities
+- **C3:** C3 explicitly lacks full quality-indicator text and independent evaluation; standard metadata is not measurement
+- **C4:** C4 records two TC28 draft objects with separate identifiers; titles do not prove shared Context/Runtime behavior
+- **C5:** C5 distinguishes published-not-yet-effective GB/T from still-draft 20262581-Z-907 quality evaluation system
+- **C6:** C6 retains scheduled 2027-05-01 implementation and no independently observed industry compliance evidence
+- **C7:** C7 keeps ITU prepublication access limits and unknown crosswalk against A2A/MCP/ASL rather than asserting equivalence
+- **C8:** C8 preserves no new November6 state transition among six assessed objects, without increasing independent-source count
+- **Pack README:** The Nov6 snapshot is source-scoped to six objects and records 2026-10-30 publication versus 2027-05-01 effectiveness separately
+- Explicit result: all relevant Nov6 component text and pack README now reopened; earlier Nov1–5 content remains eligible through exact-blob prior-A1 reuse, not a fabricated full re-reading in this execution
+- Source-specific new judgments in this subsection: 9; no automatic >=100 line acceptance promotion
