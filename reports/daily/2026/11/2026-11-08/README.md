@@ -11,8 +11,8 @@
 
 - integrated_report: [2026-11-08.md](../2026-11-08.md)
 - research_result: MATERIAL_SOURCE_DISCOVERY / EXACT_OBJECT_SCOPE_BOUNDED / NO_VERIFIED_CONFORMANCE
-- weekly_owner: [2026-W45 FINAL](../../../weekly/2026/2026-W45.md)
-- monthly_owner: [2026-11 OPEN](../../../monthly/2026/2026-11.md)
+- weekly_owner: [2026-W45 FINAL](../../../../weekly/2026/2026-W45.md)
+- monthly_owner: [2026-11 OPEN](../../../../monthly/2026/2026-11.md)
 
 | Workstream | Artifact | Observation |
 |---|---|---|
