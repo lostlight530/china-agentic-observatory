@@ -11,10 +11,18 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-04** (material official GB/T 48562-2026 lifecycle recovery only)
+Updated through: **2026-11-08** (new exact-object standards and media AI initiative source admission at 2026-11-08 15:22:25 Asia/Shanghai; older event dates preserved)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| C-SAMR-GBZ242-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/Z 242-2026 人工智能 智能体技术要求，2026-08-27 发布，现行指导性技术文件，2026-11-08 首次本轮后发现，不代表正式跨协议映射 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF9979B5E06397BE0A0AD5FD |
+| C-SAMR-GBZ290-2026 | C0 | 全国标准信息公共服务平台 / TC4 | GB/Z 290-2026 学术出版 AIGC 使用边界指南，2026-10-30 发布，现行指导性技术文件，条款全文未逐条核查 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6B9C9E6B66C75BE06397BE0A0A6C0B |
+| C-SAMR-GBZ299-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/Z 299-2026 人工智能操作系统通用技术要求，2026-09-24 发布，现行指导性技术文件，不推导软件部署 | https://std.samr.gov.cn/gb/search/gbDetailed?id=4mRR%2BgLgkMM%3D&mode=p |
+| C-SAMR-GBZ300-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/Z 300-2026 人工智能操作系统权限管理要求，2026-09-24 发布，现行指导性技术文件，权限条款与授权证据映射未验证 | https://std.samr.gov.cn/gb/search/gbDetailed?id=jK9zwQnCjuk%3D&mode=p |
+| C-SAMR-GBT48073-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/T 48073-2026 深度学习框架功能要求，2026-08-28 发布，2026-12-01 实施，当前即将实施 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5A13050B025F303FE06397BE0A0ADA7D |
+| C-SAMR-GBT48110-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/T 48110-2026 开源模型平台技术要求，2026-08-28 发布，2026-12-01 实施，当前即将实施 | https://std.samr.gov.cn/gb/search/gbDetailed?id=%2BU4CAPSJzlY%3D&mode=p |
+| C-SAMR-GBT48594-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/T 48594-2026 统一通信库接口规范，2026-10-30 发布，2027-02-01 实施，非独立 MCP/A2A 正式 crosswalk | https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193F557748E06397BE0A0A0B47 |
+| C-XINHUA-MEDIA-AI-COBUILD-2026-11-07 | C1 | 新华社 / 新华网 | 2026-11-07 全球媒体 AI 应用标准共建计划启动，首批 22 家机构，拟两年形成应用规范，倡议/未来计划不是正式国际标准或验证结果 | https://www.news.cn/tech/20261107/21e47a63f43740e5a4f91f2400435c32/c.html |
 | C-GOV-AI-2017 | C0 | 国务院 | 新一代人工智能发展规划 | https://www.gov.cn/gongbao/content/2017/content_5216427.htm |
 | C-CAC-GENAI-2023 | C0 | 国家网信办等七部门 | 生成式人工智能服务管理暂行办法 | https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm |
 | C-GOV-AI-PLUS-2025 | C0 | 国务院 | 深入实施“人工智能+”行动 | https://www.gov.cn/zhengce/content/202508/content_7037861.htm |
