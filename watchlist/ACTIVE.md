@@ -1,8 +1,10 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-08 current successor: GB/Z 242 与三语外文计划、GB/Z 290、GB/Z 299/300、GB/T 48073/48110/48594 为新观察的准确对象，新华社媒体共建倡议于 11 月 7 日启动，未从官方标题或未来计划推导运行与条款级符合性
+
 - 2026-11-04 current-state successor: C-W31 的 GB/T 48562-2026 正式发布元数据已核实，历史 2026-09-15 与 2026-11-03 状态观察保留，发布 != 实施 != 独立 conformance
 
-Updated: **2026-11-04 · C-W31 exact-object publication recovery**
+Updated: **2026-11-08 · C-W81–83 exact-object source admission and bounded collaboration watch**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
@@ -89,6 +91,9 @@ Updated: **2026-11-04 · C-W31 exact-object publication recovery**
 
 | C-W79 | What exact context identity, sharing boundary, lifecycle and access-control semantics will `20265083-Z-469` define, and how will it map to existing agent interoperability objects? | **NEW / W40 SPECIAL** | Draft/consultation text, normative fields, lifecycle rules and formal crosswalks |
 | C-W80 | What operational semantics and authority boundaries will `20265082-Z-469` define for non-API system collaboration, and how are those semantics separated from context sharing, API-based interaction, GB/Z 185, MCP and A2A? | **NEW / W41 OPENING** | Draft/consultation text, operation model, authority/error semantics, lifecycle rules and formal crosswalks |
+| C-W81 | What exact GB/Z 242 agent technical clauses and released translated editions, if any, map to GB/Z 185 / ASL / MCP / A2A without treating family proximity as formal crosswalk? | **NEW / W45 OPEN** | Full normative text, versioned published translation and approved mappings |
+| C-W82 | Do GB/Z 299/300 and GB/T 48594 define auditable permission, interface and identity/revocation boundaries transferable to operating Agent runtimes? | **NEW / W45 OPEN** | Exact clauses, reference implementation, authority/recovery traces |
+| C-W83 | Will Xinhua's multinational media AI application standards co-build produce an inspectable formal text and genuine multi-party verified deployment? | **NEW / W45 OPEN** | Governance charter, final standards/validation outputs, real partner implementations |
 
 ## W38 Active Shortlist / W38 当前优先清单
 

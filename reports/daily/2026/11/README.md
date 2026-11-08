@@ -15,3 +15,4 @@
 | 2026-11-05 | [2026-11-05.md](./2026-11-05.md) | [2026-11-05/](./2026-11-05/) | W45 OPEN 4/7 (11-06 forward coverage correction; Nov 1 is W44) / H45-1,3 OPEN UNCHANGED / H45-2 PUBLICATION_DATE_VERIFIED |
 | 2026-11-06 | [2026-11-06.md](./2026-11-06.md) | [2026-11-06/](./2026-11-06/) | W45 OPEN 5/7 (4 merged W45 dates + fifth proposed) / H45-1,3 OPEN UNCHANGED / H45-2 PUBLICATION_DATE_VERIFIED |
 | 2026-11-07 | [2026-11-07.md](./2026-11-07.md) | [2026-11-07/](./2026-11-07/) | W45 OPEN 6/7（5 merged + sixth proposed）/ H45-1,3 OPEN UNCHANGED / H45-2 DISPLAY_TRANSITION_UNVERIFIED |
+| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7（6 merged + 第七个 W45 native 同 PR 提案）/ H45-1~3 OPEN |
