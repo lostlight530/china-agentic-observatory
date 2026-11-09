@@ -11,7 +11,7 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-08** (new exact-object standards and media AI initiative source admission at 2026-11-08 15:22:25 Asia/Shanghai; older event dates preserved)
+Updated through: **2026-11-09** (AutoDNA Nature research, institutional/project artifacts and Hi-WBC issuer source admitted at 2026-11-09 18:33:23 Asia/Shanghai; publication and observation dates remain separate)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
@@ -23,6 +23,11 @@ Updated through: **2026-11-08** (new exact-object standards and media AI initiat
 | C-SAMR-GBT48110-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/T 48110-2026 开源模型平台技术要求，2026-08-28 发布，2026-12-01 实施，当前即将实施 | https://std.samr.gov.cn/gb/search/gbDetailed?id=%2BU4CAPSJzlY%3D&mode=p |
 | C-SAMR-GBT48594-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/T 48594-2026 统一通信库接口规范，2026-10-30 发布，2027-02-01 实施，非独立 MCP/A2A 正式 crosswalk | https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6AFB193F557748E06397BE0A0A0B47 |
 | C-XINHUA-MEDIA-AI-COBUILD-2026-11-07 | C1 | 新华社 / 新华网 | 2026-11-07 全球媒体 AI 应用标准共建计划启动，首批 22 家机构，拟两年形成应用规范，倡议/未来计划不是正式国际标准或验证结果 | https://www.news.cn/tech/20261107/21e47a63f43740e5a4f91f2400435c32/c.html |
+| C-NATURE-AUTODNA-2026-11-04 | C4 | Nature original research | AutoDNA AI-native biomolecular laboratory paper published 2026-11-04; 20+ instrument types and 11,000+ steps in abstract; four reported applications; code/data linked through Zenodo; independent replication not observed | https://www.nature.com/articles/s41586-026-11228-6 |
+| C-SJTU-AUTODNA-2026-11-06 | C4 | 上海交通大学张江高等研究院 | Research-team institutional announcement published 2026-11-06; reports 11,382 hardware operations; same AutoDNA research lineage as Nature paper, not independent replication | https://zias.sjtu.edu.cn/info/1017/22778.htm |
+| C-IPADS-AUTODNA-PROJECT | C3 | IPADS Lab project page | Current AutoDNA project page reports 25+ instruments and 11,386 hardware steps; count differs from SJTU/NCSTI 11,382 and is not reconciled | https://ipads.sjtu.edu.cn/autodna/ |
+| C-IPADS-AUTODNA-REPO | C3 | IPADS-X official GitHub repository | Nature-linked public source repository for AutoDNA; code existence does not prove execution, deployment or reproducibility | https://github.com/IPADS-X/AutoDNA |
+| C-HIWBC-ISSUER-2026-11-07 | C3 | Beijing Humanoid Robot Innovation Center via PR Newswire Asia | Issuer release published 2026-11-07 for a 2026-11-02 Hi-WBC launch event; MoE, policy distillation, contact-aware learning and perceptive-control claims remain issuer statements; no public weights/system card or independent evaluation located in this pass | https://www.prnasia.com/story/555228-1.shtml |
 | C-GOV-AI-2017 | C0 | 国务院 | 新一代人工智能发展规划 | https://www.gov.cn/gongbao/content/2017/content_5216427.htm |
 | C-CAC-GENAI-2023 | C0 | 国家网信办等七部门 | 生成式人工智能服务管理暂行办法 | https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm |
 | C-GOV-AI-PLUS-2025 | C0 | 国务院 | 深入实施“人工智能+”行动 | https://www.gov.cn/zhengce/content/202508/content_7037861.htm |
