@@ -5,7 +5,7 @@
 | 2026-08 | CLOSED; correction appended 2026-09-01 | 7–31 Aug, 25 real days | First repository-native month. F.748.93 approval occurred 29 Aug but was discovered after closure; explicit correction preserves both dates. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
 | 2026-10 | **CLOSED_WITH_GAPS** | 30 native C1–C8 dates: 1–11, 13–31 Oct; 12 Oct historical native gap | Natural month ended，W44 October intersection 6 dates，1 Nov Sunday settlement separate，closure accounted 2026-11-01 04:58:46 Asia/Shanghai |
-| 2026-11 | **OPEN** | Nov1–7 七个已合并 C1–C8 native + Nov8 第八个 native 当日 Draft PR 提案，9–30 NOT_DUE | [November canonical OPEN checkpoint](./2026-11.md)，W44 FINAL / W45 FINAL 7/7，H45-1/3 OPEN，H45-2 DISPLAY_TRANSITION_UNVERIFIED，2026-11-08 15:22:25 Asia/Shanghai |
+| 2026-11 | **OPEN** | Nov1–8 八个已合并 C1–C8 native，Nov9 当日进行中且未定为缺口，Nov10–30 NOT_DUE | [November canonical OPEN checkpoint](./2026-11.md)，W44 FINAL / W45 FINAL 7/7，H45-1/3 OPEN，H45-2 DISPLAY_TRANSITION_UNVERIFIED，2026-11-08 15:22:25 原生截点；2026-11-09 08:25:58 Asia/Shanghai merged-main reconciliation |
 
 ```text
 closed month ≠ immutable error
