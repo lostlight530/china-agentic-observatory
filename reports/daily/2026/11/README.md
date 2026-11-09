@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-09 merged-main delivery reconciliation**（observed_at: 2026-11-09 08:25:58 Asia/Shanghai）：Nov1–8 八个 C1–C8 独立原生日期均已并入 `main`，W45 FINAL 7/7，H45-1/2/3 继续 OPEN，November OPEN；Nov9 当日进行中、暂不判 native gap，Nov10–30 NOT_DUE；下方 11 月 6–8 日「proposed」均是各自原始交付截点记录，并非当前 PR 状态
+
 **2026-11-07 13:36:40 Asia/Shanghai native coverage checkpoint**：Nov1–6 六个已合并独立原生日期，第七个 2026-11-07 为本次 Draft PR 提案；W45 OPEN 6/7（5 merged + today proposed），November OPEN，Nov8–30 NOT_DUE
 
 **2026-11-06 07:29:52 Asia/Shanghai native coverage checkpoint**：11 月 1–5 日五个独立 C1–C8 原生日期已在最新 main（昨日 #236 已合并），今天第六个原生研究日期为本 Draft PR 提案；W45 OPEN 5/7，Nov 7–8 NOT_DUE，November OPEN，Nov 7–30 NOT_DUE
@@ -15,4 +17,4 @@
 | 2026-11-05 | [2026-11-05.md](./2026-11-05.md) | [2026-11-05/](./2026-11-05/) | W45 OPEN 4/7 (11-06 forward coverage correction; Nov 1 is W44) / H45-1,3 OPEN UNCHANGED / H45-2 PUBLICATION_DATE_VERIFIED |
 | 2026-11-06 | [2026-11-06.md](./2026-11-06.md) | [2026-11-06/](./2026-11-06/) | W45 OPEN 5/7 (4 merged W45 dates + fifth proposed) / H45-1,3 OPEN UNCHANGED / H45-2 PUBLICATION_DATE_VERIFIED |
 | 2026-11-07 | [2026-11-07.md](./2026-11-07.md) | [2026-11-07/](./2026-11-07/) | W45 OPEN 6/7（5 merged + sixth proposed）/ H45-1,3 OPEN UNCHANGED / H45-2 DISPLAY_TRANSITION_UNVERIFIED |
-| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7（6 merged + 第七个 W45 native 同 PR 提案）/ H45-1~3 OPEN |
+| 2026-11-08 | [2026-11-08.md](./2026-11-08.md) | [2026-11-08/](./2026-11-08/) | W45 FINAL 7/7（11-08 当日同 PR 提案，现已合并 main）/ H45-1~3 OPEN |
