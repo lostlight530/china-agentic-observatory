@@ -19,7 +19,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native C1–C8 Dailies，H43-1~3 OPEN / UNCHANGED，2026-10-25 05:03:18 Asia/Shanghai Sunday settlement，no verified exact-object transition |
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native C1–C8 Dailies，H44-1~3 OPEN / UNCHANGED，Sunday settlement 2026-11-01 04:58:46 Asia/Shanghai，November day is cross-month |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov2–8 七个 native 日期现已合并 main（Nov8 原以同一 Draft PR 交付 pack 与 Sunday settlement）；H45-1/3 OPEN，H45-2 DATE_VERIFIED / TRANSITION_UNVERIFIED，2026-11-08 15:22:25 Asia/Shanghai |
-| W46 | 9–15 Nov | **OPEN / 1 of 7 native dates merged in main** | Nov09 C1–C8 Daily/Monday opening PR #255 merged 2026-11-09T11:06:34Z; H46-1~4 OPEN, C-W84 instrument-execution watch NEW; no hypothesis settled |
+| W46 | 9–15 Nov | **OPEN / 1 merged + Nov10 proposed = 2/7 on branch** | 11 月 10 日来源仅补充 AutoDNA 2026-11-04 论文的设备局部错误演示，并复核六项 SAMR 状态；H46-1~4 均 OPEN，同源重查不构成加强；November OPEN |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
