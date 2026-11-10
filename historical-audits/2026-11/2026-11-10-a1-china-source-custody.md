@@ -152,3 +152,56 @@
 - Original numeric PR success is checked from this new PR's own additions and review quality, never successor sums
 - A2 requires exact merged A1 ref and new main checkout with Nov10 C1–C8 pack
 - A1 interpretation: source identity/time/standards conflicts preserved and date-to-workstream coverage evidenced
+
+## Nov09 C1–C8 original source-claim / uncertainty recheck
+- These re-read records are not new China research, independent laboratory replication, or today's native C1–C8 input
+### Nov09 source facet reports/daily/2026/11/2026-11-09.md
+- Exact file heading # AI 原生科学实验室与物理执行 / China AI Daily Research Report, blob `49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0`, 119 text lines
+- Source identity excerpt: - **C2**：六个 SAMR 标准对象复核未观察到新状态跃迁，GB/T 48594 本轮复取失败，保留 11-08 已核验状态；AutoDNA atomic services 不是正式标准或 MCP/A2A crosswalk; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: - **C5**：AutoDNA 报告真实物理仪器协同与长流程操作，Hi-WBC 报告机器人 Demo；规模化部署、现场可靠性和独立性能均 UNKNOWN; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: ### 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C1-history-policy.md
+- Exact file heading # C1｜国家战略、机构与治理 / Native 2026-11-09, blob `5ddef37f51e3b62aa6e7eca67e9e1d8d2f615f44`, 42 text lines
+- Source identity excerpt: - source_1: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: NO_EXPLICIT_UNCERTAINTY; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C1｜国家战略、机构与治理 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C2-standards-protocols.md
+- Exact file heading # C2｜标准、协议、身份与互联 / Native 2026-11-09, blob `03c9ab38bc086eae0d797faeaa375bb76b2a04f4`, 70 text lines
+- Source identity excerpt: | GB/T 48073-2026 | 2026-12-01 实施，当前即将实施 | 不提前写成已实施 |; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: - material_result: NO_MATERIAL_CHANGE_IN_SIX_RECHECKED_OBJECTS / PARTIAL_FOR_GB_T_48594_RECHECK; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C2｜标准、协议、身份与互联 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C3-research-models.md
+- Exact file heading # C3｜模型、方法与评价 / Native 2026-11-09, blob `f5f2f7f3a24cea4619a0205e3a6fed68d5f4373f`, 72 text lines
+- Source identity excerpt: - source_1: https://www.nature.com/articles/s41586-026-11228-6; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: - exact_count: UNRESOLVED; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C3｜模型、方法与评价 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C4-agents-open-source.md
+- Exact file heading # C4｜Agent 工程、开放系统 / Native 2026-11-09, blob `b4a8577a0d24f47c31b5de643005ebcad230a66f`, 42 text lines
+- Source identity excerpt: - GitHub 代码仓库：https://github.com/IPADS-X/AutoDNA; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: NO_EXPLICIT_UNCERTAINTY; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C4｜Agent 工程、开放系统 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md
+- Exact file heading # C5｜基础设施与产业 / Native 2026-11-09, blob `523946f3e5a76b2b2323490753e2b4773844cdd6`, 45 text lines
+- Source identity excerpt: - source_1: https://www.nature.com/articles/s41586-026-11228-6; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: - industrial_adoption_rate: UNKNOWN; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C5｜基础设施与产业 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C6-applications-governance.md
+- Exact file heading # C6｜应用、风险与社会治理 / Native 2026-11-09, blob `79bb9e40f7575aab0a138f8f3362212b6719ef54`, 45 text lines
+- Source identity excerpt: - source_1: https://www.nature.com/articles/s41586-026-11228-6; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: - material_result: RESEARCH_APPLICATIONS_REPORTED / SAFETY_AND_REGULATORY_MATURITY_UNKNOWN; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C6｜应用、风险与社会治理 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C7-china-global.md
+- Exact file heading # C7｜中国与全球互联关系 / Native 2026-11-09, blob `e62a7c126db87a2ac4d7a6fe27038da6a975ca6a`, 49 text lines
+- Source identity excerpt: - source_1: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: NO_EXPLICIT_UNCERTAINTY; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C7｜中国与全球互联关系 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/C8-synthesis.md
+- Exact file heading # C8｜跨分任务综合与判断校准 / Native 2026-11-09, blob `6fe5828ace299ba3f5cf53a2909b355e85e31923`, 46 text lines
+- Source identity excerpt: 本日 C3–C6 获得两项实质研究增量：AutoDNA 的同行评审论文与可定位代码/数据入口，以及 Hi-WBC 的发行方技术声明；C1 未观察到新政策状态，C2 六个标准对象未观察到新跃迁，GB/T 48594 本轮复取 PARTIAL; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: 本日 C3–C6 获得两项实质研究增量：AutoDNA 的同行评审论文与可定位代码/数据入口，以及 Hi-WBC 的发行方技术声明；C1 未观察到新政策状态，C2 六个标准对象未观察到新跃迁，GB/T 48594 本轮复取 PARTIAL; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # C8｜跨分任务综合与判断校准 / Native 2026-11-09; a source's date differs from logical maintenance day
+### Nov09 source facet reports/daily/2026/11/2026-11-09/README.md
+- Exact file heading # 2026-11-09 China C1–C8 Native Daily Pack / 今日组件索引, blob `a8014ab8ed20da0d9189f7a40c80f79fcf81c388`, 30 text lines
+- Source identity excerpt: | C2 | [C2｜标准、协议、身份与互联](./C2-standards-protocols.md) | 六个 SAMR 对象未见新状态跃迁，GB/T 48594 本轮复取 PARTIAL |; Chinese institutional release, paper and standard are separate authority levels
+- Recorded uncertainty excerpt: | C2 | [C2｜标准、协议、身份与互联](./C2-standards-protocols.md) | 六个 SAMR 对象未见新状态跃迁，GB/T 48594 本轮复取 PARTIAL |; must not resolve disputed counts or partial text by inference
+- Date/cutoff excerpt: # 2026-11-09 China C1–C8 Native Daily Pack / 今日组件索引; a source's date differs from logical maintenance day
