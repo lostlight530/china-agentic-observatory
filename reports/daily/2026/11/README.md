@@ -1,6 +1,6 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
-**2026-11-10 2026-11-10 08:54:17 Asia/Shanghai native checkpoint**：截至当前基线 main `a4884eb66b93b6177dc7df8d026baffd1ca72d6d` 有 Nov1–9 九个 native 日期，本分支新增第十个完整 C1–C8 pack，PR 合并前仍为 proposed；W45 FINAL 7/7，W46 OPEN 1 merged + Nov10 proposed（2/7 on branch），H46-1~4 OPEN；November OPEN，Nov11–30 NOT_DUE；无独立 TCK/CI/runtime PASS
+**2026-11-10 08:54:17 Asia/Shanghai native checkpoint**：截至当前基线 main `a4884eb66b93b6177dc7df8d026baffd1ca72d6d` 有 Nov1–9 九个 native 日期，本分支新增第十个完整 C1–C8 pack，PR 合并前仍为 proposed；W45 FINAL 7/7，W46 OPEN 1 merged + Nov10 proposed（2/7 on branch），H46-1~4 OPEN；November OPEN，Nov11–30 NOT_DUE；无独立 TCK/CI/runtime PASS
 
 **2026-11-09 post-merge delivery reconciliation — current main**：原生 C1–C8 [PR #255](https://github.com/lostlight530/china-agentic-observatory/pull/255) 于 2026-11-09T11:06:34Z 合并，最新核对 main `15a60d867399b052892094e2aaa0e11ab1e1b714` 现已保留 11 月 1–9 日共九个完整原生 Daily pack 与 W46 Monday opening（OPEN 1/7）；W45 FINAL 7/7，November OPEN，Nov10–30 NOT_DUE。下方 18:33:23 的 Draft/proposed 仍是原始生产者截点的历史描述，不再代表当前 GitHub lifecycle。本次仅修正交付状态投影，未执行新的原生研究、A1/A2、独立复现或 conformance。
 
