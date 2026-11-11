@@ -1,0 +1,183 @@
+# 2026-11-11 ORIGINAL A2 — China Observatory November exact-object and source relation
+
+## Fresh merged A1 dependency and calendar gates
+- Original A1 #266 merged to current main `2315782fe8e6939c9181a47e314cc25f3df97cf5`, read-back source blob `7e2124d7f0944ad1bb82a9414f47cf013b195fc6`
+- Nov01–11 integrated C1–C8 native Daily source relation; native Nov11 PR #265 already merged, Day N eligible only now
+- Nov11 CAC first-party portal notice publication/event Nov09; verified by this day's native producer, not a Nov11 policy enactment
+- YD/T 7174—2026 original publication Jul15 and effective Nov01; a communications industry standard, not a GB/Z Agent reciprocal conformance certificate
+- Poppy 0.4 publisher declared published Nov10 / 1.0 Release Candidate, not Chinese national standard or independent implementation TCK
+- W45 FINAL Nov02–08 7/7; W46 OPEN Nov09–11 3/7; November OPEN natural final NOT_DUE
+- Official object identity, source publication, regulatory effective date, later observation and GitHub PR delivery are five separate coordinates
+- GB/T 48594 original portal reading PARTIAL and AutoDNA operation-count inconsistency remain unresolved
+- Original Oct31 A2 strict 0/10, Nov01 successors/cleanup/reconciliation and Nov10 A1/A2/D10 keep independent historical acceptance
+- No actual national filing transaction, installed industry protocol, hardware robot test, AutoDNA recovery run or cross-implementation TCK executed by this A2
+
+## Eleven dates — full-current original source/claim/counterevidence relationships
+### 2026-11-01 — date/authority/verification separation
+- Original research contribution: SAMR four exact objects and ITU status unchanged; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: no newly implemented binding standard inferred; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: SAMR four exact objects and ITU status unchanged must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: no newly implemented binding standard inferred; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: no newly implemented binding standard inferred; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: SAMR four exact objects and ITU status unchanged is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-02 — date/authority/verification separation
+- Original research contribution: SAMR/ITU same official object states and W45 opening; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: status continuity not a new standard publication; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: SAMR/ITU same official object states and W45 opening must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: status continuity not a new standard publication; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: status continuity not a new standard publication; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: SAMR/ITU same official object states and W45 opening is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-03 — date/authority/verification separation
+- Original research contribution: four standards and ITU remained in known lifecycle; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: draft/in-approval/prepublished not interchangeable; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: four standards and ITU remained in known lifecycle must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: draft/in-approval/prepublished not interchangeable; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: draft/in-approval/prepublished not interchangeable; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: four standards and ITU remained in known lifecycle is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-04 — date/authority/verification separation
+- Original research contribution: GB/T 48562 official publication Oct30, future effective May01 2027; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: newly discovered older publication ≠ new current legal force; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: GB/T 48562 official publication Oct30, future effective May01 2027 must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: newly discovered older publication ≠ new current legal force; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: newly discovered older publication ≠ new current legal force; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: GB/T 48562 official publication Oct30, future effective May01 2027 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-05 — date/authority/verification separation
+- Original research contribution: same GB/T 48562 upcoming state; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: no material transition in observed scope; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: same GB/T 48562 upcoming state must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: no material transition in observed scope; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: no material transition in observed scope; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: same GB/T 48562 upcoming state is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-06 — date/authority/verification separation
+- Original research contribution: six named SAMR/ITU standards objects rechecked; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: one portal status cannot certify cross-protocol conformance; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: six named SAMR/ITU standards objects rechecked must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: one portal status cannot certify cross-protocol conformance; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: one portal status cannot certify cross-protocol conformance; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: six named SAMR/ITU standards objects rechecked is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-07 — date/authority/verification separation
+- Original research contribution: six exact standards objects maintained, no transition; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: beyond official metadata clause-level checks unperformed; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: six exact standards objects maintained, no transition must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: beyond official metadata clause-level checks unperformed; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: beyond official metadata clause-level checks unperformed; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: six exact standards objects maintained, no transition is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-08 — date/authority/verification separation
+- Original research contribution: standards identity and separate media-governance observations; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: press/initiative date not standards effective date; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: standards identity and separate media-governance observations must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: press/initiative date not standards effective date; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: press/initiative date not standards effective date; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: standards identity and separate media-governance observations is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-09 — date/authority/verification separation
+- Original research contribution: Nature AutoDNA + Hi-WBC, separate first-party research; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: author devices and publisher echoes not independent lab reproduction; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: Nature AutoDNA + Hi-WBC, separate first-party research must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: author devices and publisher echoes not independent lab reproduction; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: author devices and publisher echoes not independent lab reproduction; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: Nature AutoDNA + Hi-WBC, separate first-party research is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-10 — date/authority/verification separation
+- Original research contribution: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: local device demo and partial retrieval cannot certify durable global recovery; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6 must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: local device demo and partial retrieval cannot certify durable global recovery; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: local device demo and partial retrieval cannot certify durable global recovery; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- A2 month revision result: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+### 2026-11-11 — date/authority/verification separation
+- Original research contribution: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10; one C1–C8 native Daily despite eight thematic facets
+- C1 policy interpretation: three different authority/effective/source dates, no formal reciprocal interop; standards portal data is not evidence of an unrelated new law
+- C2 standards identity: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10 must retain the exact standard number, type, publication and effective status
+- C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- C4 agent/OSS: three different authority/effective/source dates, no formal reciprocal interop; repository or paper availability does not demonstrate actually deployed tool protocol
+- C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- C8 synthesis and negative evidence: three different authority/effective/source dates, no formal reciprocal interop; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Calendar inheritance: new Day N source included after A1 main gate
+- A2 month revision result: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+
+## Current November state, corrections and non-promotions
+- Nov11 CAC unified portal launch refers to issuer notice dated Nov09, not a new same-day policy
+- Observing a filing portal is not actually completing filing, access or approval transaction
+- YD/T 7174—2026 published Jul15 and effective Nov01, not newly issued Nov11
+- YD/T industry standard and GB/T national recommended standard have different formal authority and scopes
+- GB/Z guiding technical document is not a transitive conformance bridge to Poppy or YD/T by similar terms
+- Poppy 0.4 published date Nov10 is publisher metadata, not 1.0 GA or national mutual-recognition event
+- External Poppy code changes do not validate a China Agent Runtime or native legal compatibility
+- GB/T 48562 published Oct30 and future effective 2027-05-01 must preserve publication/effective split
+- GB/T 48073/48110 effective scheduled 2026-12-01 are NOT_DUE at Nov11
+- GB/T 48594 portal metadata PARTIAL remains a source retrieval boundary, not complete standard text proof
+- Six exact SAMR/ITU objects at Nov06–07 are different official regulatory objects, not six independent software implementations
+- AutoDNA publication Nature Nov04 and research discovery Nov09 cannot be described as Nov09 novel experiment
+- AutoDNA first-party Nature paper, university release and media repeats share original research-team issuer lineage
+- AutoDNA author operation counts 11000+, 11382, 11386 are not silently reconciled without source-level arithmetic
+- AutoDNA Video 6 pipette-tip pickup and malfunction demonstrates author-described local device response only
+- Neither AutoDNA local hardware recovery nor source code proves durable effect-state recovery across distributed hosts
+- Hi-WBC source observations must remain research claims, not autonomous full-body industrial deployment evidence
+- W45 closed Nov08; Nov09–11 Day N cannot enter a historical W45 final count
+- W46 3/7 as-of Nov11, Nov12–15 NOT_DUE, no synthetic final week artifact
+- Monthly November OPEN; no original calendar-final assessment exists on Nov11
+- Nov11 #265 native research merged into main prior to this A2; no unmerged branch assumed as dependency
+- Original A1 #266 coverage ended Nov10; its source review not retroactively expanded through Nov11
+- Nov10 A1 #262 and A2 #263 remain different historical PRs and cannot donate additions to Nov11 original A2
+- D10 Nov01–10 is a separate periodic audit, not a new C1–C8 Daily or A2 validation
+- Original Oct31 0/10 strict A2 acceptance is unchanged after successor and reconciliation
+- Source owner authoritative dates and later observation must remain distinguishable in SOURCE_REGISTRY
+- No duplicate C-W81..84/H46 watchlist or fictional standard identity added by this A2
+- Official document title and adoption date alone cannot certify actual clause-by-clause implementation conformance
+- GitHub merged PR and website pages success do not certify TCK, external clinical lab or real-world robotics
+- Human-authorized GitHub merge is not independent Human Review
+- Original A2 own diff must include >=100 actual additions and >=100 substantive relation lines
+- No justified native correction to already correct historical files, so only new dated relation document is written
+- Next Nov12 A1 must be based on valid Nov01–11 owner and later A2 only after A1 merged-main reread
+- Current status November OPEN, W46 OPEN, existing standards/AutoDNA contradictions/unknowns preserved
