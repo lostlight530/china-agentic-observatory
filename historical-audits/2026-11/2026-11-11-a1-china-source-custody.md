@@ -1,0 +1,186 @@
+# 2026-11-11 ORIGINAL A1 — China Observatory C1–C8 Nov01–10 exact-source custody
+
+## Independent-review identity and current coverage
+- Pre-A1 latest main `7e9941d95a953c7c5110781bf20ae86c616bff45`; scope Nov01–10 inclusive; Nov11 native Daily excluded from original A1
+- Ten integrated C1–C8 Daily report bodies read at current main; one Daily is one unit with eight facets, not eight native days
+- Current tree hash/path verifies 80 C1–C8 facet files plus ten README files for Nov01–10, and all 10 integrated reports
+- Nov10 facet C1–C8 bodies additionally opened; older facets checked as tree-retained with D10 source ledger, no claim of independent full body rerun
+- Source date, observed date, official effective date, original institution and PR merge are independent timestamp concepts
+- Nov01 W44, Nov02–08 W45 FINAL 7/7, Nov09–10 W46 OPEN 2/7; November OPEN, final NOT_DUE
+- SAMR/ITU type/status fields, GB/T publication versus effective dates and author-reported AutoDNA device trial require separate evidence classes
+- Nov10 A1 #262, A2 #263, D10, original Oct31 strict 0/10 and later successors/reconciliation remain distinct historical records
+- No official standards conformance TCK, AutoDNA lab, hardware error recovery, deployed API, clinical test or external CI run by this A1
+
+## Per-date exact object and per-file decisions
+### 2026-11-01: SAMR four objects/ITU F.748.93 status unchanged
+- Integrated report `reports/daily/2026/11/2026-11-01.md` blob `01ef8d314ff6ae7706953392525ae5f96011d9eb`: SAMR four objects/ITU F.748.93 status unchanged, original Daily body read
+- Scientific and normative counterevidence: object was not automatically published or implemented, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-01/C1-history-policy.md` blob `b41c08c4b064d6b2`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` blob `6f3b9966cd2661e0`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C3-research-models.md` blob `df45860e4595a6af`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` blob `b5b1434cebb13240`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` blob `11b258f3737ffea2`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` blob `3fd8b33fb8e94718`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C7-china-global.md` blob `bd57a3b0ab343bba`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/C8-synthesis.md` blob `c571ac1e818f5a2d`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-01/README.md` blob `769022e0eb42823e`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W44 and historical observation as-of 2026-11-01 preserved, no backdating
+### 2026-11-02: SAMR exact-object continuity, W45 opening
+- Integrated report `reports/daily/2026/11/2026-11-02.md` blob `623d794d1e4663cb9277e7294febca698d1f8224`: SAMR exact-object continuity, W45 opening, original Daily body read
+- Scientific and normative counterevidence: draft/in-approval not upgraded from unchanged official portal, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-02/C1-history-policy.md` blob `117cb468c597147d`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` blob `19145e2271639b2c`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C3-research-models.md` blob `472eee40e99e099e`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` blob `8b14551cad268842`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` blob `c147df9778d7e540`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` blob `2741b7741be5a2be`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C7-china-global.md` blob `eaf5b9a373f41872`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/C8-synthesis.md` blob `7388141a697aa83b`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-02/README.md` blob `f136b85abdebb4d8`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-02 preserved, no backdating
+### 2026-11-03: standards exact-object status no new transition
+- Integrated report `reports/daily/2026/11/2026-11-03.md` blob `432797681637d2cfb85884cf5c63046c751371a8`: standards exact-object status no new transition, original Daily body read
+- Scientific and normative counterevidence: fresh source observation not a new effective date, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-03/C1-history-policy.md` blob `384edb3d9e5c1aac`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` blob `7254c408cb732387`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C3-research-models.md` blob `ddad24ff999aed44`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` blob `ed5ee102075dd849`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` blob `cb5516caa4a0cffc`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` blob `e91edbd4b3c56e80`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C7-china-global.md` blob `dc3fa8c5001e3ac7`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/C8-synthesis.md` blob `37d4eb02a702fd13`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-03/README.md` blob `2f0bf464c01afa95`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-03 preserved, no backdating
+### 2026-11-04: GB/T 48562 official published Oct30 and effective May01 2027
+- Integrated report `reports/daily/2026/11/2026-11-04.md` blob `e0bc133594865df764ab0702dd714505d0fb63d2`: GB/T 48562 official published Oct30 and effective May01 2027, original Daily body read
+- Scientific and normative counterevidence: late discovery not a Nov04 release, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-04/C1-history-policy.md` blob `ef345cb5c64661ac`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` blob `699db4661554add9`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C3-research-models.md` blob `5a210d104773adeb`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` blob `5af48036cea09918`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` blob `37e511eece877815`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` blob `a67f1c8a23981246`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C7-china-global.md` blob `46b784e15f917cdf`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/C8-synthesis.md` blob `8d58446e962a1607`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-04/README.md` blob `8ec01ae2ab619d93`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-04 preserved, no backdating
+### 2026-11-05: GB/T 48562 still upcoming implementation, no new transition
+- Integrated report `reports/daily/2026/11/2026-11-05.md` blob `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1`: GB/T 48562 still upcoming implementation, no new transition, original Daily body read
+- Scientific and normative counterevidence: published != effective != adopted, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-05/C1-history-policy.md` blob `1e2019b7d8090adc`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` blob `ef5e3dc05c80b4ee`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C3-research-models.md` blob `a3eab7cca684234b`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` blob `1951a5663477d763`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` blob `5423d0226a7d8d78`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` blob `51380d3fe4fec417`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C7-china-global.md` blob `f0634f29e9b05543`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/C8-synthesis.md` blob `d9b98dda68209186`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-05/README.md` blob `2ac53288cad5e2fa`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-05 preserved, no backdating
+### 2026-11-06: six SAMR/ITU exact objects compared, no new lifecycle change
+- Integrated report `reports/daily/2026/11/2026-11-06.md` blob `8492614e5cb1747f9c00012e721d51d219bb472b`: six SAMR/ITU exact objects compared, no new lifecycle change, original Daily body read
+- Scientific and normative counterevidence: multiple objects not one formal interop specification, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-06/C1-history-policy.md` blob `71cd2c4d4b843c99`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` blob `3f4386ee2cef921a`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C3-research-models.md` blob `0343e54c793b7dab`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` blob `860d965c1efafbb7`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` blob `961e7dd1974dee9d`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` blob `b82c335aca370242`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C7-china-global.md` blob `37ddc5bfebd634cc`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/C8-synthesis.md` blob `3db6d3c4f0260866`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-06/README.md` blob `6c2364c008d6c1d8`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-06 preserved, no backdating
+### 2026-11-07: six exact objects, no new observed portal status change
+- Integrated report `reports/daily/2026/11/2026-11-07.md` blob `88024f0206d025ac235e06d91c62badaa4a4135f`: six exact objects, no new observed portal status change, original Daily body read
+- Scientific and normative counterevidence: portal retrieval insufficient for legal clause-by-clause conformance, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-07/C1-history-policy.md` blob `43f7a6220d5fba40`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C2-standards-protocols.md` blob `bd274743fb9ad9bb`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C3-research-models.md` blob `d0a9f9bd0f82b625`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C4-agents-open-source.md` blob `28e0f99d57867865`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C5-infrastructure-industry.md` blob `70d77347d277fa4f`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C6-applications-governance.md` blob `cfdc8471cb023894`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C7-china-global.md` blob `12a427895ffaa5f9`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/C8-synthesis.md` blob `be6c4c8f97c198fe`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-07/README.md` blob `21ed45643515cbea`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-07 preserved, no backdating
+### 2026-11-08: standard type/source and media governance discoveries
+- Integrated report `reports/daily/2026/11/2026-11-08.md` blob `71bb527b1f9b146b289fb83086da3b5a3306c7d6`: standard type/source and media governance discoveries, original Daily body read
+- Scientific and normative counterevidence: normative authority differs from initiative and news commentary, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-08/C1-history-policy.md` blob `41d6e8cc8e6c0c5b`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C2-standards-protocols.md` blob `35509cc25ec6bb9e`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C3-research-models.md` blob `62a83c1b1d296a6a`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C4-agents-open-source.md` blob `2228e256502678f7`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C5-infrastructure-industry.md` blob `e62caf86bdde8ee5`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C6-applications-governance.md` blob `973b61ee90ac80ea`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C7-china-global.md` blob `a94c5612bc50ec69`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/C8-synthesis.md` blob `e0d89ebe959acc11`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-08/README.md` blob `f74826c8ef719b3a`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W45 and historical observation as-of 2026-11-08 preserved, no backdating
+### 2026-11-09: AutoDNA paper and Hi-WBC research
+- Integrated report `reports/daily/2026/11/2026-11-09.md` blob `49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0`: AutoDNA paper and Hi-WBC research, original Daily body read
+- Scientific and normative counterevidence: source team papers/news are not independent physical reproductions, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-09/C1-history-policy.md` blob `5ddef37f51e3b62a`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C2-standards-protocols.md` blob `03c9ab38bc086eae`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C3-research-models.md` blob `f5f2f7f3a24cea46`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C4-agents-open-source.md` blob `b4a8577a0d24f47c`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md` blob `523946f3e5a76b2b`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C6-applications-governance.md` blob `79bb9e40f7575aab`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C7-china-global.md` blob `e62a7c126db87a2a`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/C8-synthesis.md` blob `6fe5828ace299ba3`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-09/README.md` blob `a8014ab8ed20da0d`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W46 and historical observation as-of 2026-11-09 preserved, no backdating
+### 2026-11-10: GB/Z guidance, GB/T implementation dates, GB/T 48594 partial and AutoDNA Video 6
+- Integrated report `reports/daily/2026/11/2026-11-10.md` blob `e62643a840a6096ad53aacebaceae3fdb45d21c1`: GB/Z guidance, GB/T implementation dates, GB/T 48594 partial and AutoDNA Video 6, original Daily body read
+- Scientific and normative counterevidence: localized fault demo not full durable recovery; portal retrieval PARTIAL, so author claims cannot upgrade legal or physical runtime authority
+- `reports/daily/2026/11/2026-11-10/C1-history-policy.md` blob `c0b6136c0e472e23`: state policy/history; portal standard status not a same-date policy promulgation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C2-standards-protocols.md` blob `245b02c709ad0dca`: exact legal standard object/version; draft, published, effective and in-force must not collapse; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C3-research-models.md` blob `7dc910e5b7e7998e`: scientific original paper/model evaluation; author reports not independent lab reproduction; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C4-agents-open-source.md` blob `8e398f3c7513c7f0`: agent and open-source engineering; repository/code visibility not deployed implementation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C5-infrastructure-industry.md` blob `8ad9728b4ba46b8f`: physical instrument and industry; paper device trial not industry-wide durable operation; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C6-applications-governance.md` blob `b81fc8ac39e7c35f`: application/governance claims; paper demo not certified clinical or industrial safety; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C7-china-global.md` blob `8a45278823aac7a1`: China-global crosswalk; similar terminology not a ratified protocol equivalence; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/C8-synthesis.md` blob `43dfa4fc0a8a63ea`: multi-workstream synthesis; same issuer cited repeatedly remains one source lineage; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- `reports/daily/2026/11/2026-11-10/README.md` blob `42b71e83aa17d717`: daily pack navigation; navigation file is not another native date; TREE_RETAINED, judgment bounded by integrated Daily + D10, not a claimed independent source experiment
+- Pack has eight role facets and one README plus integrated report = 10 canonical file identities, one logical native date
+- Week boundary W46 and historical observation as-of 2026-11-10 preserved, no backdating
+
+## Named source boundaries, contradictions, cumulative evidence
+- Nov01–03 unmodified SAMR and ITU states are valid no-material-change results, not missing work
+- GB/T 48562 publication 2026-10-30 is not an observed Nov04 event date
+- GB/T 48562 effective 2027-05-01 is future NOT_DUE, not currently in force
+- Nov05–07 rechecking the same official object does not create multiple independent legal statuses
+- GB/Z guidance, GB/T recommended standards, YD/T industry standards and foreign protocol specs are different normative categories
+- An announced standard plan in approval status is not the completed standard text
+- Nov08 source official registration is primary for identity/status but not evidence of clause-wise interoperability
+- AutoDNA Nature original paper published Nov04 and observed Nov09 is not a Nov09 experiment
+- AutoDNA university announcement and national news relay share the same underlying research issuer lineage
+- AutoDNA author operation-count 11000+ versus 11382 versus 11386 remains UNRECONCILED, not averaged or silently harmonized
+- AutoDNA supplementary Video 6 demonstrates bounded reported pipette errors, not zero incident rate or durable authorization
+- GB/T 48594 portal original URL retrieval is PARTIAL, not fully verified standard content
+- Poppy source draft update belongs to a different normative layer from Chinese GB/Z guidance
+- China-global comparison cannot infer formal mutual recognition from similar terms like identity or approval
+- C1 history-policy does not certify C2 standard conformance automatically
+- C3 research paper does not certify C5 physical-world instrument reliability
+- C4 agent/source code does not independently test an embedded hardware service
+- C6 application/clinical claims need external validated risk and responsibility controls
+- C7 crosswalk remains OPEN pending exact clause-level standards texts and independent runtime
+- C8 synthesized result preserves issuer independence and unresolved H46 hypotheses
+- Nov10 original A1 blob 6a09203b68e0b98db6f0a6c430698ee02287bbd9 covers previous day
+- Nov10 A2 blob 9ff321e0ea0f7b9af964b674f492ce860de0bcca is historical previous relation
+- D10 blob 9403a1b0f09bbf4be6021c03e4b08a95da6d7445 remains separate periodic audit, no rerun
+- Current main proves ten integrated report files plus 80 dated facets and ten README, not source truth of all reported vendor claims
+- Nov11 native CAC/YD/T new-to-observatory evidence belongs in A2 Day N, not original A1
+- Correct dated files remain unchanged, no manufactured official source correction
+- Original strict PR additions and substantive lines must pass on this PR independently
+- GitHub authorized merge does not equal independent Human Review
+- External TCK, standards full text legal interpretation and lab reproductions NOT_EXECUTED by this A1
+- Final A1 disposition: exact file presence/version/source-custody checked, scientific/standard conformance remains bounded
