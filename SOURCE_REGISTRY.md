@@ -11,10 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-09** (AutoDNA Nature research, institutional/project artifacts and Hi-WBC issuer source admitted at 2026-11-09 18:33:23 Asia/Shanghai; publication and observation dates remain separate)
+Updated through: **2026-11-11** (two newly verified durable source identities，CAC 2026-11-09 portal notice and MIIT/CCSA YD/T 7174—2026 metadata，first observed 2026-11-11 16:35:14 Asia/Shanghai，prior 2026-11-09 registry checkpoint remains historical)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| C-CAC-UNIFIED-FILING-2026-11-09 | C0 | 国家互联网信息办公室 / 中国网信网 | 2026-11-09 15:00 official announcement for multi-category new-technology filing portal，observed 2026-11-11 16:35:14 2026-11-11；portal launch does not prove individual filing or migration completion | https://www.cac.gov.cn/2026-11/09/c_1795978604463007.htm |
+| C-SAMR-YDT7174-2026 | C0 | 全国标准信息公共服务平台 / MIIT / CCSA | YD/T 7174—2026 通信行业标准，published 2026-07-15，effective 2026-11-01，official metadata first observed 2026-11-11 16:35:14 2026-11-11；not an agent interop standard or independent test | https://std.samr.gov.cn/hb/search/stdHBDetailed?id=5A166B0E8BF82BDAE06397BE0A0A0423 |
 | C-SAMR-GBZ242-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/Z 242-2026 人工智能 智能体技术要求，2026-08-27 发布，现行指导性技术文件，2026-11-08 首次本轮后发现，不代表正式跨协议映射 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5A138523DF9979B5E06397BE0A0AD5FD |
 | C-SAMR-GBZ290-2026 | C0 | 全国标准信息公共服务平台 / TC4 | GB/Z 290-2026 学术出版 AIGC 使用边界指南，2026-10-30 发布，现行指导性技术文件，条款全文未逐条核查 | https://std.samr.gov.cn/gb/search/gbDetailed?id=5F6B9C9E6B66C75BE06397BE0A0A6C0B |
 | C-SAMR-GBZ299-2026 | C0 | 全国标准信息公共服务平台 / TC28 | GB/Z 299-2026 人工智能操作系统通用技术要求，2026-09-24 发布，现行指导性技术文件，不推导软件部署 | https://std.samr.gov.cn/gb/search/gbDetailed?id=4mRR%2BgLgkMM%3D&mode=p |
