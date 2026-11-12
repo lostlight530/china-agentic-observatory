@@ -1,5 +1,7 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-12 18:51:29 Asia/Shanghai current successor: MIIT 工信厅信管〔2026〕42号 published Nov06 newly observed Nov12，terminal adaptation, unique identity reference, OTA and application calling-consent obligations now source-grounded；C-W05/C-W16 remain OPEN for exact-object implementation and recovery evidence
+
 - 2026-11-09 current successor: AutoDNA Nature research and Hi-WBC issuer release add physical Agent/instrument execution cases; count variants remain unresolved; C-W84 opens for instrument identity, authorization, audit, safety and recovery contracts; C-W81–83 remain OPEN
 
 - 2026-11-08 current successor: GB/Z 242 与三语外文计划、GB/Z 290、GB/Z 299/300、GB/T 48073/48110/48594 为新观察的准确对象，新华社媒体共建倡议于 11 月 7 日启动，未从官方标题或未来计划推导运行与条款级符合性
