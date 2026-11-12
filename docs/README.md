@@ -38,3 +38,12 @@ current merged main + current observatory contract
 ## Visual identity
 
 视觉语言不继承旧 Welcome Portal 的 Google 配色，也不模仿 AI 厂商产品页。界面语法来自本项目自身：precise object、institutional level、lifecycle state、observation date、source lineage、uncertainty 与 reconciliation。
+
+
+## Twin observatory navigation and failure isolation
+
+The Global Observatory link is a navigation and structural-comparison surface only. The two repositories retain separate evidence chains, research taxonomies, lifecycle semantics, and canonical data ownership.
+
+The primary repository projection is required; the companion projection is optional. If the companion HEAD or any of its canonical sources cannot be read, the current repository's projection remains available and the Twin lens reports `UNAVAILABLE`. A companion failure must not blank the primary observatory or cause replacement state to be inferred.
+
+The latest Daily date is selected only from dated rows in the monthly Daily index whose Integrated Daily link points to the matching `./YYYY-MM-DD.md` file. Dates in reconciliation prose, event descriptions, publication timestamps, or historical notes are not Daily records and must not determine the latest observation.
