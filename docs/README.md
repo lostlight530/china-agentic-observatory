@@ -21,7 +21,7 @@ current merged main + current observatory contract
 
 前端可以投影最新 repository-native observation date、owning Weekly/Monthly 当前状态、最新 Daily pack 的 C1–C8 bounded handoff、开放 Watchlist、Source Registry 已收录对象与 Twin Observatory 同层比较入口，并把每个投影表面链接回仓库源文件。
 
-前端不得从 current-state page 反推未记录 transition time，不得把 drafting/review/approved/published/in-force 合并成一个状态，不得从对象标题推断条款级语义、implementation、conformance 或 adoption，不得对 China/Global 排名，不得写回研究表面，也不得把渲染或抓取成功当成 scientific validity / formal mapping。
+前端不得从 current-state page 反推未记录 transition time，不得把 drafting/review/approved/published/in-force 合并成一个状态，不得从对象标题推断条款级语义、implementation、conformance 或 adoption，不得对 China/Global 排名，不得写回研究表面，也不得把渲染或抓取成功当作 scientific validity / formal mapping。
 
 任何 canonical source 无法读取时，界面显示 `UNAVAILABLE`，不补造状态。
 
@@ -39,11 +39,6 @@ current merged main + current observatory contract
 
 视觉语言不继承旧 Welcome Portal 的 Google 配色，也不模仿 AI 厂商产品页。界面语法来自本项目自身：precise object、institutional level、lifecycle state、observation date、source lineage、uncertainty 与 reconciliation。
 
+## Navigation
 
-## Twin observatory navigation and failure isolation
-
-The Global Observatory link is a navigation and structural-comparison surface only. The two repositories retain separate evidence chains, research taxonomies, lifecycle semantics, and canonical data ownership.
-
-The primary repository projection is required; the companion projection is optional. If the companion HEAD or any of its canonical sources cannot be read, the current repository's projection remains available and the Twin lens reports `UNAVAILABLE`. A companion failure must not blank the primary observatory or cause replacement state to be inferred.
-
-The latest Daily date is selected only from dated rows in the monthly Daily index whose Integrated Daily link points to the matching `./YYYY-MM-DD.md` file. Dates in reconciliation prose, event descriptions, publication timestamps, or historical notes are not Daily records and must not determine the latest observation.
+[Canonical repository navigation / 仓库导航](NAVIGATION.md) provides a finite map of current authority, observation surfaces, and historical boundaries without creating a second research database.
