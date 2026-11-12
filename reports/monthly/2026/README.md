@@ -5,7 +5,7 @@
 | 2026-08 | CLOSED; correction appended 2026-09-01 | 7–31 Aug, 25 real days | First repository-native month. F.748.93 approval occurred 29 Aug but was discovered after closure; explicit correction preserves both dates. |
 | 2026-09 | CLOSED_WITH_GAPS | 29 retained same-day Dailies; explicit gap 2026-09-28 | Historical accounting closed after natural month end; producer-native `2026-09.md` remains frozen at its last OPEN cut per A2 close contract. W40 continues across the month boundary. |
 | 2026-10 | **CLOSED_WITH_GAPS** | 30 native C1–C8 dates: 1–11, 13–31 Oct; 12 Oct historical native gap | Natural month ended，W44 October intersection 6 dates，1 Nov Sunday settlement separate，closure accounted 2026-11-01 04:58:46 Asia/Shanghai |
-| 2026-11 | **OPEN** | Nov01–10 ten complete C1–C8 Daily packs merged main，Nov11 eleventh proposed only，Nov12–30 NOT_DUE | [November current OPEN checkpoint](./2026-11.md)，W45 FINAL 7/7，W46 OPEN 2/7 merged + Nov11 proposed，H46-1~4 OPEN |
+| 2026-11 | **OPEN** | Nov01–11 eleven complete C1–C8 native Daily packs merged main；Nov12 underway at 2026-11-12 08:34:13 Asia/Shanghai，Nov13–30 NOT_DUE | [November OPEN](./2026-11.md)，W45 FINAL 7/7，W46 OPEN 3/7 merged，H46-1~4 OPEN；11-11 native [PR #265](https://github.com/lostlight530/china-agentic-observatory/pull/265) merged，earlier proposed notes are historical |
 
 ```text
 closed month ≠ immutable error
