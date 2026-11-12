@@ -19,7 +19,7 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native C1–C8 Dailies，H43-1~3 OPEN / UNCHANGED，2026-10-25 05:03:18 Asia/Shanghai Sunday settlement，no verified exact-object transition |
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native C1–C8 Dailies，H44-1~3 OPEN / UNCHANGED，Sunday settlement 2026-11-01 04:58:46 Asia/Shanghai，November day is cross-month |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov2–8 七个 native 日期现已合并 main（Nov8 原以同一 Draft PR 交付 pack 与 Sunday settlement）；H45-1/3 OPEN，H45-2 DATE_VERIFIED / TRANSITION_UNVERIFIED，2026-11-08 15:22:25 Asia/Shanghai |
-| W46 | 9–15 Nov | **OPEN / Nov09–11 merged 3/7 in current main** | Nov11 native [PR #265](https://github.com/lostlight530/china-agentic-observatory/pull/265) merged 2026-11-11T09:08:51Z，H46-1~4 OPEN，Nov12 in progress at 2026-11-12 08:34:13 Asia/Shanghai，Nov13–15 NOT_DUE，November OPEN；previous 2 merged + 1 proposed was producer-time only |
+| W46 | 9–15 Nov | **OPEN / 3 merged + Nov12 proposed 1/7 = 4/7 on branch** | MIIT Nov06 formal notice first observed Nov12，H46-1~4 OPEN，Nov13–15 NOT_DUE，November OPEN；not current main claim |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
