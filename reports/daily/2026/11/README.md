@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-13 04:58:42 Asia/Shanghai native PARTIAL proposal**：main `d39ea08f908e2a341784a41ff10864f944d3c73d` Nov01–12 十二个已合并原生日，Nov13 当前唯一 China C1–C8 结构完整但外部来源扫描 NOT_EXECUTED，W46 merged 4/7 + proposed 1/7，H46-1~4 OPEN，November OPEN，Nov14–30 NOT_DUE；旧日期提案文字保留 point-in-time 语义
+
 **2026-11-12 18:51:29 Asia/Shanghai native proposal**：main `756f2f6b9399b5efe8877877bcbd696182ef53d3` Nov01–11 eleven merged original C1–C8 packs，Nov12 proposed native integrated and eight components + index，W46 3 merged + one proposed = 4/7 on branch，H46-1~4 OPEN，November OPEN，Nov13–30 NOT_DUE；MIIT notice published Nov06 newly observed today
 
 **2026-11-12 08:34:13 Asia/Shanghai — current merged-main delivery reconciliation / 当前合并态更正**：main `81c3b7860b5db22cfc390fa79880cdafdae02ed8` 已包含 2026-11-11 原生 [PR #265](https://github.com/lostlight530/china-agentic-observatory/pull/265) 于 2026-11-11T09:08:51Z 合并的第十一份完整 C1–C8 Daily（主报告、8 个分任务与索引），Nov01–11 共 11 个已合并原生日；W45 FINAL 7/7，W46 OPEN Nov09–11 3/7，H46-1~4 OPEN，November OPEN；Nov12 当日进行中，不能在本截点判 native gap，Nov13–30 NOT_DUE；下方 11-11 proposed 叙述只代表原始生产者时间截点，本更正未执行新 Daily、外部实验或 checker
@@ -34,3 +36,4 @@
 | 2026-11-10 | [2026-11-10.md](./2026-11-10.md) | [2026-11-10/](./2026-11-10/) | W46 OPEN 2/7 on proposed branch，November OPEN |
 | 2026-11-11 | [2026-11-11.md](./2026-11-11.md) | [2026-11-11/](./2026-11-11/) | W46 OPEN 3/7 on proposal，November OPEN，late-discovered official evidence |
 | 2026-11-12 | [2026-11-12.md](./2026-11-12.md) | [2026-11-12/](./2026-11-12/) | W46 OPEN 4/7 on branch proposal，H46-1~4 OPEN，November OPEN |
+| 2026-11-13 | [2026-11-13.md](./2026-11-13.md) | [2026-11-13/](./2026-11-13/) | W46 OPEN 5/7 proposed, 4/7 merged / H46-1~4 OPEN / PARTIAL |
