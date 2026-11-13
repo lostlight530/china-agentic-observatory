@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-13 merged-main delivery correction**: PR #276 was merged 2026-11-13T13:18:25Z at `81c1c28c4f61b9cd24516eb2554adb5612b898e5`; Nov01–13 has 13 native merged Daily packs on that main cut, W46 OPEN 5/7, H46-1~4 OPEN, Nov14–15 NOT_DUE. The older Draft/proposal lines below are source-time snapshots, not present delivery state. Same-day later MIIT official source spot-check does not substitute for the absent complete C1–C8 external sweep or checker
+
 **2026-11-13 04:58:42 Asia/Shanghai native PARTIAL proposal**：main `d39ea08f908e2a341784a41ff10864f944d3c73d` Nov01–12 十二个已合并原生日，Nov13 当前唯一 China C1–C8 结构完整但外部来源扫描 NOT_EXECUTED，W46 merged 4/7 + proposed 1/7，H46-1~4 OPEN，November OPEN，Nov14–30 NOT_DUE；旧日期提案文字保留 point-in-time 语义
 
 **2026-11-12 18:51:29 Asia/Shanghai native proposal**：main `756f2f6b9399b5efe8877877bcbd696182ef53d3` Nov01–11 eleven merged original C1–C8 packs，Nov12 proposed native integrated and eight components + index，W46 3 merged + one proposed = 4/7 on branch，H46-1~4 OPEN，November OPEN，Nov13–30 NOT_DUE；MIIT notice published Nov06 newly observed today
