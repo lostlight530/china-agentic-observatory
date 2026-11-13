@@ -8,7 +8,7 @@
 - evidence_result: PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED
 - external source sweep: NOT_EXECUTED
 - checker/CI/TCK/runtime/conformance: NOT_EXECUTED
-- delivery: Draft proposal only, NOT_MERGED
+- delivery_at_producer_cut: Draft proposal and NOT_MERGED at 2026-11-13 04:58:42 Asia/Shanghai; GitHub PR #276 merged 2026-11-13T13:18:25Z, merge commit 81c1c28c4f61b9cd24516eb2554adb5612b898e5
 
 ## Observation / 观察
 综合：H46-1~4 保持 OPEN，重复现有同源记录不产生增强

@@ -8,7 +8,7 @@
 - evidence_result: PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED
 - external source sweep: NOT_EXECUTED
 - checker/CI/TCK/runtime/conformance: NOT_EXECUTED
-- delivery: Draft proposal only, NOT_MERGED
+- delivery_at_producer_cut: Draft proposal and NOT_MERGED at 2026-11-13 04:58:42 Asia/Shanghai; GitHub PR #276 merged 2026-11-13T13:18:25Z, merge commit 81c1c28c4f61b9cd24516eb2554adb5612b898e5
 
 ## Observation / 观察
 治理：电子签名声明义务与实际同意验证、撤销传播仍分离
@@ -23,3 +23,9 @@ PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED，维持已合并原有结论，不�
 
 ## Open falsifier / 待核验
 需要 exact-object 的新一手证据、真实执行记录或独立复现，才能推进对应假设
+
+## Later same-day first-party spot-check - 2026-11-13
+
+MIIT normative text calls for digitally signed developer consent to agent app invocation and forbids forced invocation without such consent; the existence of a requirement does not verify actual opt-in, revocation propagation or enforcement. Primary artifact accessed 2026-11-13: https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_1a83077d0f334f41a00d468e56df5303.html
+
+This is later maintainer evidence, not the original producer external sweep, no extra independent publisher, no H46 promotion and no runtime/TCK result
