@@ -1,112 +1,81 @@
 > [!NOTE]
 > **Current architecture interpretation — 2026-09-18**
-> - **Subject class:** `ARCHITECTURE / CONTEXT`
-> - **Role:** Durable map of the China Observatory inside the ten-repository system and its same-layer relationship with the Global Observatory
-> - **Authority:** Current cross-repository role authority for this observatory, not authority over the other repositories' implementation/evidence
-> - **Current meaning:** Use this file to recover the China observatory as an outward-facing fact/judgment-calibration layer with independent institutional vocabulary and source hierarchy
-> - **Evidence boundary:** Cross-repository relevance does not create inherited authority, automatic code/config changes, shared maturity, or validation of another repository's claims
-> - **Cross-document relation:** Each repository retains native authority; Global/China comparison must preserve local terms and compare policy↔policy, standard↔standard, protocol↔protocol, model↔model, runtime↔runtime and deployment↔deployment
-> - **Update trigger:** Update only when durable ten-repository roles or twin-observatory relationships materially change
+> - **Subject class:** `DEFINITION / ORIGIN`
+> - **Role:** Durable founding rationale for maintaining a China-specific external-world model
+> - **Authority:** Founding-rationale authority only; current policy/standard/project status must still be checked against competent current primary sources
+> - **Current meaning:** The repository was completed on 7 August 2026 to preserve China-specific institutional, policy, standards, engineering and industrial semantics rather than treating them as a regional appendix. The 2026 agent-policy, GB/Z 185.1–185.7 and TC260 security-guide milestones remain primary-source-supported at this review point
+> - **Evidence boundary:** Policy/standard existence and founding chronology are context, not proof of implementation completeness, nationwide adoption, interoperability, technical effectiveness or national-scale maturity
+> - **Cross-document relation:** Scope/Taxonomy/Methodology own current research semantics; Source Registry owns admitted identities; workstreams own durable subject responsibility
+> - **Update trigger:** Update only for a factual correction to the founding record or a durable change in repository purpose; later events must not be backdated into the origin narrative
 > - **Preservation rule:** The existing subject remains the owning repository document. Historical policy/standard/project observations retain their original date and status boundary; later evidence changes current interpretation without backdating transitions
 
-# Ten-Repository Context / 十仓体系定位
+# Origin: Why the Tenth Repository Was Completed on 7 August 2026 / 起源：为什么第十仓于 2026 年 8 月 7 日完成
 
-This file defines the China Observatory's durable role inside the public ten-repository research/software system. It is not a scheduler and does not make this repository an execution validator for the other nine repositories.
+## 中文
 
-## System shape / 体系结构
+### 一、这是中国人工智能路线第一次被单独建立为长期外部世界模型
 
-By 7 August 2026, the public system had formed ten repositories with intentionally distinct responsibilities.
+前八仓负责内部系统建设，第九仓观察全球前沿。但如果只保留一个“全球仓”，中国政策、标准、产业与开源路线很容易被压缩成国际框架下的区域附录。
 
-### Inward-facing construction and theory
+到 2026 年，这种处理已经不再准确：中国已形成从国家战略、生成式人工智能治理到智能体互联国家标准、安全指引和产业落地的连续体系。中国路线需要独立信源池、独立分类法和独立日报，而不是全球报告中的一个章节。
 
-- `welcome-to-github` — public portal, knowledge-lifecycle host, digital archaeology, and portfolio entry point.
-- `zero-entropy-lab` — deterministic state/memory/protocol experiments and reliability evidence surfaces.
-- `Axiom-0` — executable reference contracts plus ADR/Methodology/evidence/reproducibility layers.
-- `reflective-continuum` — versioned graph state, reflection, drift, entropy/statistical and persistence-identity experiments.
-- `agent-foundations` — bilingual theory/evidence/source/provenance core for agent architectures, memory, tools, and collaboration.
+### 二、现实条件在 2026 年成熟
 
-### Research-infrastructure chain
+中国人工智能制度与产业演进呈现清晰连续性：
 
-- `auto-doc-engine` — research documents, artifact identity, lineage, assertion basis and process disclosure.
-- `epistemic-pipeline` — claim/evidence processing, audit/transfer semantics, provenance and runtime-policy boundaries.
-- `sci-render-kit` — scientific communication, figure claims, uncertainty/accessibility metadata and communication transfer.
+- 2017 年《新一代人工智能发展规划》把人工智能提升为国家战略
+- 2023 年《生成式人工智能服务管理暂行办法》建立面向公众服务的发展与治理框架
+- 2025 年国务院发布深入实施“人工智能+”行动的意见
+- 2026 年 5 月，三部门发布《智能体规范应用与创新发展实施意见》
+- 2026 年 5 月 22 日，GB/Z 185.1—185.7 智能体互联系列发布，覆盖总体架构、身份码、身份管理、描述、发现、交互和工具调用
+- 2026 年 7 月 1 日，TC260 发布智能体部署使用安全指引
 
-### Outward-facing observation
+这说明中国智能体生态已从模型与产品竞争，进入政策、标准、身份、互联、安全、应用和产业共同建设的阶段。
 
-- `agentic-frontier-observatory` — global AI/agentic frontier observation.
-- `china-agentic-observatory` — China-specific policy, standards, research, infrastructure, industry and governance observation.
+### 三、8 月 7 日的历史方法论
 
-The first eight primarily build, formalize, test, document, or reason about the system's own software/research objects. Repositories nine and ten observe the external world and calibrate judgments using public evidence.
+1927 年 8 月 7 日的八七会议代表在危局中总结失败、纠正路线并重新确定方向。1947 年 8 月 7 日开始的千里跃进大别山代表在局部条件不足时进入战略纵深、重塑全局态势。
 
-## China Observatory role / 中国观察站职责
+本仓库不把革命历史当成技术证据，也不把工程研究变成口号。它只继承三条方法：
 
-China Observatory is the system's China-specific external-fact and judgment-correction layer.
+1. 判断必须允许被新证据纠正
+2. 中国路线必须保持独立观察，不能依附于国外叙事
+3. 完成内部建设后，应进入更广阔的现实与历史纵深
 
-It observes:
+### 四、十仓完成的含义
 
-```text
-history / institutions
-→ policy / law / governance
-→ standards / protocols / identity
-→ research / models / evaluation
-→ agents / open source / engineering
-→ chips / compute / data / infrastructure
-→ applications / security / social impact
-→ China–global comparison
-```
-
-Its job is to establish what public evidence supports about **existence, institutional authority, lifecycle state, dates, implementation/deployment scale, and uncertainty**.
-
-It does not automatically validate the technical capability of the other repositories, nor does an observation become a change request for them merely because it is relevant.
-
-## Relationship with Global Observatory / 与全球观察站关系
-
-Global Observatory provides a worldwide AI/agentic comparison surface. China Observatory retains China-specific institutional levels, policy/standard lifecycle, source hierarchy, project maturity and terminology.
-
-Cross-observatory comparison follows a same-layer rule:
+第十仓不是终点，而是结构完成：
 
 ```text
-policy ↔ policy
-standard ↔ standard
-protocol ↔ protocol
-model ↔ model
-runtime ↔ runtime
-deployment ↔ deployment
-evaluation ↔ evaluation
+8 个内部建设仓
++ 1 个全球前沿仓
++ 1 个中国前沿仓
+= 10 仓内外双向研究体系
 ```
 
-Neither repository automatically inherits the other's maturity state or source authority.
+自 2026 年 8 月 7 日起，体系不仅记录“我们做了什么”，还持续回答：
 
-## 2026-09 software publication state
+- 全球人工智能正在发生什么
+- 中国人工智能正在形成什么
+- 两者在哪里收敛、分化、互补或竞争
+- 哪些新证据要求我们修正原有判断
 
-On 2026-09-16, all ten repositories received separate Zenodo software-publication identities instead of one umbrella DOI.
+## English
 
-For China Agentic Observatory:
+The tenth repository was completed on 7 August 2026 because China now requires an independent external world model rather than a regional subsection of a global report.
 
-- DOI: `10.5281/zenodo.22791309`
-- publication date: 2026-09-16
+China's AI trajectory has developed a continuous chain from national strategy to generative-AI governance, the 2025 “AI+” action, the 2026 policy for agent application and innovation, the GB/Z 185.1–185.7 agent-interconnection series, and the TC260 deployment-security guide. This is a distinct policy, standards, industrial, and open-source system.
 
-The DOI identifies an archived repository publication. It is not an `OFFICIAL_FACT` or `PROJECT_FACT` about an external China-world object, is not C0–C6 external evidence, does not independently corroborate an observatory finding, and does not make later `main` revisions identical to the archive.
+The historical meaning of 7 August is used as a methodological reminder: correct failed judgments, maintain independent observation, and move into strategic depth. It is not evidence for any technical claim.
 
-## Shared system principles
+The tenth repository closes the architecture: eight inward-facing construction repositories, one global observatory, and one China observatory.
 
-Although each repository has its own native evidence vocabulary, the ten-repository system is compatible around several durable principles:
+## Primary references / 一手参考
 
-```text
-current repository truth before stale narrative
-source/evidence identity before inference
-implementation/deployment state stays object-scoped
-historical record != current state
-later correction != history rewrite
-publication identity != scientific validation
-```
-
-These are interoperability principles rather than a single centralized authority model.
-
-## First-month operating history
-
-The 2026-08-07 → 2026-08-31 first-month loop remains historical evidence of how the two observatories stabilized continuous external observation and Daily → Weekly → Monthly synthesis.
-
-Current periodic production is governed separately by active SOPs and time-scoped reports. This file owns only the durable architectural relationship between the ten repositories.
-
-> **前八仓构建自己的世界，第九、十仓持续重新观察外部世界。**
+- 2017 AI development plan: https://www.gov.cn/gongbao/content/2017/content_5216427.htm
+- 2023 generative AI measures: https://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm
+- 2025 AI+ action: https://www.gov.cn/zhengce/content/202508/content_7037861.htm
+- 2026 agent implementation opinion: https://www.cac.gov.cn/2026-05/08/c_1779979789523320.htm
+- 2026 GB/Z 185 series notice: https://openstd.samr.gov.cn/bzgk/std/nd?no=2781
+- 2026 agent deployment security guide: https://www.tc260.org.cn/portal/article/2/71c613fd3db34b6a9da62f25b8219733
+- Official 7 August history entry: https://www.gov.cn/ztzl/17da/content_739159.htm
