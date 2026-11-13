@@ -2,9 +2,9 @@
 
 ## Mission / 唯一职责
 
-每天使用公开权威来源完成一次中国人工智能全景研究，并交付一份完整每日研究记录。
+每天使用公开权威来源完成一次中国人工智能全景研究，并交付一份完整每日研究记录；
 
-> **允许无变化，不允许无报告。**
+> **允许无变化，不允许无报告；**
 
 Daily 的目标不是堆新闻，而是回答：
 
@@ -21,6 +21,8 @@ Daily 的目标不是堆新闻，而是回答：
 ↓
 下一步应该追什么
 ```
+
+**English mission and time boundary:** For each actual Asia/Shanghai observation day, deliver one integrated report grounded in publicly retrievable primary sources. Preserve C1–C8 handoffs, both changed and stable judgments, counterevidence and unknowns. A branch or unmerged PR is not a merged Daily record; a missed observation day is not backfilled as an executed run
 
 ## Before research / 开始前
 
@@ -40,7 +42,7 @@ Daily 的目标不是堆新闻，而是回答：
 - C7 中国与全球路线关系
 - C8 跨任务综合与判断修正
 
-所有 C1–C8 都必须被检查；没有 material change 可以明确记录 unchanged。
+所有 C1–C8 都必须被检查；没有 material change 可以明确记录 unchanged；
 
 ## Source and evidence discipline / 信源与证据纪律
 
@@ -71,7 +73,7 @@ reports/daily/YYYY/MM/YYYY-MM-DD/
 └─ C8-synthesis.md
 ```
 
-创始期历史文件若形成于该 pack 规则之前，不为排版统一伪造缺失分任务；真实缺口必须如实保留。
+创始期历史文件若形成于该 pack 规则之前，不为排版统一伪造缺失分任务；真实缺口必须如实保留；
 
 ## Integrated report structure / 主报告结构
 
@@ -95,11 +97,11 @@ reports/daily/YYYY/MM/YYYY-MM-DD/
 
 ## Weekly handoff / 向周报交接
 
-日报完成后，仅当证据改变本周 hypothesis 状态时，原地更新同一 `reports/weekly/YYYY/YYYY-Www.md`。
+日报完成后，仅当证据改变本周 hypothesis 状态时，原地更新同一 `reports/weekly/YYYY/YYYY-Www.md`；
 
-日报不是周报缩写；周报也不是日报拼接。
+日报不是周报缩写；周报也不是日报拼接；
 
-若当日是本周最后一个真实 observation day，且 canonical weekly 已具备收口条件，可在**同一分支 / 同一最终 PR**中同时交付 Daily pack 与 Sunday settlement。不得为了满足“日报 + 周报”两个周期机械制造第二个重复 PR；周报仍只维护唯一 canonical 文件。
+若当日是本周最后一个真实 observation day，且 canonical weekly 已具备收口条件，可在**同一分支 / 同一最终 PR**中同时交付 Daily pack 与 Sunday settlement；不得为了满足“日报 + 周报”两个周期机械制造第二个重复 PR；周报仍只维护唯一 canonical 文件；
 
 ## Durable assets / 长期资产
 
@@ -118,11 +120,11 @@ old repository statement
 → preserved temporal explanation
 ```
 
-later evidence 不得倒灌成 earlier-day fact。
+later evidence 不得倒灌成 earlier-day fact；
 
 ## Coding-agent and PR provenance / 编码代理与 PR 来源边界
 
-Jules、Codex 或其他编码 / 研究 Agent 的任务描述、PR 标题、PR body、自动总结、测试声明和“已完成”叙述，属于**工作提案或交付元数据**，不是本观测仓的一手外部证据，也不自动成为 repository truth。
+Jules、Codex 或其他编码 / 研究 Agent 的任务描述、PR 标题、PR body、自动总结、测试声明和“已完成”叙述，属于**工作提案或交付元数据**，不是本观测仓的一手外部证据，也不自动成为 repository truth；
 
 必须遵守：
 
@@ -134,10 +136,10 @@ agent summary != current implementation truth
 historical PR wording != current contract
 ```
 
-- Agent 生成的 PR 未合并时，只是 proposal；已合并后，进入历史的是**实际 merge 后的代码/文档状态**，不是 PR body 中所有自述。
-- “tests passed / fully aligned / fixed / complete / 100%” 等执行性或评价性声明，若要成为当前判断，必须由可复核的当前仓库、运行记录或权威外部来源重新支持。
-- Agent PR/task 文本不得作为 C1–C8 的 primary source；最多用于定位需要复核的仓库对象。
-- 若历史 Agent 叙述与当前 `main`、当前 machine contract 或权威外部来源冲突，以当前事实为准，并按本节 Correction discipline 留下显式纠正；不要静默改写历史 PR。
+- Agent 生成的 PR 未合并时，只是 proposal；已合并后，进入历史的是**实际 merge 后的代码/文档状态**，不是 PR body 中所有自述；
+- “tests passed / fully aligned / fixed / complete / 100%” 等执行性或评价性声明，若要成为当前判断，必须由可复核的当前仓库、运行记录或权威外部来源重新支持；
+- Agent PR/task 文本不得作为 C1–C8 的 primary source；最多用于定位需要复核的仓库对象；
+- 若历史 Agent 叙述与当前 `main`、当前 machine contract 或权威外部来源冲突，以当前事实为准，并按本节 Correction discipline 留下显式纠正；不要静默改写历史 PR；
 
 ## Forbidden / 禁止事项
 

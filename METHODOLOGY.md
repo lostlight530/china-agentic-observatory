@@ -35,7 +35,7 @@ Source Registry + Watchlist
 
 Core rule:
 
-> **不验证技术是否真的有效，但必须验证信息是否真的存在。**
+> **不验证技术是否真的有效，但必须验证信息是否真的存在；**
 
 This repository is a research observatory, not a benchmark, deployment platform, product test bed, compliance-certification service, or execution Agent.
 
@@ -161,7 +161,7 @@ Weekly = hypothesis memory + correction
 Monthly = long-horizon settlement + carry-forward
 ```
 
-> **周日不是清空，周一不是重启。**
+> **周日不是清空，周一不是重启；**
 
 Durable conclusions become baseline only after surviving the applicable evidence and correction process. Open gaps continue across week/month boundaries rather than being rediscovered as new.
 
@@ -183,6 +183,12 @@ The repository checks whether a public source exists, what it says, who issued i
 It does **not** independently run models, reproduce benchmarks, deploy projects, certify compliance, or validate advertised capability.
 
 Search, reading, cross-checking, status calibration, and structured synthesis are in scope.
+
+### Display-facing observation envelope / 面向展示的观测封套
+
+**中文**：向阶段页面输出长期判断时，保留对象 identity、source URL、取得时点、陈述类别、来源机构权限、规范生命周期或实现成熟度、地域尺度、证据独立性、研究截止点与不确定项；展示状态不得推断出未被来源证实的政策生效、部署完成或行业覆盖率
+
+**English**: When projecting a longitudinal judgment to the stage view, retain object identity, source URL, retrieval time, statement class, issuer authority, formal lifecycle or implementation maturity, geographic scale, evidence independence, research cutoff, and uncertainty. A display status must not infer policy effectiveness, deployment completion, or adoption at a scale that the source does not establish
 
 ## 11. Comparison discipline / 比较纪律
 

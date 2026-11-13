@@ -7,7 +7,7 @@ Scope: new research records only; durable open-research method is owned by `OPEN
 
 English is the canonical/default language of this template. Chinese labels and guidance are provided for accessibility. If bilingual wording diverges, the English instruction governs; repository-native contracts remain authoritative over this template.
 
-英文为本模板的默认与规范语言；中文标签与说明用于辅助理解。若双语表述出现差异，以英文说明为准；仓库原生 contract 对本模板始终具有更高权威。
+英文为本模板的默认与规范语言；中文标签与说明用于辅助理解；若双语表述出现差异，以英文说明为准；仓库原生 contract 对本模板始终具有更高权威；
 
 Historical records are not rewritten by this template
 
@@ -52,6 +52,11 @@ Optional: complete this check only when the study concerns repository positionin
 - Downstream correction candidate:
 
 A downstream misclassification is evidence about the classifier or metadata projection, not evidence that the repository should change research identity
+
+### Longitudinal and citation identity / 长期序列与引用身份
+
+- 中文：新研究记录应指明所属周期、canonical 路径、输入 revision、source／retrieval 时间、观察与发布日期的区别、后续阶段交接状态，并仅在实际引用特定发行版本时附该 version DOI；不得以 concept DOI 代替执行收据
+- English: A new record should name its period, canonical path, input revision, source/retrieval time, the distinction between observation and publication dates, downstream stage handoff, and a version DOI only when an actual archived version is cited; a concept DOI is not an execution receipt
 
 ## Research identity / 研究身份
 

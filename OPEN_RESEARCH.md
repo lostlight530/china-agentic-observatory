@@ -7,7 +7,7 @@ Scope: repository-level research positioning, longitudinal research-production m
 
 English is the canonical and default language for this open-research contract. Chinese text is provided as an accessibility and interpretation aid. If wording diverges, the English normative text governs; repository evidence and current owning contracts remain authoritative over both.
 
-英文是本开放科研契约的默认与规范语言；中文用于辅助理解与可访问性。若中英文表述有差异，以英文规范文本为准；仓库事实与当前 owning contract 的权威仍高于任何翻译。
+英文是本开放科研契约的默认与规范语言；中文用于辅助理解与可访问性；若中英文表述有差异，以英文规范文本为准；仓库事实与当前 owning contract 的权威仍高于任何翻译；
 
 ## Authority
 
@@ -163,6 +163,12 @@ Preserve point-in-time reports. Correct current interpretation forward through e
 
 Use `OPEN_RESEARCH.md` for research-method/positioning changes and `RESEARCH_TEMPLATE.md` for bounded research units that need the common question/counterexample/increment structure. Existing Daily/Weekly/Monthly SOPs remain the cadence owner.
 
+## Longitudinal display and publication separation / 长期观测、阶段展示与出版分离
+
+**中文**：每次阶段性总结分别标识 source observation date、period coverage、canonical Daily/Weekly/Monthly 路径、来源修订、未决状态与研究增量；展示层只能引用这些数据，而不能生成另一份独立主事实；GitHub Release、Zenodo concept/version DOI、机构发布页面和被观察对象的正式实施日期属于不同 identity，需在引用中保留差异；跨月修正通过后续 correction/reconciliation 表达，不追写旧月报
+
+**English**: Every stage summary should identify source observation date, period coverage, canonical Daily/Weekly/Monthly path, source revision, unresolved states, and research increment. The presentation layer references those records; it must not become an alternative authority. GitHub releases, Zenodo concept/version DOIs, an institution's announcement, and the observed object's effective date have different identities. Cross-period corrections belong in later correction/reconciliation records, not retroactive rewriting
+
 ## Permanent boundary
 
 ```text
@@ -176,8 +182,8 @@ external indexing != repository self-definition
 
 ## 中文摘要
 
-本文件不替代 China Agentic Observatory 现有 Daily / Weekly / Monthly SOP，而是在其上补长期统一的科研问题层：research question、可证伪判断、来源身份与独立性、issuer/jurisdiction、正式状态与时间边界、raw observation、counterexample、research increment 和 retest condition。
+本文件不替代 China Agentic Observatory 现有 Daily / Weekly / Monthly SOP，而是在其上补长期统一的科研问题层：research question、可证伪判断、来源身份与独立性、issuer/jurisdiction、正式状态与时间边界、raw observation、counterexample、research increment 和 retest condition；
 
-C1–C8、Methodology、Scope、Taxonomy、Source Registry 继续拥有观察站原生语义。政策目标、标准计划、发布标准、批准展示、单一案例与全国部署/采用/互操作成熟度必须严格分开。
+C1–C8、Methodology、Scope、Taxonomy、Source Registry 继续拥有观察站原生语义；政策目标、标准计划、发布标准、批准展示、单一案例与全国部署/采用/互操作成熟度必须严格分开；
 
-未来 scholarly metadata 以准确的 China AI / policy / standards / infrastructure / industry / agentic-systems 定位为主，使用少量高质量 subjects 与 5–7 个定义性 keywords。若外部系统推断成地理、天文、太阳观测站或遥感语义，在 upstream metadata 已清楚时应记录为 classifier noise，而不是改写仓库本体。
+未来 scholarly metadata 以准确的 China AI / policy / standards / infrastructure / industry / agentic-systems 定位为主，使用少量高质量 subjects 与 5–7 个定义性 keywords；若外部系统推断成地理、天文、太阳观测站或遥感语义，在 upstream metadata 已清楚时应记录为 classifier noise，而不是改写仓库本体；

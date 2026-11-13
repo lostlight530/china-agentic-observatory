@@ -75,6 +75,12 @@ company claim == independent performance proof
 case implementation == nationwide interoperability
 ```
 
+### 长期数据与阶段投影的范围说明 / Longitudinal-data scope
+
+本仓允许将可追溯的政策、标准、研发、开源项目和部署线索纳入长期观察，并通过真实 Daily、Weekly、Monthly 记录形成阶段性判断；Pages、摘要图表及仓库归档 DOI 只能指向已确认的数据身份，不能扩展为全国采用率或工程验证结论
+
+The observatory may track traceable policy, standards, research, open-source and deployment evidence over time and synthesize them through actual Daily, Weekly and Monthly records. Pages displays, summaries and software DOI metadata cannot expand such evidence into nationwide adoption or engineering-verification claims
+
 ## Durable research surfaces
 
 - [`METHODOLOGY.md`](./METHODOLOGY.md) — China-specific evidence hierarchy, lifecycle/date/status and correction method.

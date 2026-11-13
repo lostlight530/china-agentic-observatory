@@ -2,9 +2,9 @@
 
 ## Mission / 唯一职责
 
-把自然月内已经形成的日报、周报、Source Registry、watchlist 与明确 correction 压缩成长期判断层。
+把自然月内已经形成的日报、周报、Source Registry、watchlist 与明确 correction 压缩成长期判断层；
 
-月报不替代日报和周报，也不把未结束月份伪装成 final。
+月报不替代日报和周报，也不把未结束月份伪装成 final；
 
 ## Canonical file / 唯一月报
 
@@ -12,7 +12,9 @@
 reports/monthly/YYYY/YYYY-MM.md
 ```
 
-月份按 Asia/Shanghai 自然月计算。
+月份按 Asia/Shanghai 自然月计算；
+
+**English publication boundary:** Monthly synthesis consumes actually retained Daily, Weekly, source-registry and watchlist evidence. OPEN is a valid pre-close checkpoint, not a final month; CLOSED_WITH_GAPS retains missing dates. CORRECTED points forward to a dated reconciliation. A repository release or Zenodo DOI does not itself close the research month
 
 ## Monthly states / 月度状态
 
@@ -30,11 +32,11 @@ reports/monthly/YYYY/YYYY-MM.md
 - 尚未发生 / 尚未观察的日期
 - 与本月相交的 closed / partial week
 
-不得出现 `FINAL`、`CLOSED` 或等价措辞。
+不得出现 `FINAL`、`CLOSED` 或等价措辞；
 
 ## August 2026 special coverage / 2026 年 8 月特殊覆盖
 
-本仓成立于 **2026-08-07**。
+本仓成立于 **2026-08-07**；
 
 因此八月 repository-native coverage 只能是：
 
@@ -42,7 +44,7 @@ reports/monthly/YYYY/YYYY-MM.md
 2026-08-07 → 2026-08-31
 ```
 
-8 月 1–6 日不得被补写成仓库运行历史。
+8 月 1–6 日不得被补写成仓库运行历史；
 
 - W32 = 7–9 Aug founding partial week
 - W33 = complete week
@@ -91,7 +93,7 @@ Daily atomic fact
 → next month carry-forward
 ```
 
-> **月末不是遗忘，月初不是重启。**
+> **月末不是遗忘，月初不是重启；**
 
 ## Boundaries / 边界
 
