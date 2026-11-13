@@ -1,0 +1,388 @@
+# 2026-11-13 ORIGINAL independent A2 — China C1–C8 November exact-object and effect relations
+
+## Post-A1 main, original monthly identity and proof levels
+- Repo lostlight530/china-agentic-observatory
+- Task independent-maintenance/A2; distinct from native China C1–C8 Daily
+- Complete 2026-11-01..2026-11-13 current relation version, November MONTH_OPEN
+- Actual merged A1 original #280 current main blob 13a57b09099c20f9fa92e84cadf3353ac3e9421d
+- Current post-A1 main SHA 89da2c9b97fb08886a86d876020555935b11f0ce
+- Historical Nov12 original A2 source blob a8afd56758ec7aed8c8a3dafa4aab86d308e41d0 remains true at its original cut
+- Each logical Native Day is one integrated report + 8 C1–C8 facets and README (ten retained files), not ten independent native source publications
+- Original legal issuance, official publication, possible effective date, observation, Native producer time and PR merger are separate time axes
+- No new official standard crosswalk, terminal deployment, regulatory conformance, CI or real external effect verified by this A2
+- W44/W45 closed, W46 Nov09–15 OPEN and month FINAL NOT_DUE
+
+## Whole-November thirteen original source/authority/effect relationships
+
+### 2026-11-01 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-01.md` at main blob 01ef8d314ff6ae7706953392525ae5f96011d9eb
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: SAMR four exact objects and ITU status unchanged; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: no newly implemented binding standard inferred; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: SAMR four exact objects and ITU status unchanged must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: no newly implemented binding standard inferred; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: no newly implemented binding standard inferred; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: SAMR four exact objects and ITU status unchanged is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-01/C1-history-policy.md` current Git blob b41c08c4b064d6b2b4fcb7a7d764791b30489033; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` current Git blob 6f3b9966cd2661e05fe4ee818974d3909189cc2c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C3-research-models.md` current Git blob df45860e4595a6af71a63221be254d98ac4fd20e; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` current Git blob b5b1434cebb132405a5401b46bb2c807657d8236; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` current Git blob 11b258f3737ffea2cf3fec22b509d25eaf936903; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` current Git blob 3fd8b33fb8e947187f1ac0a48f6429630b7817e2; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C7-china-global.md` current Git blob bd57a3b0ab343bba3cdc3a18b74eac093816925c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/C8-synthesis.md` current Git blob c571ac1e818f5a2d58f6aec221b2ac9a57deef01; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-01/README.md` current Git blob 769022e0eb42823ec66a5a9d753f9b6eb3ed5b63; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-02 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-02.md` at main blob 623d794d1e4663cb9277e7294febca698d1f8224
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: SAMR/ITU same official object states and W45 opening; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: status continuity not a new standard publication; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: SAMR/ITU same official object states and W45 opening must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: status continuity not a new standard publication; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: status continuity not a new standard publication; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: SAMR/ITU same official object states and W45 opening is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-02/C1-history-policy.md` current Git blob 117cb468c597147dfa826dcc22e719b0521380a1; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` current Git blob 19145e2271639b2c5ff672ce3dfead7db1c7e01f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C3-research-models.md` current Git blob 472eee40e99e099ed403aa7293bdffb39bfa8942; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` current Git blob 8b14551cad268842b8d6355984e0bc209bb5165b; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` current Git blob c147df9778d7e5406ac98b8b553f2d0440c30a64; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` current Git blob 2741b7741be5a2bef24f8b907e524c05f826f9e9; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C7-china-global.md` current Git blob eaf5b9a373f41872a6079ea87e3d38dbeddbad79; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/C8-synthesis.md` current Git blob 7388141a697aa83be758058d6cc29c75be65f84d; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-02/README.md` current Git blob f136b85abdebb4d88ffb3b9e1733cffdfcc2a395; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-03 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-03.md` at main blob 432797681637d2cfb85884cf5c63046c751371a8
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: four standards and ITU remained in known lifecycle; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: draft/in-approval/prepublished not interchangeable; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: four standards and ITU remained in known lifecycle must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: draft/in-approval/prepublished not interchangeable; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: draft/in-approval/prepublished not interchangeable; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: four standards and ITU remained in known lifecycle is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-03/C1-history-policy.md` current Git blob 384edb3d9e5c1aac4b0eabca4eb6a42281606ced; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` current Git blob 7254c408cb732387461e3a48db3fd02015f8e487; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C3-research-models.md` current Git blob ddad24ff999aed449133b93e11a396171d8c84de; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` current Git blob ed5ee102075dd8497b85fa62e767625a7572ba51; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` current Git blob cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` current Git blob e91edbd4b3c56e806f459401cda4fec188f79b60; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C7-china-global.md` current Git blob dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/C8-synthesis.md` current Git blob 37d4eb02a702fd13473eb968a9d3c49ff4f76283; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-03/README.md` current Git blob 2f0bf464c01afa95468bfa63078b2d58853e0230; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-04 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-04.md` at main blob e0bc133594865df764ab0702dd714505d0fb63d2
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: GB/T 48562 official publication Oct30, future effective May01 2027; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: newly discovered older publication ≠ new current legal force; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: GB/T 48562 official publication Oct30, future effective May01 2027 must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: newly discovered older publication ≠ new current legal force; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: newly discovered older publication ≠ new current legal force; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: GB/T 48562 official publication Oct30, future effective May01 2027 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-04/C1-history-policy.md` current Git blob ef345cb5c64661aca800a7141e9c69a376c2e657; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` current Git blob 699db4661554add9bed4018f470bd9400ec063b8; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C3-research-models.md` current Git blob 5a210d104773adeb85ef24b6fab8b1d017391446; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` current Git blob 5af48036cea099189b39c09701f92208c916008c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` current Git blob 37e511eece877815bb7c9b67ceb463e49eba78dd; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` current Git blob a67f1c8a2398124610e5a17c43b5e1539c930918; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C7-china-global.md` current Git blob 46b784e15f917cdfa40491b733bc2a0608cafd93; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/C8-synthesis.md` current Git blob 8d58446e962a160751af5bf84cab0ebc8498287e; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-04/README.md` current Git blob 8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-05 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-05.md` at main blob c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: same GB/T 48562 upcoming state; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: no material transition in observed scope; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: same GB/T 48562 upcoming state must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: no material transition in observed scope; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: no material transition in observed scope; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: same GB/T 48562 upcoming state is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-05/C1-history-policy.md` current Git blob 1e2019b7d8090adc79b54d345f8941e474a584c6; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` current Git blob ef5e3dc05c80b4ee9675555a9092ccab949082cc; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C3-research-models.md` current Git blob a3eab7cca684234ba5284553a693faa311ef74f5; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` current Git blob 1951a5663477d76345f7e55e522b11b0c6ab3a6e; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` current Git blob 5423d0226a7d8d780d94a89eca6f707d76c782e0; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` current Git blob 51380d3fe4fec4170c1963797052e1032de6d788; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C7-china-global.md` current Git blob f0634f29e9b05543001abc13017431f32aefc16c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/C8-synthesis.md` current Git blob d9b98dda68209186b4f74f215e8609db2075b989; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-05/README.md` current Git blob 2ac53288cad5e2fa9e3784e4d2028ea9c9225948; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-06 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-06.md` at main blob 8492614e5cb1747f9c00012e721d51d219bb472b
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: six named SAMR/ITU standards objects rechecked; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: one portal status cannot certify cross-protocol conformance; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: six named SAMR/ITU standards objects rechecked must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: one portal status cannot certify cross-protocol conformance; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: one portal status cannot certify cross-protocol conformance; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: six named SAMR/ITU standards objects rechecked is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-06/C1-history-policy.md` current Git blob 71cd2c4d4b843c99de8007af9f67677dcf5b31da; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` current Git blob 3f4386ee2cef921ab6e0d39ceaba7de130c2209d; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C3-research-models.md` current Git blob 0343e54c793b7dab22ed5aa44fb5ae3a70f51306; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` current Git blob 860d965c1efafbb7d56323ef316e3adf65178188; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` current Git blob 961e7dd1974dee9dd7476115ce6148adaea4f2a7; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` current Git blob b82c335aca370242a0bd3294b1c900795b19124c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C7-china-global.md` current Git blob 37ddc5bfebd634cc137e2273c4354c3167575a8d; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/C8-synthesis.md` current Git blob 3db6d3c4f0260866160416bc74410527e737bb8b; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-06/README.md` current Git blob 6c2364c008d6c1d83e0ef71cd1520085961a7738; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-07 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-07.md` at main blob 88024f0206d025ac235e06d91c62badaa4a4135f
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: six exact standards objects maintained, no transition; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: beyond official metadata clause-level checks unperformed; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: six exact standards objects maintained, no transition must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: beyond official metadata clause-level checks unperformed; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: beyond official metadata clause-level checks unperformed; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: six exact standards objects maintained, no transition is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-07/C1-history-policy.md` current Git blob 43f7a6220d5fba409570079d9289970b795eac76; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C2-standards-protocols.md` current Git blob bd274743fb9ad9bb2f2a74ca42afb98d4d0b564f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C3-research-models.md` current Git blob d0a9f9bd0f82b6253f4b96fd0dc29e29e5ba2652; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C4-agents-open-source.md` current Git blob 28e0f99d578678654d34f2e1d486ddcc13a2a38e; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C5-infrastructure-industry.md` current Git blob 70d77347d277fa4f728dfd93d029eb232c86e1c2; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C6-applications-governance.md` current Git blob cfdc8471cb02389409f94c0578ced93830fb4472; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C7-china-global.md` current Git blob 12a427895ffaa5f903075e3ead7af06a0bc2c3f3; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/C8-synthesis.md` current Git blob be6c4c8f97c198fe4e5b7c7708df9c825cdcb76f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-07/README.md` current Git blob 21ed45643515cbea1bcd00bef0fae20a4c9b0e65; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-08 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-08.md` at main blob 71bb527b1f9b146b289fb83086da3b5a3306c7d6
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: standards identity and separate media-governance observations; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: press/initiative date not standards effective date; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: standards identity and separate media-governance observations must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: press/initiative date not standards effective date; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: press/initiative date not standards effective date; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: standards identity and separate media-governance observations is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-08/C1-history-policy.md` current Git blob 41d6e8cc8e6c0c5b8020a7cbe5be4417e69dbed4; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C2-standards-protocols.md` current Git blob 35509cc25ec6bb9eac23c2d176c15a45a47b3289; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C3-research-models.md` current Git blob 62a83c1b1d296a6aa79e34aedd0ce5258b187a35; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C4-agents-open-source.md` current Git blob 2228e256502678f7a0fd0717ba0a210ca7000083; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C5-infrastructure-industry.md` current Git blob e62caf86bdde8ee55b6e3fafda7fde7421a47600; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C6-applications-governance.md` current Git blob 973b61ee90ac80ead83947bf38a8aefa2ad34ba0; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C7-china-global.md` current Git blob a94c5612bc50ec69799cc5d2f5c00cf27f6c9165; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/C8-synthesis.md` current Git blob e0d89ebe959acc11716976b422350dc6310c61f5; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-08/README.md` current Git blob f74826c8ef719b3a430665e05046a67f7b82091f; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-09 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-09.md` at main blob 49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: Nature AutoDNA + Hi-WBC, separate first-party research; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: author devices and publisher echoes not independent lab reproduction; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: Nature AutoDNA + Hi-WBC, separate first-party research must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: author devices and publisher echoes not independent lab reproduction; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: author devices and publisher echoes not independent lab reproduction; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: Nature AutoDNA + Hi-WBC, separate first-party research is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-09/C1-history-policy.md` current Git blob 5ddef37f51e3b62aa6e7eca67e9e1d8d2f615f44; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C2-standards-protocols.md` current Git blob 03c9ab38bc086eae0d797faeaa375bb76b2a04f4; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C3-research-models.md` current Git blob f5f2f7f3a24cea4619a0205e3a6fed68d5f4373f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C4-agents-open-source.md` current Git blob b4a8577a0d24f47c31b5de643005ebcad230a66f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md` current Git blob 523946f3e5a76b2b2323490753e2b4773844cdd6; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C6-applications-governance.md` current Git blob 79bb9e40f7575aab0a138f8f3362212b6719ef54; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C7-china-global.md` current Git blob e62a7c126db87a2ac4d7a6fe27038da6a975ca6a; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/C8-synthesis.md` current Git blob 6fe5828ace299ba3f5cf53a2909b355e85e31923; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-09/README.md` current Git blob a8014ab8ed20da0d9189f7a40c80f79fcf81c388; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-10 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-10.md` at main blob e62643a840a6096ad53aacebaceae3fdb45d21c1
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: local device demo and partial retrieval cannot certify durable global recovery; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6 must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: local device demo and partial retrieval cannot certify durable global recovery; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: local device demo and partial retrieval cannot certify durable global recovery; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: original author-time observation is preserved, later Nov11 official source cannot backdate it
+- Relation 11: A2 month revision result: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Facet `reports/daily/2026/11/2026-11-10/C1-history-policy.md` current Git blob c0b6136c0e472e235dd17020bcfcec5c007df61b; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C2-standards-protocols.md` current Git blob 245b02c709ad0dca885c1e76f13dd9688f56db07; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C3-research-models.md` current Git blob 7dc910e5b7e7998e80552aa784609a2d0835d8c9; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C4-agents-open-source.md` current Git blob 8e398f3c7513c7f0253b0a27182cca8e406a985e; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C5-infrastructure-industry.md` current Git blob 8ad9728b4ba46b8fdf446366dec48090f33cef29; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C6-applications-governance.md` current Git blob b81fc8ac39e7c35f28c7a72e72e1fff641a7632a; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C7-china-global.md` current Git blob 8a45278823aac7a18acebecaedaa3814ae8b6c55; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/C8-synthesis.md` current Git blob 43dfa4fc0a8a63eac0208789f84000ceaca80b92; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-10/README.md` current Git blob 42b71e83aa17d717ce8b9ac8d62c4965c5819bbb; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-11 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-11.md` at main blob c77e79e3bb6215bdc9036eea2830ec9955f94f22
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: MATCHED_PRIOR_SOURCE_STATUS
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original research contribution: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10; one C1–C8 native Daily despite eight thematic facets
+- Relation 2: C1 policy interpretation: three different authority/effective/source dates, no formal reciprocal interop; standards portal data is not evidence of an unrelated new law
+- Relation 3: C2 standards identity: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10 must retain the exact standard number, type, publication and effective status
+- Relation 4: C3 research interpretation: source publisher data does not become independent model/lab reproducibility
+- Relation 5: C4 agent/OSS: three different authority/effective/source dates, no formal reciprocal interop; repository or paper availability does not demonstrate actually deployed tool protocol
+- Relation 6: C5 infrastructure: physical instrument or industry adoption requires independent operator, runtime and effect receipts
+- Relation 7: C6 applications/governance: a bounded original claim cannot automatically establish clinical safety, policy compliance or production scale
+- Relation 8: C7 China-global relation: similarity of approval/identity terminology is not a ratified interoperable standards crosswalk
+- Relation 9: C8 synthesis and negative evidence: three different authority/effective/source dates, no formal reciprocal interop; preserve UNVERIFIED / PARTIAL for non-observed checks
+- Relation 10: Calendar inheritance: new Day N source included after A1 main gate
+- Relation 11: A2 month revision result: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10 is represented in OPEN relationship, with original author/claim and pending proof distinctly retained
+- Relation 12: Nov11 CAC unified portal launch refers to issuer notice dated Nov09, not a new same-day policy
+- Facet `reports/daily/2026/11/2026-11-11/C1-history-policy.md` current Git blob f15e00311a85ecff90f82ce8872a6148cd91feaf; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C2-standards-protocols.md` current Git blob 44e4d193e53cbe2b31f10a3180b8c9895d01c59f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C3-research-models.md` current Git blob 3934490ae68a19e39a428fe2fc911869e25b3e87; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C4-agents-open-source.md` current Git blob 0edbe6804d8adb3d6c32d0dd9c14c1b9ff66afdb; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C5-infrastructure-industry.md` current Git blob d01bac5164e2e1b2a3982b7042acaf00916f068d; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C6-applications-governance.md` current Git blob 2c156b752b6fdde251a2953d0437383d0b71476d; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C7-china-global.md` current Git blob f989a07b14f1ec7a8a5f8cf7c6b6592ce291e8f9; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/C8-synthesis.md` current Git blob fddf732697abb37f90809741953b7b39ef8a7200; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-11/README.md` current Git blob 58229ddc450e1968b351ac56876f85e44a08df53; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-12 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-12.md` at main blob 29ec0d14ca3440282bc84832aecec6063e81cdfb
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: NOV12_LATER_MERGED_AFTER_ORIGINAL_MISSING_CUT
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: 工信厅信管〔2026〕42号 issued 2026-10-24, officially published 2026-11-06 and first observed Nov12, not a Nov12 government enactment
+- Relation 2: Actual effective date UNKNOWN; earlier original Nov12 A2 absence-on-main was correct at its review cut, later Native Nov12 merged
+- Relation 3: C1: government notice requires device/app distribution responsibilities; text does not prove particular terminal permit
+- Relation 4: C2: unique identity code references a national standard series; exact cited numbered norm and formal MCP/A2A crosswalk UNVERIFIED
+- Relation 5: C3/C5: no new independent model test, device rollout number or physical technology maturity from notice
+- Relation 6: C4/C6: developer electronic-signature consent/OTA/network-access duties need real authorization and deployment receipts
+- Relation 7: C7: Chinese terminal governance and global tool-server release are different authority layers, no ratified mutual conformance
+- Relation 8: C8: H46-1..4 OPEN; no test, installed SDK or real revoke/effect recovery evidence verified
+- Facet `reports/daily/2026/11/2026-11-12/C1-history-policy.md` current Git blob 6e70ea42c3603b80f08390cee49aa133830b6b0f; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C2-standards-protocols.md` current Git blob 1c29f166b20eccc35178bff7fec2219853dfa3ef; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C3-research-models.md` current Git blob bd5d367f4fab17ed9cc0e9ee541c69b084f98e66; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C4-agents-open-source.md` current Git blob 79b0176108e72bf57c3964fed358dd4ae37e872c; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C5-infrastructure-industry.md` current Git blob af7b1c025ab4a30968b6c7c3998f342e801506e5; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C6-applications-governance.md` current Git blob ef31410875b46dd7b9fdbd6e3401704cf5cd7c42; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C7-china-global.md` current Git blob 1943fbcfdae3aa9740cda6208ab8424fd5bb410b; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/C8-synthesis.md` current Git blob d542dbcb0f64fa101ec71ea8536d233745746873; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-12/README.md` current Git blob 6db733a085290af485a05e1932b928d20c81f063; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+### 2026-11-13 — official object ↔ Native research ↔ effect-time contract
+- Original integrated `reports/daily/2026/11/2026-11-13.md` at main blob 8e62ec313f3c9261df9e28fdc350e86b87128caa
+- Source-type: one coherent original Daily research pack, not a new law/standard from each facet
+- Historical interpretation: NOV13_PRODUCER_PARTIAL_WITH_LATER_MAINTAINER_SOURCE_READ
+- Unknown effective/transition dates remain UNKNOWN unless issuer exact legal document proves otherwise
+- Relation 1: Original Nov13 C1–C8 Native producer PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED at runtime-supplied 04:58:42 Asia/Shanghai
+- Relation 2: Original producer did NOT_EXECUTE new external source sweep, checker, CI, TCK or runtime; negative world-change claim unsupported
+- Relation 3: After original 04:58:42 producer cut, a separate maintainer first-party MIIT notice re-read occurred without backdating producer source work
+- Relation 4: Native PR #276 later merged 2026-11-13T13:18:25Z; merge is delivery/retention evidence not new regulatory verification
+- Relation 5: C1 policy object issued Oct24 and published Nov06; Nov13 has no independent new publication-event assertion
+- Relation 6: C2 exact standard identity and national-standard crosswalk still UNVERIFIED; published reference is not actual interoperability
+- Relation 7: C3/C5 model experiment and vendor device deployed effect still UNKNOWN, no independent benchmark
+- Relation 8: C4/C6 app developer consent, approval, revoke propagation and compliance runtime distinct from issuer text
+- Relation 9: C7 China–global MIIT vs MCP source are comparative structures, not official reciprocity
+- Relation 10: C8 W46 H46-1..4 OPEN, one publisher repetition does not strengthen independent evidence
+- Facet `reports/daily/2026/11/2026-11-13/C1-history-policy.md` current Git blob f34a1b42e751ddba70e4549fa7cd324f041a3513; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C2-standards-protocols.md` current Git blob bccbecdaf10eff746f2794d087c882d5dc3be410; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C3-research-models.md` current Git blob 08858ea7e859dd93d4d69c1583d86cb2e343a576; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C4-agents-open-source.md` current Git blob 820214476c61484a0dfa198604efe2e2f6f9a108; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C5-infrastructure-industry.md` current Git blob a688713fd5011b0260b9a5eec42ebc4474062283; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C6-applications-governance.md` current Git blob dcc7ad274dcaadbdf2901af3553b7853800855c9; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C7-china-global.md` current Git blob f09267226e90180a753688e285573e58b84fe931; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/C8-synthesis.md` current Git blob 4da149fdabf53cf4117e5a52e294df973eb627d8; attributed to one source-day and original issuer lineage
+- Facet `reports/daily/2026/11/2026-11-13/README.md` current Git blob bb57c7915dce6936f091de7edfbeeb680a1d1d04; attributed to one source-day and original issuer lineage
+- Current disposition retain original PARTIAL/UNKNOWN/NOT_EXECUTED and exact legal-state identity; no fabricated conformity or deployed system
+
+## Exact-object reconciliation, contrary evidence and monthly final
+- Previous independent A2 Nov12 missing-on-main statement remains historically valid; later original Native Nov12 now retained by main
+- Nov13 current Native producer was partial, later official-source spot-check separate and not counted as native external sweep
+- 工信厅信管〔2026〕42号 authored Oct24/published Nov06/observed Nov12; unknown legal effective date not replaced by publication
+- Unique-agent-code standard series requires exact named national standard; no uncontrolled GB/T, GB/Z and YD/T cross-normalization
+- YD/T 7174—2026 original publication Jul15 and effectiveness Nov01 remain source-time historical claims
+- C1 government policy text does not prove particular terminal approval or licensing
+- C2 standard reference does not prove formal protocol mapping or conformance test
+- C3 author benchmark/report is not independently reproduced experiment
+- C4 Github source/Agent SDK availability does not prove effect-time tool invocation or permission
+- C5 OTA and network-access rules do not prove deployed devices/vendors
+- C6 developer digitally signed consent obligation is not actual user consent or revoke-propagation receipt
+- C7 MIIT terminal policy and global MCP security release are independent authority domains; resemblance not mutual ratification
+- C8 contradictory and unverified original evidence remains traceable, no all-PASS rollup
+- W46 H46-1..4 remain OPEN; natural month and unfinished future days NOT_DUE
+- Current W46 canonical working report SHA 697db42d99c665808e19e1d85f83dd336a48d279
+- Current November monthly canonical report SHA 9d8f40d1574680ece0bd4e190774357883a40103
+- 13 current Native dates cover 130 retained files; no inference of 130 independent external origins
+- GitHub main, actual original A1 merge, previous source-time A2 and current Nov12/13 native/facet identifiers inspected
+- NOT_EXECUTED: new official portal sweep, exact crosswalk, device certification, runtime authorization, CI/TCK/conformance
+- Original Daily source, historical audit, report index, UI, code, Actions and past PRs not modified
+- Original A1 #280 GitHub additions cannot satisfy this A2 numeric threshold; original A2 independently requires >=100 valid additions and main retention
+- D7/D10/D14/D30 periodic audits are distinct, not satisfied by this independent monthly A2
+- Next legal trigger requires fresh main and new evidence delta, not speculative policy timeline or undocumented implementation
