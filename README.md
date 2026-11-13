@@ -22,8 +22,8 @@ A bilingual, source-grounded observatory for China's artificial-intelligence and
 - [Source Registry / 权威信源注册表](./SOURCE_REGISTRY.md) — 规范来源身份与受证据边界约束的状态注记；
 - [Active Watchlist / 活跃观察清单](./watchlist/ACTIVE.md) — 当前研究压力、待确认状态与优先问题；
 - [Workstreams / 研究分工](./workstreams/README.md) — C1–C8 分析工作流；
-- [Origin / 起源](./ORIGIN.md) — 仓库起源与研究意图；
-- [Ten-repository context / 十仓上下文](./TEN_REPOSITORY_CONTEXT.md) — 与更大公开研究系统的关系；
+- [Origin / 起源](./history/ORIGIN.md) — 仓库起源与研究意图；
+- [Ten-repository context / 十仓上下文](./governance/TEN_REPOSITORY_CONTEXT.md) — 与更大公开研究系统的关系；
 
 时间序列研究产物继续保留在各自 canonical surfaces：
 
