@@ -6,7 +6,7 @@ China Agentic Observatory welcomes contributions that improve factual accuracy, 
 
 ### 开放科研入口
 
-科研方法或仓库定位变更先看 [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md)；需要使用统一 research question / counterexample / research increment 结构的新研究单元使用 [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md)。现有 `METHODOLOGY.md` 与 Daily / Weekly / Monthly SOP 继续拥有原生研究语义与 cadence。
+科研方法或仓库定位变更先看 [`OPEN_RESEARCH.md`](./OPEN_RESEARCH.md)；需要使用统一 research question / counterexample / research increment 结构的新研究单元使用 [`RESEARCH_TEMPLATE.md`](./RESEARCH_TEMPLATE.md)；现有 `METHODOLOGY.md` 与 Daily / Weekly / Monthly SOP 继续拥有原生研究语义与 cadence；
 
 ### 贡献对象
 
@@ -18,7 +18,7 @@ China Agentic Observatory welcomes contributions that improve factual accuracy, 
 - `SOURCE_REGISTRY.md` — 规范信源身份；
 - `watchlist/`、`workstreams/` — 当前研究压力与 C1–C8 分析结构；
 - 根 README、引用/发布元数据、`.github/`、安全与贡献文档 — 仓库公共基础设施；
-- 时间序列 research outputs — 仅在明确纠错任务确实拥有对应记录时修改。
+- 时间序列 research outputs — 仅在明确纠错任务确实拥有对应记录时修改；
 
 ### 来源、状态与时间
 
@@ -29,9 +29,9 @@ China Agentic Observatory welcomes contributions that improve factual accuracy, 
 - 区分 `OFFICIAL_FACT`、`PROJECT_FACT`、`EXTERNAL_CLAIM`、`OBSERVATORY_ANALYSIS`、`UNCERTAIN`；
 - 明确标准/政策状态和项目状态，不用相似措辞替代正式生命周期；
 - 不把政策目标、标准计划、起草、审查、批准展示、企业宣传、单一案例自动提升为已实施能力或全国成熟度；
-- 不把同一上游文件的重复转载计为独立证据。
+- 不把同一上游文件的重复转载计为独立证据；
 
-本仓自己的 DOI、README、历史报告或软件归档不能替代中国外部世界的 C0–C6 信源。
+本仓自己的 DOI、README、历史报告或软件归档不能替代中国外部世界的 C0–C6 信源；
 
 ```text
 repository DOI != official/project evidence
@@ -43,13 +43,19 @@ case implementation != nationwide adoption
 
 ### 历史与纠错
 
-历史 Daily / Weekly / Monthly 和其他 point-in-time 记录保留原始观察边界。后续发现错误时更新当前解释并明确 correction，不把后来获得的来源或精确日期倒写进更早记录。
+历史 Daily / Weekly / Monthly 和其他 point-in-time 记录保留原始观察边界；后续发现错误时更新当前解释并明确 correction，不把后来获得的来源或精确日期倒写进更早记录；
 
-周期 SOP 定义研究生产方式；普通贡献不需要围绕调度器、维护 Agent 或外部审计控制逻辑组织。
+周期 SOP 定义研究生产方式；普通贡献不需要围绕调度器、维护 Agent 或外部审计控制逻辑组织；
 
 ### Pull Request
 
-使用仓库 PR 模板，并说明具体问题、有限改动、受影响长期表面、来源与日期/版本/状态依据、实际完成的核验、仍不确定事项、历史影响、安全/隐私影响与回滚方式。
+使用仓库 PR 模板，并说明具体问题、有限改动、受影响长期表面、来源与日期/版本/状态依据、实际完成的核验、仍不确定事项、历史影响、安全/隐私影响与回滚方式；
+
+### 长期数据与归档身份 / Longitudinal evidence and archive identities
+
+对每次涉及日报、周报或月报的贡献，注明 canonical 路径、观察截止时间、source commit、缺失与未验证状态；软件 concept DOI 只代表版本家族，不能代替具体版本 DOI、实验重现和数据验证；审查前后变化采用明确修正，不回写已经发布的历史判断
+
+For changes touching Daily, Weekly or Monthly, cite the canonical path, observation cutoff, source commit, missing and unverified states. A software-family concept DOI cannot replace a version DOI or replay evidence. Use explicit forward corrections rather than overwriting published historical judgments
 
 ## English
 

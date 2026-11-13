@@ -157,6 +157,12 @@ Useful relationship states include:
 
 Do not claim direct equivalence merely because two systems share words such as agent, identity, protocol, platform, trust, or interconnection.
 
+### 阶段标签与对象状态不得互相继承 / Stage and object states do not inherit
+
+阶段性 `OPEN`、`CLOSED` 或 `CLOSED_WITH_GAPS` 描述报告周期，不是政策法律效力、协议版本成熟度、项目代码质量或部署规模；信源可追溯、仓库发布和 Zenodo 归档也不使外部对象自动升级；更正后的当前分类必须保留原始历史状态和观察时点
+
+Period labels such as `OPEN`, `CLOSED` or `CLOSED_WITH_GAPS` describe research coverage, not legal effectiveness, protocol maturity, code quality or deployment scale. Traceable sources, repository publication and Zenodo archiving never upgrade an observed external object automatically. Corrected classifications preserve original observation cutoffs
+
 ## Non-inheritance rules / 不继承规则
 
 ```text

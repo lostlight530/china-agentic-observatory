@@ -2,9 +2,9 @@
 
 ## Mission / 唯一职责
 
-把同一 Asia/Shanghai 自然周已经形成的日报、权威来源和判断变化压缩为一份**有记忆的假设系统**。
+把同一 Asia/Shanghai 自然周已经形成的日报、权威来源和判断变化压缩为一份**有记忆的假设系统**；
 
-> **周日不是清空，周一不是重启。**
+> **周日不是清空，周一不是重启；**
 
 ## Canonical file / 唯一周报
 
@@ -12,9 +12,11 @@
 reports/weekly/YYYY/YYYY-Www.md
 ```
 
-一周只维护这一份 canonical weekly，周中原地推进，不建立按日期拆分的新周报。
+一周只维护这一份 canonical weekly，周中原地推进，不建立按日期拆分的新周报；
 
-仓库成立前不存在的日期不得补写。创始周或缺口必须显式声明真实 coverage。
+仓库成立前不存在的日期不得补写；创始周或缺口必须显式声明真实 coverage；
+
+**English stage interpretation:** The weekly report is one evolving canonical record for an actual Asia/Shanghai natural week. Monday opens the state, midweek observations update hypotheses, and Sunday settles only what evidence supports. An incomplete week or missing Daily remains explicitly open or gap-bearing; retrospective publication does not create historical coverage
 
 ## Weekly state machine / 周度状态机
 
@@ -30,7 +32,7 @@ Durable / Strengthened But Open / Open / Refuted
 carry unresolved state forward
 ```
 
-周报不是 7 篇日报拼接。
+周报不是 7 篇日报拼接；
 
 ## Monday opening / 周一开启
 
@@ -52,13 +54,13 @@ carry unresolved state forward
 - `OPEN`
 - `REFUTED`
 
-同源重复不算独立 strengthening。
+同源重复不算独立 strengthening；
 
-无 material change 时允许 weekly 保持不变；不要为了“每天都改周报”而制造状态变化。
+无 material change 时允许 weekly 保持不变；不要为了“每天都改周报”而制造状态变化；
 
 ## Sunday settlement / 周日收口
 
-只有本周最后一个真实 observation-day daily 已形成后才能 final closure。
+只有本周最后一个真实 observation-day daily 已形成后才能 final closure；
 
 必须完成：
 
@@ -72,7 +74,7 @@ carry unresolved state forward
 8. 形成 next-week carry-forward
 9. 不制造 Sunday novelty
 
-如果周日 Daily 与 weekly settlement 在同一次维护中完成，允许且优先使用**同一分支、同一最终 PR**交付两者；这不改变“一周一份 canonical weekly”的规则。不得仅因为 Daily 与 Weekly 是两个 cadence 名称就机械创建第二个重复 PR。
+如果周日 Daily 与 weekly settlement 在同一次维护中完成，允许且优先使用**同一分支、同一最终 PR**交付两者；这不改变“一周一份 canonical weekly”的规则；不得仅因为 Daily 与 Weekly 是两个 cadence 名称就机械创建第二个重复 PR；
 
 ## Canonical structure / 推荐结构
 
@@ -104,7 +106,7 @@ carry unresolved state forward
 
 ## Agent / PR evidence boundary / Agent 与 PR 证据边界
 
-周报只能由本周真实 Daily、登记的一手来源、当前仓库事实和显式 correction 支撑。
+周报只能由本周真实 Daily、登记的一手来源、当前仓库事实和显式 correction 支撑；
 
 Jules、Codex 或其他 Agent 的 task/PR summary、自动测试叙述、完成度评价和 PR body 不是独立 strengthening evidence：
 
@@ -115,7 +117,7 @@ same agent restatement != independent source
 claimed completion != verified state transition
 ```
 
-若某 Agent PR 导致仓库实际 `main` 状态发生变化，可把**合并后的实际仓库状态**作为 repository fact 处理；仍不得把 PR body 的全部自述自动升级为事实。历史 Agent 叙述若需纠偏，应保留其历史时间语境并在当前记录中显式说明，不回写成“当时已经知道”。
+若某 Agent PR 导致仓库实际 `main` 状态发生变化，可把**合并后的实际仓库状态**作为 repository fact 处理；仍不得把 PR body 的全部自述自动升级为事实；历史 Agent 叙述若需纠偏，应保留其历史时间语境并在当前记录中显式说明，不回写成“当时已经知道”；
 
 ## Boundaries / 边界
 
@@ -128,4 +130,4 @@ same-source repetition ≠ independent evidence
 agent/task narrative ≠ authoritative evidence
 ```
 
-不运行/部署/测试外部项目；不建自动化；不改前端/运行时代码/Actions；不自动 merge；不直接写 main。
+不运行/部署/测试外部项目；不建自动化；不改前端/运行时代码/Actions；不自动 merge；不直接写 main；
