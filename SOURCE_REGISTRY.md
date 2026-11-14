@@ -11,10 +11,11 @@
 
 # Source Registry / 权威信源注册表
 
-Updated through: **2026-11-12** (one new durable MIIT notice identity first observed 2026-11-12 18:51:29 Asia/Shanghai，not a new same-day policy event)
+Updated through: **2026-11-14** (Fujian C0 policy document first observed 2026-11-14 08:28:00 Asia/Shanghai，original published Nov12)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
+| C-FUJIAN-AI-PLUS-PLAN-2026-11-12 | C0 | 福建省人民政府办公厅 | 闽政办〔2026〕34号，generated 2026-11-07，first-party published 2026-11-12 08:44，observed 2026-11-14 08:28:00 Asia/Shanghai；provincial AI+ plan and goals, delivery and runtime not validated | https://www.fujian.gov.cn/zwgk/zxwj/szfbgtwj/202611/t20261112_7248400.htm |
 | C-MIIT-AGENT-TERMINAL-ACCESS-2026-11-06 | C0 | 工业和信息化部办公厅 | 工信厅信管〔2026〕42号，issued 2026-10-24，published 2026-11-06，observed 2026-11-12 18:51:29 Asia/Shanghai；terminal admission、permission、OTA and distribution requirements，no proven implementation or conformance | https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_1a83077d0f334f41a00d468e56df5303.html |
 | C-CAC-UNIFIED-FILING-2026-11-09 | C0 | 国家互联网信息办公室 / 中国网信网 | 2026-11-09 15:00 official announcement for multi-category new-technology filing portal，observed 2026-11-11 16:35:14 2026-11-11；portal launch does not prove individual filing or migration completion | https://www.cac.gov.cn/2026-11/09/c_1795978604463007.htm |
 | C-SAMR-YDT7174-2026 | C0 | 全国标准信息公共服务平台 / MIIT / CCSA | YD/T 7174—2026 通信行业标准，published 2026-07-15，effective 2026-11-01，official metadata first observed 2026-11-11 16:35:14 2026-11-11；not an agent interop standard or independent test | https://std.samr.gov.cn/hb/search/stdHBDetailed?id=5A166B0E8BF82BDAE06397BE0A0A0423 |
