@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-15 2026-11-15 14:36:41 Asia/Shanghai native C1–C8 Sunday settlement on proposed branch**：main `d401fb8b85158b5ae44fe9cf19a1e5d867d84c85` Nov01–14 merged，Nov15 native PARTIAL / NO_MATERIAL_CHANGE pack on this branch, W46 6 merged + one proposed = 7/7 branch coverage，H46-1..4 OPEN，November OPEN；official P1/P2 recheck not same-day event，CI/TCK/runtime NOT_EXECUTED
+
 **2026-11-14 2026-11-14 08:28:00 Asia/Shanghai native proposal**：main `93b51d3b4cb11f1185677beb8376dbc4ffdf107f` Nov01–13 merged，Nov14 C1–C8 native on one Draft branch，W46 5/7 merged + 1 proposed，H46-1~4 OPEN，November OPEN，Nov15 NOT_DUE，C0 Fujian new source identity and limited evidence, checker NOT_EXECUTED
 
 **2026-11-13 merged-main delivery correction**: PR #276 was merged 2026-11-13T13:18:25Z at `81c1c28c4f61b9cd24516eb2554adb5612b898e5`; Nov01–13 has 13 native merged Daily packs on that main cut, W46 OPEN 5/7, H46-1~4 OPEN, Nov14–15 NOT_DUE. The older Draft/proposal lines below are source-time snapshots, not present delivery state. Same-day later MIIT official source spot-check does not substitute for the absent complete C1–C8 external sweep or checker
@@ -42,3 +44,4 @@
 | 2026-11-12 | [2026-11-12.md](./2026-11-12.md) | [2026-11-12/](./2026-11-12/) | W46 OPEN 4/7 on branch proposal，H46-1~4 OPEN，November OPEN |
 | 2026-11-13 | [2026-11-13.md](./2026-11-13.md) | [2026-11-13/](./2026-11-13/) | W46 OPEN 5/7 proposed, 4/7 merged / H46-1~4 OPEN / PARTIAL |
 | 2026-11-14 | [2026-11-14.md](./2026-11-14.md) | [2026-11-14/](./2026-11-14/) | W46 OPEN 6/7 on branch only / H46-1~4 OPEN / PARTIAL |
+| 2026-11-15 | [2026-11-15.md](./2026-11-15.md) | [2026-11-15/](./2026-11-15/) | W46 FINAL 7/7 on proposed branch，H46-1..4 OPEN，November OPEN |
