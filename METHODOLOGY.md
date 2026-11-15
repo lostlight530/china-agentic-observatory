@@ -197,3 +197,15 @@ China-global comparison must specify the exact layer being compared: policy, gov
 Similar vocabulary does not prove equivalent architecture, legal status, maturity, or adoption.
 
 > **Structural comparability != formal interoperability.**
+
+## 12. China-specific evidence identity and lifecycle proof / 中国制度状态证据封套
+
+For a material China-specific proposition, retain a tuple `(object identifier, issuing body, institutional level, jurisdiction, formal document type, exact version/number, lifecycle status, publication/effective dates, observation time, claimed implementation, actual implementation evidence, geography/population, source lineage)`. A State Council plan, ministry notice, GB/T standard, GB/Z guiding technical document, YD/T industry standard, association specification, company SDK and deployed system are different **kinds of objects**, not one generic officialness or maturity scale.
+
+**Lifecycle needs its own evidence.** A portal displaying a standard as current proves a bounded observation of the portal at inspection time. It does not by itself reveal when that state first changed. A publication date, effective date, project approval date and repository observation date must remain separate. Source class C0 indicates institutional authority over a particular official document, not universal technical correctness or independent conformance certification.
+
+**Cross-layer counterexample (hypothetical analytic case, not a new factual assertion):** a Chinese technical guidance document addresses Agent identity while an international protocol specification defines message discovery. Similar words do not establish equivalent actor authentication, authorization, delegated permissions or tested interoperability. Compare exact normative clauses and versioned implementation traces layer by layer, and leave missing mappings `UNVERIFIED`.
+
+**Two-axis maturity:** formal document lifecycle (project/draft/approved/published/effective/superseded when applicable) is distinct from software/project maturity (design/code/release/integration/test/deployment/adoption). A change to one axis must not silently update the other.
+
+No new official source or legal conclusion is asserted by this methodology expansion. Current entries in `SOURCE_REGISTRY.md` remain point-in-time source records until their exact propositions and versions are individually rechecked.

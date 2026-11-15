@@ -46,3 +46,11 @@ Preserve sector, geography, organization, population, time window, metric, compa
 C6 contributes the named application/governance object, implementation scale, relevant security/governance state, measured/reported outcome, population/scope, evidence basis, uncertainty, and limits on extrapolation.
 
 C6 does not promote isolated projects, marketing cases, or policy demonstrations into nationwide capability or social-impact conclusions.
+
+## Evidence ladder for sector deployment and social effect
+
+Separate `announced pilot -> procurement/contract -> installed service -> observed operation -> distinct users/transactions -> independently measured outcome -> broad population impact`. Each step may be absent or lag the previous one. Government procurement is useful evidence for purchased scope, not automatic evidence of effective use by every intended beneficiary.
+
+For reported efficiency or safety gains, retain a named comparator, evaluation window, measured population, data definition, source interests, adverse-event visibility and relevant regulatory context. Guidance or certification claims need actual identified evaluation criteria and scope; the mere existence of a safety policy does not show control effectiveness.
+
+**Counterexample:** a single hospital reports improved AI-assisted administrative processing. It cannot establish a nationwide clinical outcome, and the measured administrative metric cannot be converted into health safety or economic value without further evidence. Preserve geography, sector and outcome type rather than generalize a headline.

@@ -81,3 +81,11 @@ A strong synthesis exposes:
 Periodic reports may use C8, but cadence, completeness, closure and production rules live in separate SOPs. This file defines the stable synthesis responsibility only.
 
 C8 must not rewrite earlier point-in-time observations because later evidence changes current interpretation.
+
+## Typed reconciliation, not automatic national synthesis
+
+Build a source-lineage graph connecting `official/publisher object -> exact proposition -> C1..C7 interpretation -> current C8 disposition`. An identical ministry notice referenced by several workstreams remains one originating source for its claims. C8 may combine evidence across different **types** (policy text + independent implementation test + deployment population) but must state which proposition each type supports; they are not interchangeable votes.
+
+A correction should operate on one field at a time: issuer identity, formal category, status, known effective date, observation time, technical implementation, conformance, geography or measured outcome. If an official portal shows `current` on an inspection date, the earliest observed current state does not necessarily equal the legal approval or actual transition timestamp. Preserve the difference without backdating.
+
+**Counterexample:** C2 has a published formal document and C4 has a vendor's stated compatibility. C8 cannot infer national interoperability without a versioned implementation/conformance trace. A national-scale claim likewise requires population denominators rather than counting official notices or selected deployments. Retain unresolved conflicts instead of averaging labels into a smooth trend.

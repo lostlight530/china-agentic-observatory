@@ -97,3 +97,11 @@ The observatory may track traceable policy, standards, research, open-source and
 ## Historical preservation
 
 Later evidence can correct the current interpretation without changing what an earlier observation actually recorded. Point-in-time records retain their own source/date/status boundary.
+
+## Decision boundary for policy, engineering and national-scale inferences
+
+A candidate belongs in this observatory when it is a China-relevant policy/institution/technical object, a concrete engineering or scientific contribution, or a same-layer China–global relationship supported by inspectable evidence. Classify the **kind of question** before assigning C1–C8: legal/formal lifecycle, scientific proposition, released implementation, interoperability, deployed use, or measured impact.
+
+Do not infer national adoption from a local pilot or a company announcement; do not infer protocol conformance from a standard's publication; do not infer technical autonomy from an industrial-policy target or an "国产化" label. A nationally scoped administrative document and a national measured technology outcome are not the same unit of evidence.
+
+**Explicit unknowns:** absence of visible independent tests is `NOT_OBSERVED`, not evidence that an implementation cannot work. An official public listing with no accessible full-text clause should be recorded as observed metadata, not exact requirement interpretation. A source issued by one authority may be primary for its own formal status but non-independent for the deployment claims it quotes from a vendor.

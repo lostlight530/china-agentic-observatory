@@ -45,3 +45,9 @@ Retain exact model/version/provider/deployment variant when material. Do not sil
 C3 contributes the exact research/model object, claimed result, evaluation conditions, source provenance, independent support/counterevidence, release/maturity state, and explicit limits.
 
 C3 does not infer policy maturity, industrial adoption, or national technical position from a single paper/model/leaderboard result.
+
+## Research result comparability and population boundary
+
+A model or scientific-AI result requires `(paper/model exact revision, training or testing method, dataset/split, harness and tool access, sampling/elicitation, comparator, evaluation institution, metric, uncertainty and independent replication)`. A publication proves the report exists, not that its claimed result transfers to every domestic deployment or to agentic workflows with different tools and safeguards.
+
+**Counterexample:** two studies report similar benchmark accuracy but one runs a bare model and the other uses retrieval plus a curated tool harness. Without controlling for that configuration, "model A is superior to model B" over-attributes the end-to-end outcome to weights alone. Likewise author affiliation in China and hosting on a domestic API are distinct from model origin, code availability, hardware locality and deployment geography. Keep these as separate fields.

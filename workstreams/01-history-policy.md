@@ -46,3 +46,9 @@ Preserve jurisdiction, issuing body, legal/administrative level, scope, target p
 C1 contributes the exact policy/institutional object, authority level, lifecycle state, dates, scope/jurisdiction, implementation evidence if any, unresolved gaps, and the narrow policy implication supported.
 
 C1 does not infer technical capability, standard conformance, or nationwide maturity solely from policy ambition.
+
+## Policy-effect chain and institutional attribution
+
+Analyze a policy across separate stages: `issuer/competence -> published text and binding scope -> effective conditions -> implementing rules or programs -> named local actions -> measured outcomes`. An announcement can substantiate the first two without substantiating later implementation. Preserve the actual administrative level and geography: a province-level implementation is not national coverage merely because it implements a national aspiration.
+
+**Counterexample:** a plan calls for an AI industrial target by a future date. This establishes a **target stated in the plan**, not evidence the target was achieved, funded, procured, audited or enforced. A current implementation claim needs a separately identified implementing body and measurable evidence. History should distinguish an origin event from a later retrospective interpretation and avoid reading later success back into older policy language.

@@ -44,3 +44,11 @@ Preserve geography, scale, configuration, time window, software stack, measureme
 C5 contributes the exact infrastructure object, maturity/deployment scale, geography, measurement basis, constraints/bottlenecks, evidence source, and the narrow industrial implication supported.
 
 C5 does not infer model quality, agent reliability, national self-sufficiency, or market dominance from one component/capacity signal alone.
+
+## Deployment and domestic-stack comparability
+
+An infrastructure comparison should retain `(component/SKU/version, hardware + driver/compiler/framework stack, workload and precision, cluster size, networking, measured region/time, capacity metric, energy/cost basis, operational maturity)`. A nominal accelerator peak or a projected datacenter total is not the throughput of a deployed Agent System.
+
+For a "domestic substitution" claim, distinguish component origin, dependency/supply chain, binary/API compatibility, software migration cost, functional test coverage, production operation, and independent performance comparability. These properties may move independently and are not established by a policy label, vendor pitch or one benchmark.
+
+**Counterexample:** a server uses a locally manufactured accelerator but still relies on a non-equivalent runtime plugin for the evaluated workload. Hardware origin may be clear while functional portability and system throughput remain unresolved. An installed chip count does not establish utilization or reliable task-completion throughput; preserve numerator/denominator and bottleneck context.
