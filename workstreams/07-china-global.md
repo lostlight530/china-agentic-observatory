@@ -58,3 +58,11 @@ China-specific term != direct English/global synonym
 C7 contributes the two exact objects being compared, the comparison layer, versions/status/dates, evidence source on each side, genuine commonality, genuine divergence, unknowns, and any layer mismatch that limits inference.
 
 C7 does not rank national systems or infer superiority from incomparable evidence surfaces.
+
+## Bilateral comparison key and refusal to rank incomparable objects
+
+A credible China–global comparison names `(China object + exact version/status, global object + exact version/status, common technical/institutional layer, matched claim, source evidence on both sides, environment and geography, unresolved difference)`. A national standards body's guidance and a private overseas implementation cannot be compared directly as two competing protocol implementations.
+
+Distinguish **equivalence of goal** (both discuss identity), **equivalence of specified interface** (same actor/data/message semantics), **implementation compatibility** (adapters exist), **observed interoperability** (version-matched two-party trace), and **deployed adoption** (named users/populations). Each requires stronger, distinct evidence. Translation of a term such as "智能体身份" into "Agent identity" is not a normative protocol crosswalk.
+
+**Counterexample:** comparing a Chinese GB/Z guide with an overseas released SDK and concluding one country's agents are more mature commits a layer mismatch. The correct output is a typed contrast with unmatched dimensions marked `NOT_COMPARABLE`, not a national ranking.
