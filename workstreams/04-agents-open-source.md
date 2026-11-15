@@ -54,3 +54,11 @@ multi-agent support != consensus correctness
 C4 contributes the exact project/platform/version, implementation surface, maturity/maintenance state, protocol/tool/memory semantics, observed engineering evidence, deployment evidence if any, and unresolved limitations.
 
 C4 does not infer national adoption, policy endorsement, or scientific superiority from open-source activity alone.
+
+## Source-to-runtime verification ladder
+
+Classify an agent project along `public repository -> located code path -> executable fixture -> bounded observed behavior -> external-effect verification -> cross-process recovery -> independent interoperability -> deployed usage`. Each property needs its own artifact and evidence; an SDK import, README compatibility claim or passing syntax check cannot satisfy all steps.
+
+A valid long-running Agent claim names persistence locator, tool authorization owner, approval/version binding, operation receipt, retry/idempotency policy, and completion predicate. Tool exposure through MCP, A2A or a vendor framework is not the same as the caller being permitted to perform a specific effect. Names of protocols or a client/server adapter do not establish conformance to a target version.
+
+**Counterexample:** a demo shows an agent recovering chat history after restarting the UI, while the task scheduler and external effect receipts are lost. That demonstrates some visible chat persistence, not durable task resumption or once-only side effects. Record missing identity and execution evidence explicitly instead of assigning a generic "enterprise ready" status.
