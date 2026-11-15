@@ -178,3 +178,17 @@ same family != inherited maturity
 ## Taxonomy governance
 
 Add vocabulary only for recurring distinctions that existing categories cannot represent cleanly. New labels do not retroactively rewrite historical reports; earlier observations retain their original time boundary and may be mapped forward through explicit current interpretation.
+
+## Orthogonal China-specific classifications / 正交分类
+
+Maintain a separate field for each of the following dimensions:
+
+1. **Authority/issuer:** actual institution and level; official portal is a publication medium and may not itself author the technical requirement
+2. **Object type:** policy/plan, regulation, national standard, guiding national technical document, industry standard, association/group standard, research paper, software implementation, deployment or measured outcome
+3. **Formal lifecycle:** proposal/project, consultation/draft, approved/published, effective, amended/superseded, unknown — only statuses appropriate to that object type
+4. **Technical maturity:** claimed, source-located, implemented, locally tested, interoperability-tested, production-observed, population-adopted, unknown
+5. **Evidence scope:** named jurisdiction, geography, industry, organization, population, version, time and independently inspected source surface
+
+These fields do not form one overall number. `GB/Z` guiding technical-document identity is not interchangeable with `GB/T` recommended national-standard identity; `YD/T` industry-standard status is not proof of national-standard status. A policy goal can be formally valid while a corresponding runtime is unimplemented. Likewise a production implementation can exist without representing an official national standard.
+
+**Classification counterexample:** an official catalog lists a published agent-related technical object and a company claims to support it. Preserve two distinct objects (catalog metadata and product claim); do not create a `CONFORMANCE_VERIFIED` state absent a named versioned conformance test and acceptance criterion. Source registry IDs and previous dated reports keep their own historical identity.
