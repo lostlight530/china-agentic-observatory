@@ -59,3 +59,11 @@ Do not compare a Chinese policy/standard objective directly with a foreign vendo
 C2 contributes the exact standards/protocol object, formal state, version/date, technical layer, identity/authority semantics, implementation/conformance evidence, comparison target, and unresolved maturity gaps.
 
 C2 does not infer universal adoption, technical effectiveness, or national interoperability from document publication alone.
+
+## Formal standard identity versus protocol behavior
+
+For every comparison, record `(standard/document number, category GB/GB-T/GB-Z/YD-T/group/other, competent issuer, current lifecycle status, issue/publication/effective dates, exact inspected clause, normative vs informative force, technical layer)`. The category and lifecycle must come from an appropriate primary standards record, not from an article calling every technical document a "国标".
+
+For a protocol or agent-trust claim, separately inspect discovery, principal identity, authentication, authorization, delegated scope, task state, effect receipt, revocation and recovery. Two specifications mentioning "identity" may address entirely different entities or trust boundaries. A compatibility claim needs both exact implementations/versions, transport/security profiles, tested messages, pass/fail criteria and a retained trace.
+
+**Counterexample:** an officially catalogued GB/Z guidance object and a globally published protocol may both contain an agent identity section. Their existence supports a possible comparison question, not a completed normative crosswalk or interoperable deployment. If full text is unavailable, classify the mapping `CLAUSE_NOT_VERIFIED`; never invent equivalent requirements.
