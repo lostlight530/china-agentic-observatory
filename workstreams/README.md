@@ -83,3 +83,8 @@ See [`../METHODOLOGY.md`](../METHODOLOGY.md), [`../SCOPE.md`](../SCOPE.md), and 
 Use `(canonical_object, issuer, jurisdiction, institutional_level, formal_document_type, version_or_standard_number, formal_status, publication/effective/observation_dates, implemented_system_and_revision, deployment_population, exact_claim, source_identity, counterevidence, unresolved_fields)` for significant findings. Drop irrelevant fields explicitly as `NOT_APPLICABLE`, not as guessed values.
 
 **Independent workstreams are not independent evidence by default:** C1 may cite a ministry announcement, C2 the same announcement's standard, and C4 a company citing that standard. Without distinct source surfaces or an implemented two-party test this is not three confirmations of interoperability. C8 owns deduplication, source lineage and current judgment; it cannot upgrade formal lifecycle, software maturity, national deployment or technical correctness by adding citations.
+
+## C2 专项研究核验案例
+
+- [C2 标准与协议的分层核验案例](./evidence-cases/C2_STANDARD_PROTOCOL_CROSSWALK.md) — 区分正式标准身份、技术条款、实现版本与双端互通，包含具体反例和核验字段，不新增 C 类别，不把规范声明写成实际部署
+
