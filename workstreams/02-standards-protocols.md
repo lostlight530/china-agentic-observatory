@@ -67,3 +67,9 @@ For every comparison, record `(standard/document number, category GB/GB-T/GB-Z/Y
 For a protocol or agent-trust claim, separately inspect discovery, principal identity, authentication, authorization, delegated scope, task state, effect receipt, revocation and recovery. Two specifications mentioning "identity" may address entirely different entities or trust boundaries. A compatibility claim needs both exact implementations/versions, transport/security profiles, tested messages, pass/fail criteria and a retained trace.
 
 **Counterexample:** an officially catalogued GB/Z guidance object and a globally published protocol may both contain an agent identity section. Their existence supports a possible comparison question, not a completed normative crosswalk or interoperable deployment. If full text is unavailable, classify the mapping `CLAUSE_NOT_VERIFIED`; never invent equivalent requirements.
+
+## 标准与协议的可复核负例研究
+
+[C2 标准、协议与互通的分层核验案例](./evidence-cases/C2_STANDARD_PROTOCOL_CROSSWALK.md) 将正式文献身份、技术条款、实现版本、双端互通证据分开，保留立项/发布/实施等状态的确切边界，并提供不能凭标准相似术语推出真实互操作的反例设计
+
+这是一份长期研究方法文档，不是具体 2026 年 11 月标准清单，也未执行新的跨系统试验
