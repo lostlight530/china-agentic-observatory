@@ -6,7 +6,7 @@
 - Fresh main 5becbc56500cc82e2ea1bc32f81dec0a35d7bb1d; complete Git tree truncated=false, files=1133
 - Contracts governance/independent-gpt/README.md, DAILY_SOP, WEEKLY_SOP, MONTHLY_SOP, SOURCE_REGISTRY and current METHODOLOGY
 - Previous full original A1 `historical-audits/2026-11/2026-11-15-a1-china-source-custody.md` @ `23ae4a4e6a384107050137e51e74f1f574b2d2cc`; 140 source files Nov01–14 inherited only with matching full path+SHA
-- Nov15 integrated original `reports/daily/2026/11/2026-11-15.md` @ `undefined` read; W46 weekly `reports/weekly/2026/2026-W46.md` @ `undefined` read
+- Nov15 integrated original `reports/daily/2026/11/2026-11-15.md` @ `7b48937f90e786e0929619e5dea80344eee96212` read; W46 weekly `reports/weekly/2026/2026-W46.md` @ `3d5398f601b496b7a419d39ea492db62a11149b4` read
 - A C1–C8 Daily pack has 10 physical canonical records and ONE integrated Native date; file count is not independent regulator count
 - Document provenance: issuer, official publication, entry-into-force, observation, GitHub merge and externally observed implementation are different dates and facts
 - This A1 checked GitHub tree, source files and prior complete A1; legal sites/full TCK/actual policy enforcement and external run tests NOT_EXECUTED
