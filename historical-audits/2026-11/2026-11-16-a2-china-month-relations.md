@@ -537,3 +537,23 @@
 - NEW_COUNTEREVIDENCE: unmerged N-day pack and missing approved effective-date crosswalk block unconditional complete-month and mandatory-regulation claims
 - UNKNOWN_RETAINED: #290 final merged diff, authoritative current government text, external implementation and standards conformance
 - NEXT_RETEST_CONDITION: only after #290 actually merges, re-read latest main Native canonical ten files+W47 index, source issuer versions and effective dates, then issue a separately scoped successor/reconciliation if needed
+
+
+---
+
+## Post-A2 factual update | China Native #290 merged after original A2 cutoff (2026-11-16)
+
+**Record identity:** forward append to the existing A2 canonical document only, not a second original A2, a Native run, or a D7/D10/D14/D30 audit. This note does **not** amend the original #292 merged PR diff, original 539 additions, original A2 base/main read, or the original as-of finding that #290 was \`OPEN DRAFT / PROPOSED / NOT_MAIN_VISIBLE\`. Those statements were correct at their dated evidence cutoff.
+
+**Later GitHub event:** Native PR [#290](https://github.com/lostlight530/china-agentic-observatory/pull/290) was merged **2026-11-16 14:41:11 UTC (22:41:11 Asia/Shanghai)**, after original independent A2 [#292](https://github.com/lostlight530/china-agentic-observatory/pull/292) merged at 14:30:25 UTC. Native #290 final PR metadata: 370 additions, 0 deletions, 13 changed files, final head \`d68c3de3d42a6395612f41958e6fb5266d13ad93\`, merge/main commit \`22d66fd782732e19a8b76e20930294553575c321\`. This is a new state transition; it is not retroactive evidence that Native was on main during the original A2 audit.
+
+**Fresh-main custody after Native merge:** \`main@22d66fd782732e19a8b76e20930294553575c321\` is 2 commits ahead of the #292 merge SHA \`2ca578ddff2307fdccd964bf4acdc228609fe3a3\` in GitHub compare, with no behind commits. Non-truncated Git tree (\`truncated=false\`) contains the Native integrated Daily \`reports/daily/2026/11/2026-11-16.md\` @ \`d9f6b77dda5f409554fd813f7da4054deda79213\`; the eight C1–C8 facet blobs at \`reports/daily/2026/11/2026-11-16/\`; facet README @ \`13440c8851d990a67ae522e8bb5303446af757eb\`; W47 \`reports/weekly/2026/2026-W47.md\` @ \`934f763d202c05edc885ce2eeca2836391cecd7a\`; and November Monthly \`reports/monthly/2026/2026-11.md\` @ \`c68efa417ba2153c8cf161bc5a6629abac1625a7\`. The remaining two #290-changed files are the November Daily index and Monthly update; one integrated Daily plus eight facets plus its README is **one Native logical observation date**, not ten independent executions or governmental issuers.
+
+**Correct current relation:**
+- 2026-11-16 China Native canonical delivery: \`MERGED / MAIN_VISIBLE / 10_OF_10_DAILY_CANONICAL_FILES_PRESENT\`; W47 Monday owner \`OPEN\`, November Monthly \`OPEN / NOT_FINAL\`.
+- Source classifications newly included by Native are its own bounded research judgments: P1 2026-11-16 People's Daily author commentary is not binding policy; P2 MIIT document dated 2026-10-24/published 2026-11-06 is an already existing official policy object, not a new Nov16 law; P3 CAC site's Nov16 repost of earlier Xinhua reporting is not a separate CAC normative issuance. These classifications have **not** been independently rerun against issuer originals or tested against enforcement.
+- Native PR reports bounded GitHub/source reads; **native checker, CI/TCK, independent external experiment, government effective-state confirmation, and independent Human Review remain \`NOT_EXECUTED\` / \`NOT_OBSERVED\` as appropriate**. Merge does not promote policy applicability, standards conformance or deployed Agent effects to PASS.
+- Original A1 #291 \`518 additions\` and original A2 #292 \`539 additions\` remain the immutable **original PR** numeric records. This appended post-merge note is separately attributed to its own later change, never credited toward either original.
+- This correction is scoped to the China #290 event only. Global F1–F7 Nov16 availability, Plasma formal scanners, GAS shared-store/graph execution, and Q4 Stage L runtime all remain separately unresolved absent their own fresh evidence.
+
+**Retest boundary:** on the next authorized China original or governance review, read the then-current \`main\`, exact blob/contract/source identity, source issuer/publication/effective timestamps, and runtime receipts if actually executed. Preserve original #292's as-of PROPOSED observation and the later #290 MERGED receipt side by side. No Native, A1/A2 or periodic re-execution is asserted by this append.
