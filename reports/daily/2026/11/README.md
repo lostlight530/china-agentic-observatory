@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-17 2026-11-17 04:57:35 Asia/Shanghai China native C proposal**：main `54b8dc0d9da3c342dff0df6ab7972f66e78f9b64`；今日完整 C Daily pack 在 Draft 分支待独立审查，W47 OPEN，November OPEN，H47-1..4 OPEN；Nov16 native already merged，本日 bounded source recheck NO MATERIAL CHANGE
+
 **2026-11-16 2026-11-16 20:11:04 Asia/Shanghai native China C1–C8 W47 Monday proposal**：main `5becbc56500cc82e2ea1bc32f81dec0a35d7bb1d` 保留 Nov01–15 十五个原生日；本分支新增 Nov16 第十六个 C1–C8 原生包与 W47 OPEN 1/7（分支计数），W46 FINAL、H47-1..4 OPEN、November OPEN；人民日报署名观点非新规，CAC 11-16 转载的是新华社 11-12 原电，MIIT 11-06 正式通知维持既有状态
 
 **2026-11-15 2026-11-15 14:36:41 Asia/Shanghai native C1–C8 Sunday settlement on proposed branch**：main `d401fb8b85158b5ae44fe9cf19a1e5d867d84c85` Nov01–14 merged，Nov15 native PARTIAL / NO_MATERIAL_CHANGE pack on this branch, W46 6 merged + one proposed = 7/7 branch coverage，H46-1..4 OPEN，November OPEN；official P1/P2 recheck not same-day event，CI/TCK/runtime NOT_EXECUTED
