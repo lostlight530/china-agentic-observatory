@@ -1,0 +1,518 @@
+# ORIGINAL Independent A1 — China Observatory Nov01–15 2026 exact C1–C8 source custody
+
+## Original identity, current ownership and chronological boundary
+- Repo lostlight530/china-agentic-observatory; role independent-maintenance/A1, NOT the China integrated Daily producer or D14 external-audit service
+- MonthStart→N−1: 2026-11-01..2026-11-15 Asia/Shanghai, 2026-11-16 native outside this cutoff
+- Fresh main 5becbc56500cc82e2ea1bc32f81dec0a35d7bb1d; complete Git tree truncated=false, files=1133
+- Contracts governance/independent-gpt/README.md, DAILY_SOP, WEEKLY_SOP, MONTHLY_SOP, SOURCE_REGISTRY and current METHODOLOGY
+- Previous full original A1 `historical-audits/2026-11/2026-11-15-a1-china-source-custody.md` @ `23ae4a4e6a384107050137e51e74f1f574b2d2cc`; 140 source files Nov01–14 inherited only with matching full path+SHA
+- Nov15 integrated original `reports/daily/2026/11/2026-11-15.md` @ `7b48937f90e786e0929619e5dea80344eee96212` read; W46 weekly `reports/weekly/2026/2026-W46.md` @ `3d5398f601b496b7a419d39ea492db62a11149b4` read
+- A C1–C8 Daily pack has 10 physical canonical records and ONE integrated Native date; file count is not independent regulator count
+- Document provenance: issuer, official publication, entry-into-force, observation, GitHub merge and externally observed implementation are different dates and facts
+- This A1 checked GitHub tree, source files and prior complete A1; legal sites/full TCK/actual policy enforcement and external run tests NOT_EXECUTED
+
+## Month-wide 15 C1–C8 daily packs × ten physical source records
+### 2026-11-01 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-01.md` @ `01ef8d314ff6ae7706953392525ae5f96011d9eb`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: SAMR four exact objects and ITU status unchanged; one C1–C8 native Daily despite eight thematic facets; legal evi
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-01/C1-history-policy.md` @ `b41c08c4b064d6b2b4fcb7a7d764791b30489033`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` @ `6f3b9966cd2661e05fe4ee818974d3909189cc2c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-01/C3-research-models.md` @ `df45860e4595a6af71a63221be254d98ac4fd20e`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` @ `b5b1434cebb132405a5401b46bb2c807657d8236`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` @ `11b258f3737ffea2cf3fec22b509d25eaf936903`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` @ `3fd8b33fb8e947187f1ac0a48f6429630b7817e2`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-01/C7-china-global.md` @ `bd57a3b0ab343bba3cdc3a18b74eac093816925c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-01/C8-synthesis.md` @ `c571ac1e818f5a2d58f6aec221b2ac9a57deef01`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-01/README.md` @ `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-02 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-02.md` @ `623d794d1e4663cb9277e7294febca698d1f8224`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: SAMR/ITU same official object states and W45 opening; one C1–C8 native Daily despite eight thematic facets; legal
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-02/C1-history-policy.md` @ `117cb468c597147dfa826dcc22e719b0521380a1`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` @ `19145e2271639b2c5ff672ce3dfead7db1c7e01f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-02/C3-research-models.md` @ `472eee40e99e099ed403aa7293bdffb39bfa8942`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` @ `8b14551cad268842b8d6355984e0bc209bb5165b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` @ `c147df9778d7e5406ac98b8b553f2d0440c30a64`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` @ `2741b7741be5a2bef24f8b907e524c05f826f9e9`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-02/C7-china-global.md` @ `eaf5b9a373f41872a6079ea87e3d38dbeddbad79`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-02/C8-synthesis.md` @ `7388141a697aa83be758058d6cc29c75be65f84d`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-02/README.md` @ `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-03 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-03.md` @ `432797681637d2cfb85884cf5c63046c751371a8`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: four standards and ITU remained in known lifecycle; one C1–C8 native Daily despite eight thematic facets; legal e
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-03/C1-history-policy.md` @ `384edb3d9e5c1aac4b0eabca4eb6a42281606ced`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` @ `7254c408cb732387461e3a48db3fd02015f8e487`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-03/C3-research-models.md` @ `ddad24ff999aed449133b93e11a396171d8c84de`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` @ `ed5ee102075dd8497b85fa62e767625a7572ba51`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` @ `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` @ `e91edbd4b3c56e806f459401cda4fec188f79b60`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-03/C7-china-global.md` @ `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-03/C8-synthesis.md` @ `37d4eb02a702fd13473eb968a9d3c49ff4f76283`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-03/README.md` @ `2f0bf464c01afa95468bfa63078b2d58853e0230`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-04 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-04.md` @ `e0bc133594865df764ab0702dd714505d0fb63d2`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: GB/T 48562 official publication Oct30, future effective May01 2027; one C1–C8 native Daily despite eight thematic
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-04/C1-history-policy.md` @ `ef345cb5c64661aca800a7141e9c69a376c2e657`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` @ `699db4661554add9bed4018f470bd9400ec063b8`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-04/C3-research-models.md` @ `5a210d104773adeb85ef24b6fab8b1d017391446`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` @ `5af48036cea099189b39c09701f92208c916008c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` @ `37e511eece877815bb7c9b67ceb463e49eba78dd`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` @ `a67f1c8a2398124610e5a17c43b5e1539c930918`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-04/C7-china-global.md` @ `46b784e15f917cdfa40491b733bc2a0608cafd93`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-04/C8-synthesis.md` @ `8d58446e962a160751af5bf84cab0ebc8498287e`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-04/README.md` @ `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-05 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-05.md` @ `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: same GB/T 48562 upcoming state; one C1–C8 native Daily despite eight thematic facets; legal evidence and actual d
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-05/C1-history-policy.md` @ `1e2019b7d8090adc79b54d345f8941e474a584c6`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` @ `ef5e3dc05c80b4ee9675555a9092ccab949082cc`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-05/C3-research-models.md` @ `a3eab7cca684234ba5284553a693faa311ef74f5`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` @ `1951a5663477d76345f7e55e522b11b0c6ab3a6e`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` @ `5423d0226a7d8d780d94a89eca6f707d76c782e0`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` @ `51380d3fe4fec4170c1963797052e1032de6d788`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-05/C7-china-global.md` @ `f0634f29e9b05543001abc13017431f32aefc16c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-05/C8-synthesis.md` @ `d9b98dda68209186b4f74f215e8609db2075b989`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-05/README.md` @ `2ac53288cad5e2fa9e3784e4d2028ea9c9225948`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-06 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-06.md` @ `8492614e5cb1747f9c00012e721d51d219bb472b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: six named SAMR/ITU standards objects rechecked; one C1–C8 native Daily despite eight thematic facets; legal evide
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-06/C1-history-policy.md` @ `71cd2c4d4b843c99de8007af9f67677dcf5b31da`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` @ `3f4386ee2cef921ab6e0d39ceaba7de130c2209d`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-06/C3-research-models.md` @ `0343e54c793b7dab22ed5aa44fb5ae3a70f51306`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` @ `860d965c1efafbb7d56323ef316e3adf65178188`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` @ `961e7dd1974dee9dd7476115ce6148adaea4f2a7`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` @ `b82c335aca370242a0bd3294b1c900795b19124c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-06/C7-china-global.md` @ `37ddc5bfebd634cc137e2273c4354c3167575a8d`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-06/C8-synthesis.md` @ `3db6d3c4f0260866160416bc74410527e737bb8b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-06/README.md` @ `6c2364c008d6c1d83e0ef71cd1520085961a7738`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-07 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-07.md` @ `88024f0206d025ac235e06d91c62badaa4a4135f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: six exact standards objects maintained, no transition; one C1–C8 native Daily despite eight thematic facets; lega
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-07/C1-history-policy.md` @ `43f7a6220d5fba409570079d9289970b795eac76`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-07/C2-standards-protocols.md` @ `bd274743fb9ad9bb2f2a74ca42afb98d4d0b564f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-07/C3-research-models.md` @ `d0a9f9bd0f82b6253f4b96fd0dc29e29e5ba2652`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-07/C4-agents-open-source.md` @ `28e0f99d578678654d34f2e1d486ddcc13a2a38e`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-07/C5-infrastructure-industry.md` @ `70d77347d277fa4f728dfd93d029eb232c86e1c2`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-07/C6-applications-governance.md` @ `cfdc8471cb02389409f94c0578ced93830fb4472`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-07/C7-china-global.md` @ `12a427895ffaa5f903075e3ead7af06a0bc2c3f3`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-07/C8-synthesis.md` @ `be6c4c8f97c198fe4e5b7c7708df9c825cdcb76f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-07/README.md` @ `21ed45643515cbea1bcd00bef0fae20a4c9b0e65`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-08 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-08.md` @ `71bb527b1f9b146b289fb83086da3b5a3306c7d6`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: standards identity and separate media-governance observations; one C1–C8 native Daily despite eight thematic face
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-08/C1-history-policy.md` @ `41d6e8cc8e6c0c5b8020a7cbe5be4417e69dbed4`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-08/C2-standards-protocols.md` @ `35509cc25ec6bb9eac23c2d176c15a45a47b3289`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-08/C3-research-models.md` @ `62a83c1b1d296a6aa79e34aedd0ce5258b187a35`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-08/C4-agents-open-source.md` @ `2228e256502678f7a0fd0717ba0a210ca7000083`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-08/C5-infrastructure-industry.md` @ `e62caf86bdde8ee55b6e3fafda7fde7421a47600`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-08/C6-applications-governance.md` @ `973b61ee90ac80ead83947bf38a8aefa2ad34ba0`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-08/C7-china-global.md` @ `a94c5612bc50ec69799cc5d2f5c00cf27f6c9165`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-08/C8-synthesis.md` @ `e0d89ebe959acc11716976b422350dc6310c61f5`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-08/README.md` @ `f74826c8ef719b3a430665e05046a67f7b82091f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-09 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-09.md` @ `49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: Nature AutoDNA + Hi-WBC, separate first-party research; one C1–C8 native Daily despite eight thematic facets; leg
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-09/C1-history-policy.md` @ `5ddef37f51e3b62aa6e7eca67e9e1d8d2f615f44`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-09/C2-standards-protocols.md` @ `03c9ab38bc086eae0d797faeaa375bb76b2a04f4`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-09/C3-research-models.md` @ `f5f2f7f3a24cea4619a0205e3a6fed68d5f4373f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-09/C4-agents-open-source.md` @ `b4a8577a0d24f47c31b5de643005ebcad230a66f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md` @ `523946f3e5a76b2b2323490753e2b4773844cdd6`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-09/C6-applications-governance.md` @ `79bb9e40f7575aab0a138f8f3362212b6719ef54`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-09/C7-china-global.md` @ `e62a7c126db87a2ac4d7a6fe27038da6a975ca6a`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-09/C8-synthesis.md` @ `6fe5828ace299ba3f5cf53a2909b355e85e31923`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-09/README.md` @ `a8014ab8ed20da0d9189f7a40c80f79fcf81c388`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-10 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-10.md` @ `e62643a840a6096ad53aacebaceae3fdb45d21c1`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and AutoDNA Video 6; one C1–C8 native Daily de
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-10/C1-history-policy.md` @ `c0b6136c0e472e235dd17020bcfcec5c007df61b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-10/C2-standards-protocols.md` @ `245b02c709ad0dca885c1e76f13dd9688f56db07`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-10/C3-research-models.md` @ `7dc910e5b7e7998e80552aa784609a2d0835d8c9`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-10/C4-agents-open-source.md` @ `8e398f3c7513c7f0253b0a27182cca8e406a985e`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-10/C5-infrastructure-industry.md` @ `8ad9728b4ba46b8fdf446366dec48090f33cef29`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-10/C6-applications-governance.md` @ `b81fc8ac39e7c35f28c7a72e72e1fff641a7632a`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-10/C7-china-global.md` @ `8a45278823aac7a18acebecaedaa3814ae8b6c55`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-10/C8-synthesis.md` @ `43dfa4fc0a8a63eac0208789f84000ceaca80b92`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-10/README.md` @ `42b71e83aa17d717ce8b9ac8d62c4965c5819bbb`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-11 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-11.md` @ `c77e79e3bb6215bdc9036eea2830ec9955f94f22`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effective Nov01, Poppy 0.4 publisher Nov10
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-11/C1-history-policy.md` @ `f15e00311a85ecff90f82ce8872a6148cd91feaf`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, official object date and external verif
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-11/C2-standards-protocols.md` @ `44e4d193e53cbe2b31f10a3180b8c9895d01c59f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim status, official object date and external 
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-11/C3-research-models.md` @ `3934490ae68a19e39a428fe2fc911869e25b3e87`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status, official object date and external ve
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-11/C4-agents-open-source.md` @ `0edbe6804d8adb3d6c32d0dd9c14c1b9ff66afdb`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, official object date and external verifier n
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-11/C5-infrastructure-industry.md` @ `d01bac5164e2e1b2a3982b7042acaf00916f068d`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official object date and external verifier not c
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-11/C6-applications-governance.md` @ `2c156b752b6fdde251a2953d0437383d0b71476d`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, official object date and external veri
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-11/C7-china-global.md` @ `f989a07b14f1ec7a8a5f8cf7c6b6592ce291e8f9`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, official object date and external verifier no
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-11/C8-synthesis.md` @ `fddf732697abb37f90809741953b7b39ef8a7200`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official object date and external verifier not c
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-11/README.md` @ `58229ddc450e1968b351ac56876f85e44a08df53`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object date and external verifier not confla
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-12 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-12.md` @ `29ec0d14ca3440282bc84832aecec6063e81cdfb`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT notice 工信厅信管〔2026〕42号 originally issued Oct24, published Nov06, first observed Nov12; no enacted effective date or deployment inferred; lega
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-12/C1-history-policy.md` @ `6e70ea42c3603b80f08390cee49aa133830b6b0f`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT office formal notice 工信厅信管〔2026〕42号 is a textual policy object, not an enacted-device permit; legal evidence and actual deployed effects rem
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-12/C2-standards-protocols.md` @ `1c29f166b20eccc35178bff7fec2219853dfa3ef`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; agent unique-ID reference requires exact cited national standard; none clause-verified into MCP/A2A conformance; legal evidence and actual deploy
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-12/C3-research-models.md` @ `bd5d367f4fab17ed9cc0e9ee541c69b084f98e66`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; device network governance notice contains no new model/benchmark experimental reproduction; legal evidence and actual deployed effects remain sep
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-12/C4-agents-open-source.md` @ `79b0176108e72bf57c3964fed358dd4ae37e872c`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; developer/device/platform responsibilities require independent tool permission and implementation receipts; legal evidence and actual deployed ef
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-12/C5-infrastructure-industry.md` @ `af7b1c025ab4a30968b6c7c3998f342e801506e5`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; terminal OTA/network-access procedural obligations do not establish actual vendor deployment rate; legal evidence and actual deployed effects rem
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-12/C6-applications-governance.md` @ `ef31410875b46dd7b9fdbd6e3401704cf5cd7c42`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; digitally signed developer consent instruction is not current execution of user consent/revocation; legal evidence and actual deployed effects re
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-12/C7-china-global.md` @ `1943fbcfdae3aa9740cda6208ab8424fd5bb410b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; China terminal governance and global MCP tool server release are structurally comparable, not cross-certified standards; legal evidence and actua
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-12/C8-synthesis.md` @ `d542dbcb0f64fa101ec71ea8536d233745746873`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; normative text, actual permission, device effect and recovery remain different trust boundaries; legal evidence and actual deployed effects remai
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-12/README.md` @ `6db733a085290af485a05e1932b928d20c81f063`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; one indexed original C1–C8 Daily with eight facets, no extra Native publication; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-13 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-13.md` @ `8e62ec313f3c9261df9e28fdc350e86b87128caa`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Native original C1–C8 Nov13 was PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED; later maintainer MIIT source reread is not a retroactive Native swee
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-13/C1-history-policy.md` @ `f34a1b42e751ddba70e4549fa7cd324f041a3513`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original policy object issued Oct24 / published Nov06, not a newly enacted Nov13 regulation; legal evidence and actual deployed effects remain se
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-13/C2-standards-protocols.md` @ `bccbecdaf10eff746f2794d087c882d5dc3be410`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Existing standard exact object is not independently validated cross-protocol or national-standard mapping; legal evidence and actual deployed eff
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-13/C3-research-models.md` @ `08858ea7e859dd93d4d69c1583d86cb2e343a576`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Policy or author benchmark does not certify independent model/algorithm reproduction; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-13/C4-agents-open-source.md` @ `820214476c61484a0dfa198604efe2e2f6f9a108`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Availability of OpenAI SDK/MCP implementation is not an approved protected tool invocation; legal evidence and actual deployed effects remain sep
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-13/C5-infrastructure-industry.md` @ `a688713fd5011b0260b9a5eec42ebc4474062283`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Industrial goals and OTA/network standards do not establish a completed device deployment; legal evidence and actual deployed effects remain sepa
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-13/C6-applications-governance.md` @ `dcc7ad274dcaadbdf2901af3553b7853800855c9`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Required human consent and revoke semantics cannot be inferred from issued regulatory text; legal evidence and actual deployed effects remain sep
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-13/C7-china-global.md` @ `f09267226e90180a753688e285573e58b84fe931`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT rules and global MCP sources are distinct authorities, not official legal/protocol reciprocity; legal evidence and actual deployed effects r
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-13/C8-synthesis.md` @ `4da149fdabf53cf4117e5a52e294df973eb627d8`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; W46 H46-1..4 OPEN; unresolved issuer independence and real effect-time evidence retained; legal evidence and actual deployed effects remain separ
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-13/README.md` @ `bb57c7915dce6936f091de7edfbeeb680a1d1d04`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Research-pack index is navigational, not another Daily run or a second official-source publication; legal evidence and actual deployed effects re
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-14 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-14.md` @ `6860b56632b3ddc0aec4fe164d8cda242bab8b27`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Fujian provincial government original document signed 11-07, published 11-12 08:44 and observed Nov14, NOT newly issued Nov14; legal evidence and
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-14/C1-history-policy.md` @ `a056a1bbb4726f1349ceea4898a659d4ab3259ce`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Fujian office issuer and exact document 闽政办〔2026〕34号, signature ≠ publication; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-14/C2-standards-protocols.md` @ `ac276c0abfa9a3b3dff7e022e81a458d5fa5d146`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; provincial AI plan does not create formal GB/T, MCP or A2A crosswalk or new effective standard; legal evidence and actual deployed effects remain
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-14/C3-research-models.md` @ `995adeb6c8d6d1348ec676c9595c63f38c1c4e88`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN; legal evidence and actual deployed ef
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-14/C4-agents-open-source.md` @ `b6f9c27858ea714a56a7a5044bc52a44e98b5b85`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; policy encouragement ≠ shipping/open-sourced agent runtime; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-14/C5-infrastructure-industry.md` @ `acb55d6b0709c733a27922e02f94fc15a259380b`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN; legal evidence and actual deployed ef
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-14/C6-applications-governance.md` @ `6f86368819da2a431b92acb3ca941f3bd11d5ea1`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN; legal evidence and actual deployed ef
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-14/C7-china-global.md` @ `048026e065759beff58f4b074fa06de531fe931a`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN; legal evidence and actual deployed ef
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-14/C8-synthesis.md` @ `b07c8de3a2103dfaefc944dec19085bb65155042`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; one official provincial object, no new system effect or independent conformance; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-14/README.md` @ `3d33a03f937a08dc93071a3c5a4f79bd389d21ef`
+  - Original document judgment: EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; README is a local navigation artifact, not another policy issuer; legal evidence and actual deployed effects remain separate
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+### 2026-11-15 — publication/effective-date lineage
+- **China integrated** `reports/daily/2026/11/2026-11-15.md` @ `7b48937f90e786e0929619e5dea80344eee96212`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: One integrated C1–C8 producer: observed_at, issuing authority, legal effective date and real implementation are separate
+- **C1 policy history** `reports/daily/2026/11/2026-11-15/C1-history-policy.md` @ `b41250d8bfc022b53d55808f61c9e749937e8a91`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Official institution, publication and policy intent must be pinned independently; announced intention is not effective rule
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-15/C2-standards-protocols.md` @ `7b80078cd0d8b77c626a890cf699c5a1973631fe`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Project launch, drafting, formal standard approval, publication, effective date and conformance are different stages
+- **C3 models/research** `reports/daily/2026/11/2026-11-15/C3-research-models.md` @ `af752d0bb7b0a911c86dbf76dcc078323ea0f6be`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Research performance or paper preprint is not deployed agent capability or independently measured benchmark
+- **C4 open source/agents** `reports/daily/2026/11/2026-11-15/C4-agents-open-source.md` @ `e3e5d75c679d9892af85c790c3b1c259f8e8a06f`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: GitHub SDK source patch and a company release headline do not establish installed usage, A2A/MCP conformance or effect results
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-15/C5-infrastructure-industry.md` @ `8ad9651170f9c05954dce3d7a19f9a2a2686b286`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Industry announcement, procurement, hardware capacity and actual monitored agent deployment are not equivalent
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-15/C6-applications-governance.md` @ `4dff3a4fed257b21b7eb294de31ae9633f99ee17`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Governance guideline, technical rule and real production authorization/effect controls demand separate evidence
+- **C7 China/global** `reports/daily/2026/11/2026-11-15/C7-china-global.md` @ `7f5688ce102c044b057b0e1d200bdbab1d8da4ff`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Cross-border comparison needs same objects/version/effective-date definitions and must not imply equivalent compliance
+- **C8 synthesis** `reports/daily/2026/11/2026-11-15/C8-synthesis.md` @ `c309d4053f0462b016e85dfb65cf006c31d9d5cd`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Cross-facet synthesis reuses source lineages, not another government issuer or independent experiment
+- **Pack index** `reports/daily/2026/11/2026-11-15/README.md` @ `bcbbe06f0766c932de36bccd00c9847c48366c55`
+  - Original document judgment: NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Applicable falsification: Index is documentary provenance for one original C1–C8 day, not ten native source observations
+- Daily relationship: one integrated C1–C8 original producer for ten paths; same source cited across C1–C8 is still one legal/standard object
+
+## Closed weekly / independent D windows / N-day conflict boundary
+- Weekly `reports/weekly/2026/2026-W45.md` @ `76b966c011cf4ec1f7637fac1c9673b23a767854`: original closed-week state separate from future N-day claims
+- Weekly `reports/weekly/2026/2026-W46.md` @ `3d5398f601b496b7a419d39ea492db62a11149b4`: original closed-week state separate from future N-day claims
+- Distinct D-window owner `history/2026-11/2026-11-10-d10-drift-contract-reconciliation.md` @ `9403a1b0f09bbf4be6021c03e4b08a95da6d7445`; retain as point-in-time, no A1 substitution
+- Distinct D-window owner `history/2026-11/2026-11-14-d14-pattern-formation-audit.md` @ `f8abe19a4f4ed4ec1b922e08bab445906b35105d`; retain as point-in-time, no A1 substitution
+- Coverage: 15×10=150 canonical files, present 150, Nov01–14 inherited exact blobs 140/140, drift 0
+- Native China Nov16 C1–C8 Draft #290 is separately open at cold start, beyond this A1 cutoff; its unmerged input must not enter Nov15 or prove Nov16 completed
+- Sunday W46 can be naturally closed by Nov16, but its authoritative claim still depends on original weekly status, sources and real run evidence
+- No legal implementer/emitting agency is inferred from repository name, draft standard, press report or registered code artifact
+- Approval date, release/publication date, implementation date, and real observed adoption are not automatically the same on each official document
+- Source registry and faceted narratives may share one issuer and one original event; duplication does not create independent policy validation
+- Correct native source files not modified; historical correction, successor and audit records retain original status and producer
+- November Monthly FINAL NOT_DUE; D7, D10, D14 and D30 independent, no cross-window borrowed success
+- Original A1 numeric >=100 GitHub additions measured at final PR; semantic source audit is not independent human reviewer approval
+- Next A2 can begin only after exact original A1 merge+new main read+current source blob; scope Nov01–16 even if N-day Native remains unmerged and must be marked open
+
+## Evidence delta
+- NEW_EVIDENCE: ten Nov15 source paths and closed W46 weekly are in source custody; current Nov16 original Native draft is strictly a later period
+- CORRECTED_INTERPRETATION: integrated C1–C8 pack count never equals ten policy issuers; official drafting is not law in force
+- UNCHANGED_BOUNDARY: ACTOR != POLICY_TEXT != EFFECTIVE_RULE != DEPLOYMENT; CODE != CONFORMANCE
+- NEW_COUNTEREVIDENCE: overlapping issuers, ambiguous effective dates and non-binding planning documents restrict overgeneralized adoption claims
+- UNKNOWN_RETAINED: current external official text status, independent implementation, effective dates when not pinned and actual government compliance tests
+- NEXT_RETEST_CONDITION: original official document versions and issue date, signed final text, effective date, audited deployment evidence and explicit conflicting case
