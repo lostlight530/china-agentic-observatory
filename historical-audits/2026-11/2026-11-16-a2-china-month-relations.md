@@ -1,0 +1,539 @@
+# ORIGINAL Independent A2 — China Observatory 2026-11-16 whole-month C1–C8 policy/source relations
+
+## Original A1 merge gate, logical period and official source taxonomy
+- Repository lostlight530/china-agentic-observatory; original independent-maintenance/A2, not China Native Daily, government issuer, independent D14 or legislative verifier
+- Scope MonthStart→N Nov01–Nov16 Asia/Shanghai, month-to-date, November MONTHLY FINAL_NOT_DUE
+- Current main 75a716f5a8d097b59646f578763eafb5b4fbf547 **after** original A1 #291 merged 75a716f5a8d097b59646f578763eafb5b4fbf547; original A1 numerical additions 518 (not this A2)
+- Original A1 canonical `historical-audits/2026-11/2026-11-16-a1-china-source-custody.md` @ `e6cdd20b2ed4189d5d8f95abf424e0dd1b2ace77` re-read from actual main, not from Draft
+- Previous original A2 `historical-audits/2026-11/2026-11-15-a2-china-month-relations.md` @ `d01ea8e145d1ae352040cf4c677a6f3411fc7b50` re-read as historical month relation
+- Owner contracts: METHODOLOGY.md, DAILY_SOP.md, WEEKLY_SOP.md, MONTHLY_SOP.md, SOURCE_REGISTRY.md and governance/independent-gpt/README.md
+- One integrated C1–C8 Native Daily = ten physical files, one date-scoped research task. Government actor, source document, publication, effective date, developer claim, adoption and real effect are separate objects
+- 2026-11-16 Native PR #290 is **OPEN DRAFT, NOT MERGED** as of this main read; its 13-file proposal is not current canonical main evidence
+- Its proposed official-source claim (an editorial is not a new regulation, Nov16 repost vs earlier Xinhua original) is PROPOSED_BRANCH_OBSERVATION, not accepted original source history or independent legal validation
+- This independent A2 reads repo GitHub source/main, original A1 and active PR metadata; official sites and policy enforcement/TCK tests NOT_EXECUTED
+- Weekly W46 naturally closed; W47 Nov16 opening proposed on separate branch only; period audit D7/D10/D14/D30 remain distinct
+
+## MonthStart→N: exact official-source owner and unchanged/changed relation
+### 2026-11-01 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-01.md` @ `01ef8d314ff6ae7706953392525ae5f96011d9eb`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: SAMR four exact objects and ITU status unchanged; one C1–C8 native Daily de
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-01/C1-history-policy.md` @ `b41c08c4b064d6b2b4fcb7a7d764791b30489033`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` @ `6f3b9966cd2661e05fe4ee818974d3909189cc2c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-01/C3-research-models.md` @ `df45860e4595a6af71a63221be254d98ac4fd20e`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` @ `b5b1434cebb132405a5401b46bb2c807657d8236`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` @ `11b258f3737ffea2cf3fec22b509d25eaf936903`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` @ `3fd8b33fb8e947187f1ac0a48f6429630b7817e2`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-01/C7-china-global.md` @ `bd57a3b0ab343bba3cdc3a18b74eac093816925c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-01/C8-synthesis.md` @ `c571ac1e818f5a2d58f6aec221b2ac9a57deef01`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-01/README.md` @ `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-02 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-02.md` @ `623d794d1e4663cb9277e7294febca698d1f8224`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: SAMR/ITU same official object states and W45 opening; one C1–C8 native Dail
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-02/C1-history-policy.md` @ `117cb468c597147dfa826dcc22e719b0521380a1`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` @ `19145e2271639b2c5ff672ce3dfead7db1c7e01f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-02/C3-research-models.md` @ `472eee40e99e099ed403aa7293bdffb39bfa8942`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` @ `8b14551cad268842b8d6355984e0bc209bb5165b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` @ `c147df9778d7e5406ac98b8b553f2d0440c30a64`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` @ `2741b7741be5a2bef24f8b907e524c05f826f9e9`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-02/C7-china-global.md` @ `eaf5b9a373f41872a6079ea87e3d38dbeddbad79`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-02/C8-synthesis.md` @ `7388141a697aa83be758058d6cc29c75be65f84d`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-02/README.md` @ `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-03 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-03.md` @ `432797681637d2cfb85884cf5c63046c751371a8`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: four standards and ITU remained in known lifecycle; one C1–C8 native Daily 
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-03/C1-history-policy.md` @ `384edb3d9e5c1aac4b0eabca4eb6a42281606ced`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` @ `7254c408cb732387461e3a48db3fd02015f8e487`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-03/C3-research-models.md` @ `ddad24ff999aed449133b93e11a396171d8c84de`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` @ `ed5ee102075dd8497b85fa62e767625a7572ba51`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` @ `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` @ `e91edbd4b3c56e806f459401cda4fec188f79b60`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-03/C7-china-global.md` @ `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-03/C8-synthesis.md` @ `37d4eb02a702fd13473eb968a9d3c49ff4f76283`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-03/README.md` @ `2f0bf464c01afa95468bfa63078b2d58853e0230`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-04 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-04.md` @ `e0bc133594865df764ab0702dd714505d0fb63d2`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: GB/T 48562 official publication Oct30, future effective May01 2027; one C1–
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-04/C1-history-policy.md` @ `ef345cb5c64661aca800a7141e9c69a376c2e657`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` @ `699db4661554add9bed4018f470bd9400ec063b8`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-04/C3-research-models.md` @ `5a210d104773adeb85ef24b6fab8b1d017391446`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` @ `5af48036cea099189b39c09701f92208c916008c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` @ `37e511eece877815bb7c9b67ceb463e49eba78dd`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` @ `a67f1c8a2398124610e5a17c43b5e1539c930918`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-04/C7-china-global.md` @ `46b784e15f917cdfa40491b733bc2a0608cafd93`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-04/C8-synthesis.md` @ `8d58446e962a160751af5bf84cab0ebc8498287e`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-04/README.md` @ `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-05 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-05.md` @ `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: same GB/T 48562 upcoming state; one C1–C8 native Daily despite eight themat
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-05/C1-history-policy.md` @ `1e2019b7d8090adc79b54d345f8941e474a584c6`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` @ `ef5e3dc05c80b4ee9675555a9092ccab949082cc`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-05/C3-research-models.md` @ `a3eab7cca684234ba5284553a693faa311ef74f5`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` @ `1951a5663477d76345f7e55e522b11b0c6ab3a6e`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` @ `5423d0226a7d8d780d94a89eca6f707d76c782e0`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` @ `51380d3fe4fec4170c1963797052e1032de6d788`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-05/C7-china-global.md` @ `f0634f29e9b05543001abc13017431f32aefc16c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-05/C8-synthesis.md` @ `d9b98dda68209186b4f74f215e8609db2075b989`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-05/README.md` @ `2ac53288cad5e2fa9e3784e4d2028ea9c9225948`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-06 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-06.md` @ `8492614e5cb1747f9c00012e721d51d219bb472b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: six named SAMR/ITU standards objects rechecked; one C1–C8 native Daily desp
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-06/C1-history-policy.md` @ `71cd2c4d4b843c99de8007af9f67677dcf5b31da`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` @ `3f4386ee2cef921ab6e0d39ceaba7de130c2209d`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-06/C3-research-models.md` @ `0343e54c793b7dab22ed5aa44fb5ae3a70f51306`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` @ `860d965c1efafbb7d56323ef316e3adf65178188`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` @ `961e7dd1974dee9dd7476115ce6148adaea4f2a7`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` @ `b82c335aca370242a0bd3294b1c900795b19124c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-06/C7-china-global.md` @ `37ddc5bfebd634cc137e2273c4354c3167575a8d`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-06/C8-synthesis.md` @ `3db6d3c4f0260866160416bc74410527e737bb8b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-06/README.md` @ `6c2364c008d6c1d83e0ef71cd1520085961a7738`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-07 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-07.md` @ `88024f0206d025ac235e06d91c62badaa4a4135f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: six exact standards objects maintained, no transition; one C1–C8 native Dai
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-07/C1-history-policy.md` @ `43f7a6220d5fba409570079d9289970b795eac76`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-07/C2-standards-protocols.md` @ `bd274743fb9ad9bb2f2a74ca42afb98d4d0b564f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-07/C3-research-models.md` @ `d0a9f9bd0f82b6253f4b96fd0dc29e29e5ba2652`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-07/C4-agents-open-source.md` @ `28e0f99d578678654d34f2e1d486ddcc13a2a38e`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-07/C5-infrastructure-industry.md` @ `70d77347d277fa4f728dfd93d029eb232c86e1c2`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-07/C6-applications-governance.md` @ `cfdc8471cb02389409f94c0578ced93830fb4472`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-07/C7-china-global.md` @ `12a427895ffaa5f903075e3ead7af06a0bc2c3f3`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-07/C8-synthesis.md` @ `be6c4c8f97c198fe4e5b7c7708df9c825cdcb76f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-07/README.md` @ `21ed45643515cbea1bcd00bef0fae20a4c9b0e65`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-08 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-08.md` @ `71bb527b1f9b146b289fb83086da3b5a3306c7d6`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: standards identity and separate media-governance observations; one C1–C8 na
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-08/C1-history-policy.md` @ `41d6e8cc8e6c0c5b8020a7cbe5be4417e69dbed4`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-08/C2-standards-protocols.md` @ `35509cc25ec6bb9eac23c2d176c15a45a47b3289`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-08/C3-research-models.md` @ `62a83c1b1d296a6aa79e34aedd0ce5258b187a35`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-08/C4-agents-open-source.md` @ `2228e256502678f7a0fd0717ba0a210ca7000083`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-08/C5-infrastructure-industry.md` @ `e62caf86bdde8ee55b6e3fafda7fde7421a47600`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-08/C6-applications-governance.md` @ `973b61ee90ac80ead83947bf38a8aefa2ad34ba0`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-08/C7-china-global.md` @ `a94c5612bc50ec69799cc5d2f5c00cf27f6c9165`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-08/C8-synthesis.md` @ `e0d89ebe959acc11716976b422350dc6310c61f5`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-08/README.md` @ `f74826c8ef719b3a430665e05046a67f7b82091f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-09 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-09.md` @ `49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: Nature AutoDNA + Hi-WBC, separate first-party research; one C1–C8 native Da
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-09/C1-history-policy.md` @ `5ddef37f51e3b62aa6e7eca67e9e1d8d2f615f44`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-09/C2-standards-protocols.md` @ `03c9ab38bc086eae0d797faeaa375bb76b2a04f4`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-09/C3-research-models.md` @ `f5f2f7f3a24cea4619a0205e3a6fed68d5f4373f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-09/C4-agents-open-source.md` @ `b4a8577a0d24f47c31b5de643005ebcad230a66f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md` @ `523946f3e5a76b2b2323490753e2b4773844cdd6`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-09/C6-applications-governance.md` @ `79bb9e40f7575aab0a138f8f3362212b6719ef54`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-09/C7-china-global.md` @ `e62a7c126db87a2ac4d7a6fe27038da6a975ca6a`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-09/C8-synthesis.md` @ `6fe5828ace299ba3f5cf53a2909b355e85e31923`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-09/README.md` @ `a8014ab8ed20da0d9189f7a40c80f79fcf81c388`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-10 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-10.md` @ `e62643a840a6096ad53aacebaceae3fdb45d21c1`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: GB/Z guidance, future GB/T 48073/48110/48562, portal 48594 partial and Auto
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-10/C1-history-policy.md` @ `c0b6136c0e472e235dd17020bcfcec5c007df61b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-10/C2-standards-protocols.md` @ `245b02c709ad0dca885c1e76f13dd9688f56db07`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-10/C3-research-models.md` @ `7dc910e5b7e7998e80552aa784609a2d0835d8c9`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-10/C4-agents-open-source.md` @ `8e398f3c7513c7f0253b0a27182cca8e406a985e`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-10/C5-infrastructure-industry.md` @ `8ad9728b4ba46b8fdf446366dec48090f33cef29`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-10/C6-applications-governance.md` @ `b81fc8ac39e7c35f28c7a72e72e1fff641a7632a`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-10/C7-china-global.md` @ `8a45278823aac7a18acebecaedaa3814ae8b6c55`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-10/C8-synthesis.md` @ `43dfa4fc0a8a63eac0208789f84000ceaca80b92`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-10/README.md` @ `42b71e83aa17d717ce8b9ac8d62c4965c5819bbb`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-11 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-11.md` @ `c77e79e3bb6215bdc9036eea2830ec9955f94f22`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original research contribution: CAC Nov09 unified filing portal notice, YD/T 7174—2026 published Jul15 effe
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-11/C1-history-policy.md` @ `f15e00311a85ecff90f82ce8872a6148cd91feaf`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C1 policy publication/issuer: portal status not automatically a new legal enactment; native claim status, o
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-11/C2-standards-protocols.md` @ `44e4d193e53cbe2b31f10a3180b8c9895d01c59f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C2 exact standard identifiers, publication and effective date are distinct legal objects; native claim stat
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-11/C3-research-models.md` @ `3934490ae68a19e39a428fe2fc911869e25b3e87`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C3 author paper claim cannot be promoted to independently reproduced lab/model outcome; native claim status
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-11/C4-agents-open-source.md` @ `0edbe6804d8adb3d6c32d0dd9c14c1b9ff66afdb`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C4 GitHub/SDK availability does not establish deployed agent protocol behavior; native claim status, offici
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-11/C5-infrastructure-industry.md` @ `d01bac5164e2e1b2a3982b7042acaf00916f068d`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C5 industrial adoption requires operator and effect-time external receipts; native claim status, official o
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-11/C6-applications-governance.md` @ `2c156b752b6fdde251a2953d0437383d0b71476d`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C6 application/health/industrial safety is not certified from a published case study; native claim status, 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-11/C7-china-global.md` @ `f989a07b14f1ec7a8a5f8cf7c6b6592ce291e8f9`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C7 similar terminology is not ratified China–global interoperable conformance; native claim status, officia
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-11/C8-synthesis.md` @ `fddf732697abb37f90809741953b7b39ef8a7200`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; C8 inferred cross-domain connection retains provenance and counterevidence; native claim status, official o
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-11/README.md` @ `58229ddc450e1968b351ac56876f85e44a08df53`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Daily navigation document is not an extra original research execution; native claim status, official object
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-12 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-12.md` @ `29ec0d14ca3440282bc84832aecec6063e81cdfb`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT notice 工信厅信管〔2026〕42号 originally issued Oct24, published Nov06, first observed Nov12; no enacted effec
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-12/C1-history-policy.md` @ `6e70ea42c3603b80f08390cee49aa133830b6b0f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT office formal notice 工信厅信管〔2026〕42号 is a textual policy object, not an enacted-device permit; legal ev
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-12/C2-standards-protocols.md` @ `1c29f166b20eccc35178bff7fec2219853dfa3ef`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; agent unique-ID reference requires exact cited national standard; none clause-verified into MCP/A2A conform
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-12/C3-research-models.md` @ `bd5d367f4fab17ed9cc0e9ee541c69b084f98e66`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; device network governance notice contains no new model/benchmark experimental reproduction; legal evidence 
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-12/C4-agents-open-source.md` @ `79b0176108e72bf57c3964fed358dd4ae37e872c`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; developer/device/platform responsibilities require independent tool permission and implementation receipts;
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-12/C5-infrastructure-industry.md` @ `af7b1c025ab4a30968b6c7c3998f342e801506e5`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; terminal OTA/network-access procedural obligations do not establish actual vendor deployment rate; legal ev
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-12/C6-applications-governance.md` @ `ef31410875b46dd7b9fdbd6e3401704cf5cd7c42`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; digitally signed developer consent instruction is not current execution of user consent/revocation; legal e
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-12/C7-china-global.md` @ `1943fbcfdae3aa9740cda6208ab8424fd5bb410b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; China terminal governance and global MCP tool server release are structurally comparable, not cross-certifi
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-12/C8-synthesis.md` @ `d542dbcb0f64fa101ec71ea8536d233745746873`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; normative text, actual permission, device effect and recovery remain different trust boundaries; legal evid
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-12/README.md` @ `6db733a085290af485a05e1932b928d20c81f063`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; one indexed original C1–C8 Daily with eight facets, no extra Native publication; legal evidence and actual 
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-13 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-13.md` @ `8e62ec313f3c9261df9e28fdc350e86b87128caa`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Native original C1–C8 Nov13 was PARTIAL / NO NEW MATERIAL EVIDENCE VERIFIED; later maintainer MIIT source r
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-13/C1-history-policy.md` @ `f34a1b42e751ddba70e4549fa7cd324f041a3513`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Original policy object issued Oct24 / published Nov06, not a newly enacted Nov13 regulation; legal evidence
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-13/C2-standards-protocols.md` @ `bccbecdaf10eff746f2794d087c882d5dc3be410`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Existing standard exact object is not independently validated cross-protocol or national-standard mapping; 
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-13/C3-research-models.md` @ `08858ea7e859dd93d4d69c1583d86cb2e343a576`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Policy or author benchmark does not certify independent model/algorithm reproduction; legal evidence and ac
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-13/C4-agents-open-source.md` @ `820214476c61484a0dfa198604efe2e2f6f9a108`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Availability of OpenAI SDK/MCP implementation is not an approved protected tool invocation; legal evidence 
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-13/C5-infrastructure-industry.md` @ `a688713fd5011b0260b9a5eec42ebc4474062283`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Industrial goals and OTA/network standards do not establish a completed device deployment; legal evidence a
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-13/C6-applications-governance.md` @ `dcc7ad274dcaadbdf2901af3553b7853800855c9`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Required human consent and revoke semantics cannot be inferred from issued regulatory text; legal evidence 
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-13/C7-china-global.md` @ `f09267226e90180a753688e285573e58b84fe931`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; MIIT rules and global MCP sources are distinct authorities, not official legal/protocol reciprocity; legal 
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-13/C8-synthesis.md` @ `4da149fdabf53cf4117e5a52e294df973eb627d8`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; W46 H46-1..4 OPEN; unresolved issuer independence and real effect-time evidence retained; legal evidence an
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-13/README.md` @ `bb57c7915dce6936f091de7edfbeeb680a1d1d04`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Research-pack index is navigational, not another Daily run or a second official-source publication; legal e
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-14 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-14.md` @ `6860b56632b3ddc0aec4fe164d8cda242bab8b27`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Fujian provincial government original document signed 11-07, published 11-12 08:44 and observed Nov14, NOT 
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-14/C1-history-policy.md` @ `a056a1bbb4726f1349ceea4898a659d4ab3259ce`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; Fujian office issuer and exact document 闽政办〔2026〕34号, signature ≠ publication; legal evidence and actual de
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-14/C2-standards-protocols.md` @ `ac276c0abfa9a3b3dff7e022e81a458d5fa5d146`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; provincial AI plan does not create formal GB/T, MCP or A2A crosswalk or new effective standard; legal evide
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-14/C3-research-models.md` @ `995adeb6c8d6d1348ec676c9595c63f38c1c4e88`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN;
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-14/C4-agents-open-source.md` @ `b6f9c27858ea714a56a7a5044bc52a44e98b5b85`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; policy encouragement ≠ shipping/open-sourced agent runtime; legal evidence and actual deployed effects rema
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-14/C5-infrastructure-industry.md` @ `acb55d6b0709c733a27922e02f94fc15a259380b`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN;
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-14/C6-applications-governance.md` @ `6f86368819da2a431b92acb3ca941f3bd11d5ea1`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN;
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-14/C7-china-global.md` @ `048026e065759beff58f4b074fa06de531fe931a`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; facet-specific interpretation of same Fujian official-source object; external implementation still UNKNOWN;
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-14/C8-synthesis.md` @ `b07c8de3a2103dfaefc944dec19085bb65155042`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; one official provincial object, no new system effect or independent conformance; legal evidence and actual 
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-14/README.md` @ `3d33a03f937a08dc93071a3c5a4f79bd389d21ef`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; EXACT_PREVIOUS_A1_SHA / INHERITED_NO_FOLLOW_UP; README is a local navigation artifact, not another policy issuer; legal evidence and actual deployed effect
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-15 — issuer/source/status/effect reconciliation
+- **Integrated C1–C8** `reports/daily/2026/11/2026-11-15.md` @ `7b48937f90e786e0929619e5dea80344eee96212`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; source object and issuer identity belongs to the original dated Native record, not this new A2
+  - Independent countercheck: one original Daily producer and a date-scoped observation; no tenfold government issuer inflation; legal source dates cannot be inferred from the A2 update date
+- **C1 policy/history** `reports/daily/2026/11/2026-11-15/C1-history-policy.md` @ `b41250d8bfc022b53d55808f61c9e749937e8a91`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: state and publication dates of policies differ from planning speech, legislative adoption and binding effect; legal source dates cannot be inferred from the A2 update date
+- **C2 standards/protocols** `reports/daily/2026/11/2026-11-15/C2-standards-protocols.md` @ `7b80078cd0d8b77c626a890cf699c5a1973631fe`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: official agency document identity, standard draft, approval and enforceability are distinct; legal source dates cannot be inferred from the A2 update date
+- **C3 science/models** `reports/daily/2026/11/2026-11-15/C3-research-models.md` @ `af752d0bb7b0a911c86dbf76dcc078323ea0f6be`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: research statement and benchmark claims need source/model revision and independent evaluation; legal source dates cannot be inferred from the A2 update date
+- **C4 agent/open source** `reports/daily/2026/11/2026-11-15/C4-agents-open-source.md` @ `e3e5d75c679d9892af85c790c3b1c259f8e8a06f`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: code/SDK PR and installed agent behavior, TCK and actual interoperation need separate evidence; legal source dates cannot be inferred from the A2 update date
+- **C5 infrastructure/industry** `reports/daily/2026/11/2026-11-15/C5-infrastructure-industry.md` @ `8ad9651170f9c05954dce3d7a19f9a2a2686b286`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: industry deployment reports do not prove authorizations or live effect sinks; legal source dates cannot be inferred from the A2 update date
+- **C6 applications/governance** `reports/daily/2026/11/2026-11-15/C6-applications-governance.md` @ `4dff3a4fed257b21b7eb294de31ae9633f99ee17`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: governance blueprint is not operator control, implemented monitoring or a binding legal requirement; legal source dates cannot be inferred from the A2 update date
+- **C7 China/global** `reports/daily/2026/11/2026-11-15/C7-china-global.md` @ `7f5688ce102c044b057b0e1d200bdbab1d8da4ff`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: comparison requires equivalent issuer, version, stage, effective-date and jurisdiction; legal source dates cannot be inferred from the A2 update date
+- **C8 synthesis** `reports/daily/2026/11/2026-11-15/C8-synthesis.md` @ `c309d4053f0462b016e85dfb65cf006c31d9d5cd`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: a repeated source across thematic facets is not independently corroborated evidence; legal source dates cannot be inferred from the A2 update date
+- **Daily README** `reports/daily/2026/11/2026-11-15/README.md` @ `bcbbe06f0766c932de36bccd00c9847c48366c55`
+  - Monthly relation: MERGED_A1_EXACT_BLOB_INHERITED / CURRENT_MAIN_RETAINED; NOV15_NEW_CUTOFF_SOURCE / PRIMARY_PACK_REOPENED; date-bounded official actor/document lineage, no new independent official verification in this A1
+  - Independent countercheck: index/coverage navigation, not a new Native run or government source; legal source dates cannot be inferred from the A2 update date
+- Date-level source authority: ONE_INTEGRATED_NATIVE_DATE / TEN_FILES / NO_INDEPENDENT_ISSUER_MULTIPLICATION
+### 2026-11-16 — issuer/source/status/effect reconciliation
+- Integrated C1–C8: `reports/daily/2026/11/2026-11-16.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C1 policy/history: `reports/daily/2026/11/2026-11-16/C1-history-policy.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C2 standards/protocols: `reports/daily/2026/11/2026-11-16/C2-standards-protocols.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C3 science/models: `reports/daily/2026/11/2026-11-16/C3-research-models.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C4 agent/open source: `reports/daily/2026/11/2026-11-16/C4-agents-open-source.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C5 infrastructure/industry: `reports/daily/2026/11/2026-11-16/C5-infrastructure-industry.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C6 applications/governance: `reports/daily/2026/11/2026-11-16/C6-applications-governance.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C7 China/global: `reports/daily/2026/11/2026-11-16/C7-china-global.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- C8 synthesis: `reports/daily/2026/11/2026-11-16/C8-synthesis.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- Daily README: `reports/daily/2026/11/2026-11-16/README.md` — **NOT_MAIN_VISIBLE / PR_290_PROPOSED_UNMERGED**; no original source success, official timestamp or runtime check inferred
+- Date-level source authority: N_DAY_NATIVE_PROPOSED_UNMERGED / TEN_MAIN_CANONICAL_PATHS_MISSING
+
+## W46/W47, proposed source, corrections, independent audits
+- Native week `reports/weekly/2026/2026-W45.md` @ `76b966c011cf4ec1f7637fac1c9673b23a767854`: W47 not closed, proposed #290 file cannot be treated as merged
+- Native week `reports/weekly/2026/2026-W46.md` @ `3d5398f601b496b7a419d39ea492db62a11149b4`: W47 not closed, proposed #290 file cannot be treated as merged
+- Native week `reports/weekly/2026/2026-W47.md` @ `NOT_MAIN_VISIBLE`: W47 not closed, proposed #290 file cannot be treated as merged
+- Full original native denominator: 16 dates × 10 owner files =160; 150 main-visible, 10 N-day missing, first 15 days exact A1 matched 150/150, drift=0
+- Native China #290 state: OPEN, merged=false, draft=true, head=d68c3de3d42a6395612f41958e6fb5266d13ad93, changed-files=13; this PR is independent and no A2 write touches its head
+- Proposed Nov16 topic: signed newspaper opinion/official notice/republication date separation, currently branch-level author observations. Cannot silently mark as a main-visible official finding
+- CLOSED W46: source/issuer status from Nov15 Sunday report is historical; open H46 followups remain open unless exact resolution proof exists
+- W47 opening in the proposed Native branch is an OPEN week, not automatically full Weekly PASS or an already merged period
+- STRENGTHENED: source path/hash custody and domain-specific issuer/effective-date boundaries for Nov01–15, not external legal implementation confirmation
+- CHANGED: Nov16 adds a currently unmerged original proposal as input state, and W46 becomes closed; no retroactive Nov15 original publication
+- INHERITED: 150 exact original source records with their original issuer/source-date and negative controls, not 150 new government source searches
+- CONFLICT: no prior canonical path/hash drift found; source content on unmerged #290 cannot be reconciled against authoritative main yet
+- WEAKENED: statement of 16-day complete native source coverage would be false while Nov16 remains unmerged in main
+- INVALIDATED: no original legal document or earlier task execution invalidated by the pending latest Native PR; preserve original status
+- UNKNOWN: current official site content, enforceability of contested source claims, deployment and actual effects; no official external verification was undertaken by this maintainer
+- No law or binding requirement inferred from editorial opinion, government repost, unpublished draft or industry announcement
+- Issuer ID and document type require exact primary URL, source date and version, and if applicable signed official final text and effective date
+- November MONTH_FINAL_NOT_DUE, periodic D7/D10/D14/D30 remain independent of this two-pass maintenance cycle
+- Original A1 and this A2 have separate numeric original PR acceptance; a future Native #290 merge cannot backfill original A2 additions or this snapshot's stated gap
+- A future successor/reconciliation after the Native #290 main merge may update current applicability, but must leave this original artifact and GitHub PR historical result intact
+- No Native #290 branch takeover, current policy/standard registry, daily research, original A1, historical audits or implementation files modified
+
+## EVIDENCE_DELTA and legal successor condition
+- NEW_EVIDENCE: merged original A1 gate; W46 Sunday closed; exact #290 open/proposed N-day input state at current main
+- CORRECTED_INTERPRETATION: proposed original research and main-visible Native success are different; official publication != repost and != legal effectiveness
+- UNCHANGED_BOUNDARY: GOVERNMENT_SOURCE != EDITORIAL != RETWEET != IMPLEMENTED_LAW; PR_EXISTS != PR_MERGED != RUN_VALIDATED
+- NEW_COUNTEREVIDENCE: unmerged N-day pack and missing approved effective-date crosswalk block unconditional complete-month and mandatory-regulation claims
+- UNKNOWN_RETAINED: #290 final merged diff, authoritative current government text, external implementation and standards conformance
+- NEXT_RETEST_CONDITION: only after #290 actually merges, re-read latest main Native canonical ten files+W47 index, source issuer versions and effective dates, then issue a separately scoped successor/reconciliation if needed
