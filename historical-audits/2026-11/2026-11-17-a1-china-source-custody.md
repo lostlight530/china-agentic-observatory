@@ -1,0 +1,557 @@
+# ORIGINAL Independent A1 — China C1–C8 2026-11-17 MonthStart→N−1 source custody
+
+## Current authority and exact period
+- Repository: lostlight530/china-agentic-observatory; independent-maintenance/A1 only, not native integrated Daily, A2, D7/D10/D14/D30 or Governance
+- MonthStart→N−1 = 2026-11-01..16 Asia/Shanghai; 2026-11-17 native files excluded from this original A1 source cutoff
+- Fresh main SHA: `074d15dfc595f4f90a8d65983c52b377ce158c2d`; source tree truncated=false; 1156 blob paths
+- Previous original A1: `historical-audits/2026-11/2026-11-16-a1-china-source-custody.md` @ `e6cdd20b2ed4189d5d8f95abf424e0dd1b2ace77` current exact Git blob inspected; inherited dispositions require matching full source path and blob
+- Current source pack denominator 160/160 canonical physical objects = 16 integrated daily research task identities; 150 exact prior A1 path/blob matches
+- Current Nov16 integrated Daily source: `reports/daily/2026/11/2026-11-16.md` @ `d9f6b77dda5f409554fd813f7da4054deda79213`, actually reopened; headline # 2026-11-16 China C1–C8｜署名治理观点、终端进网正式文本与转载日期的三层边界
+- one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+- official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes
+- W46 closed as Nov15, W47 currently open; monthly November FINAL NOT_DUE; Periodic Audit has separate task ID and evidence.
+- This A1 inspected GitHub main/tree/previous original and latest Nov16 Daily plus closed weekly. NOT_EXECUTED independent current external source recertification, TCK, SDK/provider runtime, independent adoption/authority verification, full repository checker or CI rerun.
+
+## Complete 160 source paths, per-file SHA and disposition
+### 2026-11-01 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-01.md` @ `01ef8d314ff6ae7706953392525ae5f96011d9eb`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C1-history-policy.md` @ `b41c08c4b064d6b2b4fcb7a7d764791b30489033`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C2-standards-protocols.md` @ `6f3b9966cd2661e05fe4ee818974d3909189cc2c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C3-research-models.md` @ `df45860e4595a6af71a63221be254d98ac4fd20e`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C4-agents-open-source.md` @ `b5b1434cebb132405a5401b46bb2c807657d8236`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C5-infrastructure-industry.md` @ `11b258f3737ffea2cf3fec22b509d25eaf936903`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C6-applications-governance.md` @ `3fd8b33fb8e947187f1ac0a48f6429630b7817e2`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C7-china-global.md` @ `bd57a3b0ab343bba3cdc3a18b74eac093816925c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/C8-synthesis.md` @ `c571ac1e818f5a2d58f6aec221b2ac9a57deef01`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-01/README.md` @ `769022e0eb42823ec66a5a9d753f9b6eb3ed5b63`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-02 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-02.md` @ `623d794d1e4663cb9277e7294febca698d1f8224`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C1-history-policy.md` @ `117cb468c597147dfa826dcc22e719b0521380a1`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C2-standards-protocols.md` @ `19145e2271639b2c5ff672ce3dfead7db1c7e01f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C3-research-models.md` @ `472eee40e99e099ed403aa7293bdffb39bfa8942`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C4-agents-open-source.md` @ `8b14551cad268842b8d6355984e0bc209bb5165b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C5-infrastructure-industry.md` @ `c147df9778d7e5406ac98b8b553f2d0440c30a64`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C6-applications-governance.md` @ `2741b7741be5a2bef24f8b907e524c05f826f9e9`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C7-china-global.md` @ `eaf5b9a373f41872a6079ea87e3d38dbeddbad79`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/C8-synthesis.md` @ `7388141a697aa83be758058d6cc29c75be65f84d`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-02/README.md` @ `f136b85abdebb4d88ffb3b9e1733cffdfcc2a395`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-03 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-03.md` @ `432797681637d2cfb85884cf5c63046c751371a8`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C1-history-policy.md` @ `384edb3d9e5c1aac4b0eabca4eb6a42281606ced`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C2-standards-protocols.md` @ `7254c408cb732387461e3a48db3fd02015f8e487`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C3-research-models.md` @ `ddad24ff999aed449133b93e11a396171d8c84de`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C4-agents-open-source.md` @ `ed5ee102075dd8497b85fa62e767625a7572ba51`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C5-infrastructure-industry.md` @ `cb5516caa4a0cffcf133ae7d6d8ea8637822dc9c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C6-applications-governance.md` @ `e91edbd4b3c56e806f459401cda4fec188f79b60`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C7-china-global.md` @ `dc3fa8c5001e3ac7a5b93ca840625e158bfaacb9`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/C8-synthesis.md` @ `37d4eb02a702fd13473eb968a9d3c49ff4f76283`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-03/README.md` @ `2f0bf464c01afa95468bfa63078b2d58853e0230`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-04 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-04.md` @ `e0bc133594865df764ab0702dd714505d0fb63d2`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C1-history-policy.md` @ `ef345cb5c64661aca800a7141e9c69a376c2e657`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C2-standards-protocols.md` @ `699db4661554add9bed4018f470bd9400ec063b8`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C3-research-models.md` @ `5a210d104773adeb85ef24b6fab8b1d017391446`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C4-agents-open-source.md` @ `5af48036cea099189b39c09701f92208c916008c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C5-infrastructure-industry.md` @ `37e511eece877815bb7c9b67ceb463e49eba78dd`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C6-applications-governance.md` @ `a67f1c8a2398124610e5a17c43b5e1539c930918`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C7-china-global.md` @ `46b784e15f917cdfa40491b733bc2a0608cafd93`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/C8-synthesis.md` @ `8d58446e962a160751af5bf84cab0ebc8498287e`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-04/README.md` @ `8ec01ae2ab619d93e323b1e69fc0b3ee4678e16f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-05 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-05.md` @ `c8d2ce559ffeb0c3627ac0859e7fb1a90d3632b1`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C1-history-policy.md` @ `1e2019b7d8090adc79b54d345f8941e474a584c6`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C2-standards-protocols.md` @ `ef5e3dc05c80b4ee9675555a9092ccab949082cc`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C3-research-models.md` @ `a3eab7cca684234ba5284553a693faa311ef74f5`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C4-agents-open-source.md` @ `1951a5663477d76345f7e55e522b11b0c6ab3a6e`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C5-infrastructure-industry.md` @ `5423d0226a7d8d780d94a89eca6f707d76c782e0`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C6-applications-governance.md` @ `51380d3fe4fec4170c1963797052e1032de6d788`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C7-china-global.md` @ `f0634f29e9b05543001abc13017431f32aefc16c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/C8-synthesis.md` @ `d9b98dda68209186b4f74f215e8609db2075b989`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-05/README.md` @ `2ac53288cad5e2fa9e3784e4d2028ea9c9225948`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-06 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-06.md` @ `8492614e5cb1747f9c00012e721d51d219bb472b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C1-history-policy.md` @ `71cd2c4d4b843c99de8007af9f67677dcf5b31da`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C2-standards-protocols.md` @ `3f4386ee2cef921ab6e0d39ceaba7de130c2209d`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C3-research-models.md` @ `0343e54c793b7dab22ed5aa44fb5ae3a70f51306`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C4-agents-open-source.md` @ `860d965c1efafbb7d56323ef316e3adf65178188`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C5-infrastructure-industry.md` @ `961e7dd1974dee9dd7476115ce6148adaea4f2a7`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C6-applications-governance.md` @ `b82c335aca370242a0bd3294b1c900795b19124c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C7-china-global.md` @ `37ddc5bfebd634cc137e2273c4354c3167575a8d`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/C8-synthesis.md` @ `3db6d3c4f0260866160416bc74410527e737bb8b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-06/README.md` @ `6c2364c008d6c1d83e0ef71cd1520085961a7738`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-07 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-07.md` @ `88024f0206d025ac235e06d91c62badaa4a4135f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C1-history-policy.md` @ `43f7a6220d5fba409570079d9289970b795eac76`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C2-standards-protocols.md` @ `bd274743fb9ad9bb2f2a74ca42afb98d4d0b564f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C3-research-models.md` @ `d0a9f9bd0f82b6253f4b96fd0dc29e29e5ba2652`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C4-agents-open-source.md` @ `28e0f99d578678654d34f2e1d486ddcc13a2a38e`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C5-infrastructure-industry.md` @ `70d77347d277fa4f728dfd93d029eb232c86e1c2`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C6-applications-governance.md` @ `cfdc8471cb02389409f94c0578ced93830fb4472`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C7-china-global.md` @ `12a427895ffaa5f903075e3ead7af06a0bc2c3f3`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/C8-synthesis.md` @ `be6c4c8f97c198fe4e5b7c7708df9c825cdcb76f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-07/README.md` @ `21ed45643515cbea1bcd00bef0fae20a4c9b0e65`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-08 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-08.md` @ `71bb527b1f9b146b289fb83086da3b5a3306c7d6`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C1-history-policy.md` @ `41d6e8cc8e6c0c5b8020a7cbe5be4417e69dbed4`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C2-standards-protocols.md` @ `35509cc25ec6bb9eac23c2d176c15a45a47b3289`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C3-research-models.md` @ `62a83c1b1d296a6aa79e34aedd0ce5258b187a35`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C4-agents-open-source.md` @ `2228e256502678f7a0fd0717ba0a210ca7000083`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C5-infrastructure-industry.md` @ `e62caf86bdde8ee55b6e3fafda7fde7421a47600`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C6-applications-governance.md` @ `973b61ee90ac80ead83947bf38a8aefa2ad34ba0`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C7-china-global.md` @ `a94c5612bc50ec69799cc5d2f5c00cf27f6c9165`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/C8-synthesis.md` @ `e0d89ebe959acc11716976b422350dc6310c61f5`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-08/README.md` @ `f74826c8ef719b3a430665e05046a67f7b82091f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-09 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-09.md` @ `49bc7ab5d9a7d18ab422ff2b42ebb2cb6c8113d0`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C1-history-policy.md` @ `5ddef37f51e3b62aa6e7eca67e9e1d8d2f615f44`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C2-standards-protocols.md` @ `03c9ab38bc086eae0d797faeaa375bb76b2a04f4`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C3-research-models.md` @ `f5f2f7f3a24cea4619a0205e3a6fed68d5f4373f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C4-agents-open-source.md` @ `b4a8577a0d24f47c31b5de643005ebcad230a66f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C5-infrastructure-industry.md` @ `523946f3e5a76b2b2323490753e2b4773844cdd6`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C6-applications-governance.md` @ `79bb9e40f7575aab0a138f8f3362212b6719ef54`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C7-china-global.md` @ `e62a7c126db87a2ac4d7a6fe27038da6a975ca6a`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/C8-synthesis.md` @ `6fe5828ace299ba3f5cf53a2909b355e85e31923`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-09/README.md` @ `a8014ab8ed20da0d9189f7a40c80f79fcf81c388`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-10 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-10.md` @ `e62643a840a6096ad53aacebaceae3fdb45d21c1`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C1-history-policy.md` @ `c0b6136c0e472e235dd17020bcfcec5c007df61b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C2-standards-protocols.md` @ `245b02c709ad0dca885c1e76f13dd9688f56db07`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C3-research-models.md` @ `7dc910e5b7e7998e80552aa784609a2d0835d8c9`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C4-agents-open-source.md` @ `8e398f3c7513c7f0253b0a27182cca8e406a985e`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C5-infrastructure-industry.md` @ `8ad9728b4ba46b8fdf446366dec48090f33cef29`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C6-applications-governance.md` @ `b81fc8ac39e7c35f28c7a72e72e1fff641a7632a`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C7-china-global.md` @ `8a45278823aac7a18acebecaedaa3814ae8b6c55`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/C8-synthesis.md` @ `43dfa4fc0a8a63eac0208789f84000ceaca80b92`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-10/README.md` @ `42b71e83aa17d717ce8b9ac8d62c4965c5819bbb`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-11 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-11.md` @ `c77e79e3bb6215bdc9036eea2830ec9955f94f22`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C1-history-policy.md` @ `f15e00311a85ecff90f82ce8872a6148cd91feaf`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C2-standards-protocols.md` @ `44e4d193e53cbe2b31f10a3180b8c9895d01c59f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C3-research-models.md` @ `3934490ae68a19e39a428fe2fc911869e25b3e87`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C4-agents-open-source.md` @ `0edbe6804d8adb3d6c32d0dd9c14c1b9ff66afdb`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C5-infrastructure-industry.md` @ `d01bac5164e2e1b2a3982b7042acaf00916f068d`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C6-applications-governance.md` @ `2c156b752b6fdde251a2953d0437383d0b71476d`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C7-china-global.md` @ `f989a07b14f1ec7a8a5f8cf7c6b6592ce291e8f9`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/C8-synthesis.md` @ `fddf732697abb37f90809741953b7b39ef8a7200`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-11/README.md` @ `58229ddc450e1968b351ac56876f85e44a08df53`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-12 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-12.md` @ `29ec0d14ca3440282bc84832aecec6063e81cdfb`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C1-history-policy.md` @ `6e70ea42c3603b80f08390cee49aa133830b6b0f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C2-standards-protocols.md` @ `1c29f166b20eccc35178bff7fec2219853dfa3ef`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C3-research-models.md` @ `bd5d367f4fab17ed9cc0e9ee541c69b084f98e66`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C4-agents-open-source.md` @ `79b0176108e72bf57c3964fed358dd4ae37e872c`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C5-infrastructure-industry.md` @ `af7b1c025ab4a30968b6c7c3998f342e801506e5`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C6-applications-governance.md` @ `ef31410875b46dd7b9fdbd6e3401704cf5cd7c42`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C7-china-global.md` @ `1943fbcfdae3aa9740cda6208ab8424fd5bb410b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/C8-synthesis.md` @ `d542dbcb0f64fa101ec71ea8536d233745746873`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-12/README.md` @ `6db733a085290af485a05e1932b928d20c81f063`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-13 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-13.md` @ `8e62ec313f3c9261df9e28fdc350e86b87128caa`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C1-history-policy.md` @ `f34a1b42e751ddba70e4549fa7cd324f041a3513`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C2-standards-protocols.md` @ `bccbecdaf10eff746f2794d087c882d5dc3be410`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C3-research-models.md` @ `08858ea7e859dd93d4d69c1583d86cb2e343a576`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C4-agents-open-source.md` @ `820214476c61484a0dfa198604efe2e2f6f9a108`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C5-infrastructure-industry.md` @ `a688713fd5011b0260b9a5eec42ebc4474062283`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C6-applications-governance.md` @ `dcc7ad274dcaadbdf2901af3553b7853800855c9`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C7-china-global.md` @ `f09267226e90180a753688e285573e58b84fe931`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/C8-synthesis.md` @ `4da149fdabf53cf4117e5a52e294df973eb627d8`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-13/README.md` @ `bb57c7915dce6936f091de7edfbeeb680a1d1d04`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-14 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-14.md` @ `6860b56632b3ddc0aec4fe164d8cda242bab8b27`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C1-history-policy.md` @ `a056a1bbb4726f1349ceea4898a659d4ab3259ce`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C2-standards-protocols.md` @ `ac276c0abfa9a3b3dff7e022e81a458d5fa5d146`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C3-research-models.md` @ `995adeb6c8d6d1348ec676c9595c63f38c1c4e88`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C4-agents-open-source.md` @ `b6f9c27858ea714a56a7a5044bc52a44e98b5b85`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C5-infrastructure-industry.md` @ `acb55d6b0709c733a27922e02f94fc15a259380b`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C6-applications-governance.md` @ `6f86368819da2a431b92acb3ca941f3bd11d5ea1`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C7-china-global.md` @ `048026e065759beff58f4b074fa06de531fe931a`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/C8-synthesis.md` @ `b07c8de3a2103dfaefc944dec19085bb65155042`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-14/README.md` @ `3d33a03f937a08dc93071a3c5a4f79bd389d21ef`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-15 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-15.md` @ `7b48937f90e786e0929619e5dea80344eee96212`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C1-history-policy.md` @ `b41250d8bfc022b53d55808f61c9e749937e8a91`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C2-standards-protocols.md` @ `7b80078cd0d8b77c626a890cf699c5a1973631fe`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C3-research-models.md` @ `af752d0bb7b0a911c86dbf76dcc078323ea0f6be`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C4-agents-open-source.md` @ `e3e5d75c679d9892af85c790c3b1c259f8e8a06f`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C5-infrastructure-industry.md` @ `8ad9651170f9c05954dce3d7a19f9a2a2686b286`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C6-applications-governance.md` @ `4dff3a4fed257b21b7eb294de31ae9633f99ee17`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C7-china-global.md` @ `7f5688ce102c044b057b0e1d200bdbab1d8da4ff`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/C8-synthesis.md` @ `c309d4053f0462b016e85dfb65cf006c31d9d5cd`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-15/README.md` @ `bcbbe06f0766c932de36bccd00c9847c48366c55`
+  - Disposition: EXACT_PREVIOUS_A1_PATH_BLOB / INHERITED_NO_FOLLOW_UP; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+### 2026-11-16 — integrated China C1–C8 source-custody ledger
+- SOURCE: `reports/daily/2026/11/2026-11-16.md` @ `d9f6b77dda5f409554fd813f7da4054deda79213`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; integrated daily narrative; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C1-history-policy.md` @ `9c9439b4e4daf5bb4ee5ff1b180aa8cdbba458e4`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C2-standards-protocols.md` @ `b952b4f49d1d3c7447e1c521a42793bfe769117f`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C3-research-models.md` @ `ab02a034e81833759f82dc7406ee80a2b6dcb816`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C4-agents-open-source.md` @ `366d4c1094e4f95749957b53624077d5aeeb7f94`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C5-infrastructure-industry.md` @ `8fb001f3e14f2987a1e4af5b775793660f913e9e`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C6-applications-governance.md` @ `3b607993b223339d05bdcfecad65cb36d817b54c`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C7-china-global.md` @ `53125e26538fd05e37a973cc95524d293a567e4e`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/C8-synthesis.md` @ `834c1f6a47c3636297c1e9f81068d7891585ca8e`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; topic facet with retained issuer/source boundaries; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+- SOURCE: `reports/daily/2026/11/2026-11-16/README.md` @ `13440c8851d990a67ae522e8bb5303446af757eb`
+  - Disposition: CURRENT_CUTOFF_DIRECT_SOURCE_IDENTITY / REVIEWED_TO_SCOPE; facet navigator/readme; one integrated Daily with eight facets and README is one producer identity, not ten independent policy or research issuers
+  - Evidence boundary: official issuer, publication date, legal effective date, implementation and independent conformance remain independent axes; artifact presence and shared original references never substitute for executed source-specific tests
+
+## Closed weekly source identity and non-overlapping period
+- WEEKLY SOURCE: `reports/weekly/2026/2026-W44.md` @ `a4fbda156fe5823bd129c3e76950132b8724e9ad`; first lines # Exact-object maturity and dated transitions / 精确对象成熟度与日期化转换 | ; this is a period synthesis, not 7 independent SDK or legal-enforcement experiments
+- WEEKLY SOURCE: `reports/weekly/2026/2026-W45.md` @ `76b966c011cf4ec1f7637fac1c9673b23a767854`; first lines # Evidence continuity and falsifiable hypotheses / 证据连续性与可证伪假设 | ## China AI Weekly Research — 2026-W45 FINAL; this is a period synthesis, not 7 independent SDK or legal-enforcement experiments
+- WEEKLY SOURCE: `reports/weekly/2026/2026-W46.md` @ `3d5398f601b496b7a419d39ea492db62a11149b4`; first lines # AI 原生实验室与规范边界 / China AI Weekly Research — 2026-W46 FINAL / H46 OPEN | ; this is a period synthesis, not 7 independent SDK or legal-enforcement experiments
+- W46 ends Nov15; 2026-11-16 integrated Daily cannot be retroactively inserted as a W46 source
+- A paper, policy announcement, API draft or source patch does not become a host-compliant SDK or authoritative observed external effect by appearing in a weekly summary
+
+## 16-date task identity reconciliation
+- 2026-11-01: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-02: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-03: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-04: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-05: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-06: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-07: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-08: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-09: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-10: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-11: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-12: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-13: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-14: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-15: 10/10 physical source objects, one integrated Native producer; 0 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+- 2026-11-16: 10/10 physical source objects, one integrated Native producer; 10 sources not inherited from previous A1 by exact blob; source/date/issuer/implementation/validation counts are not interchangeable
+
+## Verification and Counterevidence Gate
+- Source identity is exactly versioned by path+blob; reused primary issuers across facets count once as independent publishing source, not once per view
+- Current source observation is not a verified deployment, conformance TCK PASS, official enforcement decision, actual local SDK compatibility or durable external effect
+- Exact historical statements and original producer evidence remain intact; newer current Git blob is not the source-time original execution.
+- If source and legal publication statuses conflict, record publisher version, observed date and conflict; do not choose a later summary as original truth.
+- Current full tree and materialized daily paths are not proof of a passed end-to-end checker or external process.
+- No confirmed source-owning native defect requiring edits to historical original files or stage/period producer logic was found by this bounded A1 source custody.
+
+## EVIDENCE_DELTA
+- NEW_EVIDENCE: Nov16 integrated Daily joins independent cutoff and all 160 physical source identities are indexed with exact SHA
+- CORRECTED_INTERPRETATION: nine/ten physical files per day do not multiply independent publishers, logical runs or legal implementation evidence
+- UNCHANGED_BOUNDARY: external original source != report summary != actual SDK/TCK runtime != effect/authority truth
+- NEW_COUNTEREVIDENCE: missing conformance/external effect receipts, conflicting origin dates and facet repetition prevent false claim promotion
+- UNKNOWN_RETAINED: installed dependencies, issuer-specific implementation evidence, external runtime compatibility, valid effective dates and independent tests
+- NEXT_RETEST_CONDITION: pin concrete source versions/issuer/effective times, run applicable revision-bound negative controls and TCK with stdout/stderr/exit and authoritative outcome readback
+
+## Delivery and dependencies
+- Exactly one original A1 PR; its final GitHub additions must be >=100 independently and semantically valid, not counted across separate originals or successor.
+- Independent A2 for Nov01–17 may start only after this exact original A1 merges and fresh main/its exact blob is reread.
+- No old Jules research records or live producer/staging systems modified.
