@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-18 05:02:42 Asia/Shanghai native C proposal**：Nov16–17 native merged；Nov18 current proposal；NO MATERIAL CHANGE / PARTIAL；W47 OPEN，November OPEN；无可证实的 11-18 中国来源新发布或正式状态迁移，仅本次 Draft 提案，未合并
+
 **2026-11-17 2026-11-17 04:57:35 Asia/Shanghai China native C proposal**：main `54b8dc0d9da3c342dff0df6ab7972f66e78f9b64`；今日完整 C Daily pack 在 Draft 分支待独立审查，W47 OPEN，November OPEN，H47-1..4 OPEN；Nov16 native already merged，本日 bounded source recheck NO MATERIAL CHANGE
 
 **2026-11-16 2026-11-16 20:11:04 Asia/Shanghai native China C1–C8 W47 Monday proposal**：main `5becbc56500cc82e2ea1bc32f81dec0a35d7bb1d` 保留 Nov01–15 十五个原生日；本分支新增 Nov16 第十六个 C1–C8 原生包与 W47 OPEN 1/7（分支计数），W46 FINAL、H47-1..4 OPEN、November OPEN；人民日报署名观点非新规，CAC 11-16 转载的是新华社 11-12 原电，MIIT 11-06 正式通知维持既有状态
@@ -50,3 +52,5 @@
 | 2026-11-14 | [2026-11-14.md](./2026-11-14.md) | [2026-11-14/](./2026-11-14/) | W46 OPEN 6/7 on branch only / H46-1~4 OPEN / PARTIAL |
 | 2026-11-15 | [2026-11-15.md](./2026-11-15.md) | [2026-11-15/](./2026-11-15/) | W46 FINAL 7/7 on proposed branch，H46-1..4 OPEN，November OPEN |
 | 2026-11-16 | [2026-11-16.md](./2026-11-16.md) | [2026-11-16/](./2026-11-16/) | W47 OPEN 1/7 on proposed branch，H47-1..4 OPEN，November OPEN |
+
+| 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 OPEN 3/7，November OPEN，Draft proposal |
