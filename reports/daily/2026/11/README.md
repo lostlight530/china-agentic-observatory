@@ -1,5 +1,8 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-18 12:19:28 Asia/Shanghai merged-main delivery reconciliation**： [PR #298](https://github.com/lostlight530/china-agentic-observatory/pull/298) 已于 2026-11-18 12:16:34 Asia/Shanghai 合并至 `457b431c24108d9b47dac00a64b0895a64c52d1e`；11-18 C1–C8 原生包已经是 main 的 canonical 文件，W47 当前 main 3/7 merged、H47-1..4 OPEN、November OPEN；下方 05:02:42 Draft 表述只描述早间提出时的历史状态，不应继续充当现在的交付状态，未来日期 NOT_DUE
+
+
 **2026-11-18 05:02:42 Asia/Shanghai native C proposal**：Nov16–17 native merged；Nov18 current proposal；NO MATERIAL CHANGE / PARTIAL；W47 OPEN，November OPEN；无可证实的 11-18 中国来源新发布或正式状态迁移，仅本次 Draft 提案，未合并
 
 **2026-11-17 2026-11-17 04:57:35 Asia/Shanghai China native C proposal**：main `54b8dc0d9da3c342dff0df6ab7972f66e78f9b64`；今日完整 C Daily pack 在 Draft 分支待独立审查，W47 OPEN，November OPEN，H47-1..4 OPEN；Nov16 native already merged，本日 bounded source recheck NO MATERIAL CHANGE
