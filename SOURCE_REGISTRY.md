@@ -138,3 +138,8 @@ This section records **dated source pointers**, not automatic national-standard 
 | National Informationization Fifteenth FYP, 2026-10-23 | https://www.cac.gov.cn/2026-10/23/c_1794509044378569.htm | OFFICIAL_PLAN; 2030 targets not achieved outcomes |
 
 Source date ≠ first repository observation ≠ post-hoc read ≠ implementation date. The 2026-09-28 native gap, 2026-10-12 native gap, and `20256913-T-907` historical state-display conflict are unchanged. Read [September Special](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October Special](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md) for claim-by-claim counterevidence.
+
+## 2026-11-19 08:35:53 China MIIT No29/No30 exact annex-object successor
+- C-MIIT-NOTICE-2026-29 source successor: YB/T 6566—2026, No29 annex1 row25 / PDF p7, implementation_date 2027-05-01, scope machine-vision monitoring of pollutant discharge behavior, excludes concentration/composition measurement, https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf
+- C-MIIT-NOTICE-2026-30 source successor: SJ/T 12398—2026, No30 annex1 row126 / PDF p36, implementation_clause 自发布之日起实施, exact standard publication_date UNKNOWN, https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/6d2b9d84f80c435fb9c2feff84529863.pdf
+- observed_at 2026-11-19T00:35:53.723Z on the same 2026-11-19 research day, first 08:26:19 notice-only checkpoint remains historically true; do not equate approval notice with independent implementation or conformance

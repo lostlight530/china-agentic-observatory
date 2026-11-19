@@ -30,3 +30,7 @@ W47-1..4 OPEN，2026-11-20..22 NOT_DUE，November OPEN，未制造独立科研�
 
 ## Execution / 执行记录
 EXECUTED 官方公告正文读取，NOT_EXECUTED 附件全量验证/CI/TCK/Runtime，NOT_OBSERVED 独立 reviewer
+
+## 2026-11-19 08:35:53｜从批次到条目级 exact-object 的真实增量
+- 后续官方 PDF 页级核验将两件批准公告收窄至 YB/T 6566—2026（2027-05-01 实施）和 SJ/T 12398—2026（自发布之日起实施，独立发布日期待核），并发现 YB/T 对污染物浓度/成分的明确排除范围
+- 同一 MIIT 发行方与两个不同对象不产生独立符合性证明，H47-1..4 OPEN，未验证部署与协议映射

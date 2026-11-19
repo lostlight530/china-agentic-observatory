@@ -30,3 +30,7 @@ W47-1..4 OPEN，2026-11-20..22 NOT_DUE，November OPEN，未制造独立科研�
 
 ## Execution / 执行记录
 EXECUTED 官方公告正文读取，NOT_EXECUTED 附件全量验证/CI/TCK/Runtime，NOT_OBSERVED 独立 reviewer
+
+## 2026-11-19 08:35:53｜污染监测标准范围纠偏
+- 第29号附件第25项 YB/T 6566—2026 明确是钢铁企业**污染物排放行为**机器视觉监测，范围不包括污染物浓度/成分监测，适用在线监测和报警，实施日期 2027-05-01
+- 本来源不能证明排放定量测量准确度、行业环保监管验收或生产企业应用部署，核验来源 https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf，时间 2026-11-19T00:35:53.723Z

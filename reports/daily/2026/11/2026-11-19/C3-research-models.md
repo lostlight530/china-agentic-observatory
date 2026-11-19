@@ -30,3 +30,8 @@ W47-1..4 OPEN，2026-11-20..22 NOT_DUE，November OPEN，未制造独立科研�
 
 ## Execution / 执行记录
 EXECUTED 官方公告正文读取，NOT_EXECUTED 附件全量验证/CI/TCK/Runtime，NOT_OBSERVED 独立 reviewer
+
+## 2026-11-19 08:35:53｜条款对象非性能结果的后验限定
+- YB/T 6566—2026 附件写明监测系统设备/数据/模型要求，仅适用于污染物排放行为的在线监测与报警，**明确排除污染物浓度与成分测量**；此规范范围本身不是模型评测结果
+- SJ/T 12398—2026 附件说明具身数据生成系统参考框架与设计研发测试要求，并未提供独立数据生成质量实验
+- 附件行内容 https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf / https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/6d2b9d84f80c435fb9c2feff84529863.pdf 在 2026-11-19T00:35:53.723Z 核验，外部模型性能 NOT_EXECUTED

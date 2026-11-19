@@ -30,3 +30,7 @@ W47-1..4 OPEN，2026-11-20..22 NOT_DUE，November OPEN，未制造独立科研�
 
 ## Execution / 执行记录
 EXECUTED 官方公告正文读取，NOT_EXECUTED 附件全量验证/CI/TCK/Runtime，NOT_OBSERVED 独立 reviewer
+
+## 2026-11-19 08:35:53｜具体标准身份的跨层比较限制
+- 新核 YB/T 6566—2026 与 SJ/T 12398—2026 属工信部行业标准对象，与已记录 GB/Z 220-2026、全球 MCP/Poppy 协议各有不同标准类别和适用对象，仍无正式条款 crosswalk
+- YB/T 有 2027-05-01 实施日，SJ/T 实施栏为依标准发布触发，后者精确标准出版日期本轮 UNKNOWN，比较不得混用公告出版与标准生效

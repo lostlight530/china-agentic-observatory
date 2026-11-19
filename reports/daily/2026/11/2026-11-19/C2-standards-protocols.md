@@ -30,3 +30,9 @@ W47-1..4 OPEN，2026-11-20..22 NOT_DUE，November OPEN，未制造独立科研�
 
 ## Execution / 执行记录
 EXECUTED 官方公告正文读取，NOT_EXECUTED 附件全量验证/CI/TCK/Runtime，NOT_OBSERVED 独立 reviewer
+
+## 2026-11-19 08:35:53｜条目级编号和日期后验核验
+- S4 第29号附件1 页7 第25项：**YB/T 6566—2026**，2027-05-01 实施，仍未到生效日
+- S5 第30号附件1 页36 第126项：**SJ/T 12398—2026**，实施栏原文为“自发布之日起实施”，标准单项出版时间未独立核验；不能自动填成公告发布 2026-11-16
+- 这是两个确切编号行业标准，非 GB/Z 220-2026 及任何协议跨境互认映射
+- 本补充在 2026-11-19T00:35:53.723Z 取得，源自 https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf 与 https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/6d2b9d84f80c435fb9c2feff84529863.pdf 的附件逐项页核验，不改写原晨间 SOURCE ANNEX UNKNOWN 状态

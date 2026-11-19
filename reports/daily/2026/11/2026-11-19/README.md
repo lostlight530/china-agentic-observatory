@@ -21,3 +21,7 @@
 
 - [W47](../../../../weekly/2026/2026-W47.md)
 - [November](../../../../monthly/2026/2026-11.md)
+
+## 2026-11-19 08:35:53 Asia/Shanghai same-day source follow-up
+- 已对工信部公告附件1 的单项标准完整行实施后验核验，第29号 PDF 页7 第25项 YB/T 6566—2026（2027-05-01），第30号 PDF 页36 第126项 SJ/T 12398—2026（自发布之日起实施，标准独立出版日 UNKNOWN）
+- 原 08:26:19 附件 NOT_EXECUTED 是当时真实状态，新增核验不更改早间 cutoff，外部 TCK/CI/Runtime 仍 NOT_EXECUTED
