@@ -11,6 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-19 MIIT industry-standard approval announcement identity admission
+- C-MIIT-NOTICE-2026-29 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 796 industry standards approved in notice | https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_ff0f437b6a1c4e4ab2483d1d5c41389c.html
+- C-MIIT-NOTICE-2026-30 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 274 industry standards approved in notice | https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_1ecfcc7030e949c79254b6fafa01f0fa.html
+- Different notice identities, same publisher lineage, specific annex standard numbers, publication/effective dates and implementation not yet verified, no formal crosswalk to GB/Z 220-2026 claimed
+- [Native observation](reports/daily/2026/11/2026-11-19.md)
+
 Updated through: **2026-11-14** (Fujian C0 policy document first observed 2026-11-14 08:28:00 Asia/Shanghai，original published Nov12)
 
 | ID | Level | Source | Coverage | URL |
