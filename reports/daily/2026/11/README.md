@@ -1,5 +1,8 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-20 05:02:06 Asia/Shanghai original China Native proposal**：[2026-11-20 integrated](./2026-11-20.md) 与 [C1–C8 pack](./2026-11-20/) 已作为本轮日期完整研究提案生成，本次固定 cutoff 2026-11-20 05:02:06，source result NO MATERIAL CHANGE IN BOUNDED PRIMARY SOURCES / PARTIAL，main 仍仅含至 11-19 的原生日，当前 11-20 只在 proposed branch，W47-1..4 OPEN，November OPEN，11-21..22 NOT_DUE，外部 TCK/Runtime/CI NOT_EXECUTED
+
+
 **2026-11-19 09:57:42 Asia/Shanghai merged-main delivery reconciliation**：[2026-11-19 China C1–C8](./2026-11-19.md) 经 [PR #302](https://github.com/lostlight530/china-agentic-observatory/pull/302) 于 2026-11-19 09:54:07 Asia/Shanghai 合并，main `8a3b8ad8de2b0328d41fb531734e06866b00d72d` 实存 integrated + C1–C8 + pack index；November 已合并 11-01..19 共 19 个原生日，W47 11-16..19 **4/7 merged**，H47-1..4 OPEN、November OPEN，11-20..22 NOT_DUE；下方 08:26:19 Draft 是当时生产时点，不是此刻 main 交付态；外部 TCK/CI/Runtime NOT_EXECUTED，独立 PR Review NOT_OBSERVED
 
 
@@ -64,3 +67,4 @@
 
 | 2026-11-18 | [2026-11-18.md](./2026-11-18.md) | [2026-11-18/](./2026-11-18/) | W47 native merged，H47-1..4 OPEN，November OPEN |
 | 2026-11-19 | [2026-11-19.md](./2026-11-19.md) | [2026-11-19/](./2026-11-19/) | [PR #302](https://github.com/lostlight530/china-agentic-observatory/pull/302) merged；C1–C8 PARTIAL，W47 4/7，H47-1..4 OPEN，November OPEN |
+| 2026-11-20 | [2026-11-20.md](./2026-11-20.md) | [2026-11-20/](./2026-11-20/) | China C1–C8 complete native proposal, NO MATERIAL CHANGE in bounded sources，not merged main，W47-1..4 OPEN，November OPEN |
