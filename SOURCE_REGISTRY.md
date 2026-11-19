@@ -11,6 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-19 MIIT industry-standard approval announcement identity admission
+- C-MIIT-NOTICE-2026-29 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 796 industry standards approved in notice | https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_ff0f437b6a1c4e4ab2483d1d5c41389c.html
+- C-MIIT-NOTICE-2026-30 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 274 industry standards approved in notice | https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_1ecfcc7030e949c79254b6fafa01f0fa.html
+- Different notice identities, same publisher lineage, specific annex standard numbers, publication/effective dates and implementation not yet verified, no formal crosswalk to GB/Z 220-2026 claimed
+- [Native observation](reports/daily/2026/11/2026-11-19.md)
+
 Updated through: **2026-11-14** (Fujian C0 policy document first observed 2026-11-14 08:28:00 Asia/Shanghai，original published Nov12)
 
 | ID | Level | Source | Coverage | URL |
@@ -132,3 +138,13 @@ This section records **dated source pointers**, not automatic national-standard 
 | National Informationization Fifteenth FYP, 2026-10-23 | https://www.cac.gov.cn/2026-10/23/c_1794509044378569.htm | OFFICIAL_PLAN; 2030 targets not achieved outcomes |
 
 Source date ≠ first repository observation ≠ post-hoc read ≠ implementation date. The 2026-09-28 native gap, 2026-10-12 native gap, and `20256913-T-907` historical state-display conflict are unchanged. Read [September Special](reports/weekly/2026/2026-09-special-event-reconciliation-2026-11-02.md) and [October Special](reports/weekly/2026/2026-10-special-event-reconciliation-2026-11-02.md) for claim-by-claim counterevidence.
+
+## 2026-11-19 08:35:53 China MIIT No29/No30 exact annex-object successor
+- C-MIIT-NOTICE-2026-29 source successor: YB/T 6566—2026, No29 annex1 row25 / PDF p7, implementation_date 2027-05-01, scope machine-vision monitoring of pollutant discharge behavior, excludes concentration/composition measurement, https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf
+- C-MIIT-NOTICE-2026-30 source successor: SJ/T 12398—2026, No30 annex1 row126 / PDF p36, implementation_clause 自发布之日起实施, exact standard publication_date UNKNOWN, https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/6d2b9d84f80c435fb9c2feff84529863.pdf
+- observed_at 2026-11-19T00:35:53.723Z on the same 2026-11-19 research day, first 08:26:19 notice-only checkpoint remains historically true; do not equate approval notice with independent implementation or conformance
+
+
+## 2026-11-19 09:51:24 Asia/Shanghai｜后验证据核验时间更正 / same-day forward correction
+- 前述 08:35:53 截图核验声明在可审计执行证据中未观察到对应 screenshot，视为 UNVERIFIED-at-that-cutoff，本次从发行方公告点击官方 PDF 后截图检查两行，observed_at 2026-11-19T01:51:24.929Z
+- YB/T 6566—2026 / 2027-05-01 及 SJ/T 12398—2026 / 自发布之日起实施的原文结论由本轮确实执行的两张 PDF 页面图像支持，未作独立规范文本全查、能力测试或生效日期推定

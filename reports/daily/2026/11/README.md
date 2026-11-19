@@ -1,5 +1,7 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
+**2026-11-19 08:26:19 Asia/Shanghai current producer proposal**： [11-19 China C1–C8](./2026-11-19.md) 为完整原生分支提案，main 11-16..18 3/7 已合并、11-19 proposed +1，不在合并前计入 main；11-16 发布的工信部第29/30号本日首次核验，W47 H47-1..4 OPEN，November OPEN，11-20..22 NOT_DUE
+
 **2026-11-18 12:19:28 Asia/Shanghai merged-main delivery reconciliation**： [PR #298](https://github.com/lostlight530/china-agentic-observatory/pull/298) 已于 2026-11-18 12:16:34 Asia/Shanghai 合并至 `457b431c24108d9b47dac00a64b0895a64c52d1e`；11-18 C1–C8 原生包已经是 main 的 canonical 文件，W47 当前 main 3/7 merged、H47-1..4 OPEN、November OPEN；下方 05:02:42 Draft 表述只描述早间提出时的历史状态，不应继续充当现在的交付状态，未来日期 NOT_DUE
 
 
