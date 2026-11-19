@@ -143,3 +143,8 @@ Source date ≠ first repository observation ≠ post-hoc read ≠ implementatio
 - C-MIIT-NOTICE-2026-29 source successor: YB/T 6566—2026, No29 annex1 row25 / PDF p7, implementation_date 2027-05-01, scope machine-vision monitoring of pollutant discharge behavior, excludes concentration/composition measurement, https://www.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/203fce20419548d2ab8ec4a7bfaeb635.pdf
 - C-MIIT-NOTICE-2026-30 source successor: SJ/T 12398—2026, No30 annex1 row126 / PDF p36, implementation_clause 自发布之日起实施, exact standard publication_date UNKNOWN, https://wap.miit.gov.cn/cms_files/filemanager/1226211233/attach/202611/6d2b9d84f80c435fb9c2feff84529863.pdf
 - observed_at 2026-11-19T00:35:53.723Z on the same 2026-11-19 research day, first 08:26:19 notice-only checkpoint remains historically true; do not equate approval notice with independent implementation or conformance
+
+
+## 2026-11-19 09:51:24 Asia/Shanghai｜后验证据核验时间更正 / same-day forward correction
+- 前述 08:35:53 截图核验声明在可审计执行证据中未观察到对应 screenshot，视为 UNVERIFIED-at-that-cutoff，本次从发行方公告点击官方 PDF 后截图检查两行，observed_at 2026-11-19T01:51:24.929Z
+- YB/T 6566—2026 / 2027-05-01 及 SJ/T 12398—2026 / 自发布之日起实施的原文结论由本轮确实执行的两张 PDF 页面图像支持，未作独立规范文本全查、能力测试或生效日期推定
