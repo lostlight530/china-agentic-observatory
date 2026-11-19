@@ -17,7 +17,7 @@ This index documents existing archive classes; it is **not** a new audit, an ori
 | [`2026-10-01--external-review-source-scope--correction.md`](01-corrections-and-errata/2026-10-01--external-review-source-scope--correction.md) | `cdcbe01ebf638239c54cab0ce49868ae7a7d52ad` | External-review source/scope correction |
 | [`2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md`](01-corrections-and-errata/2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md) | `5e157fcddf94c77b317dc0115dfb34e9ae4d85bc` | Forward correction of A2 successor retention and acceptance |
 | [`2026-11-19--china-a1-cross-repository-provenance--forward-correction.md`](01-corrections-and-errata/2026-11-19--china-a1-cross-repository-provenance--forward-correction.md) | `56864556d3e72cccae8c0988c9392766fc10c2b6` | Forward correction of cross-repository A1 provenance; not a new A1 task |
-| [`2026-11-08-d7-observatory-contract-errata.md`](01-corrections-and-errata/2026-11-08-d7-observatory-contract-errata.md) | `ca24347656a62c9e8336eeb4cd5c86f52ea95943` | Forward correction to the [original D7 audit](../history/2026-11/2026-11-08-d7-operational-continuity.md); not a separate D-task |
+| [`2026-11-08--d7-observatory-contract--erratum.md`](01-corrections-and-errata/2026-11-08--d7-observatory-contract--erratum.md) | `ca24347656a62c9e8336eeb4cd5c86f52ea95943` | Forward correction to the [original D7 audit](../history/2026-11/2026-11-08-d7-operational-continuity.md); not a separate D-task |
 
 ## Rename / original task exclusion
 
@@ -28,3 +28,11 @@ This index documents existing archive classes; it is **not** a new audit, an ori
 - An actual future rename requires a specific filename/class violation, original blob identity and inbound-link check; ordinary navigation is not a substitute for a clean rename
 
 The current main owning contracts and original PRs govern their own task semantics. This navigation update makes no claim that current tasks were executed or validated.
+
+## Archive filename normalization
+
+Only the paths changed; the historical document bodies and original task records are unchanged.
+
+| Previous revision | Current path | Unchanged Git blob |
+| --- | --- | --- |
+| [Previous path at pre-rename main](https://github.com/lostlight530/china-agentic-observatory/blob/ab807ae99d941f01b1e5d87b9078df05a55dba19/historical-audits/01-corrections-and-errata/2026-11-08-d7-observatory-contract-errata.md) | [2026-11-08--d7-observatory-contract--erratum.md](01-corrections-and-errata/2026-11-08--d7-observatory-contract--erratum.md) | `ca24347656a62c9e8336eeb4cd5c86f52ea95943` |
