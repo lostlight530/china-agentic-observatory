@@ -19,7 +19,8 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W43 | 19–25 Oct | **FINAL / CLOSED / 7 of 7** | 19–25 Oct native C1–C8 Dailies，H43-1~3 OPEN / UNCHANGED，2026-10-25 05:03:18 Asia/Shanghai Sunday settlement，no verified exact-object transition |
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native C1–C8 Dailies，H44-1~3 OPEN / UNCHANGED，Sunday settlement 2026-11-01 04:58:46 Asia/Shanghai，November day is cross-month |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov2–8 七个 native 日期现已合并 main（Nov8 原以同一 Draft PR 交付 pack 与 Sunday settlement）；H45-1/3 OPEN，H45-2 DATE_VERIFIED / TRANSITION_UNVERIFIED，2026-11-08 15:22:25 Asia/Shanghai |
-| W46 | 9–15 Nov | **OPEN / 3 merged + Nov12 proposed 1/7 = 4/7 on branch** | MIIT Nov06 formal notice first observed Nov12，H46-1~4 OPEN，Nov13–15 NOT_DUE，November OPEN；not current main claim |
+| W46 | 9–15 Nov | **FINAL / 7 of 7 native Dailies** | Canonical W46 FINAL；H46-1..4 OPEN，历史 Draft 行文只保留生产时点边界 |
+| W47 | 16–22 Nov | **OPEN / 4 merged Native / 3 NOT_DUE** | 11-16..19 China C1–C8 均已合并，11-20..22 NOT_DUE，H47-1..4 OPEN，November OPEN；[canonical W47](./2026-W47.md) |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 
