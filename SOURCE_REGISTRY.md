@@ -22,7 +22,7 @@
 - Different notice identities, same publisher lineage, specific annex standard numbers, publication/effective dates and implementation not yet verified, no formal crosswalk to GB/Z 220-2026 claimed
 - [Native observation](reports/daily/2026/11/2026-11-19.md)
 
-Updated through: **2026-11-14** (Fujian C0 policy document first observed 2026-11-14 08:28:00 Asia/Shanghai，original published Nov12)
+Updated through: **2026-11-21** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier 2026-11-14 Fujian source observation remains preserved in dated source records; this is a registry admission cutoff, not an external state-transition date)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
