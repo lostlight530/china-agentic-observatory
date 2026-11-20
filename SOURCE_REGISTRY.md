@@ -11,6 +11,11 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-21 MIIT smart factory cultivation notice — earlier official publication discovered today
+- C-MIIT-SMART-FACTORY-CULTIVATION-2026-562 | C0 MIIT and five other central-department offices | 工信厅联通装函〔2026〕562号 | document_date 2026-11-17 | publication_date 2026-11-18 19:13 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | 领航级智能工厂培育名单印发并指导高质量数据集、工业智能体、智慧供应链，未读取附件逐厂条目，不是 Agent 运行／部署／独立一致性证据 | https://www.miit.gov.cn/jgsj/zbys/znzz/art/2026/art_fbff51edb1c346f8a560f56b03b009e9.html
+- Distinguish first observation 2026-11-21 from official publication 2026-11-18, no inferred industrial implementation transition or formal MCP/A2A crosswalk
+
+
 ## 2026-11-19 MIIT industry-standard approval announcement identity admission
 - C-MIIT-NOTICE-2026-29 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 796 industry standards approved in notice | https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_ff0f437b6a1c4e4ab2483d1d5c41389c.html
 - C-MIIT-NOTICE-2026-30 | C0 MIIT Science & Technology Department | document_date 2026-11-10 | publication_date 2026-11-16 | observed_at 2026-11-19T00:26:19.289Z | 274 industry standards approved in notice | https://wap.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_1ecfcc7030e949c79254b6fafa01f0fa.html
