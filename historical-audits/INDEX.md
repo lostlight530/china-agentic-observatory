@@ -36,3 +36,7 @@ Only the paths changed; the historical document bodies and original task records
 | Previous revision | Current path | Unchanged Git blob |
 | --- | --- | --- |
 | [Previous path at pre-rename main](https://github.com/lostlight530/china-agentic-observatory/blob/ab807ae99d941f01b1e5d87b9078df05a55dba19/historical-audits/01-corrections-and-errata/2026-11-08-d7-observatory-contract-errata.md) | [2026-11-08--d7-observatory-contract--erratum.md](01-corrections-and-errata/2026-11-08--d7-observatory-contract--erratum.md) | `ca24347656a62c9e8336eeb4cd5c86f52ea95943` |
+
+## 2026-11-20 China independent document audit
+
+- [China A1/A2 original source kind and Nov19 cross-repository correction](02-document-audits/2026-11-20--china-a1-a2-provenance-and-correction--document-audit.md) — forward in-place source relation repair, no original PR rewrite
