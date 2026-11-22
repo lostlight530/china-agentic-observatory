@@ -1,6 +1,6 @@
 # November 2026 Daily Index / 十一月原生日报索引
 
-**2026-11-22 ${sh} Asia/Shanghai Sunday Native proposed**：[China C1–C8 integrated](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-16..21 六原生日，11-22 Draft +1，H47-1..4 OPEN，November OPEN；旧日状态保留各自截点，11-23..30 NOT_DUE
+**2026-11-22 15:09:17 Asia/Shanghai Sunday Native proposed**：[China C1–C8 integrated](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-16..21 六原生日，11-22 Draft +1，H47-1..4 OPEN，November OPEN；旧日状态保留各自截点，11-23..30 NOT_DUE
 
 **2026-11-21 04:57:19 Asia/Shanghai Native Draft**：[China C1–C8 integrated](./2026-11-21.md) + [pack](./2026-11-21/) 本日新观察 11-18 六部门智能工厂培育通知；main 11-16–20 5/7 original Native，11-21 proposed +1，11-22 NOT_DUE，H47-1..4 OPEN、November OPEN，独立 TCK/CI/Runtime NOT_EXECUTED
 
