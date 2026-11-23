@@ -1,3 +1,11 @@
+# 2026-11 China Daily Index
+
+- [2026-11-23 W48 Monday Native C1–C8 / PARTIAL](2026-11-23.md)
+- [2026-11-22 W47 Sunday Native C1–C8](2026-11-22.md)
+
+历史日期完整索引仍以 Git main 原始日期文件为准，本文件是当前入口，不改变旧日原始证据
+
+## Prior merged main record / 历史原始内容
 # November 2026 Daily Index / 十一月原生日报索引
 
 **2026-11-22 15:09:17 Asia/Shanghai Sunday Native proposed**：[China C1–C8 integrated](./2026-11-22.md)｜[pack](./2026-11-22/)｜[W47 FINAL proposal](../../weekly/2026/2026-W47.md)；main 11-16..21 六原生日，11-22 Draft +1，H47-1..4 OPEN，November OPEN；旧日状态保留各自截点，11-23..30 NOT_DUE
