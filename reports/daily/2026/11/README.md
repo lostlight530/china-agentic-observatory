@@ -1,5 +1,7 @@
 # 2026-11 China Daily Index
 
+- [2026-11-24 W48 Tuesday Native C1–C8 / PARTIAL](2026-11-24.md)
+
 - [2026-11-23 W48 Monday Native C1–C8 / PARTIAL](2026-11-23.md)
 - [2026-11-22 W47 Sunday Native C1–C8](2026-11-22.md)
 
