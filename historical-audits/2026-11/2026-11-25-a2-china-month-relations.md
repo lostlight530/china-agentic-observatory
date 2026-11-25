@@ -360,6 +360,7 @@
 | `SOURCE_REGISTRY.md` | `c1d16c89dc38d05295dce8f9225121a9d1ff1ce1` | `76b60534479be6eebf262e3fc1d18ecb92617746` | APPEND_RELATION / Nov25 current successor; APPEND_RELATION: current c1d16c89dc38d05295dce8f9225121a9d1ff1ce1; #328 dated Nov25 successor; retain cutoff SHA and newer owner |
 | `watchlist/ACTIVE.md` | `0b8cc5777e118ba0f37fa1efcea9b3ac67a7a0cb` | `0147567a4043bdfa0079cd6f670c80a9dd3c429f` | APPEND_RELATION / Nov25 current successor; APPEND_RELATION: current 0b8cc5777e118ba0f37fa1efcea9b3ac67a7a0cb; #328 dated Nov25 successor; retain cutoff SHA and newer owner |
 | `WEEKLY_SOP.md` | `fb91c5171ccd006b02e2cb6af1303b43d86f3f7b` | `fb91c5171ccd006b02e2cb6af1303b43d86f3f7b` | INHERITED / NO_FOLLOW_UP / exact prior source custody; SUPPORTING_SOURCE; INHERITED_EXACT_BLOB; PRESERVE_PRODUCER_AND_STATUS |
+| `ledger/events/2026.jsonl` | `e60007eac7f8fab408fb13297e9b0e5dafc82e6e` | NOT_IN_PRIOR_A2 | APPEND_RELATION / #328 adds one SAMR event C-2026-SAMR-AI-INTL-STANDARDIZATION-OBS-20261125, event Nov24, published Nov24 17:00, observed Nov25 10:20 Shanghai, state transition UNVERIFIED; coordinated projection, no additional issuer |
 
 ## Evidence delta and cross-date relations
 - Nov01–25 original Native coverage 25/25 arrived dates; W48 3/7 through Nov25. Ten documents per day are physical source coverage, not ten independently executed research windows. Producer-time proposal status is historical; actual #328 merge separately verified by A1.
@@ -369,9 +370,9 @@
 - C5 issuer-reported estimates >7500 hundred-million CNY, >6600 enterprises, >2592 EFLOPS are not independent measurements. Statistical population, definitions and measurement method remain unverified; no comparative inference with Global infrastructure evidence.
 - ISO/IEC 5259-4:2024 EU adoption claim remains issuer statement without original EU adoption evidence; no formal GB/Z 185/ASL/MCP/A2A mapping established. Global IETF draft and SDK release are distinct evidence layers, not China conformance proof.
 - Counterevidence: a project announcement can precede any public normative draft; a translated standard can exist without deployed interoperability; a pilot can exist without measured outcome. None resolves identity, delegation, revocation, persistent-effect recovery or cross-lab reproduction.
-- C-W02/C-W05/C-W84 OPEN; W48-H1..4 OPEN / UNCHANGED. Source registry and five changed shared owner paths represent coordinated projections, not independent corroboration. Prior historical corrections retained; no source rewritten.
+- C-W02/C-W05/C-W84 OPEN; W48-H1..4 OPEN / UNCHANGED. Six changed shared owner paths, including the source registry and event ledger, represent coordinated projections, not independent corroboration. Prior historical corrections retained; no source rewritten.
 - W48 OPEN and November OPEN; D30 NOT_DUE; D7/D10/D14 separate. Full native checker, external source revalidation, external TCK, independent runtime and laboratory experiment NOT_EXECUTED by this A2.
 
 ## Acceptance
-- TASK_COMPLETENESS: 25 logical windows, 324 distinct source relations, ten day-N documents read. Claim/runtime verification PARTIAL. Original A1 final additions verified; original A2 final merged gate >=100 pending.
+- TASK_COMPLETENESS: 25 logical windows, 325 distinct source relations, ten day-N documents read. Claim/runtime verification PARTIAL. Original A1 final additions verified; original A2 final merged gate >=100 pending.
 - DELIVERY Draft only; separate merge authorization required, main retention pending. One new canonical audit file, no Native owner or historical rewrite.
