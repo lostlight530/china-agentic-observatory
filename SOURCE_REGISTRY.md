@@ -11,6 +11,12 @@
 
 # Source Registry / 权威信源注册表
 
+## 2026-11-25 SAMR AI international-standardization briefing — first observed 2026-11-25
+- C-SAMR-AI-INTL-STANDARDIZATION-2026-11-24 | C0 | SAMR official press conference with SAMR, MIIT, Shanghai SAMR and CESI speakers | event_date 2026-11-24 morning | publication_date 2026-11-24 17:00 Asia/Shanghai | first_observed_at 2026-11-25 10:20 Asia/Shanghai | speakers report 29 basic common and 49 industry-application international standards under development, 15 AI national-standard foreign-language editions published, 78 national standards planned for translation into 12 languages, five FTZ standardization pilots, an ITU embodied-intelligence focus group and Shanghai AI Lab's science-agent interoperability specification under development | https://www.samr.gov.cn/hd/zxft/art/2026/art_1fe10d5e599e49209fd5191ba1159e00.html
+- Source boundary: one official press-conference event and one government-source lineage; speaker metrics and the claimed EU use of ISO/IEC 5259-4:2024 were not independently verified in this pass; no exact IDs/statuses for the 29/49 projects, no published science-agent specification, no formal MCP/A2A crosswalk, no deployment or conformance evidence
+- Updated through: **2026-11-25** (latest durable source admission observed 2026-11-25 10:20 Asia/Shanghai; registry admission cutoff is not an external state-transition date)
+
+
 ## 2026-11-21 MIIT smart factory cultivation notice — earlier official publication discovered today
 - C-MIIT-SMART-FACTORY-CULTIVATION-2026-562 | C0 MIIT and five other central-department offices | 工信厅联通装函〔2026〕562号 | document_date 2026-11-17 | publication_date 2026-11-18 19:13 Asia/Shanghai | first_observed_at 2026-11-21 04:57:19 Asia/Shanghai | 领航级智能工厂培育名单印发并指导高质量数据集、工业智能体、智慧供应链，未读取附件逐厂条目，不是 Agent 运行／部署／独立一致性证据 | https://www.miit.gov.cn/jgsj/zbys/znzz/art/2026/art_fbff51edb1c346f8a560f56b03b009e9.html
 - Distinguish first observation 2026-11-21 from official publication 2026-11-18, no inferred industrial implementation transition or formal MCP/A2A crosswalk
@@ -22,7 +28,7 @@
 - Different notice identities, same publisher lineage, specific annex standard numbers, publication/effective dates and implementation not yet verified, no formal crosswalk to GB/Z 220-2026 claimed
 - [Native observation](reports/daily/2026/11/2026-11-19.md)
 
-Updated through: **2026-11-21** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier 2026-11-14 Fujian source observation remains preserved in dated source records; this is a registry admission cutoff, not an external state-transition date)
+Updated through: **2026-11-25** (latest registry admission observed 2026-11-21 04:57:19 Asia/Shanghai; earlier 2026-11-14 Fujian source observation remains preserved in dated source records; this is a registry admission cutoff, not an external state-transition date)
 
 | ID | Level | Source | Coverage | URL |
 |---|---|---|---|---|
