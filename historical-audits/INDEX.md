@@ -40,3 +40,20 @@ Only the paths changed; the historical document bodies and original task records
 ## 2026-11-20 China independent document audit
 
 - [China A1/A2 original source kind and Nov19 cross-repository correction](02-document-audits/2026-11-20--china-a1-a2-provenance-and-correction--document-audit.md) — forward in-place source relation repair, no original PR rewrite
+
+## 2026-11-25 cloud acceptance navigation
+
+Dated documentary review at [inspected main](https://github.com/lostlight530/china-agentic-observatory/commit/4cc480d133f76eadb171d3e6bf117fd6d64d468e); navigation only, not a new original A1/A2, Native, or D-task submission. The historical archive classes above remain unchanged. Original task owners are linked, not relocated or reclassified.
+
+| Identity | Original GitHub delivery | Cloud evidence / disposition |
+| --- | --- | --- |
+| Independent A1 (Nov 1–24) | [#329](https://github.com/lostlight530/china-agentic-observatory/pull/329), 334 additions, merged | [canonical file](https://github.com/lostlight530/china-agentic-observatory/blob/4cc480d133f76eadb171d3e6bf117fd6d64d468e/historical-audits/2026-11/2026-11-25-a1-china-source-custody.md) retained; numeric gate met; 308/313 listed source SHA rows match the later inspected main (cutoff/shared-owner changes are not automatically errors) |
+| Independent A2 (Nov 1–25) | [#330](https://github.com/lostlight530/china-agentic-observatory/pull/330), 378 additions, merged | [canonical file](https://github.com/lostlight530/china-agentic-observatory/blob/4cc480d133f76eadb171d3e6bf117fd6d64d468e/historical-audits/2026-11/2026-11-25-a2-china-month-relations.md) retained; numeric gate met; 325/325 listed first source SHA rows match inspected main; PR base is the original A1 merge and creation follows that merge |
+| Oct 31 original A2 | [#220](https://github.com/lostlight530/china-agentic-observatory/pull/220), 79 additions, merged | Original numeric gate NOT_MET; delivery and numeric acceptance remain separate |
+| Oct 31 successor | [#222](https://github.com/lostlight530/china-agentic-observatory/pull/222), 660 additions, merged | Successor numeric gate MET; no retroactive credit to original A2 |
+| Oct 31 cleanup | [#224](https://github.com/lostlight530/china-agentic-observatory/pull/224), merged | Separate cleanup, not original task or successor credit |
+| Nov 1 forward reconciliation | [#226](https://github.com/lostlight530/china-agentic-observatory/pull/226), merged | [Retained correction](01-corrections-and-errata/2026-11-01--a2-successor-retention-and-acceptance--reconciliation.md); correction class, not a new original A2 |
+
+Native evidence: Native [#328](https://github.com/lostlight530/china-agentic-observatory/pull/328); A2 records 25/25 original daily coverage. Issuer event, publication, observation and deployment remain separate; external TCK execution is not established.
+
+D7/D10/D14 retain their separate original identities; D14 is an as-of partial observation, not a full-day closure. D30 is not due at this observation. November remains open. Cloud delivery, numeric acceptance, dependency and retention are confirmed at the inspected revision; source-row custody does not by itself establish full semantic validity or a new runtime execution. Existing archive aliases are navigation only, not additional evidence or task credit.
