@@ -1,5 +1,8 @@
 # Active Watchlist / 活跃观察清单
 
+- 2026-11-25 10:20:00 Asia/Shanghai current successor: SAMR's 2026-11-24 17:00 AI international-standardization briefing reports 29 basic common and 49 industry-application international standards in development, 15 AI national-standard foreign-language editions published, 78 planned translations, five FTZ pilots, an ITU embodied-intelligence focus group and Shanghai AI Lab's science-agent interoperability specification under development; these remain official speaker statements, not itemized standard-state transitions or implementation proof. C-W02, C-W05 and C-W84 remain OPEN; the next evidence is exact standard IDs/text, authority and revocation traces, versioned instrument schemas, signed action logs, effect ledger, recovery and independent lab replication
+
+
 - 2026-11-12 18:51:29 Asia/Shanghai current successor: MIIT 工信厅信管〔2026〕42号 published Nov06 newly observed Nov12，terminal adaptation, unique identity reference, OTA and application calling-consent obligations now source-grounded；C-W05/C-W16 remain OPEN for exact-object implementation and recovery evidence
 
 - 2026-11-09 current successor: AutoDNA Nature research and Hi-WBC issuer release add physical Agent/instrument execution cases; count variants remain unresolved; C-W84 opens for instrument identity, authorization, audit, safety and recovery contracts; C-W81–83 remain OPEN
@@ -8,7 +11,7 @@
 
 - 2026-11-04 current-state successor: C-W31 的 GB/T 48562-2026 正式发布元数据已核实，历史 2026-09-15 与 2026-11-03 状态观察保留，发布 != 实施 != 独立 conformance
 
-Updated: **2026-11-09 · AutoDNA instrument execution and Hi-WBC source admission; C-W84 opened**
+Updated: **2026-11-25 · SAMR international-standardization briefing first observed; C-W02/C-W05/C-W84 remain OPEN**
 
 > Historical `W35 PRIORITY` and `W36 PRIORITY` labels below are retained as provenance of earlier research pressure. They are not the current priority ranking. The W38 active shortlist appears after the full table.
 
