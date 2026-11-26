@@ -1,5 +1,7 @@
 # 2026-11 China Daily Index
 
+- [2026-11-26 C1–C8 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜main 25 原生日，proposed 26；W48 3/7 main、4/7 proposed；November OPEN
+
 - [2026-11-25 W48 Wednesday Native C1–C8 / PARTIAL / SAMR international-standardization briefing](2026-11-25.md)
 
 - Current main before this proposal: 11-01..24 contains24 merged Native dates; 11-25 remains proposed on this branch; W48 main 2/7, branch 3/7; W48-H1..H4 OPEN / UNCHANGED; November OPEN
