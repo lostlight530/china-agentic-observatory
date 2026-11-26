@@ -13,7 +13,6 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W38 | 14–20 Sep | **FINAL — Sunday settlement complete** | SAMR current-state conflict preserved as observation chronology; no rollback date or nationwide maturity transition is inferred. |
 | W39 | 21–27 Sep | **FINAL — Sunday settlement complete** | 7/7 real Dailies retained; H39-1/H39-3/H39-4 `REFUTED_FOR_W39`, H39-2 `OPEN / CARRY_FORWARD`; current display remains separate from unverified transition chronology. |
 | W40 | 28 Sep–4 Oct | **CLOSED_WITH_GAP / NO_NEW_MATERIAL_TRANSITION** | Retained producer-native gap on 2026-09-28 remains explicit. A 2026-10-04 post-hoc Special recovered material 2026-09-28 standardization events without reopening or backfilling W40. |
-| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 3/7 merged original Native through Nov25；Nov26 proposed → 4/7；H1–H4 OPEN / UNCHANGED |
 
 | W41 | 5–11 Oct | **FINAL / CLOSED** | 7/7 real Dailies; H41 settlement remains canonical in 2026-W41.md; historical OPEN index snapshots below remain point-in-time. |
 | W42 | 12–18 Oct | **FINAL / CLOSED_WITH_GAP** | 6/7 native Dailies 13–18 Oct, 12 Oct gap preserved, H42-1~3 OPEN / CARRY_FORWARD, settlement 2026-10-18 04:58:58 CST |
@@ -21,7 +20,8 @@ Only `YYYY-Www.md` files are canonical weekly records.
 | W44 | 26 Oct–1 Nov | **FINAL / CLOSED / 7 of 7** | 26–31 Oct + 1 Nov native C1–C8 Dailies，H44-1~3 OPEN / UNCHANGED，Sunday settlement 2026-11-01 04:58:46 Asia/Shanghai，November day is cross-month |
 | W45 | 2–8 Nov | **FINAL / 7 of 7 W45 native dates** | Nov2–8 七个 native 日期现已合并 main（Nov8 原以同一 Draft PR 交付 pack 与 Sunday settlement）；H45-1/3 OPEN，H45-2 DATE_VERIFIED / TRANSITION_UNVERIFIED，2026-11-08 15:22:25 Asia/Shanghai |
 | W46 | 9–15 Nov | **FINAL / 7 of 7 native Dailies** | Canonical W46 FINAL；H46-1..4 OPEN，历史 Draft 行文只保留生产时点边界 |
-| W47 | 16–22 Nov | **OPEN / 4 merged Native / 3 NOT_DUE** | 11-16..19 China C1–C8 均已合并，11-20..22 NOT_DUE，H47-1..4 OPEN，November OPEN；[canonical W47](./2026-W47.md) |
+| W47 | 16–22 Nov | **FINAL** | 7/7 original Native；H47-1..4 OPEN；[canonical W47](./2026-W47.md) |
+| [W48](./2026-W48.md) | 23–29 Nov | **OPEN** | 3/7 merged original Native through Nov25；Nov26 proposed → 4/7；H1–H4 OPEN / UNCHANGED |
 
 The dated special-event reconciliation files are explicit non-canonical supplements. They preserve later-recovered event context without replacing canonical weekly settlements.
 

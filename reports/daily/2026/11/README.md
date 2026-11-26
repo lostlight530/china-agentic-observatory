@@ -4,7 +4,7 @@
 
 - [2026-11-25 W48 Wednesday Native C1–C8 / PARTIAL / SAMR international-standardization briefing](2026-11-25.md)
 
-- Current main before this proposal: 11-01..24 contains24 merged Native dates; 11-25 remains proposed on this branch; W48 main 2/7, branch 3/7; W48-H1..H4 OPEN / UNCHANGED; November OPEN
+- 2026-11-25 historical producer checkpoint (before that proposal was merged): 11-01..24 contains24 merged Native dates; 11-25 remains proposed on this branch; W48 main 2/7, branch 3/7; W48-H1..H4 OPEN / UNCHANGED; November OPEN
 
 
 - [2026-11-24 W48 Tuesday Native C1–C8 / PARTIAL](2026-11-24.md)
