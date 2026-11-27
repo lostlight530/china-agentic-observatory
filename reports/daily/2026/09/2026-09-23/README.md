@@ -18,3 +18,18 @@ PACK_COMPLETENESS
 CURRENT_DISPLAY
 != TRANSITION_CHRONOLOGY
 ```
+
+## 2026-11-27 forward structural restoration
+
+The following derived files point to the exact retained integrated source `55c3a20da133a7fe74f22cf1421185569340875f`. They retain historical facet wording, not a new taxonomy mapping or new observation.
+
+- [C1](C1-history-policy.md)
+- [C2](C2-standards-protocols.md)
+- [C3](C3-research-models.md)
+- [C4](C4-agents-open-source.md)
+- [C5](C5-infrastructure-industry.md)
+- [C6](C6-applications-governance.md)
+- [C7](C7-china-global.md)
+- [C8](C8-synthesis.md)
+
+Native and hypothesis credit increment: 0. Original index and Daily above remain unchanged.
