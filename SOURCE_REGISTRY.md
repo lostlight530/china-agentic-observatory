@@ -182,3 +182,18 @@ Actual later source reading; original access and issuer independence not inferre
 - [具身智能产业图谱：实训、实景与商业闭环](reports/weekly/2026/2026-10-16-special-embodied-industry-chain-report.md) — 清华电子系；中国信通院; https://www.ee.tsinghua.edu.cn/info/1076/5406.htm.
 - [GB/T 48562-2026：高质量数据集质量测评生命周期](reports/weekly/2026/2026-10-30-special-gbt48562-dataset-quality.md) — 国家标准信息公共服务平台; https://std.samr.gov.cn/gb/search/gbDetailed?id=tZNak9Ivom8%3D&mode=p ; https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E.
 - [第十九批深度合成算法备案：变更与注销义务](reports/weekly/2026/2026-10-30-special-deep-synthesis-algorithm-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-10/30/c_1795114304542687.htm.
+
+## 2026-11-27 November Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Access failures, secondary source boundaries and mutable references are recorded in the associated Special.
+
+- [Hi-WBC：全身控制与真实物理作业](reports/weekly/2026/2026-11-02-special-hi-wbc-whole-body-control.md) — 北京人形机器人创新中心; https://www.x-humanoid.com/news-view-363.html.
+- [AutoDNA：AI 原生实验室的任务编排与物理效果](reports/weekly/2026/2026-11-04-special-autodna-laboratory-runtime.md) — Nature；上海交通大学团队; https://www.nature.com/articles/s41586-026-11228-6.
+- [structRFM：结构引导基础模型与科研可复现性](reports/weekly/2026/2026-11-04-special-structrfm-structure-guided-foundation-model.md) — Nature；中国科学技术大学; https://www.nature.com/articles/s41586-026-11210-2 ; https://news.ustc.edu.cn/info/1055/96786.htm.
+- [智能体终端进网管理：设备、升级与责任链](reports/weekly/2026/2026-11-06-special-agent-terminal-network-admission.md) — 工业和信息化部; https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_1a83077d0f334f41a00d468e56df5303.html ; https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2026/art_c88826acc43b404e81c95dabc5df1a24.html.
+- [全球媒体AI应用标准共建：来源真实性与编辑责任](reports/weekly/2026/2026-11-07-special-media-ai-standard-cooperation.md) — 新华社; https://www.news.cn/world/20261107/74700c5c3a304253a0ad99443c871afd/c.html.
+- [互联网新技术新应用备案系统：治理登记系统迁移](reports/weekly/2026/2026-11-09-special-unified-ai-filing-system.md) — 国家网信办; https://www.cac.gov.cn/2026-11/09/c_1795978604463007.htm.
+- [Qwen4-Max：预览、地区上线与自动路由迁移](reports/weekly/2026/2026-11-11-special-qwen4-max-preview-lifecycle.md) — 阿里云百炼; https://docs.bailian.console.aliyun.com/zh/model-studio/newly-released-models.
+- [Hy4 flash：开放权重、推理架构与任务成本](reports/weekly/2026/2026-11-18-special-hy4-flash-open-weight-serving.md) — 腾讯混元；Hugging Face; https://github.com/Tencent-Hunyuan/Hy4-flash ; https://huggingface.co/tencent/Hy4-flash/commits/main.
+- [全国生成式AI备案与登记：9—10月统计公告](reports/weekly/2026/2026-11-20-special-national-ai-filing-counts.md) — 国家网信办；江苏网信网转发; https://www.cac.gov.cn/2026-11/20/c_1796918603542950.htm ; https://www.jswx.gov.cn/fwhd/tzgg/202611/t20261120_1373587.shtml.
+- [AI 国际标准化：项目状态与跨体系互通](reports/weekly/2026/2026-11-24-special-ai-international-standardization-briefing.md) — 国家市场监督管理总局; https://www.samr.gov.cn/xw/xwfbt/art/2026/art_7aa3b165c4114ac1ac910a34f8fca79e.html.

@@ -136,3 +136,20 @@ Current primary-month file count: September 10, October 10, November 0. Prior Se
 | 2026-10-16 | [具身智能产业图谱：实训、实景与商业闭环](./2026-10-16-special-embodied-industry-chain-report.md) | 2026-W42 |
 | 2026-10-30 | [GB/T 48562-2026：高质量数据集质量测评生命周期](./2026-10-30-special-gbt48562-dataset-quality.md) | 2026-W44 |
 | 2026-10-30 | [第十九批深度合成算法备案：变更与注销义务](./2026-10-30-special-deep-synthesis-algorithm-filing.md) | 2026-W44 |
+
+## Special research inventory — 2026-11-27 final quantity checkpoint
+
+Current primary-month file count: September 10, October 10, November 10 = 30. 7 retained aggregates and 23 newly authored research files. Previous checkpoints are historical. November 10/10 is a Special quantity target, not a closed monthly research period.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-11-02 | [Hi-WBC：全身控制与真实物理作业](./2026-11-02-special-hi-wbc-whole-body-control.md) | 2026-W45 |
+| 2026-11-04 | [AutoDNA：AI 原生实验室的任务编排与物理效果](./2026-11-04-special-autodna-laboratory-runtime.md) | 2026-W45 |
+| 2026-11-04 | [structRFM：结构引导基础模型与科研可复现性](./2026-11-04-special-structrfm-structure-guided-foundation-model.md) | 2026-W45 |
+| 2026-11-06 | [智能体终端进网管理：设备、升级与责任链](./2026-11-06-special-agent-terminal-network-admission.md) | 2026-W45 |
+| 2026-11-07 | [全球媒体AI应用标准共建：来源真实性与编辑责任](./2026-11-07-special-media-ai-standard-cooperation.md) | 2026-W45 |
+| 2026-11-09 | [互联网新技术新应用备案系统：治理登记系统迁移](./2026-11-09-special-unified-ai-filing-system.md) | 2026-W46 |
+| 2026-11-11 | [Qwen4-Max：预览、地区上线与自动路由迁移](./2026-11-11-special-qwen4-max-preview-lifecycle.md) | 2026-W46 |
+| 2026-11-18 | [Hy4 flash：开放权重、推理架构与任务成本](./2026-11-18-special-hy4-flash-open-weight-serving.md) | 2026-W47 |
+| 2026-11-20 | [全国生成式AI备案与登记：9—10月统计公告](./2026-11-20-special-national-ai-filing-counts.md) | 2026-W47 |
+| 2026-11-24 | [AI 国际标准化：项目状态与跨体系互通](./2026-11-24-special-ai-international-standardization-briefing.md) | 2026-W48 |
