@@ -1,5 +1,12 @@
 # 2026-11 China Daily Index
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #335](https://github.com/lostlight530/china-agentic-observatory/pull/335) merged at `3cda9146493de249f71260106de46ffe9e63c5dd`; inspected main `d37c84f2ff49b4fd86f2f1811ed930963dd1a5bc`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 27/27 original Native, 28–30 NOT_DUE, OPEN. Earlier proposed/NOT_MERGED wording is historical.
+
+---
+
+
 - [2026-11-27 C1–C8 Native / PARTIAL](2026-11-27.md)｜[pack](2026-11-27/)；main 26 原生日，proposed 27；W48 4/7 main、5/7 proposed；November OPEN
 
 - [2026-11-26 C1–C8 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜[PR #332](https://github.com/lostlight530/china-agentic-observatory/pull/332) merged，W48 4/7；November OPEN

@@ -1,5 +1,14 @@
 # 2026 Weekly Canonical Index / 2026 周报规范索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #335](https://github.com/lostlight530/china-agentic-observatory/pull/335) merged at `3cda9146493de249f71260106de46ffe9e63c5dd`; inspected main `d37c84f2ff49b4fd86f2f1811ed930963dd1a5bc`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 27/27 original Native, 28–30 NOT_DUE, OPEN. Earlier proposed/NOT_MERGED wording is historical.
+
+Special proposal inventory: 10 September + 10 October + 10 November = 30; no extra canonical weekly files.
+
+---
+
+
 Only `YYYY-Www.md` files are canonical weekly records.
 
 | Week | Coverage | Closure / current state | Current audit |
