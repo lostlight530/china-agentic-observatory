@@ -159,3 +159,12 @@ Source date ≠ first repository observation ≠ post-hoc read ≠ implementatio
 ## 2026-11-19 09:51:24 Asia/Shanghai｜后验证据核验时间更正 / same-day forward correction
 - 前述 08:35:53 截图核验声明在可审计执行证据中未观察到对应 screenshot，视为 UNVERIFIED-at-that-cutoff，本次从发行方公告点击官方 PDF 后截图检查两行，observed_at 2026-11-19T01:51:24.929Z
 - YB/T 6566—2026 / 2027-05-01 及 SJ/T 12398—2026 / 自发布之日起实施的原文结论由本轮确实执行的两张 PDF 页面图像支持，未作独立规范文本全查、能力测试或生效日期推定
+
+## 2026-11-27 September Special source admission
+
+Actual recheck 2026-11-27; no issuer independence from a repost or version family, no original-day credit.
+
+- [DeepSeek V4.1 Flash 与中国科大部署：模型发布到可用服务](reports/weekly/2026/2026-09-11-special-deepseek-flash-ustc-deployment.md) — DeepSeek；中国科大; https://deepseek.com/news/deepseek-v4-1-flash/ ; https://news.ustc.edu.cn/zqzjg/info/1005/1402.htm ; https://api-docs.deepseek.com/updates/; bounded publication/metadata evidence, limitations in Special.
+- [Jetson-PI：具身智能的端侧异步控制与计算系统](reports/weekly/2026/2026-09-14-special-airs-jetson-pi-embodied-runtime.md) — AIRS; https://airs.cuhk.edu.cn/article/1447; bounded publication/metadata evidence, limitations in Special.
+- [手机端侧生成式 AI 备案：模型执行位置与责任边界](reports/weekly/2026/2026-09-23-special-mobile-local-model-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm ; https://jswx.gov.cn/fwhd/tzgg/202609/t20260923_1360775.shtml; bounded publication/metadata evidence, limitations in Special.
+- [智能体非 API 协同与上下文共享：两个独立登记对象](reports/weekly/2026/2026-09-28-special-samr-nonapi-context-contracts.md) — SAMR; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 ; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372; bounded publication/metadata evidence, limitations in Special.

@@ -100,3 +100,23 @@ W40 has two retained real same-day Dailies. The second no-change check preserves
 ## 2026-10-01 cross-month calibration
 
 W40 continues unchanged across the September→October boundary. The 2026-10-01 Daily is real repository-native coverage, but its repeated same-lineage no-change result does not strengthen W40 hypotheses. September accounting closure and W40 lifecycle remain separate clocks.
+
+## Special research inventory — 2026-11-27 September checkpoint
+
+Count non-canonical research files once by primary research month, not number of event sections. W39 August carry-ins retain their true dates; W40 October-authored September events are September. Existing aggregation files are not split. Current count: September 10, October 1, November 0; target 10 each. Actual source recheck of four new Specials: 2026-11-27.
+
+| Month | File | Relation |
+| --- | --- | --- |
+| 2026-09 | [2026-W36-2026-09-07-special-event-reconciliation.md](./2026-W36-2026-09-07-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W37-2026-09-20-special-event-reconciliation.md](./2026-W37-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W38-2026-09-20-special-event-reconciliation.md](./2026-W38-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W39-2026-09-27-special-event-reconciliation.md](./2026-W39-2026-09-27-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W40-special-reconciliation-2026-10-04.md](./2026-W40-special-reconciliation-2026-10-04.md) | retained aggregate Special |
+| 2026-09 | [2026-09-special-event-reconciliation-2026-11-02.md](./2026-09-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-10 | [2026-10-special-event-reconciliation-2026-11-02.md](./2026-10-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-09 | [DeepSeek V4.1 Flash 与中国科大部署：模型发布到可用服务](./2026-09-11-special-deepseek-flash-ustc-deployment.md) | new distinct research object; 2026-W37 |
+| 2026-09 | [Jetson-PI：具身智能的端侧异步控制与计算系统](./2026-09-14-special-airs-jetson-pi-embodied-runtime.md) | new distinct research object; 2026-W38 |
+| 2026-09 | [手机端侧生成式 AI 备案：模型执行位置与责任边界](./2026-09-23-special-mobile-local-model-filing.md) | new distinct research object; 2026-W39 |
+| 2026-09 | [智能体非 API 协同与上下文共享：两个独立登记对象](./2026-09-28-special-samr-nonapi-context-contracts.md) | new distinct research object; 2026-W40 |
+
+All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
