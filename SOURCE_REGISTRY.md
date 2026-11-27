@@ -159,3 +159,41 @@ Source date ≠ first repository observation ≠ post-hoc read ≠ implementatio
 ## 2026-11-19 09:51:24 Asia/Shanghai｜后验证据核验时间更正 / same-day forward correction
 - 前述 08:35:53 截图核验声明在可审计执行证据中未观察到对应 screenshot，视为 UNVERIFIED-at-that-cutoff，本次从发行方公告点击官方 PDF 后截图检查两行，observed_at 2026-11-19T01:51:24.929Z
 - YB/T 6566—2026 / 2027-05-01 及 SJ/T 12398—2026 / 自发布之日起实施的原文结论由本轮确实执行的两张 PDF 页面图像支持，未作独立规范文本全查、能力测试或生效日期推定
+
+## 2026-11-27 September Special source admission
+
+Actual recheck 2026-11-27; no issuer independence from a repost or version family, no original-day credit.
+
+- [DeepSeek V4.1 Flash 与中国科大部署：模型发布到可用服务](reports/weekly/2026/2026-09-11-special-deepseek-flash-ustc-deployment.md) — DeepSeek；中国科大; https://deepseek.com/news/deepseek-v4-1-flash/ ; https://news.ustc.edu.cn/zqzjg/info/1005/1402.htm ; https://api-docs.deepseek.com/updates/; bounded publication/metadata evidence, limitations in Special.
+- [Jetson-PI：具身智能的端侧异步控制与计算系统](reports/weekly/2026/2026-09-14-special-airs-jetson-pi-embodied-runtime.md) — AIRS; https://airs.cuhk.edu.cn/article/1447; bounded publication/metadata evidence, limitations in Special.
+- [手机端侧生成式 AI 备案：模型执行位置与责任边界](reports/weekly/2026/2026-09-23-special-mobile-local-model-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm ; https://jswx.gov.cn/fwhd/tzgg/202609/t20260923_1360775.shtml; bounded publication/metadata evidence, limitations in Special.
+- [智能体非 API 协同与上下文共享：两个独立登记对象](reports/weekly/2026/2026-09-28-special-samr-nonapi-context-contracts.md) — SAMR; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 ; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372; bounded publication/metadata evidence, limitations in Special.
+
+## 2026-11-27 October Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Secondary-only scope and mutable source limits are recorded in the associated Special.
+
+- [多智能体网络：观点极化与交互反馈](reports/weekly/2026/2026-10-08-special-llm-agent-network-polarization.md) — Nature Communications；清华大学; https://www.nature.com/articles/s41467-026-78228-y ; https://www.tsinghua.edu.cn/info/1175/128897.htm.
+- [江苏三类券：模型应用的支付与证据边界](reports/weekly/2026/2026-10-09-special-jiangsu-token-corpus-model-vouchers.md) — 江苏省五部门; https://jswx.gov.cn/fwhd/tzgg/202610/t20261009_1363615.shtml.
+- [MiniCPM-V 4.7：端侧多模态推理与路由](reports/weekly/2026/2026-10-12-special-minicpm-v47-edge-routing.md) — OpenBMB; https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/minicpm_v4dot7_zh.md ; https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/changelog_zh.md.
+- [公共云推理稳定性：从模型 SLA 到任务可靠性](reports/weekly/2026/2026-10-12-special-cloud-inference-reliability.md) — 上海市经信系统信息转述；信通院/阿里云报告; https://dt.sheitc.sh.gov.cn/cms/gntsqqsjyw/3023.jhtml.
+- [江苏生成式AI服务登记：服务对象与累计口径](reports/weekly/2026/2026-10-13-special-jiangsu-service-registration.md) — 江苏省网信办; https://jswx.gov.cn/fwhd/tzgg/202610/t20261013_1364436.shtml.
+- [科技兴商：工业智能体与消费场景的落地条件](reports/weekly/2026/2026-10-13-special-technology-commerce-agent-adoption.md) — 商务部等九部门；工信部; https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html ; https://wap.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_34e6e8e918bd424482287fc02a5cbffd.html.
+- [具身智能产业图谱：实训、实景与商业闭环](reports/weekly/2026/2026-10-16-special-embodied-industry-chain-report.md) — 清华电子系；中国信通院; https://www.ee.tsinghua.edu.cn/info/1076/5406.htm.
+- [GB/T 48562-2026：高质量数据集质量测评生命周期](reports/weekly/2026/2026-10-30-special-gbt48562-dataset-quality.md) — 国家标准信息公共服务平台; https://std.samr.gov.cn/gb/search/gbDetailed?id=tZNak9Ivom8%3D&mode=p ; https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E.
+- [第十九批深度合成算法备案：变更与注销义务](reports/weekly/2026/2026-10-30-special-deep-synthesis-algorithm-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-10/30/c_1795114304542687.htm.
+
+## 2026-11-27 November Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Access failures, secondary source boundaries and mutable references are recorded in the associated Special.
+
+- [Hi-WBC：全身控制与真实物理作业](reports/weekly/2026/2026-11-02-special-hi-wbc-whole-body-control.md) — 北京人形机器人创新中心; https://www.x-humanoid.com/news-view-363.html.
+- [AutoDNA：AI 原生实验室的任务编排与物理效果](reports/weekly/2026/2026-11-04-special-autodna-laboratory-runtime.md) — Nature；上海交通大学团队; https://www.nature.com/articles/s41586-026-11228-6.
+- [structRFM：结构引导基础模型与科研可复现性](reports/weekly/2026/2026-11-04-special-structrfm-structure-guided-foundation-model.md) — Nature；中国科学技术大学; https://www.nature.com/articles/s41586-026-11210-2 ; https://news.ustc.edu.cn/info/1055/96786.htm.
+- [智能体终端进网管理：设备、升级与责任链](reports/weekly/2026/2026-11-06-special-agent-terminal-network-admission.md) — 工业和信息化部; https://www.miit.gov.cn/jgsj/xgj/sbgl/art/2026/art_1a83077d0f334f41a00d468e56df5303.html ; https://www.miit.gov.cn/jgsj/xgj/gzdt/art/2026/art_c88826acc43b404e81c95dabc5df1a24.html.
+- [全球媒体AI应用标准共建：来源真实性与编辑责任](reports/weekly/2026/2026-11-07-special-media-ai-standard-cooperation.md) — 新华社; https://www.news.cn/world/20261107/74700c5c3a304253a0ad99443c871afd/c.html.
+- [互联网新技术新应用备案系统：治理登记系统迁移](reports/weekly/2026/2026-11-09-special-unified-ai-filing-system.md) — 国家网信办; https://www.cac.gov.cn/2026-11/09/c_1795978604463007.htm.
+- [Qwen4-Max：预览、地区上线与自动路由迁移](reports/weekly/2026/2026-11-11-special-qwen4-max-preview-lifecycle.md) — 阿里云百炼; https://docs.bailian.console.aliyun.com/zh/model-studio/newly-released-models.
+- [Hy4 flash：开放权重、推理架构与任务成本](reports/weekly/2026/2026-11-18-special-hy4-flash-open-weight-serving.md) — 腾讯混元；Hugging Face; https://github.com/Tencent-Hunyuan/Hy4-flash ; https://huggingface.co/tencent/Hy4-flash/commits/main.
+- [全国生成式AI备案与登记：9—10月统计公告](reports/weekly/2026/2026-11-20-special-national-ai-filing-counts.md) — 国家网信办；江苏网信网转发; https://www.cac.gov.cn/2026-11/20/c_1796918603542950.htm ; https://www.jswx.gov.cn/fwhd/tzgg/202611/t20261120_1373587.shtml.
+- [AI 国际标准化：项目状态与跨体系互通](reports/weekly/2026/2026-11-24-special-ai-international-standardization-briefing.md) — 国家市场监督管理总局; https://www.samr.gov.cn/xw/xwfbt/art/2026/art_7aa3b165c4114ac1ac910a34f8fca79e.html.

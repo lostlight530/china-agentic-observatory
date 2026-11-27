@@ -1,3 +1,31 @@
+# C7 — China–global relationship / retrospective completion
+
+- Actual review: 2026-11-27; target logical date 2026-10-12; original source access UNKNOWN.
+- Original status stub blob: `48aa79b6ecf17c3cec31a0cd5f8e4f5609cdd2ff`; preserved below.
+- Record class: RETROSPECTIVE_DOCUMENTARY_RESEARCH; original execution credit 0.
+
+## Evidence and bounded finding
+
+The same-date public-cloud stability research digest and ITU metadata establish two different evidence surfaces; the former is a reported engineering recommendation, the latter a specific international recommendation. No formal interoperability mapping between China guidance projects and global protocols is established.
+
+## Mechanism, counterexample and next verification
+
+Compare independently frozen normative clauses, role identities and runnable conformance evidence; a shared term such as harness or context does not prove equivalence.
+
+## Source custody
+
+- [Shanghai institutional weekly digest, attributed CAICT report date 12 Oct](https://dt.sheitc.sh.gov.cn/cms/gntsqqsjyw/3023.jhtml) — secondary summary; full primary report not retrieved.
+- [Jiangsu service registration announcement, 13 Oct, cutoff 12 Oct](https://jswx.gov.cn/fwhd/tzgg/202610/t20261013_1364436.shtml) — official administrative source.
+- [Jiangsu five-department support notice, signed 30 Sep, posted 9 Oct](https://jswx.gov.cn/fwhd/tzgg/202610/t20261009_1363615.shtml) — official policy text.
+- [SAMR 20265082-Z-469](https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372) and [20265083-Z-469](https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372) — current displays, one institutional lineage.
+- [ITU F.748.93 metadata](https://www.itu.int/rec/T-REC-F.748.93-202608-P/en) — document access restricted; full text not read.
+
+These sources were read later, not during the missing run. [Integrated owner](../2026-10-12.md). No independent benchmark, protocol test, runtime or production verification performed.
+
+---
+
+## Preserved historical gap register (earlier point-in-time)
+
 # C7 — 2026-10-12 missing native research workstream register
 
 - `record_class: BACKFILL_GAP_REGISTER`.

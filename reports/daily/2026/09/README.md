@@ -1,5 +1,12 @@
 # September 2026 Daily Index / 2026年9月日报索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+September 22–24 facet files restored as derived navigation, not new historical observation. September 28 remains retrospective with zero original Native credit; 29/30 original Native.
+
+---
+
+
 Repository-native September observation begins on **2026-09-01**.
 
 | Date | Integrated Daily | Pack | Weekly context |

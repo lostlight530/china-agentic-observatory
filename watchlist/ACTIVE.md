@@ -1,5 +1,12 @@
 # Active Watchlist / 活跃观察清单
 
+## 2026-11-27 forward reconciliation / current reading
+
+[Special index](../reports/weekly/2026/README.md): all 23 added studies carry verification boundaries. AutoDNA/Hi-WBC: instrument identity, effect receipt, safety interlock and recovery. GB/T 48562: exact text, effective date and actual assessment. Qwen4-Max: resolved model, region, billing and alias migration. Agent terminals: product-specific test/upgrade/approval evidence. All remain follow-up, no retroactive hypothesis closure.
+
+---
+
+
 - 2026-11-25 10:20:00 Asia/Shanghai current successor: SAMR's 2026-11-24 17:00 AI international-standardization briefing reports 29 basic common and 49 industry-application international standards in development, 15 AI national-standard foreign-language editions published, 78 planned translations, five FTZ pilots, an ITU embodied-intelligence focus group and Shanghai AI Lab's science-agent interoperability specification under development; these remain official speaker statements, not itemized standard-state transitions or implementation proof. C-W02, C-W05 and C-W84 remain OPEN; the next evidence is exact standard IDs/text, authority and revocation traces, versioned instrument schemas, signed action logs, effect ledger, recovery and independent lab replication
 
 

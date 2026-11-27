@@ -1,5 +1,14 @@
 # 2026 Monthly Canonical Index / 2026 月报规范索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #335](https://github.com/lostlight530/china-agentic-observatory/pull/335) merged at `3cda9146493de249f71260106de46ffe9e63c5dd`; inspected main `d37c84f2ff49b4fd86f2f1811ed930963dd1a5bc`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 27/27 original Native, 28–30 NOT_DUE, OPEN. Earlier proposed/NOT_MERGED wording is historical.
+
+September 29/30 Native, October 30/31 Native; both CLOSED_WITH_GAPS. Special proposal inventory: 10 per month September–November, total 30. See [Weekly and Special index](../../weekly/2026/README.md).
+
+---
+
+
 | Month | State | Coverage | Notes |
 |---|---|---|---|
 | 2026-08 | CLOSED; correction appended 2026-09-01 | 7–31 Aug, 25 real days | First repository-native month. F.748.93 approval occurred 29 Aug but was discovered after closure; explicit correction preserves both dates. |

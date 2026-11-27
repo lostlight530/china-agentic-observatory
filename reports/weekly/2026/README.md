@@ -1,5 +1,14 @@
 # 2026 Weekly Canonical Index / 2026 周报规范索引
 
+## 2026-11-27 forward reconciliation / current reading
+
+2026-11-27 post-merge projection: Native [PR #335](https://github.com/lostlight530/china-agentic-observatory/pull/335) merged at `3cda9146493de249f71260106de46ffe9e63c5dd`; inspected main `d37c84f2ff49b4fd86f2f1811ed930963dd1a5bc`. W48 = 5/7 original Native, 28–29 NOT_DUE; November = 27/27 original Native, 28–30 NOT_DUE, OPEN. Earlier proposed/NOT_MERGED wording is historical.
+
+Special proposal inventory: 10 September + 10 October + 10 November = 30; no extra canonical weekly files.
+
+---
+
+
 Only `YYYY-Www.md` files are canonical weekly records.
 
 | Week | Coverage | Closure / current state | Current audit |
@@ -100,3 +109,56 @@ W40 has two retained real same-day Dailies. The second no-change check preserves
 ## 2026-10-01 cross-month calibration
 
 W40 continues unchanged across the September→October boundary. The 2026-10-01 Daily is real repository-native coverage, but its repeated same-lineage no-change result does not strengthen W40 hypotheses. September accounting closure and W40 lifecycle remain separate clocks.
+
+## Special research inventory — 2026-11-27 September checkpoint
+
+Count non-canonical research files once by primary research month, not number of event sections. W39 August carry-ins retain their true dates; W40 October-authored September events are September. Existing aggregation files are not split. Current count: September 10, October 1, November 0; target 10 each. Actual source recheck of four new Specials: 2026-11-27.
+
+| Month | File | Relation |
+| --- | --- | --- |
+| 2026-09 | [2026-W36-2026-09-07-special-event-reconciliation.md](./2026-W36-2026-09-07-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W37-2026-09-20-special-event-reconciliation.md](./2026-W37-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W38-2026-09-20-special-event-reconciliation.md](./2026-W38-2026-09-20-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W39-2026-09-27-special-event-reconciliation.md](./2026-W39-2026-09-27-special-event-reconciliation.md) | retained aggregate Special |
+| 2026-09 | [2026-W40-special-reconciliation-2026-10-04.md](./2026-W40-special-reconciliation-2026-10-04.md) | retained aggregate Special |
+| 2026-09 | [2026-09-special-event-reconciliation-2026-11-02.md](./2026-09-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-10 | [2026-10-special-event-reconciliation-2026-11-02.md](./2026-10-special-event-reconciliation-2026-11-02.md) | retained aggregate Special |
+| 2026-09 | [DeepSeek V4.1 Flash 与中国科大部署：模型发布到可用服务](./2026-09-11-special-deepseek-flash-ustc-deployment.md) | new distinct research object; 2026-W37 |
+| 2026-09 | [Jetson-PI：具身智能的端侧异步控制与计算系统](./2026-09-14-special-airs-jetson-pi-embodied-runtime.md) | new distinct research object; 2026-W38 |
+| 2026-09 | [手机端侧生成式 AI 备案：模型执行位置与责任边界](./2026-09-23-special-mobile-local-model-filing.md) | new distinct research object; 2026-W39 |
+| 2026-09 | [智能体非 API 协同与上下文共享：两个独立登记对象](./2026-09-28-special-samr-nonapi-context-contracts.md) | new distinct research object; 2026-W40 |
+
+All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
+
+## Special research inventory — 2026-11-27 October checkpoint
+
+Current primary-month file count: September 10, October 10, November 0. Prior September checkpoint is historical. October: 1 retained aggregate + 9 new Specials.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-10-08 | [多智能体网络：观点极化与交互反馈](./2026-10-08-special-llm-agent-network-polarization.md) | 2026-W41 |
+| 2026-10-09 | [江苏三类券：模型应用的支付与证据边界](./2026-10-09-special-jiangsu-token-corpus-model-vouchers.md) | 2026-W41 |
+| 2026-10-12 | [MiniCPM-V 4.7：端侧多模态推理与路由](./2026-10-12-special-minicpm-v47-edge-routing.md) | 2026-W42 |
+| 2026-10-12 | [公共云推理稳定性：从模型 SLA 到任务可靠性](./2026-10-12-special-cloud-inference-reliability.md) | 2026-W42 |
+| 2026-10-13 | [江苏生成式AI服务登记：服务对象与累计口径](./2026-10-13-special-jiangsu-service-registration.md) | 2026-W42 |
+| 2026-10-13 | [科技兴商：工业智能体与消费场景的落地条件](./2026-10-13-special-technology-commerce-agent-adoption.md) | 2026-W42 |
+| 2026-10-16 | [具身智能产业图谱：实训、实景与商业闭环](./2026-10-16-special-embodied-industry-chain-report.md) | 2026-W42 |
+| 2026-10-30 | [GB/T 48562-2026：高质量数据集质量测评生命周期](./2026-10-30-special-gbt48562-dataset-quality.md) | 2026-W44 |
+| 2026-10-30 | [第十九批深度合成算法备案：变更与注销义务](./2026-10-30-special-deep-synthesis-algorithm-filing.md) | 2026-W44 |
+
+## Special research inventory — 2026-11-27 final quantity checkpoint
+
+Current primary-month file count: September 10, October 10, November 10 = 30. 7 retained aggregates and 23 newly authored research files. Previous checkpoints are historical. November 10/10 is a Special quantity target, not a closed monthly research period.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-11-02 | [Hi-WBC：全身控制与真实物理作业](./2026-11-02-special-hi-wbc-whole-body-control.md) | 2026-W45 |
+| 2026-11-04 | [AutoDNA：AI 原生实验室的任务编排与物理效果](./2026-11-04-special-autodna-laboratory-runtime.md) | 2026-W45 |
+| 2026-11-04 | [structRFM：结构引导基础模型与科研可复现性](./2026-11-04-special-structrfm-structure-guided-foundation-model.md) | 2026-W45 |
+| 2026-11-06 | [智能体终端进网管理：设备、升级与责任链](./2026-11-06-special-agent-terminal-network-admission.md) | 2026-W45 |
+| 2026-11-07 | [全球媒体AI应用标准共建：来源真实性与编辑责任](./2026-11-07-special-media-ai-standard-cooperation.md) | 2026-W45 |
+| 2026-11-09 | [互联网新技术新应用备案系统：治理登记系统迁移](./2026-11-09-special-unified-ai-filing-system.md) | 2026-W46 |
+| 2026-11-11 | [Qwen4-Max：预览、地区上线与自动路由迁移](./2026-11-11-special-qwen4-max-preview-lifecycle.md) | 2026-W46 |
+| 2026-11-18 | [Hy4 flash：开放权重、推理架构与任务成本](./2026-11-18-special-hy4-flash-open-weight-serving.md) | 2026-W47 |
+| 2026-11-20 | [全国生成式AI备案与登记：9—10月统计公告](./2026-11-20-special-national-ai-filing-counts.md) | 2026-W47 |
+| 2026-11-24 | [AI 国际标准化：项目状态与跨体系互通](./2026-11-24-special-ai-international-standardization-briefing.md) | 2026-W48 |
