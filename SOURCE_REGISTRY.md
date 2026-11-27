@@ -168,3 +168,17 @@ Actual recheck 2026-11-27; no issuer independence from a repost or version famil
 - [Jetson-PI：具身智能的端侧异步控制与计算系统](reports/weekly/2026/2026-09-14-special-airs-jetson-pi-embodied-runtime.md) — AIRS; https://airs.cuhk.edu.cn/article/1447; bounded publication/metadata evidence, limitations in Special.
 - [手机端侧生成式 AI 备案：模型执行位置与责任边界](reports/weekly/2026/2026-09-23-special-mobile-local-model-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-09/23/c_1791913977404975.htm ; https://jswx.gov.cn/fwhd/tzgg/202609/t20260923_1360775.shtml; bounded publication/metadata evidence, limitations in Special.
 - [智能体非 API 协同与上下文共享：两个独立登记对象](reports/weekly/2026/2026-09-28-special-samr-nonapi-context-contracts.md) — SAMR; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0AC720E06397BE0A0AF372 ; https://std.samr.gov.cn/gb/search/gbDetailed?id=5C889B551E0BC720E06397BE0A0AF372; bounded publication/metadata evidence, limitations in Special.
+
+## 2026-11-27 October Special source admission
+
+Actual later source reading; original access and issuer independence not inferred. Secondary-only scope and mutable source limits are recorded in the associated Special.
+
+- [多智能体网络：观点极化与交互反馈](reports/weekly/2026/2026-10-08-special-llm-agent-network-polarization.md) — Nature Communications；清华大学; https://www.nature.com/articles/s41467-026-78228-y ; https://www.tsinghua.edu.cn/info/1175/128897.htm.
+- [江苏三类券：模型应用的支付与证据边界](reports/weekly/2026/2026-10-09-special-jiangsu-token-corpus-model-vouchers.md) — 江苏省五部门; https://jswx.gov.cn/fwhd/tzgg/202610/t20261009_1363615.shtml.
+- [MiniCPM-V 4.7：端侧多模态推理与路由](reports/weekly/2026/2026-10-12-special-minicpm-v47-edge-routing.md) — OpenBMB; https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/minicpm_v4dot7_zh.md ; https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/changelog_zh.md.
+- [公共云推理稳定性：从模型 SLA 到任务可靠性](reports/weekly/2026/2026-10-12-special-cloud-inference-reliability.md) — 上海市经信系统信息转述；信通院/阿里云报告; https://dt.sheitc.sh.gov.cn/cms/gntsqqsjyw/3023.jhtml.
+- [江苏生成式AI服务登记：服务对象与累计口径](reports/weekly/2026/2026-10-13-special-jiangsu-service-registration.md) — 江苏省网信办; https://jswx.gov.cn/fwhd/tzgg/202610/t20261013_1364436.shtml.
+- [科技兴商：工业智能体与消费场景的落地条件](reports/weekly/2026/2026-10-13-special-technology-commerce-agent-adoption.md) — 商务部等九部门；工信部; https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_787f0441da1f4c0e8b5bad10118247f3.html ; https://wap.miit.gov.cn/xwfb/gxdt/sjdt/art/2026/art_34e6e8e918bd424482287fc02a5cbffd.html.
+- [具身智能产业图谱：实训、实景与商业闭环](reports/weekly/2026/2026-10-16-special-embodied-industry-chain-report.md) — 清华电子系；中国信通院; https://www.ee.tsinghua.edu.cn/info/1076/5406.htm.
+- [GB/T 48562-2026：高质量数据集质量测评生命周期](reports/weekly/2026/2026-10-30-special-gbt48562-dataset-quality.md) — 国家标准信息公共服务平台; https://std.samr.gov.cn/gb/search/gbDetailed?id=tZNak9Ivom8%3D&mode=p ; https://std.samr.gov.cn/gb/search/gbDetailed?id=473E999D3A7837B2E06397BE0A0A2E3E.
+- [第十九批深度合成算法备案：变更与注销义务](reports/weekly/2026/2026-10-30-special-deep-synthesis-algorithm-filing.md) — 国家网信办; https://www.cac.gov.cn/2026-10/30/c_1795114304542687.htm.

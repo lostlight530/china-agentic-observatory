@@ -120,3 +120,19 @@ Count non-canonical research files once by primary research month, not number of
 | 2026-09 | [智能体非 API 协同与上下文共享：两个独立登记对象](./2026-09-28-special-samr-nonapi-context-contracts.md) | new distinct research object; 2026-W40 |
 
 All Specials are non-canonical; the 17 canonical weekly owners remain unchanged in count and historical status.
+
+## Special research inventory — 2026-11-27 October checkpoint
+
+Current primary-month file count: September 10, October 10, November 0. Prior September checkpoint is historical. October: 1 retained aggregate + 9 new Specials.
+
+| Date | Special | Canonical week |
+| --- | --- | --- |
+| 2026-10-08 | [多智能体网络：观点极化与交互反馈](./2026-10-08-special-llm-agent-network-polarization.md) | 2026-W41 |
+| 2026-10-09 | [江苏三类券：模型应用的支付与证据边界](./2026-10-09-special-jiangsu-token-corpus-model-vouchers.md) | 2026-W41 |
+| 2026-10-12 | [MiniCPM-V 4.7：端侧多模态推理与路由](./2026-10-12-special-minicpm-v47-edge-routing.md) | 2026-W42 |
+| 2026-10-12 | [公共云推理稳定性：从模型 SLA 到任务可靠性](./2026-10-12-special-cloud-inference-reliability.md) | 2026-W42 |
+| 2026-10-13 | [江苏生成式AI服务登记：服务对象与累计口径](./2026-10-13-special-jiangsu-service-registration.md) | 2026-W42 |
+| 2026-10-13 | [科技兴商：工业智能体与消费场景的落地条件](./2026-10-13-special-technology-commerce-agent-adoption.md) | 2026-W42 |
+| 2026-10-16 | [具身智能产业图谱：实训、实景与商业闭环](./2026-10-16-special-embodied-industry-chain-report.md) | 2026-W42 |
+| 2026-10-30 | [GB/T 48562-2026：高质量数据集质量测评生命周期](./2026-10-30-special-gbt48562-dataset-quality.md) | 2026-W44 |
+| 2026-10-30 | [第十九批深度合成算法备案：变更与注销义务](./2026-10-30-special-deep-synthesis-algorithm-filing.md) | 2026-W44 |
