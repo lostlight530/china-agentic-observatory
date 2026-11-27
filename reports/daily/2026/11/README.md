@@ -1,6 +1,8 @@
 # 2026-11 China Daily Index
 
-- [2026-11-26 C1–C8 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜main 25 原生日，proposed 26；W48 3/7 main、4/7 proposed；November OPEN
+- [2026-11-27 C1–C8 Native / PARTIAL](2026-11-27.md)｜[pack](2026-11-27/)；main 26 原生日，proposed 27；W48 4/7 main、5/7 proposed；November OPEN
+
+- [2026-11-26 C1–C8 Native / PARTIAL](2026-11-26.md)｜[pack](2026-11-26/)｜[PR #332](https://github.com/lostlight530/china-agentic-observatory/pull/332) merged，W48 4/7；November OPEN
 
 - [2026-11-25 W48 Wednesday Native C1–C8 / PARTIAL / SAMR international-standardization briefing](2026-11-25.md)
 
